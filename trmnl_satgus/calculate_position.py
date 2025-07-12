@@ -10,7 +10,7 @@ from typing import Dict, List
 import numpy as np
 from skyfield.api import EarthSatellite, load, wgs84
 
-from .fetch_tle import fetch_and_save_tle
+from trmnl_satgus.fetch_tle import fetch_and_save_tle
 
 
 class SatelliteTracker:
