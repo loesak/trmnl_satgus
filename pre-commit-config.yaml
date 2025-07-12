@@ -1,0 +1,24 @@
+repos:
+  # generic hooks
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-yaml
+        args: ['--unsafe']
+        exclude: ^\.gitlab/\.template-base\.yml$
+      - id: check-toml
+        exclude: ^\.idea.*$
+      - id: end-of-file-fixer
+        exclude: ^\.idea.*$
+      - id: trailing-whitespace
+        exclude: ^\.idea.*$
+
+  - repo: local
+    hooks:
+      - id: script
+        name: script
+        files: ^.*$
+        language: script
+        entry: pre-commit.sh
+        pass_filenames: false

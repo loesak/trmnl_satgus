@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  devenv:
+    build:
+      context: .
+      dockerfile: devenv.dockerfile
+    volumes:
+      - ..:/workspace:cached
+      - ~/.gitconfig:/home/ubuntu/.gitconfig:ro
+      - ~/.ssh:/home/ubuntu/.ssh:ro
+    command: sleep infinity

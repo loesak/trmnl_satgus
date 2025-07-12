@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "satgus-trmnl"
+version = "0.1.0"
+description = "A vanilla Poetry Python project"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "trmnl_satgus"}]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+skyfield = "^1.53"
+numpy = "^2.3.1"
+requests = "^2.32.4"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.4.1"
+black = "^25.1.0"
+flake8 = "^7.3.0"
+mypy = "^1.16.1"
+isort = "^6.0.1"
+bandit = "^1.8.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py313']
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.bandit]
+exclude_dirs = ["./.venv", "./.pytest_cache", "./dist"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]

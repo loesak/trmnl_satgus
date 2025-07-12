@@ -1,0 +1,39 @@
+name: Fetch Satellite Position
+
+on:
+  schedule:
+    # Run every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  fetch-position:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        
+    - name: Install Poetry
+      run: |
+        python -m pip install --user pipx
+        pipx install poetry
+        
+    - name: Install dependencies
+      run: poetry install
+        
+    - name: Fetch satellite position data
+      run: poetry run python trmnl_satgus/calculate_position.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add trmnl_data/satgus_position.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update satellite position [skip ci]"
+        git push 
