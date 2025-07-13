@@ -94,6 +94,7 @@ class SatelliteTracker:
         altitude_miles = altitude_km * 0.621371
         velocity_kmh = velocity_km_s * 3600
         velocity_mph = velocity_kmh * 0.621371
+        velocity_mps = velocity_km_s * 0.621371
 
         # Calculate heading (compass direction of ground track)
         # Use a small time delta (e.g., 1 second)
@@ -117,6 +118,7 @@ class SatelliteTracker:
             "velocity_km_s": velocity_km_s,
             "velocity_km_h": velocity_kmh,
             "velocity_mph": velocity_mph,
+            "velocity_mps": velocity_mps,
             "heading_degrees": heading_degrees,
             "timestamp": time.isoformat(),
             # Add location info
@@ -256,6 +258,7 @@ if __name__ == "__main__":
         print(f"  Altitude: {position['altitude_km']:.1f} km")
         print(f"  Altitude: {position['altitude_miles']:.1f} miles")
         print(f"  Velocity: {position['velocity_km_s']:.2f} km/s")
+        print(f"  Velocity: {position['velocity_mps']:.2f} miles/s")
         print(f"  Velocity: {position['velocity_km_h']:.2f} km/h")
         print(f"  Velocity: {position['velocity_mph']:.2f} mph")
         print(f"  Heading: {position['heading_degrees']:.1f}° (compass)")
