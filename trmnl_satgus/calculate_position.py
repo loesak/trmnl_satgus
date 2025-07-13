@@ -11,6 +11,7 @@ import numpy as np
 from skyfield.api import EarthSatellite, load, wgs84
 
 from trmnl_satgus.fetch_tle import fetch_and_save_tle
+from trmnl_satgus.location_utils import get_location_info
 
 
 def calculate_initial_bearing(lat1, lon1, lat2, lon2):
@@ -118,6 +119,8 @@ class SatelliteTracker:
             "velocity_mph": velocity_mph,
             "heading_degrees": heading_degrees,
             "timestamp": time.isoformat(),
+            # Add location info
+            **get_location_info(float(subpoint.latitude.degrees), float(subpoint.longitude.degrees)),
         }
 
     def get_satellite_pass(
@@ -257,6 +260,7 @@ if __name__ == "__main__":
         print(f"  Velocity: {position['velocity_mph']:.2f} mph")
         print(f"  Heading: {position['heading_degrees']:.1f}° (compass)")
         print(f"  Timestamp: {position['timestamp']}")
+        print(f"  Location: {position.get('location_type', 'unknown').capitalize()} - {position.get('location_name', 'N/A')}")
         print("Saved to satgus_position.json")
     except Exception as e:
         print(f"Error fetching satellite position: {e}")

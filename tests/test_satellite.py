@@ -47,6 +47,8 @@ def test_get_satellite_position_structure():
         "altitude_km",
         "velocity_km_s",
         "timestamp",
+        "location_type",
+        "location_name",
     ]
     for key in expected_keys:
         assert key in position
@@ -57,6 +59,9 @@ def test_get_satellite_position_structure():
     assert isinstance(position["altitude_km"], float)
     assert isinstance(position["velocity_km_s"], float)
     assert isinstance(position["timestamp"], str)
+    assert isinstance(position["location_type"], str)
+    # location_name can be str or None
+    assert (position["location_name"] is None) or isinstance(position["location_name"], str)
 
 
 def test_get_distance_to_satellite():
@@ -89,6 +94,8 @@ def test_get_satgus_position(mock_tracker_class):
         "altitude_km": 400.0,
         "velocity_km_s": 7.66,
         "timestamp": "2024-01-01T12:00:00+00:00",
+        "location_type": "country",
+        "location_name": "Canada",
     }
 
     mock_tracker.create_satellite_from_tle.return_value = mock_satellite
@@ -101,4 +108,4 @@ def test_get_satgus_position(mock_tracker_class):
     # Verify the result
     assert result == mock_position
     mock_tracker.create_satellite_from_tle.assert_called_once()
-    mock_tracker.get_satellite_position.assert_called_once_with(mock_satellite, None)
+    mock_tracker.get_satellite_position.assert_called_once_with(mock_satellite)
