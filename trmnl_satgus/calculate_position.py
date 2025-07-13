@@ -13,6 +13,27 @@ from skyfield.api import EarthSatellite, load, wgs84
 from trmnl_satgus.fetch_tle import fetch_and_save_tle
 
 
+def calculate_initial_bearing(lat1, lon1, lat2, lon2):
+    """
+    Calculate the initial bearing (compass heading) from point 1 to point 2.
+    Args:
+        lat1, lon1: Latitude and longitude of the first point in degrees
+        lat2, lon2: Latitude and longitude of the second point in degrees
+    Returns:
+        Initial bearing in degrees (0° = North, 90° = East)
+    """
+    import math
+    
+    phi1 = math.radians(lat1)
+    phi2 = math.radians(lat2)
+    delta_lambda = math.radians(lon2 - lon1)
+    
+    x = math.sin(delta_lambda) * math.cos(phi2)
+    y = math.cos(phi1) * math.sin(phi2) - math.sin(phi1) * math.cos(phi2) * math.cos(delta_lambda)
+    bearing = math.atan2(x, y)
+    bearing_degrees = (math.degrees(bearing) + 360) % 360
+    return bearing_degrees
+
 class SatelliteTracker:
     """Track satellite positions and provide location data."""
 
@@ -73,6 +94,20 @@ class SatelliteTracker:
         velocity_kmh = velocity_km_s * 3600
         velocity_mph = velocity_kmh * 0.621371
 
+        # Calculate heading (compass direction of ground track)
+        # Use a small time delta (e.g., 1 second)
+        from datetime import timedelta
+        next_time = time + timedelta(seconds=1)
+        t_next = self.ts.from_datetime(next_time)
+        geocentric_next = satellite.at(t_next)
+        subpoint_next = wgs84.subpoint_of(geocentric_next)
+        heading_degrees = calculate_initial_bearing(
+            float(subpoint.latitude.degrees),
+            float(subpoint.longitude.degrees),
+            float(subpoint_next.latitude.degrees),
+            float(subpoint_next.longitude.degrees),
+        )
+
         return {
             "latitude": float(subpoint.latitude.degrees),
             "longitude": float(subpoint.longitude.degrees),
@@ -81,6 +116,7 @@ class SatelliteTracker:
             "velocity_km_s": velocity_km_s,
             "velocity_km_h": velocity_kmh,
             "velocity_mph": velocity_mph,
+            "heading_degrees": heading_degrees,
             "timestamp": time.isoformat(),
         }
 
@@ -219,6 +255,7 @@ if __name__ == "__main__":
         print(f"  Velocity: {position['velocity_km_s']:.2f} km/s")
         print(f"  Velocity: {position['velocity_km_h']:.2f} km/h")
         print(f"  Velocity: {position['velocity_mph']:.2f} mph")
+        print(f"  Heading: {position['heading_degrees']:.1f}° (compass)")
         print(f"  Timestamp: {position['timestamp']}")
         print("Saved to satgus_position.json")
     except Exception as e:
