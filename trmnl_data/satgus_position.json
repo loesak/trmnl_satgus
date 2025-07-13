@@ -1,14 +1,14 @@
 {
-  "latitude": -51.229643667832775,
-  "longitude": 53.912148800005426,
-  "altitude_km": 589.2708938847727,
-  "altitude_miles": 366.1558446040751,
-  "velocity_km_s": 7.556057091884337,
-  "velocity_km_h": 27201.80553078361,
-  "velocity_mph": 16902.413104468542,
-  "velocity_mps": 4.695114751241262,
-  "heading_degrees": 345.322531563276,
-  "timestamp": "2025-07-13T19:54:25.618332+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 0.8312535638086519,
+  "longitude": 40.597897165653464,
+  "altitude_km": 585.0917166233212,
+  "altitude_miles": 363.5590250499497,
+  "velocity_km_s": 7.566848112946374,
+  "velocity_km_h": 27240.65320660695,
+  "velocity_mph": 16926.551923642568,
+  "velocity_mps": 4.701819978789602,
+  "heading_degrees": 348.5690646654633,
+  "timestamp": "2025-07-13T20:08:30.484316+00:00",
+  "location_type": "country",
+  "location_name": "Kenya"
 }
