@@ -66,12 +66,21 @@ class SatelliteTracker:
 
         # Get velocity
         velocity = geocentric.velocity.km_per_s
+        velocity_km_s = float(np.linalg.norm(velocity))
+
+        # Additional conversions
+        altitude_miles = altitude_km * 0.621371
+        velocity_kmh = velocity_km_s * 3600
+        velocity_mph = velocity_kmh * 0.621371
 
         return {
             "latitude": float(subpoint.latitude.degrees),
             "longitude": float(subpoint.longitude.degrees),
             "altitude_km": altitude_km,
-            "velocity_km_s": float(np.linalg.norm(velocity)),
+            "altitude_miles": altitude_miles,
+            "velocity_km_s": velocity_km_s,
+            "velocity_km_h": velocity_kmh,
+            "velocity_mph": velocity_mph,
             "timestamp": time.isoformat(),
         }
 
@@ -206,7 +215,10 @@ if __name__ == "__main__":
         print(f"  Latitude: {position['latitude']:.4f}°")
         print(f"  Longitude: {position['longitude']:.4f}°")
         print(f"  Altitude: {position['altitude_km']:.1f} km")
+        print(f"  Altitude: {position['altitude_miles']:.1f} miles")
         print(f"  Velocity: {position['velocity_km_s']:.2f} km/s")
+        print(f"  Velocity: {position['velocity_km_h']:.2f} km/h")
+        print(f"  Velocity: {position['velocity_mph']:.2f} mph")
         print(f"  Timestamp: {position['timestamp']}")
         print("Saved to satgus_position.json")
     except Exception as e:
