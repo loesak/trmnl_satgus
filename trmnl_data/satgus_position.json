@@ -1,14 +1,14 @@
 {
-  "latitude": 49.96766731425826,
-  "longitude": -44.111660423514266,
-  "altitude_km": 576.183937187091,
-  "altitude_miles": 358.02398923387995,
-  "velocity_km_s": 7.5705105313822365,
-  "velocity_km_h": 27253.83791297605,
-  "velocity_mph": 16934.74451782384,
-  "velocity_mps": 4.704095699395512,
-  "heading_degrees": 345.60380396892225,
-  "timestamp": "2025-07-14T01:10:47.212198+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -66.69989812948367,
+  "longitude": 113.6687649334532,
+  "altitude_km": 587.9764672481479,
+  "altitude_miles": 365.3515254304489,
+  "velocity_km_s": 7.555006613036578,
+  "velocity_km_h": 27198.02380693168,
+  "velocity_mph": 16900.063250936946,
+  "velocity_mps": 4.694462014149151,
+  "heading_degrees": 201.19965884199198,
+  "timestamp": "2025-07-14T02:03:33.694265+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
