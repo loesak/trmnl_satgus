@@ -23,6 +23,8 @@ flake8 = "^7.3.0"
 mypy = "^1.16.1"
 isort = "^6.0.1"
 bandit = "^1.8.6"
+types-requests = "^2.32.4.20250611"
+types-shapely = "^2.1.0.20250710"
 
 [build-system]
 requires = ["poetry-core"]
@@ -44,3 +46,6 @@ testpaths = ["tests"]
 python_files = ["test_*.py"]
 python_classes = ["Test*"]
 python_functions = ["test_*"]
+
+[tool.mypy]
+ignore_missing_imports = true

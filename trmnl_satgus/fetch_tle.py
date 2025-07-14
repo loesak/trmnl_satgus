@@ -38,7 +38,7 @@ def fetch_latest_tle() -> dict:
     }
 
 
-def save_tle_to_file(tle: dict, file_path: str = None) -> None:
+def save_tle_to_file(tle: dict, file_path: str | None = None) -> None:
     """
     Save TLE data to a JSON file.
 

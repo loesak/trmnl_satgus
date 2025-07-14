@@ -216,7 +216,7 @@ def get_satgus_position() -> Dict[str, float | str]:
 
 
 def save_satellite_position(
-    position: Dict[str, float | str], file_path: str = None
+    position: Dict[str, float | str], file_path: str | None = None
 ) -> None:
     """
     Save satellite position data to a JSON file.
@@ -263,7 +263,10 @@ if __name__ == "__main__":
         print(f"  Velocity: {position['velocity_mph']:.2f} mph")
         print(f"  Heading: {position['heading_degrees']:.1f}° (compass)")
         print(f"  Timestamp: {position['timestamp']}")
-        print(f"  Location: {position.get('location_type', 'unknown').capitalize()} - {position.get('location_name', 'N/A')}")
+        location_type = position.get('location_type', 'unknown')
+        if not isinstance(location_type, str):
+            location_type = str(location_type)
+        print(f"  Location: {location_type.capitalize()} - {position.get('location_name', 'N/A')}")
         print("Saved to satgus_position.json")
     except Exception as e:
         print(f"Error fetching satellite position: {e}")
