@@ -1,14 +1,14 @@
 {
-  "latitude": 35.2099563968352,
-  "longitude": 127.99573475118214,
-  "altitude_km": 578.8530466396724,
-  "altitude_miles": 359.68249644353983,
-  "velocity_km_s": 7.570218205128476,
-  "velocity_km_h": 27252.78553846251,
-  "velocity_mph": 16934.09060281999,
-  "velocity_mps": 4.703914056338886,
-  "heading_degrees": 347.5230062501222,
-  "timestamp": "2025-07-14T13:57:29.542372+00:00",
-  "location_type": "country",
-  "location_name": "South Korea"
+  "latitude": 79.50380322653444,
+  "longitude": 83.49330667897529,
+  "altitude_km": 572.1006601419103,
+  "altitude_miles": 355.486759293039,
+  "velocity_km_s": 7.570981436997167,
+  "velocity_km_h": 27255.5331731898,
+  "velocity_mph": 16935.79790335812,
+  "velocity_mps": 4.704388306488367,
+  "heading_degrees": 312.2430926743043,
+  "timestamp": "2025-07-14T14:10:09.006899+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
