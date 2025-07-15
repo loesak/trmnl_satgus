@@ -1,8 +1,12 @@
 # TRMNL SAT GUS
 
-Easily track SAT GUS, the [Space Selfie satellite by CrunchLabs](https://space.crunchlabs.com/), directly from your [TRMNL device](https://usetrmnl.com/) with this plugin. 
+Easily track SAT GUS, the [Space Selfie satellite by Mark Rober and CrunchLabs](https://space.crunchlabs.com/), directly from your [TRMNL device](https://usetrmnl.com/) with this plugin. 
 
-This project provides a TRMNL plugin for satellite tracking, distance and speed calculations for SAT GUS. Whether you're a space enthusiast or a CrunchLabs fan, you can follow SAT GUS as it orbits Earth from your location—all from your TRMNL terminal.
+This project provides a TRMNL plugin for satellite tracking, distance and speed calculations for SAT GUS. Whether you're a space enthusiast or a CrunchLabs fan, you can follow SAT GUS as it orbits Earth from your location—all from your TRMNL device.
+
+![Indian Ocean](docs/images/plugin-5bcb4c-indianocean.png)
+
+![Canada](docs/images/plugin-5bcb4c-canada.png)
 
 ## Support the Developer
 

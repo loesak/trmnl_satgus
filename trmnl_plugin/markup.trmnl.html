@@ -122,7 +122,7 @@
     rotateRocket(satelliteData.heading_degrees);
 
     // Update info panel
-    document.getElementById('location').textContent = satelliteData.location_name;
+    document.getElementById('location').textContent = satelliteData.location_name != null ? satelliteData.location_name : '¯\\_(ツ)_/¯';
     document.getElementById('altitude_km').textContent = satelliteData.altitude_km.toFixed(2);
     document.getElementById('altitude_miles').textContent = satelliteData.altitude_miles.toFixed(2);
     document.getElementById('velocity_kps').textContent = satelliteData.velocity_km_s.toFixed(2);
