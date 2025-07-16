@@ -1,14 +1,14 @@
 {
-  "latitude": 14.378812298283423,
-  "longitude": 58.09247332802774,
-  "altitude_km": 582.6245225079147,
-  "altitude_miles": 362.0259821752654,
-  "velocity_km_s": 7.568856567544486,
-  "velocity_km_h": 27247.883643160152,
-  "velocity_mph": 16931.04470723407,
-  "velocity_mps": 4.703067974231685,
-  "heading_degrees": 348.4385874744717,
-  "timestamp": "2025-07-16T18:51:03.639861+00:00",
-  "location_type": "ocean",
-  "location_name": "Arabian Sea"
+  "latitude": 75.50834199436738,
+  "longitude": 24.34933350900355,
+  "altitude_km": 572.1954345880704,
+  "altitude_miles": 355.54564938542387,
+  "velocity_km_s": 7.571153012412869,
+  "velocity_km_h": 27256.150844686326,
+  "velocity_mph": 16936.181706513587,
+  "velocity_mps": 4.704494918475997,
+  "heading_degrees": 326.860202723007,
+  "timestamp": "2025-07-16T19:07:56.672647+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
