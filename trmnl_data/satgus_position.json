@@ -1,14 +1,14 @@
 {
-  "latitude": 5.572229357582905,
-  "longitude": -59.2420820404667,
-  "altitude_km": 584.2418748486243,
-  "altitude_miles": 363.03095801656457,
-  "velocity_km_s": 7.567640175002466,
-  "velocity_km_h": 27243.504630008876,
-  "velocity_mph": 16928.323715453247,
-  "velocity_mps": 4.702312143181457,
-  "heading_degrees": 348.5514391647543,
-  "timestamp": "2025-07-16T02:45:18.754740+00:00",
-  "location_type": "country",
-  "location_name": "Guyana"
+  "latitude": 38.696890806999555,
+  "longitude": 118.67718473801413,
+  "altitude_km": 575.321859421625,
+  "altitude_miles": 357.4883191106746,
+  "velocity_km_s": 7.5734357251472275,
+  "velocity_km_h": 27264.36861053002,
+  "velocity_mph": 16941.287987893647,
+  "velocity_mps": 4.705913329970458,
+  "heading_degrees": 192.78730285482183,
+  "timestamp": "2025-07-16T03:21:30.123389+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
