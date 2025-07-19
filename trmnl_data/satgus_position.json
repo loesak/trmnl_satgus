@@ -1,14 +1,14 @@
 {
-  "latitude": 15.830740267583709,
-  "longitude": 12.990165947858955,
-  "altitude_km": 579.0514303458203,
-  "altitude_miles": 359.8057663254127,
-  "velocity_km_s": 7.5725791616929525,
-  "velocity_km_h": 27261.28498209463,
-  "velocity_mph": 16939.371910609123,
-  "velocity_mps": 4.705381086280312,
-  "heading_degrees": 191.59018706707488,
-  "timestamp": "2025-07-19T10:08:12.098060+00:00",
-  "location_type": "country",
-  "location_name": "Niger"
+  "latitude": -38.46651890662017,
+  "longitude": 0.9827297279330585,
+  "altitude_km": 586.4017998984409,
+  "altitude_miles": 364.3730728046941,
+  "velocity_km_s": 7.561370781104151,
+  "velocity_km_h": 27220.934811974945,
+  "velocity_mph": 16914.299485051684,
+  "velocity_mps": 4.698416523625467,
+  "heading_degrees": 192.76896794802852,
+  "timestamp": "2025-07-19T10:22:48.635517+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
