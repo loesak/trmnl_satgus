@@ -1,14 +1,14 @@
 {
-  "latitude": -30.917884839306737,
-  "longitude": 134.9647054960801,
-  "altitude_km": 588.4270286263918,
-  "altitude_miles": 365.6314912046097,
-  "velocity_km_s": 7.560421052491004,
-  "velocity_km_h": 27217.515788967616,
-  "velocity_mph": 16912.1750033066,
-  "velocity_mps": 4.697826389807388,
-  "heading_degrees": 347.809402783308,
-  "timestamp": "2025-07-20T14:10:05.403698+00:00",
-  "location_type": "country",
-  "location_name": "Australia"
+  "latitude": 24.281078163690996,
+  "longitude": 123.11949354220455,
+  "altitude_km": 580.460441819163,
+  "altitude_miles": 360.6812851936151,
+  "velocity_km_s": 7.5700636585290555,
+  "velocity_km_h": 27252.2291707046,
+  "velocity_mph": 16933.74489202989,
+  "velocity_mps": 4.703818025563858,
+  "heading_degrees": 348.152383378789,
+  "timestamp": "2025-07-20T14:24:56.257738+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
