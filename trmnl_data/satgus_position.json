@@ -1,14 +1,14 @@
 {
-  "latitude": 41.74315735670809,
-  "longitude": 13.185356212802443,
-  "altitude_km": 574.5771399477744,
-  "altitude_miles": 357.02557202648853,
-  "velocity_km_s": 7.57357960829853,
-  "velocity_km_h": 27264.88658987471,
-  "velocity_mph": 16941.60984523704,
-  "velocity_mps": 4.706002734788066,
-  "heading_degrees": 193.1160050747602,
-  "timestamp": "2025-07-24T10:26:21.652847+00:00",
-  "location_type": "country",
-  "location_name": "Italy"
+  "latitude": -19.027779772793682,
+  "longitude": -0.4921991368231501,
+  "altitude_km": 584.3183658383141,
+  "altitude_miles": 363.0784872993191,
+  "velocity_km_s": 7.566436925983487,
+  "velocity_km_h": 27239.17293354055,
+  "velocity_mph": 16925.632124887026,
+  "velocity_mps": 4.7015644791352855,
+  "heading_degrees": 191.67333536265946,
+  "timestamp": "2025-07-24T10:42:42.190159+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
