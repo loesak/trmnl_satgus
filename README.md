@@ -8,6 +8,11 @@ This project provides a TRMNL plugin for satellite tracking, distance and speed 
 
 ![Canada](docs/images/plugin-5bcb4c-canada.png)
 
+## Copyright Notice
+
+"Space Selfie", "SAT GUS", "Mark Rober", and any images of squirrels riding rocket ships are property of CrunchLabs LLC.
+
+
 ## Support the Developer
 
 If you find this project enjoyable, or any of [my other open source projects](https://github.com/loesak) useful, please consider supporting me a bit. Your contributions help maintain this and other open source projects.
@@ -31,7 +36,7 @@ This project uses Dev Containers for development. To get started, open the proje
 ## Project Structure
 
 ```
-satgus-trmnl/
+trmnl_satgus/
 ├── .devcontainer/              # Dev container configuration
 │   ├── docker-compose.yml
 │   ├── devcontainer.json
@@ -41,18 +46,25 @@ satgus-trmnl/
 │   └── workflows/             # GitHub Actions workflows
 │       ├── fetch-tle.yml      # Automated TLE data fetching
 │       └── fetch-position.yml # Automated position data fetching
-├── trmnl_data/                 # Data files
-│   ├── satgus_tle.json         # TLE data - auto updated by GitHub Actions
-│   ├── satgus_position.json    # Satellite position data - auto updated by GitHub Actions
+├── docs/                      # Documentation
+│   └── images/                # Screenshots and images
+│       ├── plugin-5bcb4c-canada.png
+│       └── plugin-5bcb4c-indianocean.png
+├── trmnl_data/                # Data files
+│   ├── satgus_tle.json        # TLE data - auto updated by GitHub Actions
+│   ├── satgus_position.json   # Satellite position data - auto updated by GitHub Actions
 │   ├── ne_110m_ocean.geojson
 │   ├── ne_110m_land.geojson
 │   ├── ne_110m_geography_marine_polys.geojson
 │   └── ne_110m_admin_0_countries.geojson
-├── trmnl_plugin/               # Plugin files
-│   ├── markup.trmnl.html       # Terminal HTML template
-│   ├── markup.emulation.html   # Emulation HTML template
-│   └── gusrocket.webp          # Rocket image
-├── trmnl_satgus/               # Main package
+├── trmnl_plugin/              # Plugin files
+│   ├── assets/                # Plugin assets
+│   │   ├── gusrocket.webp     # Rocket image
+│   │   └── gusrocket_black_512x512.png
+│   └── src/                   # Plugin source
+│       ├── full.liquid        # Plugin template
+│       └── settings.yml       # Plugin settings
+├── trmnl_satgus/              # Main package
 │   ├── satgus/
 │   │   ├── __init__.py
 │   │   ├── calculate_position.py   # Satellite position calculation
@@ -61,8 +73,9 @@ satgus-trmnl/
 │   ├── tests/                      # Test files
 │   │   ├── __init__.py
 │   │   └── test_satellite.py       # Tests for position calculation
+│   ├── poetry.lock                 # Poetry lock file
 │   ├── pyproject.toml              # Poetry configuration
-│   ├── pre-commit.sh               # Pre-commit script
+│   └── pre-commit.sh               # Pre-commit script
 ├── pre-commit-config.yaml      # Pre-commit hooks
 └── README.md
 ```
