@@ -1,0 +1,12 @@
+---
+strategy: polling
+no_screen_padding: 'yes'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+polling_url: https://raw.githubusercontent.com/loesak/trmnl_satgus/refs/heads/main/trmnl_data/satgus_position.json
+polling_headers: ''
+polling_body: ''
+id: 115686
+name: SAT GUS
+refresh_interval: 15

@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "satgus-trmnl"
+name = "trmnl-satgus"
 version = "0.1.0"
-description = "A vanilla Poetry Python project"
-authors = ["Your Name <your.email@example.com>"]
-readme = "README.md"
-packages = [{include = "trmnl_satgus"}]
+description = "Track SAT GUS"
+authors = ["Aaron Loes <aaron.loes@gmail.com>"]
+#readme = "README.md"
+packages = [{include = "satgus"}]
 
 [tool.poetry.dependencies]
 python = "^3.13"

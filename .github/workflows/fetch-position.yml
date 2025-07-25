@@ -31,9 +31,11 @@ jobs:
         
     - name: Install dependencies
       run: poetry install
+      working-directory: trmnl_satgus
         
     - name: Fetch satellite position data
-      run: poetry run python trmnl_satgus/calculate_position.py
+      run: poetry run python satgus/calculate_position.py
+      working-directory: trmnl_satgus
         
     - name: Commit and push changes
       run: |

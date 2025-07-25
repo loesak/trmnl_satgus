@@ -28,12 +28,14 @@ jobs:
       run: |
         python -m pip install --user pipx
         pipx install poetry
-        
+
     - name: Install dependencies
       run: poetry install
-        
+      working-directory: trmnl_satgus
+
     - name: Fetch TLE data
-      run: poetry run python trmnl_satgus/fetch_tle.py
+      run: poetry run python satgus/fetch_tle.py
+      working-directory: trmnl_satgus
         
     - name: Commit and push changes
       run: |

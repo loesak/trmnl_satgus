@@ -4,7 +4,7 @@ from shapely.geometry import Point
 import os
 
 # Paths to GeoJSON files
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'trmnl_data')
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'trmnl_data')
 OCEAN_GEOJSON = os.path.join(DATA_DIR, 'ne_110m_ocean.geojson')
 LAND_GEOJSON = os.path.join(DATA_DIR, 'ne_110m_land.geojson')
 COUNTRY_GEOJSON = os.path.join(DATA_DIR, 'ne_110m_admin_0_countries.geojson')

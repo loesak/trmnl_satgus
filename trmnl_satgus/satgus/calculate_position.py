@@ -10,8 +10,8 @@ from typing import Dict, List
 import numpy as np
 from skyfield.api import EarthSatellite, load, wgs84
 
-from trmnl_satgus.fetch_tle import fetch_and_save_tle
-from trmnl_satgus.location_utils import get_location_info
+from satgus.fetch_tle import fetch_and_save_tle
+from satgus.location_utils import get_location_info
 
 
 def calculate_initial_bearing(lat1, lon1, lat2, lon2):
@@ -188,7 +188,7 @@ class SatelliteTracker:
 
 
 TLE_CACHE_FILE = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)), "trmnl_data", "satgus_tle.json"
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "trmnl_data", "satgus_tle.json"
 )
 
 
@@ -227,7 +227,7 @@ def save_satellite_position(
     """
     if file_path is None:
         file_path = os.path.join(
-            os.path.dirname(os.path.dirname(__file__)),
+            os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
             "trmnl_data",
             "satgus_position.json",
         )

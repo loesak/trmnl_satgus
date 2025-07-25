@@ -41,11 +41,6 @@ satgus-trmnl/
 │   └── workflows/             # GitHub Actions workflows
 │       ├── fetch-tle.yml      # Automated TLE data fetching
 │       └── fetch-position.yml # Automated position data fetching
-├── trmnl_satgus/               # Main package
-│   ├── __init__.py
-│   ├── calculate_position.py   # Satellite position calculation
-│   ├── fetch_tle.py            # TLE data fetching
-│   └── location_utils.py       # Location utilities
 ├── trmnl_data/                 # Data files
 │   ├── satgus_tle.json         # TLE data - auto updated by GitHub Actions
 │   ├── satgus_position.json    # Satellite position data - auto updated by GitHub Actions
@@ -57,18 +52,28 @@ satgus-trmnl/
 │   ├── markup.trmnl.html       # Terminal HTML template
 │   ├── markup.emulation.html   # Emulation HTML template
 │   └── gusrocket.webp          # Rocket image
-├── tests/                      # Test files
-│   ├── __init__.py
-│   └── test_satellite.py       # Tests for position calculation
-├── pyproject.toml              # Poetry configuration
+├── trmnl_satgus/               # Main package
+│   ├── satgus/
+│   │   ├── __init__.py
+│   │   ├── calculate_position.py   # Satellite position calculation
+│   │   ├── fetch_tle.py            # TLE data fetching
+│   │   └── location_utils.py       # Location utilities
+│   ├── tests/                      # Test files
+│   │   ├── __init__.py
+│   │   └── test_satellite.py       # Tests for position calculation
+│   ├── pyproject.toml              # Poetry configuration
+│   ├── pre-commit.sh               # Pre-commit script
 ├── pre-commit-config.yaml      # Pre-commit hooks
-├── pre-commit.sh               # Pre-commit script
 └── README.md
 ```
 
 ## Available Commands
 
-Once inside the dev container, you can use the following Poetry commands:
+Once inside the dev container, you can:
+
+### trmnl_satgus
+
+Use the following Poetry commands from within the trmnl_satgus submodule:
 
 - `poetry install` - Install dependencies
 - `poetry run python trmnl_satgus/fetch_tle.py` - Fetch the latest TLE data for SATGUS
@@ -79,6 +84,12 @@ Once inside the dev container, you can use the following Poetry commands:
 - `poetry run isort .` - Sort imports with isort
 - `poetry run mypy .` - Type check code with mypy
 - `poetry run bandit -r .` - Run security linter with Bandit
+
+### trmnl_plugin
+
+Use the following TRMNLP commands from within the trmnl_plugin submodule:
+
+- `trmnlp serve` - Run the local TRMNL preview.
 
 ## Satellite Tracking Usage
 

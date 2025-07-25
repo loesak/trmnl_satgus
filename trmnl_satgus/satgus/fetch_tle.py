@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 import requests
 
 TLE_CACHE_FILE = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)), "trmnl_data", "satgus_tle.json"
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "trmnl_data", "satgus_tle.json"
 )
 TLE_URL = "https://celestrak.org/NORAD/elements/gp.php?CATNR=62713&FORMAT=TLE"
 
