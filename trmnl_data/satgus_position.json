@@ -1,14 +1,14 @@
 {
-  "latitude": 62.79133631632274,
-  "longitude": 100.00530499263884,
-  "altitude_km": 572.8838058527808,
-  "altitude_miles": 355.9733833265483,
-  "velocity_km_s": 7.571760561273174,
-  "velocity_km_h": 27258.338020583426,
-  "velocity_mph": 16937.540754187943,
-  "velocity_mps": 4.704872431718873,
-  "heading_degrees": 341.3198162083248,
-  "timestamp": "2025-07-27T15:10:29.520615+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 58.84751545369755,
+  "longitude": -55.64211159292524,
+  "altitude_km": 572.0555204803413,
+  "altitude_miles": 355.4587108163902,
+  "velocity_km_s": 7.57327146453955,
+  "velocity_km_h": 27263.77727234238,
+  "velocity_mph": 16940.920547492657,
+  "velocity_mps": 4.7058112631924045,
+  "heading_degrees": 196.896363002322,
+  "timestamp": "2025-07-27T15:25:38.460423+00:00",
+  "location_type": "ocean",
+  "location_name": "Labrador Sea"
 }
