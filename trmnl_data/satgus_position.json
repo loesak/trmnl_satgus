@@ -1,14 +1,14 @@
 {
-  "latitude": -26.275220080318306,
-  "longitude": 15.735266820401431,
-  "altitude_km": 585.3313558153177,
-  "altitude_miles": 363.70792989431976,
-  "velocity_km_s": 7.564325915453484,
-  "velocity_km_h": 27231.57329563254,
-  "velocity_mph": 16920.909930280486,
-  "velocity_mps": 4.700252758411247,
-  "heading_degrees": 191.93627140026786,
-  "timestamp": "2025-07-29T09:33:12.747209+00:00",
-  "location_type": "country",
-  "location_name": "Namibia"
+  "latitude": -80.99236257606411,
+  "longitude": -42.80807227701353,
+  "altitude_km": 589.2361641872894,
+  "altitude_miles": 366.1342645772202,
+  "velocity_km_s": 7.552011928937705,
+  "velocity_km_h": 27187.242944175738,
+  "velocity_mph": 16893.364335465423,
+  "velocity_mps": 4.692601204295951,
+  "heading_degrees": 239.04333853100024,
+  "timestamp": "2025-07-29T09:48:59.877411+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
