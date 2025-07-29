@@ -1,14 +1,14 @@
 {
-  "latitude": 1.791933091959973,
-  "longitude": -74.77077934914412,
-  "altitude_km": 584.1031638910945,
-  "altitude_miles": 362.94476705017325,
-  "velocity_km_s": 7.567663778945594,
-  "velocity_km_h": 27243.58960420414,
-  "velocity_mph": 16928.37651595393,
-  "velocity_mps": 4.702326809987203,
-  "heading_degrees": 348.57008810622744,
-  "timestamp": "2025-07-29T03:49:33.480761+00:00",
-  "location_type": "country",
-  "location_name": "Colombia"
+  "latitude": 74.58883237601606,
+  "longitude": 128.01454976053364,
+  "altitude_km": 570.5231401209885,
+  "altitude_miles": 354.50653410011876,
+  "velocity_km_s": 7.572854213672809,
+  "velocity_km_h": 27262.27516922211,
+  "velocity_mph": 16939.98718417471,
+  "velocity_mps": 4.705551995604087,
+  "heading_degrees": 211.116917205675,
+  "timestamp": "2025-07-29T04:16:43.221790+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
