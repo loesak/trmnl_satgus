@@ -1,14 +1,14 @@
 {
-  "latitude": -20.927016829797882,
-  "longitude": 25.051178204409563,
-  "altitude_km": 587.2204128965368,
-  "altitude_miles": 364.88173518193395,
-  "velocity_km_s": 7.562965125298958,
-  "velocity_km_h": 27226.674451076247,
-  "velocity_mph": 16917.8659303397,
-  "velocity_mps": 4.6994072028721385,
-  "heading_degrees": 348.26502207564346,
-  "timestamp": "2025-07-29T21:23:04.971642+00:00",
-  "location_type": "country",
-  "location_name": "Botswana"
+  "latitude": 36.11165732924149,
+  "longitude": 12.60238250391661,
+  "altitude_km": 577.3049759722289,
+  "altitude_miles": 358.7205702248399,
+  "velocity_km_s": 7.571501125042729,
+  "velocity_km_h": 27257.404050153822,
+  "velocity_mph": 16936.96041204813,
+  "velocity_mps": 4.704711225568925,
+  "heading_degrees": 347.45282732468075,
+  "timestamp": "2025-07-29T21:38:25.354562+00:00",
+  "location_type": "ocean",
+  "location_name": "Mediterranean Sea"
 }
