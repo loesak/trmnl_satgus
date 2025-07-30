@@ -1,14 +1,14 @@
 {
-  "latitude": -71.37965779352521,
-  "longitude": -56.585621642621106,
-  "altitude_km": 588.9136750794878,
-  "altitude_miles": 365.9338791978164,
-  "velocity_km_s": 7.553146103112001,
-  "velocity_km_h": 27191.3259712032,
-  "velocity_mph": 16895.901410052506,
-  "velocity_mps": 4.693305947236807,
-  "heading_degrees": 205.8854540924252,
-  "timestamp": "2025-07-30T13:03:16.887431+00:00",
-  "location_type": "ocean",
-  "location_name": "Weddell Sea"
+  "latitude": -15.630643444610097,
+  "longitude": 143.07728384499498,
+  "altitude_km": 586.5555643486277,
+  "altitude_miles": 364.4686175748712,
+  "velocity_km_s": 7.564234271001395,
+  "velocity_km_h": 27231.24337560502,
+  "velocity_mph": 16920.704927543065,
+  "velocity_mps": 4.700195813206408,
+  "heading_degrees": 348.40809501639217,
+  "timestamp": "2025-07-30T13:27:48.173369+00:00",
+  "location_type": "country",
+  "location_name": "Australia"
 }
