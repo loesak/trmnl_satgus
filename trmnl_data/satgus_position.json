@@ -1,14 +1,14 @@
 {
-  "latitude": -8.13632768196197,
-  "longitude": 45.18577806705302,
-  "altitude_km": 585.4783858093961,
-  "altitude_miles": 363.79929006877023,
-  "velocity_km_s": 7.565938202697369,
-  "velocity_km_h": 27237.377529710528,
-  "velocity_mph": 16924.51651301376,
-  "velocity_mps": 4.701254586948267,
-  "heading_degrees": 348.52858203092177,
-  "timestamp": "2025-07-30T19:55:08.061136+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 40.70274855091317,
+  "longitude": 34.12341002506146,
+  "altitude_km": 576.2186906440202,
+  "altitude_miles": 358.04558402416546,
+  "velocity_km_s": 7.571858670724733,
+  "velocity_km_h": 27258.69121460904,
+  "velocity_mph": 16937.760218712832,
+  "velocity_mps": 4.704933394086899,
+  "heading_degrees": 347.0096122255599,
+  "timestamp": "2025-07-30T20:08:16.565237+00:00",
+  "location_type": "country",
+  "location_name": "Turkey"
 }
