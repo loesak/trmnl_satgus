@@ -1,14 +1,14 @@
 {
-  "latitude": 29.48899693915144,
-  "longitude": 60.02304719551256,
-  "altitude_km": 578.3746093570935,
-  "altitude_miles": 359.38520939082656,
-  "velocity_km_s": 7.571376979988585,
-  "velocity_km_h": 27256.957127958907,
-  "velocity_mph": 16936.682707556953,
-  "velocity_mps": 4.704634085432487,
-  "heading_degrees": 347.90840153575914,
-  "timestamp": "2025-07-31T18:33:50.881147+00:00",
-  "location_type": "country",
-  "location_name": "Iran"
+  "latitude": 79.55231465758644,
+  "longitude": -73.0220406474815,
+  "altitude_km": 570.0070357181048,
+  "altitude_miles": 354.1858417911945,
+  "velocity_km_s": 7.5729686905175555,
+  "velocity_km_h": 27262.6872858632,
+  "velocity_mph": 16940.243261504103,
+  "velocity_mps": 4.705623128195584,
+  "heading_degrees": 228.0290091209101,
+  "timestamp": "2025-07-31T18:51:52.308810+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
