@@ -1,14 +1,14 @@
 {
-  "latitude": 10.25029747929984,
-  "longitude": -75.38495685670662,
-  "altitude_km": 579.8296450412436,
-  "altitude_miles": 360.28932636892256,
-  "velocity_km_s": 7.57195070556201,
-  "velocity_km_h": 27259.022540023234,
-  "velocity_mph": 16937.966094716776,
-  "velocity_mps": 4.704990581865772,
-  "heading_degrees": 191.49041893206922,
-  "timestamp": "2025-07-31T15:58:35.703637+00:00",
-  "location_type": "country",
-  "location_name": "Colombia"
+  "latitude": -37.51064061875079,
+  "longitude": -85.94714322179486,
+  "altitude_km": 586.7122119439227,
+  "altitude_miles": 364.56595384780724,
+  "velocity_km_s": 7.560981309203685,
+  "velocity_km_h": 27219.532713133267,
+  "velocity_mph": 16913.428261492332,
+  "velocity_mps": 4.698174517081203,
+  "heading_degrees": 192.67716530570803,
+  "timestamp": "2025-07-31T16:11:26.861934+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
