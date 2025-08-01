@@ -1,0 +1,133 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<div class="layout">
+
+  <div class="title" style="position: absolute; top: 20px; left: 20px; z-index: 1000; padding-left: 10px;">
+    <span class="text-stroke" style="padding-left: 5px;">SAT GUS @ <span id="lastUpdated">--</span></span>
+  </div>
+
+  <div id="map" style="height: 100%; width: 100%;"></div>
+
+  <div id="satellite-icon" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000; pointer-events: none;">
+    <img id="rocket-image" style="width: 50px; height: 50px; filter: brightness(0);" src="data:image/webp;base64,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" alt="Gus Rocket">
+  </div>
+
+  <div
+    class="satellite-info text--black"
+    id="satelliteInfo"
+    style="
+      position: absolute;
+      bottom: 32px;
+      left: 15px;
+      width: 770px;
+      z-index: 1000;
+      background: white;
+      border-radius: 8px;
+      border: 2px solid black;
+    "
+  >
+    <table class="table">
+      <tbody>
+        <tr>
+          <td class="text-stroke"><span class="label" style="padding-left: 5px;">Location:</span></td>
+          <td class="text-stroke" colspan="5"><span id="location">--</span></td>
+        </tr>
+        <tr>
+          <td class="text-stroke"><span class="label" style="padding-left: 5px;">Altitude:</span></td>
+          <td class="text-stroke"><span id="altitude_km">--</span> km</td>
+          <td class="text-stroke"><span id="altitude_miles">--</span> miles</td>
+          <td class="text-stroke"><span class="label">Velocity:</span></td>
+          <td class="text-stroke"><span id="velocity_kps">--</span> km/s</td>
+          <td class="text-stroke"><span id="velocity_mps">--</span> mi/s</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div style="
+      position: absolute;
+      bottom: 10px;
+      left: 15px;
+      z-index: 1000;
+      font-size: 12px
+    "
+  >
+    <span class="text-stroke">https://github.com/loesak/trmnl_satgus</span>
+  </div>
+</div>
+
+<!-- Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  // Initialize map
+  let map = L.map('map', {
+    zoomControl: false,
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    boxZoom: false,
+    keyboard: false,
+    dragging: false
+  }).setView([0, 0], 3);
+
+  // Add CartoDB Positron tiles (clean without text labels)
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: 'CartoDB',
+    subdomains: 'abcd',
+    maxZoom: 10,
+    minZoom: 2,
+    className: 'image-dither'
+  }).addTo(map);
+
+  // Satellite marker
+  let satelliteMarker = null;
+
+  // Initial rotation offset for the rocket image
+  const ROCKET_INITIAL_ROTATION = 55;
+
+  // Function to rotate rocket based on heading
+  function rotateRocket(heading) {
+    const rocketImage = document.getElementById('rocket-image');
+    const rotation = heading + ROCKET_INITIAL_ROTATION;
+    rocketImage.style.transform = `rotate(${rotation}deg)`;
+  }
+
+  // Hardcoded satellite data with heading
+  const satelliteData = {
+    "latitude": {{ latitude }},
+    "longitude": {{ longitude }},
+    "altitude_km": {{ altitude_km }},
+    "altitude_miles": {{ altitude_miles }},
+    "velocity_km_s": {{ velocity_km_s }},
+    "velocity_km_h": {{ velocity_km_h }},
+    "velocity_mph": {{ velocity_mph }},
+    "velocity_mps": {{ velocity_mps }},
+    "heading_degrees": {{ heading_degrees }},
+    "timestamp": '{{ timestamp }}',
+    "location_type": '{{ location_type }}',
+    "location_name": '{{ location_name }}'
+  };
+
+  // Function to display satellite position on map
+  function displaySatellitePosition() {
+    const lat = satelliteData.latitude;
+    const lon = satelliteData.longitude;
+
+    // Center map on satellite position
+    map.setView([lat, lon], 3);
+
+    // Rotate rocket to match heading
+    rotateRocket(satelliteData.heading_degrees);
+
+    // Update info panel
+    document.getElementById('location').textContent = satelliteData.location_name != null ? satelliteData.location_name : 'Area 42';
+    document.getElementById('altitude_km').textContent = satelliteData.altitude_km.toFixed(2);
+    document.getElementById('altitude_miles').textContent = satelliteData.altitude_miles.toFixed(2);
+    document.getElementById('velocity_kps').textContent = satelliteData.velocity_km_s.toFixed(2);
+    document.getElementById('velocity_mps').textContent = satelliteData.velocity_mps.toFixed(2);
+    document.getElementById('lastUpdated').textContent = new Date(satelliteData.timestamp).toLocaleTimeString('en-US', { timeZone: 'UTC', hour12: true }) + ' UTC';
+  }
+
+  // Initialize with satellite position
+  displaySatellitePosition();
+</script>

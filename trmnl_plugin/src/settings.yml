@@ -8,5 +8,11 @@ polling_url: https://raw.githubusercontent.com/loesak/trmnl_satgus/refs/heads/ma
 polling_headers: ''
 polling_body: ''
 id: 115686
+custom_fields:
+- keyname: doesnt_matter
+  name: SAT GUS Tracker
+  field_type: author_bio
+  description: Follow SAT GUS the Selfie Satellite as they orbit the earth!
+  github_url: https://github.com/loesak/trmnl_satgus
 name: SAT GUS
 refresh_interval: 15
