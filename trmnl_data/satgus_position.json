@@ -1,14 +1,14 @@
 {
-  "latitude": 56.52849193233868,
-  "longitude": -1.0566976926640261,
-  "altitude_km": 572.6410825595249,
-  "altitude_miles": 355.82256211109456,
-  "velocity_km_s": 7.572858067389529,
-  "velocity_km_h": 27262.289042602304,
-  "velocity_mph": 16939.995804690836,
-  "velocity_mps": 4.705554390191899,
-  "heading_degrees": 343.92735007077124,
-  "timestamp": "2025-08-03T22:08:33.648407+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 67.00404272996539,
+  "longitude": -154.3643958171265,
+  "altitude_km": 570.4330301303089,
+  "altitude_miles": 354.4505423651002,
+  "velocity_km_s": 7.573682524401146,
+  "velocity_km_h": 27265.257087844126,
+  "velocity_mph": 16941.840061930794,
+  "velocity_mps": 4.706066683869665,
+  "heading_degrees": 201.43442927840644,
+  "timestamp": "2025-08-03T22:23:09.433231+00:00",
+  "location_type": "country",
+  "location_name": "United States of America"
 }
