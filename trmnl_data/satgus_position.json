@@ -1,14 +1,14 @@
 {
-  "latitude": -29.889715396248494,
-  "longitude": -64.74461487119446,
-  "altitude_km": 586.240127047844,
-  "altitude_miles": 364.2726139838459,
-  "velocity_km_s": 7.5626656163188555,
-  "velocity_km_h": 27225.59621874788,
-  "velocity_mph": 16917.19594803959,
-  "velocity_mps": 4.699221096677664,
-  "heading_degrees": 192.1230453350516,
-  "timestamp": "2025-08-04T14:52:39.137957+00:00",
-  "location_type": "country",
-  "location_name": "Argentina"
+  "latitude": -82.02160957113298,
+  "longitude": -169.95524313039581,
+  "altitude_km": 589.7212719535055,
+  "altitude_miles": 366.43569647502164,
+  "velocity_km_s": 7.5512949132834555,
+  "velocity_km_h": 27184.66168782044,
+  "velocity_mph": 16891.760417622674,
+  "velocity_mps": 4.692155671561854,
+  "heading_degrees": 285.21112015621685,
+  "timestamp": "2025-08-04T15:09:18.477305+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
