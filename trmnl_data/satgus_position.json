@@ -1,14 +1,14 @@
 {
-  "latitude": -42.782757664380895,
-  "longitude": 71.55864573199915,
-  "altitude_km": 588.7671829704841,
-  "altitude_miles": 365.84285324955266,
-  "velocity_km_s": 7.557723327872522,
-  "velocity_km_h": 27207.80398034108,
-  "velocity_mph": 16906.140367068518,
-  "velocity_mps": 4.696150101963477,
-  "heading_degrees": 346.74575539074493,
-  "timestamp": "2025-08-04T18:33:58.204488+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 25.60582332794091,
+  "longitude": 56.06219812903003,
+  "altitude_km": 578.5229359676496,
+  "altitude_miles": 359.4773752451544,
+  "velocity_km_s": 7.571695904962046,
+  "velocity_km_h": 27258.105257863364,
+  "velocity_mph": 16937.396122183818,
+  "velocity_mps": 4.704832256162171,
+  "heading_degrees": 348.0993415405289,
+  "timestamp": "2025-08-04T18:52:23.462580+00:00",
+  "location_type": "country",
+  "location_name": "United Arab Emirates"
 }
