@@ -1,14 +1,14 @@
 {
-  "latitude": 49.68411102094483,
-  "longitude": -94.2847203450979,
-  "altitude_km": 573.8126472561307,
-  "altitude_miles": 356.5505384381892,
-  "velocity_km_s": 7.572767875430319,
-  "velocity_km_h": 27261.964351549148,
-  "velocity_mph": 16939.794051086446,
-  "velocity_mps": 4.705498347524013,
-  "heading_degrees": 345.66345029546005,
-  "timestamp": "2025-08-04T04:31:59.147473+00:00",
-  "location_type": "country",
-  "location_name": "Canada"
+  "latitude": 16.868242334641838,
+  "longitude": 89.68331611910277,
+  "altitude_km": 578.6757811892876,
+  "altitude_miles": 359.57234883336884,
+  "velocity_km_s": 7.572590822813679,
+  "velocity_km_h": 27261.326962129246,
+  "velocity_mph": 16939.397995785213,
+  "velocity_mps": 4.705388332162559,
+  "heading_degrees": 191.61328731421716,
+  "timestamp": "2025-08-04T05:02:08.113638+00:00",
+  "location_type": "ocean",
+  "location_name": "Bay of Bengal"
 }
