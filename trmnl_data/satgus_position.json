@@ -1,14 +1,14 @@
 {
-  "latitude": -23.919313145525347,
-  "longitude": 138.7782785767151,
-  "altitude_km": 587.1033570423342,
-  "altitude_miles": 364.80900006875225,
-  "velocity_km_s": 7.562589715731611,
-  "velocity_km_h": 27225.3229766338,
-  "velocity_mph": 16917.026163313923,
-  "velocity_mps": 4.699173934253867,
-  "heading_degrees": 348.15746693086766,
-  "timestamp": "2025-08-04T13:50:06.406882+00:00",
-  "location_type": "country",
-  "location_name": "Australia"
+  "latitude": 23.62982226660722,
+  "longitude": 128.76217832803715,
+  "altitude_km": 578.974165720043,
+  "altitude_miles": 359.7577563276288,
+  "velocity_km_s": 7.571476479393888,
+  "velocity_km_h": 27257.315325817995,
+  "velocity_mph": 16936.905281318854,
+  "velocity_mps": 4.70469591147746,
+  "heading_degrees": 348.18008394398845,
+  "timestamp": "2025-08-04T14:02:53.050369+00:00",
+  "location_type": "ocean",
+  "location_name": "Philippine Sea"
 }
