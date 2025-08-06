@@ -1,14 +1,14 @@
 {
-  "latitude": -13.429430899018552,
-  "longitude": 61.812629665618914,
-  "altitude_km": 585.4394902017602,
-  "altitude_miles": 363.77512146615794,
-  "velocity_km_s": 7.565492859671429,
-  "velocity_km_h": 27235.774294817144,
-  "velocity_mph": 16923.52030934482,
-  "velocity_mps": 4.700977863706895,
-  "heading_degrees": 348.45164563807845,
-  "timestamp": "2025-08-06T18:51:38.358108+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 51.74031646877968,
+  "longitude": 45.71100232649625,
+  "altitude_km": 573.118796462526,
+  "altitude_miles": 356.1193996767162,
+  "velocity_km_s": 7.573113429135301,
+  "velocity_km_h": 27263.208344887084,
+  "velocity_mph": 16940.567032470834,
+  "velocity_mps": 4.705713064575231,
+  "heading_degrees": 345.22565697129284,
+  "timestamp": "2025-08-06T19:09:12.360622+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
