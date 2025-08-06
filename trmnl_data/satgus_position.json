@@ -1,14 +1,14 @@
 {
-  "latitude": 5.333993524703111,
-  "longitude": 9.820861709530524,
-  "altitude_km": 582.2748005200856,
-  "altitude_miles": 361.8086750739661,
-  "velocity_km_s": 7.5693980461188675,
-  "velocity_km_h": 27249.832966027923,
-  "velocity_mph": 16932.255959933736,
-  "velocity_mps": 4.703404433314927,
-  "heading_degrees": 348.5551578277622,
-  "timestamp": "2025-08-06T22:09:19.465730+00:00",
-  "location_type": "country",
-  "location_name": "Cameroon"
+  "latitude": 61.018429876133254,
+  "longitude": -7.3429244109653595,
+  "altitude_km": 571.6252984086586,
+  "altitude_miles": 355.19138329748665,
+  "velocity_km_s": 7.573191342420311,
+  "velocity_km_h": 27263.48883271312,
+  "velocity_mph": 16940.741319471785,
+  "velocity_mps": 4.705761477631051,
+  "heading_degrees": 342.19683301391063,
+  "timestamp": "2025-08-06T22:24:24.817050+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
