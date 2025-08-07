@@ -1,14 +1,14 @@
 {
-  "latitude": 43.9856344041284,
-  "longitude": -0.7616352751270946,
-  "altitude_km": 574.3753433541033,
-  "altitude_miles": 356.9001814752825,
-  "velocity_km_s": 7.5731174275408515,
-  "velocity_km_h": 27263.222739147066,
-  "velocity_mph": 16940.575976646553,
-  "velocity_mps": 4.705715549068486,
-  "heading_degrees": 346.6035116004607,
-  "timestamp": "2025-08-07T22:24:35.282532+00:00",
-  "location_type": "country",
-  "location_name": "France"
+  "latitude": 72.60520807432816,
+  "longitude": -151.82888311198317,
+  "altitude_km": 569.8978875268949,
+  "altitude_miles": 354.11802027047423,
+  "velocity_km_s": 7.573538182335795,
+  "velocity_km_h": 27264.73745640886,
+  "velocity_mph": 16941.51717802623,
+  "velocity_mps": 4.705976993896175,
+  "heading_degrees": 207.62062766289384,
+  "timestamp": "2025-08-07T22:40:58.891491+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
