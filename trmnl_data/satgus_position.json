@@ -1,14 +1,14 @@
 {
-  "latitude": 50.84748125888143,
-  "longitude": 66.5358845681956,
-  "altitude_km": 573.1559764611993,
-  "altitude_miles": 356.1425022496719,
-  "velocity_km_s": 7.573199509419236,
-  "velocity_km_h": 27263.51823390925,
-  "velocity_mph": 16940.759588522425,
-  "velocity_mps": 4.70576655236734,
-  "heading_degrees": 345.4233911316561,
-  "timestamp": "2025-08-09T17:47:10.820225+00:00",
-  "location_type": "country",
-  "location_name": "Kazakhstan"
+  "latitude": 81.29060988789013,
+  "longitude": 11.93281051122642,
+  "altitude_km": 569.6057607699813,
+  "altitude_miles": 353.9365011754041,
+  "velocity_km_s": 7.573148071587023,
+  "velocity_km_h": 27263.333057713284,
+  "velocity_mph": 16940.64452540436,
+  "velocity_mps": 4.7057345903901,
+  "heading_degrees": 297.61280001615,
+  "timestamp": "2025-08-09T17:56:24.221662+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
