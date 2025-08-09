@@ -1,14 +1,14 @@
 {
-  "latitude": 15.374470017445372,
-  "longitude": -85.26490627520556,
-  "altitude_km": 579.38738815734,
-  "altitude_miles": 360.0145207667145,
-  "velocity_km_s": 7.571883317139098,
-  "velocity_km_h": 27258.77994170075,
-  "velocity_mph": 16937.81535115454,
-  "velocity_mps": 4.7049487086540385,
-  "heading_degrees": 191.5804185858936,
-  "timestamp": "2025-08-09T16:41:05.465764+00:00",
-  "location_type": "country",
-  "location_name": "Honduras"
+  "latitude": -40.384930890510624,
+  "longitude": -97.74329531547265,
+  "altitude_km": 587.5137396874115,
+  "altitude_miles": 365.0639999433066,
+  "velocity_km_s": 7.559449813262297,
+  "velocity_km_h": 27214.01932774427,
+  "velocity_mph": 16910.002403699786,
+  "velocity_mps": 4.697222889916607,
+  "heading_degrees": 192.96661863554039,
+  "timestamp": "2025-08-09T16:56:06.163434+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
