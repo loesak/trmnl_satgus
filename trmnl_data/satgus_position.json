@@ -1,14 +1,14 @@
 {
-  "latitude": 44.14997512347778,
-  "longitude": 18.40324945147279,
-  "altitude_km": 573.825927397319,
-  "altitude_miles": 356.5587903327995,
-  "velocity_km_s": 7.573676863221329,
-  "velocity_km_h": 27265.236707596785,
-  "velocity_mph": 16941.82739823612,
-  "velocity_mps": 4.7060631661767,
-  "heading_degrees": 193.42397861187283,
-  "timestamp": "2025-08-09T10:08:02.355548+00:00",
-  "location_type": "country",
-  "location_name": "Bosnia and Herzegovina"
+  "latitude": -9.350771035297765,
+  "longitude": 5.995793120775014,
+  "altitude_km": 583.7581703202159,
+  "altitude_miles": 362.7303980500429,
+  "velocity_km_s": 7.567575630220006,
+  "velocity_km_h": 27243.27226879202,
+  "velocity_mph": 16928.179332931566,
+  "velocity_mps": 4.702272036925435,
+  "heading_degrees": 191.48344834518565,
+  "timestamp": "2025-08-09T10:22:26.139753+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
