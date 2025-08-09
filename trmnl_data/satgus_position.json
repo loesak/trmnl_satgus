@@ -1,14 +1,14 @@
 {
-  "latitude": 44.66538717605513,
-  "longitude": 20.673362153799815,
-  "altitude_km": 574.2369726131674,
-  "altitude_miles": 356.81420190961643,
-  "velocity_km_s": 7.573131085341766,
-  "velocity_km_h": 27263.271907230355,
-  "velocity_mph": 16940.60652826763,
-  "velocity_mps": 4.705724035629898,
-  "heading_degrees": 346.50908867226474,
-  "timestamp": "2025-08-09T20:58:08.367383+00:00",
-  "location_type": "country",
-  "location_name": "Republic of Serbia"
+  "latitude": 82.24632645556912,
+  "longitude": -57.31965404912522,
+  "altitude_km": 569.5410537846392,
+  "altitude_miles": 353.89629413121503,
+  "velocity_km_s": 7.573167376554979,
+  "velocity_km_h": 27263.402555597924,
+  "velocity_mph": 16940.687709374437,
+  "velocity_mps": 4.7057465859373435,
+  "heading_degrees": 277.14576949154565,
+  "timestamp": "2025-08-09T21:09:53.147335+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
