@@ -1,14 +1,14 @@
 {
-  "latitude": 45.786360083381105,
-  "longitude": 138.1564086736279,
-  "altitude_km": 573.5700315309377,
-  "altitude_miles": 356.39978406241033,
-  "velocity_km_s": 7.573638142788203,
-  "velocity_km_h": 27265.09731403753,
-  "velocity_mph": 16941.740783120815,
-  "velocity_mps": 4.706039106422449,
-  "heading_degrees": 193.6616186919742,
-  "timestamp": "2025-08-10T02:10:48.743517+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Japan"
+  "latitude": -26.425698326642475,
+  "longitude": -59.34265255575702,
+  "altitude_km": 586.7030853667138,
+  "altitude_miles": 364.56028285740035,
+  "velocity_km_s": 7.562592488646588,
+  "velocity_km_h": 27225.332959127714,
+  "velocity_mph": 16917.032366146148,
+  "velocity_mps": 4.699175657262819,
+  "heading_degrees": 348.05090356305817,
+  "timestamp": "2025-08-10T03:04:17.139490+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
