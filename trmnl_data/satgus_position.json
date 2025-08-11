@@ -1,14 +1,14 @@
 {
-  "latitude": 79.5184132422324,
-  "longitude": -142.66529426882323,
-  "altitude_km": 569.7484351074318,
-  "altitude_miles": 354.02515487114,
-  "velocity_km_s": 7.57306209235242,
-  "velocity_km_h": 27263.023532468713,
-  "velocity_mph": 16940.452195393616,
-  "velocity_mps": 4.705681165387116,
-  "heading_degrees": 312.1703791375402,
-  "timestamp": "2025-08-11T05:14:39.389908+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 27.712479174406916,
+  "longitude": 83.65837775735628,
+  "altitude_km": 577.0182248961037,
+  "altitude_miles": 358.5423914219168,
+  "velocity_km_s": 7.572930036836265,
+  "velocity_km_h": 27262.548132610555,
+  "velocity_mph": 16940.156795708353,
+  "velocity_mps": 4.705599109918987,
+  "heading_degrees": 192.00113860152084,
+  "timestamp": "2025-08-11T05:33:10.026879+00:00",
+  "location_type": "country",
+  "location_name": "Nepal"
 }
