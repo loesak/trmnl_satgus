@@ -1,14 +1,14 @@
 {
-  "latitude": 61.74287125223916,
-  "longitude": 0.14128099415334464,
-  "altitude_km": 571.2298060075518,
-  "altitude_miles": 354.9456357887185,
-  "velocity_km_s": 7.573440109210794,
-  "velocity_km_h": 27264.38439315886,
-  "velocity_mph": 16941.297794761515,
-  "velocity_mps": 4.70591605410042,
-  "heading_degrees": 198.15069925482342,
-  "timestamp": "2025-08-11T11:49:10.450888+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 27.802680065330843,
+  "longitude": -12.640483777244771,
+  "altitude_km": 577.0230989097481,
+  "altitude_miles": 358.5454199926491,
+  "velocity_km_s": 7.572906539421674,
+  "velocity_km_h": 27262.463541918027,
+  "velocity_mph": 16940.104233505146,
+  "velocity_mps": 4.705584509306985,
+  "heading_degrees": 192.00567770854806,
+  "timestamp": "2025-08-11T11:58:25.599150+00:00",
+  "location_type": "country",
+  "location_name": "Morocco"
 }
