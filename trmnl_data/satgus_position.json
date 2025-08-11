@@ -1,14 +1,14 @@
 {
-  "latitude": 51.371947574295014,
-  "longitude": 15.752917871660317,
-  "altitude_km": 572.9554261164903,
-  "altitude_miles": 356.0178860814297,
-  "velocity_km_s": 7.573275749815102,
-  "velocity_km_h": 27263.792699334368,
-  "velocity_mph": 16940.930133378097,
-  "velocity_mps": 4.70581392593836,
-  "heading_degrees": 345.3104359161367,
-  "timestamp": "2025-08-11T21:09:36.140300+00:00",
-  "location_type": "country",
-  "location_name": "Poland"
+  "latitude": 72.81049743889429,
+  "longitude": -132.2127249031622,
+  "altitude_km": 570.0887179193578,
+  "altitude_miles": 354.2365967422693,
+  "velocity_km_s": 7.573247051865136,
+  "velocity_km_h": 27263.689386714486,
+  "velocity_mph": 16940.865937912167,
+  "velocity_mps": 4.705796093864492,
+  "heading_degrees": 207.93428910751223,
+  "timestamp": "2025-08-11T21:23:55.244359+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
