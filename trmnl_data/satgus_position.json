@@ -1,14 +1,14 @@
 {
-  "latitude": 53.50540802648998,
-  "longitude": -53.82310219828999,
-  "altitude_km": 572.4143168877872,
-  "altitude_miles": 355.68165649888124,
-  "velocity_km_s": 7.573476433390129,
-  "velocity_km_h": 27264.515160204464,
-  "velocity_mph": 16941.37904961141,
-  "velocity_mps": 4.705938624892058,
-  "heading_degrees": 195.20603389714202,
-  "timestamp": "2025-08-12T15:08:53.917746+00:00",
-  "location_type": "ocean",
-  "location_name": "Labrador Sea"
+  "latitude": -2.106283217252853,
+  "longitude": -68.3763133767839,
+  "altitude_km": 582.701894824274,
+  "altitude_miles": 362.0740590888539,
+  "velocity_km_s": 7.568913517353916,
+  "velocity_km_h": 27248.0886624741,
+  "velocity_mph": 16931.172100290194,
+  "velocity_mps": 4.703103361191721,
+  "heading_degrees": 191.42899839138457,
+  "timestamp": "2025-08-12T15:23:54.304499+00:00",
+  "location_type": "country",
+  "location_name": "Brazil"
 }
