@@ -1,14 +1,14 @@
 {
-  "latitude": -5.532553314112743,
-  "longitude": 28.86888055954759,
-  "altitude_km": 583.5103443690095,
-  "altitude_miles": 362.57640619091586,
-  "velocity_km_s": 7.567948227509864,
-  "velocity_km_h": 27244.61361903551,
-  "velocity_mph": 16929.012809073713,
-  "velocity_mps": 4.702503558076032,
-  "heading_degrees": 348.55332544695375,
-  "timestamp": "2025-08-12T20:59:03.706048+00:00",
-  "location_type": "country",
-  "location_name": "Democratic Republic of the Congo"
+  "latitude": 40.13732176977352,
+  "longitude": 18.51047355191189,
+  "altitude_km": 574.8864081218398,
+  "altitude_miles": 357.21774230107576,
+  "velocity_km_s": 7.573168957862255,
+  "velocity_km_h": 27263.40824830412,
+  "velocity_mph": 16940.69124665698,
+  "velocity_mps": 4.705747568515827,
+  "heading_degrees": 347.07250740433494,
+  "timestamp": "2025-08-12T21:11:20.739733+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
