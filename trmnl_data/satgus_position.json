@@ -1,14 +1,14 @@
 {
-  "latitude": 82.2684250875967,
-  "longitude": -122.4506512299218,
-  "altitude_km": 569.6162125743049,
-  "altitude_miles": 353.9429956235084,
-  "velocity_km_s": 7.573016809231124,
-  "velocity_km_h": 27262.860513232044,
-  "velocity_mph": 16940.35089996751,
-  "velocity_mps": 4.7056530277687525,
-  "heading_degrees": 264.1353491777646,
-  "timestamp": "2025-08-13T00:37:26.481826+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": -26.49869977903372,
+  "longitude": 141.92852807128966,
+  "altitude_km": 586.0787367728308,
+  "altitude_miles": 364.1723307472706,
+  "velocity_km_s": 7.563210093859005,
+  "velocity_km_h": 27227.556337892416,
+  "velocity_mph": 16918.41390923255,
+  "velocity_mps": 4.699559419231264,
+  "heading_degrees": 191.94648691652603,
+  "timestamp": "2025-08-13T01:08:23.225827+00:00",
+  "location_type": "country",
+  "location_name": "Australia"
 }
