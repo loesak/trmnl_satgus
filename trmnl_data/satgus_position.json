@@ -1,14 +1,14 @@
 {
-  "latitude": 51.53394097212468,
-  "longitude": -179.34671223564644,
-  "altitude_km": 572.8649847031729,
-  "altitude_miles": 355.96168840999525,
-  "velocity_km_s": 7.573299574448825,
-  "velocity_km_h": 27263.87846801577,
-  "velocity_mph": 16940.98342754943,
-  "velocity_mps": 4.705828729874841,
-  "heading_degrees": 345.2768424988372,
-  "timestamp": "2025-08-14T10:09:47.818122+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 68.7812863752208,
+  "longitude": 26.924116139714258,
+  "altitude_km": 570.5134634996248,
+  "altitude_miles": 354.5005213282254,
+  "velocity_km_s": 7.573194826532481,
+  "velocity_km_h": 27263.50137551693,
+  "velocity_mph": 16940.74911320633,
+  "velocity_mps": 4.705763642557314,
+  "heading_degrees": 202.98099285888438,
+  "timestamp": "2025-08-14T10:25:15.351774+00:00",
+  "location_type": "country",
+  "location_name": "Finland"
 }
