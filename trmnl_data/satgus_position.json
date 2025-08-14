@@ -1,14 +1,14 @@
 {
-  "latitude": -47.44053334128132,
-  "longitude": 61.09448959104037,
-  "altitude_km": 587.9479832983307,
-  "altitude_miles": 365.33382633006704,
-  "velocity_km_s": 7.557607504461586,
-  "velocity_km_h": 27207.38701606171,
-  "velocity_mph": 16905.88127755728,
-  "velocity_mps": 4.6960781326548,
-  "heading_degrees": 346.0630022001816,
-  "timestamp": "2025-08-14T19:20:59.776321+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 5.5094870983068045,
+  "longitude": 48.32028780275965,
+  "altitude_km": 581.4598689412433,
+  "altitude_miles": 361.3023002238893,
+  "velocity_km_s": 7.5701475884816,
+  "velocity_km_h": 27252.531318533758,
+  "velocity_mph": 16933.93263792864,
+  "velocity_mps": 4.7038701772024005,
+  "heading_degrees": 348.557445563952,
+  "timestamp": "2025-08-14T19:35:17.153688+00:00",
+  "location_type": "country",
+  "location_name": "Somalia"
 }
