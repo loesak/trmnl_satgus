@@ -1,14 +1,14 @@
 {
-  "latitude": -48.70102833537041,
-  "longitude": 107.77667323919803,
-  "altitude_km": 588.0144004501626,
-  "altitude_miles": 365.375096022118,
-  "velocity_km_s": 7.557291667906808,
-  "velocity_km_h": 27206.25000446451,
-  "velocity_mph": 16905.174771524118,
-  "velocity_mps": 4.695881880978922,
-  "heading_degrees": 194.15445799444328,
-  "timestamp": "2025-08-16T03:05:05.388405+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": -24.359482695509456,
+  "longitude": -67.0129645978273,
+  "altitude_km": 585.8726038291325,
+  "altitude_miles": 364.0442457139119,
+  "velocity_km_s": 7.563680639723309,
+  "velocity_km_h": 27229.25030300391,
+  "velocity_mph": 16919.466490027844,
+  "velocity_mps": 4.6998518027855125,
+  "heading_degrees": 348.1437320979725,
+  "timestamp": "2025-08-16T03:33:37.806656+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
