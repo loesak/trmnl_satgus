@@ -1,14 +1,14 @@
 {
-  "latitude": 32.410722913939765,
-  "longitude": 30.68377081896677,
-  "altitude_km": 576.2714302715831,
-  "altitude_miles": 358.07835489928385,
-  "velocity_km_s": 7.57292705711735,
-  "velocity_km_h": 27262.53740562246,
-  "velocity_mph": 16940.150130269034,
-  "velocity_mps": 4.705597258408065,
-  "heading_degrees": 192.27133178047367,
-  "timestamp": "2025-08-16T09:08:29.691390+00:00",
-  "location_type": "ocean",
-  "location_name": "Mediterranean Sea"
+  "latitude": -23.04600757147364,
+  "longitude": 18.74790507652879,
+  "altitude_km": 585.7912297745788,
+  "altitude_miles": 363.9936822362598,
+  "velocity_km_s": 7.563938101235629,
+  "velocity_km_h": 27230.177164448265,
+  "velocity_mph": 16920.042414850384,
+  "velocity_mps": 4.700011781902884,
+  "heading_degrees": 191.80207883719447,
+  "timestamp": "2025-08-16T09:23:23.907425+00:00",
+  "location_type": "country",
+  "location_name": "Namibia"
 }
