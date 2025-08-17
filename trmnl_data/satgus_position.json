@@ -1,14 +1,14 @@
 {
-  "latitude": 13.320584777358782,
-  "longitude": -47.11261158588417,
-  "altitude_km": 580.03815982388,
-  "altitude_miles": 360.41889140792415,
-  "velocity_km_s": 7.571210590318845,
-  "velocity_km_h": 27256.358125147843,
-  "velocity_mph": 16936.31050458124,
-  "velocity_mps": 4.704530695717011,
-  "heading_degrees": 191.5375680138231,
-  "timestamp": "2025-08-17T14:07:20.732898+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -37.372540700326724,
+  "longitude": -58.27402376372211,
+  "altitude_km": 587.2747151730282,
+  "altitude_miles": 364.9154770417797,
+  "velocity_km_s": 7.560098509259714,
+  "velocity_km_h": 27216.354633334973,
+  "velocity_mph": 16911.453494869987,
+  "velocity_mps": 4.697625970797218,
+  "heading_degrees": 192.6634787646828,
+  "timestamp": "2025-08-17T14:20:59.280361+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
