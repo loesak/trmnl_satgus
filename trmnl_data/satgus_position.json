@@ -1,14 +1,14 @@
 {
-  "latitude": 21.106275394421893,
-  "longitude": 123.12018994511418,
-  "altitude_km": 578.468385405693,
-  "altitude_miles": 359.44347910792084,
-  "velocity_km_s": 7.572143351149775,
-  "velocity_km_h": 27259.71606413919,
-  "velocity_mph": 16938.397030490232,
-  "velocity_mps": 4.705110286247287,
-  "heading_degrees": 191.7302345173008,
-  "timestamp": "2025-08-17T02:51:01.989085+00:00",
-  "location_type": "ocean",
-  "location_name": "Philippine Sea"
+  "latitude": -35.23190772658578,
+  "longitude": -65.50117638695312,
+  "altitude_km": 586.9513128949984,
+  "altitude_miles": 364.7145242448781,
+  "velocity_km_s": 7.5608235814779325,
+  "velocity_km_h": 27218.964893320557,
+  "velocity_mph": 16913.07543472749,
+  "velocity_mps": 4.6980765096465245,
+  "heading_degrees": 347.51334295747006,
+  "timestamp": "2025-08-17T03:35:27.387980+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
