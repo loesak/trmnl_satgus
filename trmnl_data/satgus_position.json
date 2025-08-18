@@ -1,14 +1,14 @@
 {
-  "latitude": 15.586799441612287,
-  "longitude": 48.4956201090616,
-  "altitude_km": 579.595958640346,
-  "altitude_miles": 360.14412041631044,
-  "velocity_km_s": 7.571485242163885,
-  "velocity_km_h": 27257.34687178999,
-  "velocity_mph": 16936.924883071017,
-  "velocity_mps": 4.7047013564086155,
-  "heading_degrees": 191.58244979531707,
-  "timestamp": "2025-08-18T07:46:13.413846+00:00",
-  "location_type": "country",
-  "location_name": "Yemen"
+  "latitude": -18.476878023645863,
+  "longitude": 41.46495326932256,
+  "altitude_km": 585.2855245943683,
+  "altitude_miles": 363.67945170272725,
+  "velocity_km_s": 7.565001714967984,
+  "velocity_km_h": 27234.006173884743,
+  "velocity_mph": 16922.421650272936,
+  "velocity_mps": 4.700672680631372,
+  "heading_degrees": 191.656334042497,
+  "timestamp": "2025-08-18T07:55:22.169257+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
