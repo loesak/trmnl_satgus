@@ -1,14 +1,14 @@
 {
-  "latitude": -32.82783133946083,
-  "longitude": 122.9353103135276,
-  "altitude_km": 586.5201694289126,
-  "altitude_miles": 364.4466241982129,
-  "velocity_km_s": 7.561656013603799,
-  "velocity_km_h": 27221.961648973676,
-  "velocity_mph": 16914.937531784424,
-  "velocity_mps": 4.6985937588290065,
-  "heading_degrees": 347.69059716246994,
-  "timestamp": "2025-08-19T14:59:49.697469+00:00",
-  "location_type": "country",
-  "location_name": "Australia"
+  "latitude": 14.860036344265007,
+  "longitude": 112.67948840276715,
+  "altitude_km": 579.2927110439041,
+  "altitude_miles": 359.95569115406175,
+  "velocity_km_s": 7.5718623681145685,
+  "velocity_km_h": 27258.704525212448,
+  "velocity_mph": 16937.768489535785,
+  "velocity_mps": 4.704935691537718,
+  "heading_degrees": 348.4350703077478,
+  "timestamp": "2025-08-19T15:12:39.029650+00:00",
+  "location_type": "ocean",
+  "location_name": "South China Sea"
 }
