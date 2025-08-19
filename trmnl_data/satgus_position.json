@@ -1,14 +1,14 @@
 {
-  "latitude": 41.59794339320074,
-  "longitude": 33.80981519051127,
-  "altitude_km": 574.1071573316149,
-  "altitude_miles": 356.73353845830286,
-  "velocity_km_s": 7.57365275870684,
-  "velocity_km_h": 27265.149931344622,
-  "velocity_mph": 16941.77347798954,
-  "velocity_mps": 4.706048188330428,
-  "heading_degrees": 346.9102932383882,
-  "timestamp": "2025-08-19T20:08:48.297128+00:00",
-  "location_type": "country",
-  "location_name": "Turkey"
+  "latitude": 78.97078176563248,
+  "longitude": -99.20147989596221,
+  "altitude_km": 569.5328954988236,
+  "altitude_miles": 353.8912248089995,
+  "velocity_km_s": 7.573197316339373,
+  "velocity_km_h": 27263.510338821743,
+  "velocity_mph": 16940.754682744006,
+  "velocity_mps": 4.705765189651112,
+  "heading_degrees": 224.90557866531648,
+  "timestamp": "2025-08-19T20:23:46.477480+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
