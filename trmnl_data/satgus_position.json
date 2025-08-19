@@ -1,14 +1,14 @@
 {
-  "latitude": -9.794208086080976,
-  "longitude": -73.72542603566204,
-  "altitude_km": 583.7010273178448,
-  "altitude_miles": 362.69489104551656,
-  "velocity_km_s": 7.567445589657701,
-  "velocity_km_h": 27242.804122767724,
-  "velocity_mph": 16927.888440568302,
-  "velocity_mps": 4.702191233491195,
-  "heading_degrees": 348.5121868115508,
-  "timestamp": "2025-08-19T03:51:49.306667+00:00",
-  "location_type": "country",
-  "location_name": "Peru"
+  "latitude": 58.186962404754915,
+  "longitude": -92.22199941003004,
+  "altitude_km": 571.4883222073167,
+  "altitude_miles": 355.1062702582826,
+  "velocity_km_s": 7.573597523603342,
+  "velocity_km_h": 27264.951084972032,
+  "velocity_mph": 16941.649920620155,
+  "velocity_mps": 4.706013866838933,
+  "heading_degrees": 343.3624189111132,
+  "timestamp": "2025-08-19T04:10:10.851860+00:00",
+  "location_type": "ocean",
+  "location_name": "Hudson Bay"
 }
