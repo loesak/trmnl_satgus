@@ -1,14 +1,14 @@
 {
-  "latitude": -33.601109825194264,
-  "longitude": 26.821847797324182,
-  "altitude_km": 586.5541785339674,
-  "altitude_miles": 364.46775646982985,
-  "velocity_km_s": 7.561487792284274,
-  "velocity_km_h": 27221.356052223386,
-  "velocity_mph": 16914.5612315261,
-  "velocity_mps": 4.6984892309794715,
-  "heading_degrees": 347.6362905698737,
-  "timestamp": "2025-08-19T21:24:52.967903+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 7.153621619545189,
+  "longitude": 17.963030542101396,
+  "altitude_km": 580.7030432483816,
+  "altitude_miles": 360.8320306862901,
+  "velocity_km_s": 7.570835976273876,
+  "velocity_km_h": 27255.009514585952,
+  "velocity_mph": 16935.472517087786,
+  "velocity_mps": 4.704297921413274,
+  "heading_degrees": 348.54523223494675,
+  "timestamp": "2025-08-19T21:35:50.776688+00:00",
+  "location_type": "country",
+  "location_name": "Central African Republic"
 }
