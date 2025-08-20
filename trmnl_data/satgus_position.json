@@ -1,14 +1,14 @@
 {
-  "latitude": 79.79609610739043,
-  "longitude": 156.70303971107234,
-  "altitude_km": 569.3760917799764,
-  "altitude_miles": 353.7937915254157,
-  "velocity_km_s": 7.573303609634143,
-  "velocity_km_h": 27263.892994682916,
-  "velocity_mph": 16940.99245399912,
-  "velocity_mps": 4.705831237221977,
-  "heading_degrees": 310.506923717306,
-  "timestamp": "2025-08-20T09:10:21.884253+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 38.40990142171576,
+  "longitude": 27.572930100589925,
+  "altitude_km": 575.1577417757071,
+  "altitude_miles": 357.3863411649129,
+  "velocity_km_s": 7.5730641234035865,
+  "velocity_km_h": 27263.030844252913,
+  "velocity_mph": 16940.45673872428,
+  "velocity_mps": 4.70568242742341,
+  "heading_degrees": 192.75599935816308,
+  "timestamp": "2025-08-20T09:25:52.569752+00:00",
+  "location_type": "country",
+  "location_name": "Turkey"
 }
