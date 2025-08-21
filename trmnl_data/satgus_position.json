@@ -1,14 +1,14 @@
 {
-  "latitude": 10.730517303012782,
-  "longitude": -9.20987477968392,
-  "altitude_km": 579.7630371291552,
-  "altitude_miles": 360.2479381439803,
-  "velocity_km_s": 7.571621387982929,
-  "velocity_km_h": 27257.836996738544,
-  "velocity_mph": 16937.229432500426,
-  "velocity_mps": 4.70478595347234,
-  "heading_degrees": 348.5047002369137,
-  "timestamp": "2025-08-21T23:22:34.210193+00:00",
-  "location_type": "country",
-  "location_name": "Guinea"
+  "latitude": 60.74535157433142,
+  "longitude": -25.08330737069364,
+  "altitude_km": 570.8811234749655,
+  "altitude_miles": 354.7289745747628,
+  "velocity_km_s": 7.573798251924633,
+  "velocity_km_h": 27265.67370692868,
+  "velocity_mph": 16942.09893694798,
+  "velocity_mps": 4.706138593596661,
+  "heading_degrees": 342.3254249295693,
+  "timestamp": "2025-08-21T23:36:07.846148+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
