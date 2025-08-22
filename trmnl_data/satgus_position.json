@@ -1,14 +1,14 @@
 {
-  "latitude": 7.500548070202722,
-  "longitude": 110.67043322803045,
-  "altitude_km": 580.2618912888038,
-  "altitude_miles": 360.5579116520153,
-  "velocity_km_s": 7.571245230962871,
-  "velocity_km_h": 27256.482831466335,
-  "velocity_mph": 16936.387993471068,
-  "velocity_mps": 4.7045522204086305,
-  "heading_degrees": 348.5417854093649,
-  "timestamp": "2025-08-22T15:24:50.618293+00:00",
-  "location_type": "ocean",
-  "location_name": "South China Sea"
+  "latitude": 51.95482195594927,
+  "longitude": 98.7524390377937,
+  "altitude_km": 572.0498682812349,
+  "altitude_miles": 355.4551987037792,
+  "velocity_km_s": 7.573978785602735,
+  "velocity_km_h": 27266.32362816985,
+  "velocity_mph": 16942.502779159528,
+  "velocity_mps": 4.706250771988757,
+  "heading_degrees": 345.1802430037289,
+  "timestamp": "2025-08-22T15:36:50.727614+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
