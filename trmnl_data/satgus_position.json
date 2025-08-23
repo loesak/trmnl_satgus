@@ -1,14 +1,14 @@
 {
-  "latitude": -26.916775653309244,
-  "longitude": -3.6319761822806216,
-  "altitude_km": 585.2793111359888,
-  "altitude_miles": 363.6755908398805,
-  "velocity_km_s": 7.563834136019066,
-  "velocity_km_h": 27229.802889668637,
-  "velocity_mph": 16919.80985135629,
-  "velocity_mps": 4.699947180932303,
-  "heading_degrees": 348.03069118846696,
-  "timestamp": "2025-08-23T23:21:51.661343+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 24.995711670796656,
+  "longitude": -14.658809259168315,
+  "altitude_km": 576.712303321533,
+  "altitude_miles": 358.3523006272043,
+  "velocity_km_s": 7.573432729516389,
+  "velocity_km_h": 27264.357826259,
+  "velocity_mph": 16941.281286860383,
+  "velocity_mps": 4.705911468572328,
+  "heading_degrees": 348.1286553724115,
+  "timestamp": "2025-08-23T23:35:48.408653+00:00",
+  "location_type": "country",
+  "location_name": "Morocco"
 }
