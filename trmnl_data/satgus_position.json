@@ -1,14 +1,14 @@
 {
-  "latitude": -63.586681614137575,
-  "longitude": -30.035751370598927,
-  "altitude_km": 588.8249391516547,
-  "altitude_miles": 365.87874126560286,
-  "velocity_km_s": 7.553807022088865,
-  "velocity_km_h": 27193.705279519912,
-  "velocity_mph": 16897.379843240567,
-  "velocity_mps": 4.69371662312238,
-  "heading_degrees": 199.12588373389156,
-  "timestamp": "2025-08-24T11:48:39.137518+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": -78.9961338729225,
+  "longitude": -152.51586588623167,
+  "altitude_km": 588.7352130182699,
+  "altitude_miles": 365.82298804837535,
+  "velocity_km_s": 7.55222008395276,
+  "velocity_km_h": 27187.992302229934,
+  "velocity_mph": 16893.829964828918,
+  "velocity_mps": 4.69273054578581,
+  "heading_degrees": 314.9573251054649,
+  "timestamp": "2025-08-24T11:57:37.218524+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
