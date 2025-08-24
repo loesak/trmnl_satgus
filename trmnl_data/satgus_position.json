@@ -1,14 +1,14 @@
 {
-  "latitude": -47.80032676950576,
-  "longitude": 25.325105957122194,
-  "altitude_km": 587.16870950471,
-  "altitude_miles": 364.8496081936512,
-  "velocity_km_s": 7.558227884961404,
-  "velocity_km_h": 27209.620385861053,
-  "velocity_mph": 16907.26902878287,
-  "velocity_mps": 4.6964636191063525,
-  "heading_degrees": 345.99977327623566,
-  "timestamp": "2025-08-24T21:44:34.577218+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": -10.810776371427975,
+  "longitude": 15.736394730954343,
+  "altitude_km": 583.0445048862575,
+  "altitude_miles": 362.28694704567874,
+  "velocity_km_s": 7.5679949684756656,
+  "velocity_km_h": 27244.781886512395,
+  "velocity_mph": 16929.117365604096,
+  "velocity_mps": 4.702532601556693,
+  "heading_degrees": 348.49802972627117,
+  "timestamp": "2025-08-24T21:54:34.907791+00:00",
+  "location_type": "country",
+  "location_name": "Angola"
 }
