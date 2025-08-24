@@ -1,14 +1,14 @@
 {
-  "latitude": 82.24121809994523,
-  "longitude": 78.3587648503272,
-  "altitude_km": 569.2150610159961,
-  "altitude_miles": 353.6937316785705,
-  "velocity_km_s": 7.573267906197369,
-  "velocity_km_h": 27263.76446231053,
-  "velocity_mph": 16940.912587710358,
-  "velocity_mps": 4.705809052141766,
-  "heading_degrees": 262.4970394166078,
-  "timestamp": "2025-08-24T11:07:36.151432+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 40.89263158845412,
+  "longitude": -0.4706513129903461,
+  "altitude_km": 574.8914188658864,
+  "altitude_miles": 357.2208558321147,
+  "velocity_km_s": 7.572841955496222,
+  "velocity_km_h": 27262.2310397864,
+  "velocity_mph": 16939.959763423114,
+  "velocity_mps": 4.705544378728643,
+  "heading_degrees": 193.01609560779266,
+  "timestamp": "2025-08-24T11:20:21.569341+00:00",
+  "location_type": "country",
+  "location_name": "Spain"
 }
