@@ -1,14 +1,14 @@
 {
-  "latitude": 9.035817465997429,
-  "longitude": -12.380819035474737,
-  "altitude_km": 579.6679407474985,
-  "altitude_miles": 360.1888480102139,
-  "velocity_km_s": 7.5717783307702655,
-  "velocity_km_h": 27258.401990772956,
-  "velocity_mph": 16937.580503408582,
-  "velocity_mps": 4.70488347316905,
-  "heading_degrees": 348.52589018274034,
-  "timestamp": "2025-08-24T23:36:13.123006+00:00",
-  "location_type": "country",
-  "location_name": "Sierra Leone"
+  "latitude": 43.28523077956319,
+  "longitude": -20.76395540388675,
+  "altitude_km": 573.2703714920317,
+  "altitude_miles": 356.2135840043752,
+  "velocity_km_s": 7.574168787865884,
+  "velocity_km_h": 27267.007636317183,
+  "velocity_mph": 16942.927801986043,
+  "velocity_mps": 4.706368833885012,
+  "heading_degrees": 346.7002176332409,
+  "timestamp": "2025-08-24T23:45:26.682563+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
