@@ -1,14 +1,14 @@
 {
-  "latitude": 40.881756319560296,
-  "longitude": 46.51202207987402,
-  "altitude_km": 574.9252184676188,
-  "altitude_miles": 357.2418579244428,
-  "velocity_km_s": 7.572794037187541,
-  "velocity_km_h": 27262.058533875148,
-  "velocity_mph": 16939.852573252534,
-  "velocity_mps": 4.70551460368126,
-  "heading_degrees": 193.01503475678186,
-  "timestamp": "2025-08-25T08:12:25.562218+00:00",
-  "location_type": "country",
-  "location_name": "Azerbaijan"
+  "latitude": -37.209889547107736,
+  "longitude": 28.656504483520024,
+  "altitude_km": 587.5190832667386,
+  "altitude_miles": 365.0673202885366,
+  "velocity_km_s": 7.559731653681325,
+  "velocity_km_h": 27215.033953252772,
+  "velocity_mph": 16910.63286256663,
+  "velocity_mps": 4.697398017379618,
+  "heading_degrees": 192.6512198666273,
+  "timestamp": "2025-08-25T08:33:27.214810+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
