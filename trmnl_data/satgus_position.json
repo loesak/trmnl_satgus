@@ -1,14 +1,14 @@
 {
-  "latitude": 44.42233251678225,
-  "longitude": 25.847856042406786,
-  "altitude_km": 573.102998673483,
-  "altitude_miles": 356.10958338874076,
-  "velocity_km_s": 7.574133303301834,
-  "velocity_km_h": 27266.8798918866,
-  "velocity_mph": 16942.84842530147,
-  "velocity_mps": 4.706346784805964,
-  "heading_degrees": 346.5460808285071,
-  "timestamp": "2025-08-25T20:37:48.776986+00:00",
-  "location_type": "country",
-  "location_name": "Romania"
+  "latitude": 79.50225809777835,
+  "longitude": -15.868282672291127,
+  "altitude_km": 569.2782181811945,
+  "altitude_miles": 353.732975709467,
+  "velocity_km_s": 7.57333404025926,
+  "velocity_km_h": 27264.002544933337,
+  "velocity_mph": 16941.060525347773,
+  "velocity_mps": 4.7058501459299364,
+  "heading_degrees": 312.26665373973503,
+  "timestamp": "2025-08-25T20:47:57.726835+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
