@@ -1,14 +1,14 @@
 {
-  "latitude": 13.076129165051507,
-  "longitude": 56.67982678511495,
-  "altitude_km": 578.8087522906344,
-  "altitude_miles": 359.6549732195838,
-  "velocity_km_s": 7.572413216081928,
-  "velocity_km_h": 27260.687577894943,
-  "velocity_mph": 16939.00070096416,
-  "velocity_mps": 4.705277972490044,
-  "heading_degrees": 348.4683593750928,
-  "timestamp": "2025-08-26T18:57:43.369550+00:00",
-  "location_type": "ocean",
-  "location_name": "Arabian Sea"
+  "latitude": 56.50983253652691,
+  "longitude": 43.761477528948625,
+  "altitude_km": 571.26708598819,
+  "altitude_miles": 354.96880048756765,
+  "velocity_km_s": 7.573982824721047,
+  "velocity_km_h": 27266.338168995768,
+  "velocity_mph": 16942.51181440707,
+  "velocity_mps": 4.706253281779742,
+  "heading_degrees": 343.9353265414148,
+  "timestamp": "2025-08-26T19:09:28.776809+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
