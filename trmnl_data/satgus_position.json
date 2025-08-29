@@ -1,14 +1,14 @@
 {
-  "latitude": 69.70116749519869,
-  "longitude": -61.834939043982324,
-  "altitude_km": 570.749010692386,
-  "altitude_miles": 354.6468835229386,
-  "velocity_km_s": 7.572557536897577,
-  "velocity_km_h": 27261.207132831278,
-  "velocity_mph": 16939.323537334505,
-  "velocity_mps": 4.705367649259585,
-  "heading_degrees": 203.90871398592625,
-  "timestamp": "2025-08-29T16:24:37.497443+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 11.879150921917441,
+  "longitude": -85.56493179376075,
+  "altitude_km": 581.000649686689,
+  "altitude_miles": 361.0169546964677,
+  "velocity_km_s": 7.570047686382192,
+  "velocity_km_h": 27252.17167097589,
+  "velocity_mph": 16933.709163365962,
+  "velocity_mps": 4.703808100934989,
+  "heading_degrees": 191.51448441265063,
+  "timestamp": "2025-08-29T16:40:25.252313+00:00",
+  "location_type": "country",
+  "location_name": "Nicaragua"
 }
