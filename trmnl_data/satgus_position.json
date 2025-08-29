@@ -1,14 +1,14 @@
 {
-  "latitude": 41.65676254050487,
-  "longitude": 46.17452408536634,
-  "altitude_km": 573.4890847111737,
-  "altitude_miles": 356.3494860560667,
-  "velocity_km_s": 7.5741204898611585,
-  "velocity_km_h": 27266.83376350017,
-  "velocity_mph": 16942.819762459865,
-  "velocity_mps": 4.706338822905518,
-  "heading_degrees": 346.9041838997392,
-  "timestamp": "2025-08-29T19:19:21.605830+00:00",
-  "location_type": "country",
-  "location_name": "Georgia"
+  "latitude": 74.86071930099078,
+  "longitude": 20.80912006041854,
+  "altitude_km": 569.6955158397186,
+  "altitude_miles": 353.9922723728418,
+  "velocity_km_s": 7.573156135072892,
+  "velocity_km_h": 27263.362086262412,
+  "velocity_mph": 16940.662562902962,
+  "velocity_mps": 4.705739600806378,
+  "heading_degrees": 328.3312555018739,
+  "timestamp": "2025-08-29T19:28:40.403465+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
