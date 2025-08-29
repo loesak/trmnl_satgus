@@ -1,14 +1,14 @@
 {
-  "latitude": 11.879150921917441,
-  "longitude": -85.56493179376075,
-  "altitude_km": 581.000649686689,
-  "altitude_miles": 361.0169546964677,
-  "velocity_km_s": 7.570047686382192,
-  "velocity_km_h": 27252.17167097589,
-  "velocity_mph": 16933.709163365962,
-  "velocity_mps": 4.703808100934989,
-  "heading_degrees": 191.51448441265063,
-  "timestamp": "2025-08-29T16:40:25.252313+00:00",
-  "location_type": "country",
-  "location_name": "Nicaragua"
+  "latitude": -28.704944740291758,
+  "longitude": -94.15990335290783,
+  "altitude_km": 586.6958113203682,
+  "altitude_miles": 364.5557629759485,
+  "velocity_km_s": 7.561919554015561,
+  "velocity_km_h": 27222.91039445602,
+  "velocity_mph": 16915.52705471353,
+  "velocity_mps": 4.698757515198203,
+  "heading_degrees": 192.05567943538304,
+  "timestamp": "2025-08-29T16:51:19.870847+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
