@@ -1,14 +1,14 @@
 {
-  "latitude": 37.7865379123018,
-  "longitude": -7.208475734147321,
-  "altitude_km": 575.9191887723946,
-  "altitude_miles": 357.8594822466916,
-  "velocity_km_s": 7.5721668912589,
-  "velocity_km_h": 27259.80080853204,
-  "velocity_mph": 16938.44968819836,
-  "velocity_mps": 4.705124913388434,
-  "heading_degrees": 192.69702116552276,
-  "timestamp": "2025-08-29T11:44:31.083937+00:00",
-  "location_type": "country",
-  "location_name": "Portugal"
+  "latitude": 0.08331543894147769,
+  "longitude": -15.741326525457799,
+  "altitude_km": 583.0484579830072,
+  "altitude_miles": 362.28940338535915,
+  "velocity_km_s": 7.568255059967859,
+  "velocity_km_h": 27245.71821588429,
+  "velocity_mph": 16929.69917352224,
+  "velocity_mps": 4.702694214867289,
+  "heading_degrees": 191.42565748278236,
+  "timestamp": "2025-08-29T11:54:39.619838+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
