@@ -1,14 +1,14 @@
 {
-  "latitude": 45.20462909145533,
-  "longitude": -6.052725318882023,
-  "altitude_km": 574.5980047832272,
-  "altitude_miles": 357.0385368301587,
-  "velocity_km_s": 7.572254227103749,
-  "velocity_km_h": 27260.115217573497,
-  "velocity_mph": 16938.64505285886,
-  "velocity_mps": 4.705179181349684,
-  "heading_degrees": 193.5709566863626,
-  "timestamp": "2025-08-30T11:47:07.619253+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 12.343481451669444,
+  "longitude": -14.390973413275525,
+  "altitude_km": 580.9363602915491,
+  "altitude_miles": 360.9770071307202,
+  "velocity_km_s": 7.5700605829085115,
+  "velocity_km_h": 27252.218098470643,
+  "velocity_mph": 16933.7380120648,
+  "velocity_mps": 4.703816114462445,
+  "heading_degrees": 191.5215331858785,
+  "timestamp": "2025-08-30T11:55:59.514767+00:00",
+  "location_type": "country",
+  "location_name": "Guinea-Bissau"
 }
