@@ -1,14 +1,14 @@
 {
-  "latitude": -82.22952042237354,
-  "longitude": 20.75276727799051,
-  "altitude_km": 587.5415956475808,
-  "altitude_miles": 365.081308829133,
-  "velocity_km_s": 7.553142932521718,
-  "velocity_km_h": 27191.314557078185,
-  "velocity_mph": 16895.89431764623,
-  "velocity_mps": 4.693303977123953,
-  "heading_degrees": 278.2360018361973,
-  "timestamp": "2025-09-01T02:55:05.471948+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 56.37457000644713,
+  "longitude": -82.32582006933485,
+  "altitude_km": 571.5436058723517,
+  "altitude_miles": 355.14062192450905,
+  "velocity_km_s": 7.573557831826623,
+  "velocity_km_h": 27264.808194575842,
+  "velocity_mph": 16941.561132671784,
+  "velocity_mps": 4.70598920351994,
+  "heading_degrees": 343.98271810589387,
+  "timestamp": "2025-09-01T03:34:07.365544+00:00",
+  "location_type": "ocean",
+  "location_name": "Hudson Bay"
 }
