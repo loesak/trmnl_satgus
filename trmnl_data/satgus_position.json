@@ -1,14 +1,14 @@
 {
-  "latitude": 74.09754906494068,
-  "longitude": 162.39167865111344,
-  "altitude_km": 570.0518358783283,
-  "altitude_miles": 354.21367931155277,
-  "velocity_km_s": 7.572728007082598,
-  "velocity_km_h": 27261.820825497354,
-  "velocity_mph": 16939.704868160115,
-  "velocity_mps": 4.705473574488921,
-  "heading_degrees": 329.8673104073193,
-  "timestamp": "2025-09-02T10:08:58.536270+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 48.27055071731306,
+  "longitude": 15.685819148964228,
+  "altitude_km": 574.2339244920695,
+  "altitude_miles": 356.81230789556173,
+  "velocity_km_s": 7.572006185958189,
+  "velocity_km_h": 27259.22226944948,
+  "velocity_mph": 16938.090200790095,
+  "velocity_mps": 4.705025055775026,
+  "heading_degrees": 194.0706761829426,
+  "timestamp": "2025-09-02T10:23:45.223949+00:00",
+  "location_type": "country",
+  "location_name": "Austria"
 }
