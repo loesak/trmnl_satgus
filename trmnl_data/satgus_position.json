@@ -1,14 +1,14 @@
 {
-  "latitude": -45.50411672496384,
-  "longitude": 160.15227365160086,
-  "altitude_km": 587.2154707781337,
-  "altitude_miles": 364.87866429287976,
-  "velocity_km_s": 7.55835832541757,
-  "velocity_km_h": 27210.089971503254,
-  "velocity_mph": 16907.560815682948,
-  "velocity_mps": 4.696544671023041,
-  "heading_degrees": 193.61836434660455,
-  "timestamp": "2025-09-02T23:39:28.853988+00:00",
-  "location_type": "ocean",
-  "location_name": "Tasman Sea"
+  "latitude": -78.02904541377791,
+  "longitude": 126.16475567525943,
+  "altitude_km": 587.4520999975393,
+  "altitude_miles": 365.02569882757103,
+  "velocity_km_s": 7.5534421279406665,
+  "velocity_km_h": 27192.3916605864,
+  "velocity_mph": 16896.563598530232,
+  "velocity_mps": 4.69348988848062,
+  "heading_degrees": 220.7688502178683,
+  "timestamp": "2025-09-02T23:48:50.072891+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
