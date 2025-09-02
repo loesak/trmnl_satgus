@@ -1,14 +1,14 @@
 {
-  "latitude": 36.69917794844087,
-  "longitude": 132.3493856323841,
-  "altitude_km": 576.3302064916052,
-  "altitude_miles": 358.1148767378952,
-  "velocity_km_s": 7.571798845229435,
-  "velocity_km_h": 27258.475842825967,
-  "velocity_mph": 16937.626392932612,
-  "velocity_mps": 4.70489622025906,
-  "heading_degrees": 192.59830388454907,
-  "timestamp": "2025-09-02T02:25:22.439671+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Japan"
+  "latitude": -81.92614992433232,
+  "longitude": 46.132631239162244,
+  "altitude_km": 587.4419231687016,
+  "altitude_miles": 365.0193752412593,
+  "velocity_km_s": 7.553236520273107,
+  "velocity_km_h": 27191.651472983187,
+  "velocity_mph": 16896.103667419036,
+  "velocity_mps": 4.693362129838621,
+  "heading_degrees": 252.43700032192373,
+  "timestamp": "2025-09-02T02:58:41.841263+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
