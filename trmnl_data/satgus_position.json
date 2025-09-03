@@ -1,14 +1,14 @@
 {
-  "latitude": 25.07126333322209,
-  "longitude": 93.00767959148828,
-  "altitude_km": 576.2755990081114,
-  "altitude_miles": 358.0809452312692,
-  "velocity_km_s": 7.573601625005017,
-  "velocity_km_h": 27264.96585001806,
-  "velocity_mph": 16941.65909519157,
-  "velocity_mps": 4.706016415330993,
-  "heading_degrees": 348.1280386036501,
-  "timestamp": "2025-09-03T16:25:10.124742+00:00",
-  "location_type": "country",
-  "location_name": "India"
+  "latitude": 78.16548278343124,
+  "longitude": 52.79920052243666,
+  "altitude_km": 569.9274961232295,
+  "altitude_miles": 354.13641819358725,
+  "velocity_km_s": 7.572445437544838,
+  "velocity_km_h": 27260.803575161415,
+  "velocity_mph": 16939.072778301623,
+  "velocity_mps": 4.705297993972674,
+  "heading_degrees": 318.69486539727893,
+  "timestamp": "2025-09-03T16:40:02.954232+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
