@@ -1,14 +1,14 @@
 {
-  "latitude": -27.23498931724106,
-  "longitude": 7.8240120836095395,
-  "altitude_km": 583.7284451561554,
-  "altitude_miles": 362.71192769512544,
-  "velocity_km_s": 7.5651665588701995,
-  "velocity_km_h": 27234.599611932717,
-  "velocity_mph": 16922.790395466243,
-  "velocity_mps": 4.700775109851735,
-  "heading_degrees": 348.0190695029777,
-  "timestamp": "2025-09-03T22:36:19.528821+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 6.774285214525746,
+  "longitude": 0.6369805807348365,
+  "altitude_km": 579.2735302043693,
+  "altitude_miles": 359.94377273661917,
+  "velocity_km_s": 7.572019298117897,
+  "velocity_km_h": 27259.269473224427,
+  "velocity_mph": 16938.119531846936,
+  "velocity_mps": 4.7050332032908155,
+  "heading_degrees": 348.55126023350005,
+  "timestamp": "2025-09-03T22:45:27.683147+00:00",
+  "location_type": "country",
+  "location_name": "Togo"
 }
