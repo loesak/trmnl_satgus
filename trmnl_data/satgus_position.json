@@ -1,14 +1,14 @@
 {
-  "latitude": -0.469401223591398,
-  "longitude": 48.00060202226766,
-  "altitude_km": 580.3425209756324,
-  "altitude_miles": 360.6080126011497,
-  "velocity_km_s": 7.570963424417037,
-  "velocity_km_h": 27255.468327901333,
-  "velocity_mph": 16935.75761037638,
-  "velocity_mps": 4.704377113993439,
-  "heading_degrees": 348.5779606940109,
-  "timestamp": "2025-09-05T19:39:56.920436+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 34.99040040908446,
+  "longitude": 40.13316600839694,
+  "altitude_km": 574.6255417242392,
+  "altitude_miles": 357.0556474867322,
+  "velocity_km_s": 7.5738189585370215,
+  "velocity_km_h": 27265.74825073328,
+  "velocity_mph": 16942.145256306387,
+  "velocity_mps": 4.706151460085108,
+  "heading_degrees": 347.5487732900894,
+  "timestamp": "2025-09-05T19:49:28.605858+00:00",
+  "location_type": "country",
+  "location_name": "Syria"
 }
