@@ -1,14 +1,14 @@
 {
-  "latitude": 43.01405640703713,
-  "longitude": 10.467185864789077,
-  "altitude_km": 575.1696553899928,
-  "altitude_miles": 357.39374393933525,
-  "velocity_km_s": 7.571828987755107,
-  "velocity_km_h": 27258.584355918385,
-  "velocity_mph": 16937.693819821365,
-  "velocity_mps": 4.704914949950378,
-  "heading_degrees": 193.26860717200637,
-  "timestamp": "2025-09-05T10:38:46.098828+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 7.736291234702255,
+  "longitude": 1.9059395694108436,
+  "altitude_km": 581.5440521814235,
+  "altitude_miles": 361.3546092480233,
+  "velocity_km_s": 7.569482962437049,
+  "velocity_km_h": 27250.138664773378,
+  "velocity_mph": 16932.4459122689,
+  "velocity_mps": 4.7034571978524715,
+  "heading_degrees": 191.46114362256276,
+  "timestamp": "2025-09-05T10:48:16.474678+00:00",
+  "location_type": "country",
+  "location_name": "Benin"
 }
