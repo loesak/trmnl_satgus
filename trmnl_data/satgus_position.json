@@ -1,14 +1,14 @@
 {
-  "latitude": 23.34567385961887,
-  "longitude": 163.3736636662531,
-  "altitude_km": 576.5667191685989,
-  "altitude_miles": 358.2618388565115,
-  "velocity_km_s": 7.573479503864127,
-  "velocity_km_h": 27264.526213910856,
-  "velocity_mph": 16941.385918064003,
-  "velocity_mps": 4.705940532795557,
-  "heading_degrees": 348.196636641685,
-  "timestamp": "2025-09-05T11:44:50.370500+00:00",
-  "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "latitude": 60.36923183681267,
+  "longitude": 150.467447558312,
+  "altitude_km": 571.1780795067452,
+  "altitude_miles": 354.9134944411858,
+  "velocity_km_s": 7.573161888238284,
+  "velocity_km_h": 27263.38279765782,
+  "velocity_mph": 16940.675432363438,
+  "velocity_mps": 4.705743175656511,
+  "heading_degrees": 342.49515707352566,
+  "timestamp": "2025-09-05T11:54:54.427976+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
