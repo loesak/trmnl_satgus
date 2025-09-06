@@ -1,14 +1,14 @@
 {
-  "latitude": -22.591709130792974,
-  "longitude": 51.52180532714075,
-  "altitude_km": 583.1036158449187,
-  "altitude_miles": 362.323676881173,
-  "velocity_km_s": 7.566422105538271,
-  "velocity_km_h": 27239.119579937775,
-  "velocity_mph": 16925.598972505515,
-  "velocity_mps": 4.701555270140421,
-  "heading_degrees": 348.21474071472966,
-  "timestamp": "2025-09-06T19:38:29.833962+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 12.161827094737212,
+  "longitude": 44.30238200087035,
+  "altitude_km": 578.3888433239927,
+  "altitude_miles": 359.39405396507266,
+  "velocity_km_s": 7.572613023315501,
+  "velocity_km_h": 27261.406883935804,
+  "velocity_mph": 16939.447656878074,
+  "velocity_mps": 4.705402126910577,
+  "heading_degrees": 348.4863351422319,
+  "timestamp": "2025-09-06T19:47:49.574182+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
