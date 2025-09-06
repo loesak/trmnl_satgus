@@ -1,14 +1,14 @@
 {
-  "latitude": -35.573292757220734,
-  "longitude": -64.5342956785997,
-  "altitude_km": 584.3885146930907,
-  "altitude_miles": 363.12207576336044,
-  "velocity_km_s": 7.5630819603537205,
-  "velocity_km_h": 27227.095057273393,
-  "velocity_mph": 16918.127282833026,
-  "velocity_mps": 4.699479800786952,
-  "heading_degrees": 347.488990810862,
-  "timestamp": "2025-09-06T03:31:59.981606+00:00",
-  "location_type": "country",
-  "location_name": "Argentina"
+  "latitude": 17.103345741776646,
+  "longitude": -75.99605653502704,
+  "altitude_km": 577.6421671636936,
+  "altitude_miles": 358.93009105267146,
+  "velocity_km_s": 7.573013902179085,
+  "velocity_km_h": 27262.850047844706,
+  "velocity_mph": 16940.344397079312,
+  "velocity_mps": 4.70565122141092,
+  "heading_degrees": 348.3876408691552,
+  "timestamp": "2025-09-06T03:46:09.668796+00:00",
+  "location_type": "ocean",
+  "location_name": "Caribbean Sea"
 }
