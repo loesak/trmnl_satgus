@@ -1,14 +1,14 @@
 {
-  "latitude": 36.824949885868406,
-  "longitude": -9.640224106954046,
-  "altitude_km": 574.3549076961281,
-  "altitude_miles": 356.8874833500508,
-  "velocity_km_s": 7.573770838070691,
-  "velocity_km_h": 27265.575017054485,
-  "velocity_mph": 16942.037613922163,
-  "velocity_mps": 4.706121559422823,
-  "heading_degrees": 347.3971585920716,
-  "timestamp": "2025-09-06T23:07:03.621114+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": 81.5843608861132,
+  "longitude": -72.99155292575435,
+  "altitude_km": 569.9939869054724,
+  "altitude_miles": 354.1777336374403,
+  "velocity_km_s": 7.572081984663822,
+  "velocity_km_h": 27259.495144789762,
+  "velocity_mph": 16938.25975761316,
+  "velocity_mps": 4.705072154892544,
+  "heading_degrees": 293.6975528093716,
+  "timestamp": "2025-09-06T23:20:16.390510+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
