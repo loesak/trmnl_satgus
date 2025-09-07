@@ -1,14 +1,14 @@
 {
-  "latitude": 72.93406049624518,
-  "longitude": 62.74745158700291,
-  "altitude_km": 570.1993362474159,
-  "altitude_miles": 354.30533176339304,
-  "velocity_km_s": 7.572512484150908,
-  "velocity_km_h": 27261.04494294327,
-  "velocity_mph": 16939.2227572416,
-  "velocity_mps": 4.705339654789334,
-  "heading_degrees": 331.88895947230486,
-  "timestamp": "2025-09-07T16:56:22.303839+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 61.37485837560092,
+  "longitude": -79.72613395645364,
+  "altitude_km": 572.2018246543876,
+  "altitude_miles": 355.5496199873215,
+  "velocity_km_s": 7.571829492866111,
+  "velocity_km_h": 27258.586174318,
+  "velocity_mph": 16937.69494972215,
+  "velocity_mps": 4.704915263811708,
+  "heading_degrees": 197.96822251261244,
+  "timestamp": "2025-09-07T17:07:53.736708+00:00",
+  "location_type": "ocean",
+  "location_name": "Hudson Bay"
 }
