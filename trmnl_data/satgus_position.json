@@ -1,14 +1,14 @@
 {
-  "latitude": 77.15071512167034,
-  "longitude": -57.71128813669172,
-  "altitude_km": 570.4100745739115,
-  "altitude_miles": 354.436278448066,
-  "velocity_km_s": 7.571874484774262,
-  "velocity_km_h": 27258.748145187343,
-  "velocity_mph": 16937.795593723204,
-  "velocity_mps": 4.704943220478668,
-  "heading_degrees": 217.66300471840353,
-  "timestamp": "2025-09-08T17:07:42.455295+00:00",
-  "location_type": "country",
-  "location_name": "Greenland"
+  "latitude": 28.399992540921957,
+  "longitude": -93.22182912431983,
+  "altitude_km": 577.7413529511878,
+  "altitude_miles": 358.9917222246325,
+  "velocity_km_s": 7.571404018228094,
+  "velocity_km_h": 27257.05446562114,
+  "velocity_mph": 16936.743190357472,
+  "velocity_mps": 4.704650886210409,
+  "heading_degrees": 192.0338216256406,
+  "timestamp": "2025-09-08T17:21:20.878955+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Mexico"
 }
