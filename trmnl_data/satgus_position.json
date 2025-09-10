@@ -1,14 +1,14 @@
 {
-  "latitude": 14.328838965491403,
-  "longitude": -2.3019227195812113,
-  "altitude_km": 580.1725121904501,
-  "altitude_miles": 360.5023740722922,
-  "velocity_km_s": 7.570422640047614,
-  "velocity_km_h": 27253.52150417141,
-  "velocity_mph": 16934.547910568494,
-  "velocity_mps": 4.704041086269026,
-  "heading_degrees": 191.55577973620424,
-  "timestamp": "2025-09-10T11:08:50.677602+00:00",
-  "location_type": "country",
-  "location_name": "Mali"
+  "latitude": -32.31719824545752,
+  "longitude": -12.312257822459474,
+  "altitude_km": 585.8586853728457,
+  "altitude_miles": 364.0355971888105,
+  "velocity_km_s": 7.561929654740494,
+  "velocity_km_h": 27222.94675706578,
+  "velocity_mph": 16915.54964938472,
+  "velocity_mps": 4.698763791495756,
+  "heading_degrees": 192.26818366563424,
+  "timestamp": "2025-09-10T11:21:23.241252+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
