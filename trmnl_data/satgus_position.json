@@ -1,14 +1,14 @@
 {
-  "latitude": -17.83235144547931,
-  "longitude": 142.31722048267315,
-  "altitude_km": 582.4928192826665,
-  "altitude_miles": 361.9441456104897,
-  "velocity_km_s": 7.567558892372187,
-  "velocity_km_h": 27243.212012539872,
-  "velocity_mph": 16928.141891443913,
-  "velocity_mps": 4.7022616365121985,
-  "heading_degrees": 348.3622126728284,
-  "timestamp": "2025-09-10T13:32:25.205825+00:00",
-  "location_type": "country",
-  "location_name": "Australia"
+  "latitude": 34.64047326405132,
+  "longitude": 130.9534419490936,
+  "altitude_km": 574.6271448170955,
+  "altitude_miles": 357.0566436021435,
+  "velocity_km_s": 7.5737714184266,
+  "velocity_km_h": 27265.57710633576,
+  "velocity_mph": 16942.038912140957,
+  "velocity_mps": 4.706121920039155,
+  "heading_degrees": 347.5762860054775,
+  "timestamp": "2025-09-10T13:46:30.869029+00:00",
+  "location_type": "ocean",
+  "location_name": "Sea of Japan"
 }
