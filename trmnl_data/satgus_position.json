@@ -1,14 +1,14 @@
 {
-  "latitude": 73.81911433514423,
-  "longitude": 26.43038578209166,
-  "altitude_km": 570.6491289313226,
-  "altitude_miles": 354.58481989318483,
-  "velocity_km_s": 7.571864235694401,
-  "velocity_km_h": 27258.711248499843,
-  "velocity_mph": 16937.772667191595,
-  "velocity_mps": 4.704936851997665,
-  "heading_degrees": 209.62370487313666,
-  "timestamp": "2025-09-11T10:56:54.872737+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 32.19057996385022,
+  "longitude": 0.6919640685097207,
+  "altitude_km": 576.930994628181,
+  "altitude_miles": 358.4881890631075,
+  "velocity_km_s": 7.571649400615199,
+  "velocity_km_h": 27257.937842214717,
+  "velocity_mph": 16937.292094954802,
+  "velocity_mps": 4.704803359709667,
+  "heading_degrees": 192.25591393111256,
+  "timestamp": "2025-09-11T11:08:28.261429+00:00",
+  "location_type": "country",
+  "location_name": "Algeria"
 }
