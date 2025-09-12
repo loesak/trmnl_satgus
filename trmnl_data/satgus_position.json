@@ -1,14 +1,14 @@
 {
-  "latitude": -77.79597716801237,
-  "longitude": -35.134680183583995,
-  "altitude_km": 586.2231539932582,
-  "altitude_miles": 364.2620674199448,
-  "velocity_km_s": 7.554564744333981,
-  "velocity_km_h": 27196.43307960233,
-  "velocity_mph": 16899.07481910558,
-  "velocity_mps": 4.69418744975155,
-  "heading_degrees": 320.1110397494361,
-  "timestamp": "2025-09-12T03:46:45.344375+00:00",
-  "location_type": "ocean",
-  "location_name": "Weddell Sea"
+  "latitude": -45.23394498584744,
+  "longitude": -68.26613054576546,
+  "altitude_km": 584.8083282301413,
+  "altitude_miles": 363.38293572069114,
+  "velocity_km_s": 7.560793599642238,
+  "velocity_km_h": 27218.85695871206,
+  "velocity_mph": 16913.00836729187,
+  "velocity_mps": 4.698057879803297,
+  "heading_degrees": 346.41863151113046,
+  "timestamp": "2025-09-12T03:56:05.797935+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
