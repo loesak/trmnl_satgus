@@ -1,14 +1,14 @@
 {
-  "latitude": 3.4965636202244066,
-  "longitude": 111.64041289498938,
-  "altitude_km": 579.6007757515345,
-  "altitude_miles": 360.14711362950675,
-  "velocity_km_s": 7.571596140412673,
-  "velocity_km_h": 27257.74610548562,
-  "velocity_mph": 16937.172955311707,
-  "velocity_mps": 4.704770265364363,
-  "heading_degrees": 348.5722426271835,
-  "timestamp": "2025-09-12T15:23:17.786419+00:00",
-  "location_type": "ocean",
-  "location_name": "South China Sea"
+  "latitude": 50.53638450178012,
+  "longitude": 99.5046625422125,
+  "altitude_km": 572.2714231305299,
+  "altitude_miles": 355.5928664620405,
+  "velocity_km_s": 7.573482530481655,
+  "velocity_km_h": 27264.53710973396,
+  "velocity_mph": 16941.3926884125,
+  "velocity_mps": 4.705942413447917,
+  "heading_degrees": 345.496825401962,
+  "timestamp": "2025-09-12T15:35:58.938892+00:00",
+  "location_type": "country",
+  "location_name": "Mongolia"
 }
