@@ -1,14 +1,14 @@
 {
-  "latitude": 51.45537276143125,
-  "longitude": 5.774511503054489,
-  "altitude_km": 573.5557011760857,
-  "altitude_miles": 356.39087959548556,
-  "velocity_km_s": 7.571924935946537,
-  "velocity_km_h": 27258.929769407536,
-  "velocity_mph": 16937.90844974653,
-  "velocity_mps": 4.704974569374036,
-  "heading_degrees": 194.70945759210252,
-  "timestamp": "2025-09-12T11:07:40.030844+00:00",
-  "location_type": "country",
-  "location_name": "Netherlands"
+  "latitude": 2.586412858448462,
+  "longitude": -6.927832161608975,
+  "altitude_km": 582.0252635247225,
+  "altitude_miles": 361.6536200216203,
+  "velocity_km_s": 7.568977664004145,
+  "velocity_km_h": 27248.31959041492,
+  "velocity_mph": 16931.31559221571,
+  "velocity_mps": 4.7031432200599195,
+  "heading_degrees": 191.4273680510738,
+  "timestamp": "2025-09-12T11:20:51.357743+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
