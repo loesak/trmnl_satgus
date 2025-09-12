@@ -1,14 +1,14 @@
 {
-  "latitude": 39.055820701764695,
-  "longitude": 7.140107479289799,
-  "altitude_km": 573.9096725408535,
-  "altitude_miles": 356.6108271363827,
-  "velocity_km_s": 7.573753258477747,
-  "velocity_km_h": 27265.511730519887,
-  "velocity_mph": 16941.998289504874,
-  "velocity_mps": 4.706110635973576,
-  "heading_degrees": 347.189171978204,
-  "timestamp": "2025-09-12T21:58:02.280754+00:00",
-  "location_type": "ocean",
-  "location_name": "Mediterranean Sea"
+  "latitude": 80.55574867939599,
+  "longitude": -43.826640309808234,
+  "altitude_km": 569.8953769397922,
+  "altitude_miles": 354.1164602644556,
+  "velocity_km_s": 7.572133782272483,
+  "velocity_km_h": 27259.68161618094,
+  "velocity_mph": 16938.375625527966,
+  "velocity_mps": 4.705104340424435,
+  "heading_degrees": 305.03050712870834,
+  "timestamp": "2025-09-12T22:10:05.485222+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
