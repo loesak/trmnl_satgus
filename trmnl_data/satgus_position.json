@@ -1,14 +1,14 @@
 {
-  "latitude": 77.01543188184523,
-  "longitude": -145.4488508347696,
-  "altitude_km": 569.9681932221038,
-  "altitude_miles": 354.1617061906118,
-  "velocity_km_s": 7.572297239712033,
-  "velocity_km_h": 27260.27006296332,
-  "velocity_mph": 16938.74126929358,
-  "velocity_mps": 4.705205908137105,
-  "heading_degrees": 322.7775941671718,
-  "timestamp": "2025-09-13T06:10:13.339873+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 40.66476143973416,
+  "longitude": 73.06243326357308,
+  "altitude_km": 575.3848059514785,
+  "altitude_miles": 357.52743225887616,
+  "velocity_km_s": 7.571857971116562,
+  "velocity_km_h": 27258.688696019624,
+  "velocity_mph": 16937.75865373441,
+  "velocity_mps": 4.7049329593706695,
+  "heading_degrees": 192.98715665535858,
+  "timestamp": "2025-09-13T06:26:08.330816+00:00",
+  "location_type": "country",
+  "location_name": "Kyrgyzstan"
 }
