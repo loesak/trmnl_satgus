@@ -1,14 +1,14 @@
 {
-  "latitude": -64.27714426342617,
-  "longitude": 34.492988533120354,
-  "altitude_km": 585.5140970803486,
-  "altitude_miles": 363.8214800169133,
-  "velocity_km_s": 7.55678857964375,
-  "velocity_km_h": 27204.4388867175,
-  "velocity_mph": 16904.04939547854,
-  "velocity_mps": 4.695569276521817,
-  "heading_degrees": 340.4672922867473,
-  "timestamp": "2025-09-14T21:38:52.766794+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": -30.93244237570548,
+  "longitude": 20.573494375709885,
+  "altitude_km": 583.5592847132448,
+  "altitude_miles": 362.60681630155364,
+  "velocity_km_s": 7.564578757429864,
+  "velocity_km_h": 27232.48352674751,
+  "velocity_mph": 16921.47552149863,
+  "velocity_mps": 4.700409867082952,
+  "heading_degrees": 347.8180404694505,
+  "timestamp": "2025-09-14T21:48:01.755365+00:00",
+  "location_type": "country",
+  "location_name": "South Africa"
 }
