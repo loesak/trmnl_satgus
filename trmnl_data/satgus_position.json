@@ -1,14 +1,14 @@
 {
-  "latitude": -50.066116157959875,
-  "longitude": 49.906262199808985,
-  "altitude_km": 586.3759515159627,
-  "altitude_miles": 364.35701136942527,
-  "velocity_km_s": 7.5581861498595835,
-  "velocity_km_h": 27209.4701394945,
-  "velocity_mph": 16907.175670047836,
-  "velocity_mps": 4.6964376861243995,
-  "heading_degrees": 194.41585471653556,
-  "timestamp": "2025-09-14T06:55:01.051430+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": -78.80282455582781,
+  "longitude": -81.01852971396238,
+  "altitude_km": 586.0781152604259,
+  "altitude_miles": 364.1719445574861,
+  "velocity_km_s": 7.554613205568252,
+  "velocity_km_h": 27196.60754004571,
+  "velocity_mph": 16899.183223765744,
+  "velocity_mps": 4.69421756215715,
+  "heading_degrees": 315.91448309399783,
+  "timestamp": "2025-09-14T07:07:48.342941+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
