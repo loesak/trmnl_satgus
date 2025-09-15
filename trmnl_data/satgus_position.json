@@ -1,14 +1,14 @@
 {
-  "latitude": 74.79824433646803,
-  "longitude": 74.13874079106927,
-  "altitude_km": 570.1394732189392,
-  "altitude_miles": 354.2681346135255,
-  "velocity_km_s": 7.5722602933541845,
-  "velocity_km_h": 27260.137056075066,
-  "velocity_mph": 16938.65862267042,
-  "velocity_mps": 4.705182950741783,
-  "heading_degrees": 328.47043460735534,
-  "timestamp": "2025-09-15T15:56:04.072744+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 50.68243841516382,
+  "longitude": -70.06370857086547,
+  "altitude_km": 573.7369190590243,
+  "altitude_miles": 356.50348313262504,
+  "velocity_km_s": 7.57181065424399,
+  "velocity_km_h": 27258.518355278364,
+  "velocity_mph": 16937.652808937673,
+  "velocity_mps": 4.704903558038242,
+  "heading_degrees": 194.5415134482664,
+  "timestamp": "2025-09-15T16:09:58.259258+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
