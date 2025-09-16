@@ -1,14 +1,14 @@
 {
-  "latitude": -37.60347369764346,
-  "longitude": 20.171165895730347,
-  "altitude_km": 583.8690968852698,
-  "altitude_miles": 362.79932460069693,
-  "velocity_km_s": 7.563059079965918,
-  "velocity_km_h": 27227.012687877304,
-  "velocity_mph": 16918.07610087901,
-  "velocity_mps": 4.699465583577503,
-  "heading_degrees": 347.31462684046755,
-  "timestamp": "2025-09-16T21:54:57.907704+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 10.236899655572454,
+  "longitude": 9.589507271984623,
+  "altitude_km": 578.4471328397103,
+  "altitude_miles": 359.43027337974365,
+  "velocity_km_s": 7.572460305035425,
+  "velocity_km_h": 27260.85709812753,
+  "velocity_mph": 16939.106035920602,
+  "velocity_mps": 4.705307232200167,
+  "heading_degrees": 348.51479968753574,
+  "timestamp": "2025-09-16T22:07:49.982695+00:00",
+  "location_type": "country",
+  "location_name": "Nigeria"
 }
