@@ -1,14 +1,14 @@
 {
-  "latitude": -35.538111573935424,
-  "longitude": 121.40317894052018,
-  "altitude_km": 585.289399091379,
-  "altitude_miles": 363.6818592028093,
-  "velocity_km_s": 7.561856304063137,
-  "velocity_km_h": 27222.682694627292,
-  "velocity_mph": 16915.385568643254,
-  "velocity_mps": 4.698718213512016,
-  "heading_degrees": 192.5041465891855,
-  "timestamp": "2025-09-19T02:24:02.889092+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -32.096531578645774,
+  "longitude": -55.70930807673799,
+  "altitude_km": 583.3815759365489,
+  "altitude_miles": 362.49639322126933,
+  "velocity_km_s": 7.564501630437635,
+  "velocity_km_h": 27232.205869575486,
+  "velocity_mph": 16921.30299338399,
+  "velocity_mps": 4.700361942606664,
+  "heading_degrees": 347.74382869448,
+  "timestamp": "2025-09-19T02:54:03.630304+00:00",
+  "location_type": "country",
+  "location_name": "Uruguay"
 }
