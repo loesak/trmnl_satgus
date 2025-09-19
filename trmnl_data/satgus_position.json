@@ -1,14 +1,14 @@
 {
-  "latitude": 60.91087167772643,
-  "longitude": 14.316941535302535,
-  "altitude_km": 571.4117252105361,
-  "altitude_miles": 355.05867510579606,
-  "velocity_km_s": 7.572541220905556,
-  "velocity_km_h": 27261.148395260003,
-  "velocity_mph": 16939.287039511102,
-  "velocity_mps": 4.705357510975307,
-  "heading_degrees": 342.25441709552064,
-  "timestamp": "2025-09-19T20:58:21.712928+00:00",
-  "location_type": "country",
-  "location_name": "Sweden"
+  "latitude": 71.75837773355028,
+  "longitude": -130.4626653634654,
+  "altitude_km": 571.1663570266846,
+  "altitude_miles": 354.90621043202805,
+  "velocity_km_s": 7.571363775253274,
+  "velocity_km_h": 27256.909590911786,
+  "velocity_mph": 16936.653169414447,
+  "velocity_mps": 4.704625880392902,
+  "heading_degrees": 206.38352272795376,
+  "timestamp": "2025-09-19T21:10:22.029873+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
