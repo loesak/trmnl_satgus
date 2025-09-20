@@ -1,14 +1,14 @@
 {
-  "latitude": 8.362449461809751,
-  "longitude": -62.635039300928284,
-  "altitude_km": 580.8384838760376,
-  "altitude_miles": 360.9161895645373,
-  "velocity_km_s": 7.569928135243063,
-  "velocity_km_h": 27251.741286875025,
-  "velocity_mph": 16933.44173516682,
-  "velocity_mps": 4.703733815324117,
-  "heading_degrees": 191.4668013008785,
-  "timestamp": "2025-09-20T15:06:53.716848+00:00",
-  "location_type": "country",
-  "location_name": "Venezuela"
+  "latitude": -42.81828035505845,
+  "longitude": -74.40517194071136,
+  "altitude_km": 585.446811232604,
+  "altitude_miles": 363.77967054241435,
+  "velocity_km_s": 7.560383276055986,
+  "velocity_km_h": 27217.37979380155,
+  "velocity_mph": 16912.09049985426,
+  "velocity_mps": 4.697802916626184,
+  "heading_degrees": 193.24599712192386,
+  "timestamp": "2025-09-20T15:20:41.093693+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
