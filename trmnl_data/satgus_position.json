@@ -1,14 +1,14 @@
 {
-  "latitude": 10.328373935115183,
-  "longitude": 105.1937183475124,
-  "altitude_km": 580.4427752525135,
-  "altitude_miles": 360.6703077014295,
-  "velocity_km_s": 7.570232904790761,
-  "velocity_km_h": 27252.83845724674,
-  "velocity_mph": 16934.123485017866,
-  "velocity_mps": 4.70392319028274,
-  "heading_degrees": 191.49061944970464,
-  "timestamp": "2025-09-21T03:56:40.509694+00:00",
-  "location_type": "country",
-  "location_name": "Vietnam"
+  "latitude": -38.25847895656014,
+  "longitude": 94.4036037412561,
+  "altitude_km": 585.0529558274993,
+  "altitude_miles": 363.5349402154891,
+  "velocity_km_s": 7.561608150003823,
+  "velocity_km_h": 27221.789340013765,
+  "velocity_mph": 16914.830463993694,
+  "velocity_mps": 4.698564017776025,
+  "heading_degrees": 192.74339221565228,
+  "timestamp": "2025-09-21T04:09:45.106670+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
