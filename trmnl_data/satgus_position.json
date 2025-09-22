@@ -1,14 +1,14 @@
 {
-  "latitude": 45.34289419683332,
-  "longitude": 66.48469146027368,
-  "altitude_km": 573.5850221928413,
-  "altitude_miles": 356.409098824988,
-  "velocity_km_s": 7.572784172292014,
-  "velocity_km_h": 27262.02302025125,
-  "velocity_mph": 16939.83050611654,
-  "velocity_mps": 4.705508473921261,
-  "heading_degrees": 346.416930807799,
-  "timestamp": "2025-09-22T17:54:28.743195+00:00",
-  "location_type": "country",
-  "location_name": "Kazakhstan"
+  "latitude": 69.35337431495437,
+  "longitude": -88.91911164478874,
+  "altitude_km": 571.5900626799921,
+  "altitude_miles": 355.1694888375294,
+  "velocity_km_s": 7.571111187055415,
+  "velocity_km_h": 27256.000273399495,
+  "velocity_mph": 16936.088145882517,
+  "velocity_mps": 4.70446892941181,
+  "heading_degrees": 203.54134824497712,
+  "timestamp": "2025-09-22T18:11:28.020930+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
