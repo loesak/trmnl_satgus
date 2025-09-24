@@ -1,14 +1,14 @@
 {
-  "latitude": 71.04923429101201,
-  "longitude": 167.61974292898924,
-  "altitude_km": 571.0813877620649,
-  "altitude_miles": 354.853412995102,
-  "velocity_km_s": 7.5713891390072545,
-  "velocity_km_h": 27257.000900426116,
-  "velocity_mph": 16936.709906498676,
-  "velocity_mps": 4.704641640694077,
-  "heading_degrees": 334.55368814878375,
-  "timestamp": "2025-09-24T10:08:46.356126+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 51.072199412763474,
+  "longitude": 16.653564934622256,
+  "altitude_km": 573.8289772552516,
+  "altitude_miles": 356.56068542607295,
+  "velocity_km_s": 7.571411613570233,
+  "velocity_km_h": 27257.08180885284,
+  "velocity_mph": 16936.760180648696,
+  "velocity_mps": 4.704655605735749,
+  "heading_degrees": 194.6242638694779,
+  "timestamp": "2025-09-24T10:23:42.241503+00:00",
+  "location_type": "country",
+  "location_name": "Poland"
 }
