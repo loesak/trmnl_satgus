@@ -1,14 +1,14 @@
 {
-  "latitude": 21.622292272216303,
-  "longitude": -97.75699503993415,
-  "altitude_km": 577.185272626818,
-  "altitude_miles": 358.6461900373985,
-  "velocity_km_s": 7.572574281176497,
-  "velocity_km_h": 27261.26741223539,
-  "velocity_mph": 16939.360993208116,
-  "velocity_mps": 4.705378053668921,
-  "heading_degrees": 348.25936246874477,
-  "timestamp": "2025-09-25T05:10:36.399935+00:00",
-  "location_type": "country",
-  "location_name": "Mexico"
+  "latitude": 75.23509045213578,
+  "longitude": -129.20335863061197,
+  "altitude_km": 570.9028409987977,
+  "altitude_miles": 354.74246921426396,
+  "velocity_km_s": 7.571135868147604,
+  "velocity_km_h": 27256.089125331375,
+  "velocity_mph": 16936.14335589628,
+  "velocity_mps": 4.704484265526745,
+  "heading_degrees": 327.5215575147945,
+  "timestamp": "2025-09-25T05:25:26.818282+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
