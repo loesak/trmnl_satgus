@@ -1,14 +1,14 @@
 {
-  "latitude": 37.442249674499514,
-  "longitude": 135.85451027033363,
-  "altitude_km": 574.9055204322913,
-  "altitude_miles": 357.22961813653325,
-  "velocity_km_s": 7.5725691094620196,
-  "velocity_km_h": 27261.24879406327,
-  "velocity_mph": 16939.34942441589,
-  "velocity_mps": 4.705374840115525,
-  "heading_degrees": 347.34505443333086,
-  "timestamp": "2025-09-27T13:24:43.189144+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Japan"
+  "latitude": 75.71055966161643,
+  "longitude": 107.11046443912484,
+  "altitude_km": 570.8348603896793,
+  "altitude_miles": 354.70022803519544,
+  "velocity_km_s": 7.571083563308394,
+  "velocity_km_h": 27255.90082791022,
+  "velocity_mph": 16936.026353339403,
+  "velocity_mps": 4.7044517648165005,
+  "heading_degrees": 326.405416439157,
+  "timestamp": "2025-09-27T13:35:26.793293+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
