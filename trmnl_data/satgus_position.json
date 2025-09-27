@@ -1,14 +1,14 @@
 {
-  "latitude": -7.655961963570738,
-  "longitude": 119.21866135728233,
-  "altitude_km": 581.8596993282181,
-  "altitude_miles": 361.5507432312742,
-  "velocity_km_s": 7.568622917652327,
-  "velocity_km_h": 27247.04250354838,
-  "velocity_mph": 16930.52204747236,
-  "velocity_mps": 4.702922790964544,
-  "heading_degrees": 191.45699289978484,
-  "timestamp": "2025-09-27T02:50:49.589949+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -76.44773787330722,
+  "longitude": -31.963393393381846,
+  "altitude_km": 584.2157068826018,
+  "altitude_miles": 363.0146980013492,
+  "velocity_km_s": 7.556472599569142,
+  "velocity_km_h": 27203.301358448913,
+  "velocity_mph": 16903.34256840076,
+  "velocity_mps": 4.695372935666877,
+  "heading_degrees": 324.46017939984574,
+  "timestamp": "2025-09-27T03:15:53.582516+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
