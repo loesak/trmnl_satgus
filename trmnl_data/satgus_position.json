@@ -1,14 +1,14 @@
 {
-  "latitude": -41.848837273016336,
-  "longitude": -62.56504307149164,
-  "altitude_km": 583.4679421813407,
-  "altitude_miles": 362.5500587011619,
-  "velocity_km_s": 7.562447732512222,
-  "velocity_km_h": 27224.811837044,
-  "velocity_mph": 16916.708555995865,
-  "velocity_mps": 4.699085709998852,
-  "heading_degrees": 346.8731591778992,
-  "timestamp": "2025-09-28T03:29:53.541310+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 20.089828269345098,
+  "longitude": -76.50215367807539,
+  "altitude_km": 577.53820309198,
+  "altitude_miles": 358.8654907934667,
+  "velocity_km_s": 7.572269661538612,
+  "velocity_km_h": 27260.170781539004,
+  "velocity_mph": 16938.67957869567,
+  "velocity_mps": 4.705188771859909,
+  "heading_degrees": 348.30931222225223,
+  "timestamp": "2025-09-28T03:46:33.524228+00:00",
+  "location_type": "country",
+  "location_name": "Cuba"
 }
