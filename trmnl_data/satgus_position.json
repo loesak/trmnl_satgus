@@ -1,14 +1,14 @@
 {
-  "latitude": -22.563518063987768,
-  "longitude": 2.534466204451241,
-  "altitude_km": 582.3797001121138,
-  "altitude_miles": 361.87385663836426,
-  "velocity_km_s": 7.566615902622995,
-  "velocity_km_h": 27239.81724944278,
-  "velocity_mph": 16926.03248410351,
-  "velocity_mps": 4.701675690028753,
-  "heading_degrees": 348.2197246766035,
-  "timestamp": "2025-09-29T22:54:35.889962+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 27.382077128001292,
+  "longitude": -8.040322855580568,
+  "altitude_km": 576.3772909731497,
+  "altitude_miles": 358.144133669277,
+  "velocity_km_s": 7.572493743871433,
+  "velocity_km_h": 27260.97747793716,
+  "velocity_mph": 16939.18083644329,
+  "velocity_mps": 4.705328010123136,
+  "heading_degrees": 348.0259934020467,
+  "timestamp": "2025-09-29T23:08:00.579153+00:00",
+  "location_type": "country",
+  "location_name": "Algeria"
 }
