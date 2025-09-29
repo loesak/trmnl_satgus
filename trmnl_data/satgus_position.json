@@ -1,14 +1,14 @@
 {
-  "latitude": -73.77446974048428,
-  "longitude": -16.61249323066008,
-  "altitude_km": 584.1265273750969,
-  "altitude_miles": 362.9592844415913,
-  "velocity_km_s": 7.556733127903503,
-  "velocity_km_h": 27204.23926045261,
-  "velocity_mph": 16903.9253535067,
-  "velocity_mps": 4.695534820418528,
-  "heading_degrees": 330.4640880397221,
-  "timestamp": "2025-09-29T01:48:49.572007+00:00",
-  "location_type": "ocean",
-  "location_name": "Weddell Sea"
+  "latitude": 58.30123214995323,
+  "longitude": -65.85807563096701,
+  "altitude_km": 572.1590671775184,
+  "altitude_miles": 355.5230517311618,
+  "velocity_km_s": 7.571824532089949,
+  "velocity_km_h": 27258.56831552382,
+  "velocity_mph": 16937.68385278535,
+  "velocity_mps": 4.704912181329264,
+  "heading_degrees": 343.3286868770917,
+  "timestamp": "2025-09-29T02:24:49.365765+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
