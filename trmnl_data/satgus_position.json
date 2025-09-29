@@ -1,14 +1,14 @@
 {
-  "latitude": -35.56968048809204,
-  "longitude": 174.21863434127712,
-  "altitude_km": 583.1950325467269,
-  "altitude_miles": 362.38048056859225,
-  "velocity_km_s": 7.563783825012012,
-  "velocity_km_h": 27229.621770043246,
-  "velocity_mph": 16919.697308873543,
-  "velocity_mps": 4.69991591913154,
-  "heading_degrees": 347.49410432039235,
-  "timestamp": "2025-09-29T11:37:09.095326+00:00",
-  "location_type": "country",
-  "location_name": "New Zealand"
+  "latitude": -2.8702846102238944,
+  "longitude": 166.86818770245796,
+  "altitude_km": 580.5423082142706,
+  "altitude_miles": 360.7321545974096,
+  "velocity_km_s": 7.570116983949488,
+  "velocity_km_h": 27252.421142218154,
+  "velocity_mph": 16933.864177561238,
+  "velocity_mps": 4.703851160433677,
+  "heading_degrees": 348.5755713646525,
+  "timestamp": "2025-09-29T11:45:57.217317+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
