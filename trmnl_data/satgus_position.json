@@ -1,14 +1,14 @@
 {
-  "latitude": -27.14883353617949,
-  "longitude": 50.70452582360871,
-  "altitude_km": 582.7150223320577,
-  "altitude_miles": 362.08221614149306,
-  "velocity_km_s": 7.565582903256588,
-  "velocity_km_h": 27236.098451723716,
-  "velocity_mph": 16923.72173104602,
-  "velocity_mps": 4.701033814179449,
-  "heading_degrees": 348.0274547558762,
-  "timestamp": "2025-09-30T19:44:56.300239+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 9.04780678701155,
+  "longitude": 43.074952985334164,
+  "altitude_km": 579.037956867659,
+  "altitude_miles": 359.7973942968141,
+  "velocity_km_s": 7.571467092028583,
+  "velocity_km_h": 27257.2815313029,
+  "velocity_mph": 16936.884282387215,
+  "velocity_mps": 4.704690078440893,
+  "heading_degrees": 348.5316018860715,
+  "timestamp": "2025-09-30T19:54:39.621039+00:00",
+  "location_type": "country",
+  "location_name": "Ethiopia"
 }
