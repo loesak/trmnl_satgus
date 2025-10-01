@@ -1,14 +1,14 @@
 {
-  "latitude": 60.14654998864587,
-  "longitude": -93.09113504997893,
-  "altitude_km": 571.7864780603595,
-  "altitude_miles": 355.29153565884366,
-  "velocity_km_s": 7.571815199343663,
-  "velocity_km_h": 27258.534717637187,
-  "velocity_mph": 16937.662976032938,
-  "velocity_mps": 4.704906382231371,
-  "heading_degrees": 342.5972920383788,
-  "timestamp": "2025-10-01T04:09:51.577063+00:00",
-  "location_type": "ocean",
-  "location_name": "Hudson Bay"
+  "latitude": 58.900649030147214,
+  "longitude": 109.46452667274522,
+  "altitude_km": 571.9032962845649,
+  "altitude_miles": 355.3641231156364,
+  "velocity_km_s": 7.571885407631431,
+  "velocity_km_h": 27258.78746747315,
+  "velocity_mph": 16937.82002745126,
+  "velocity_mps": 4.704950007625349,
+  "heading_degrees": 196.90424476895285,
+  "timestamp": "2025-10-01T04:25:44.010663+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
