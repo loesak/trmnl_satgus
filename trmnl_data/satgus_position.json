@@ -1,14 +1,14 @@
 {
-  "latitude": 18.6005823195754,
-  "longitude": 112.24915397672328,
-  "altitude_km": 577.6613853919916,
-  "altitude_miles": 358.94203270240723,
-  "velocity_km_s": 7.572111464295949,
-  "velocity_km_h": 27259.601271465417,
-  "velocity_mph": 16938.32570165174,
-  "velocity_mps": 4.705090472681038,
-  "heading_degrees": 348.35203467577946,
-  "timestamp": "2025-10-01T15:12:28.938918+00:00",
-  "location_type": "ocean",
-  "location_name": "South China Sea"
+  "latitude": 78.61358158938415,
+  "longitude": 68.58574155829598,
+  "altitude_km": 570.2691101228738,
+  "altitude_miles": 354.3486872261602,
+  "velocity_km_s": 7.571259772993339,
+  "velocity_km_h": 27256.53518277602,
+  "velocity_mph": 16936.42052305672,
+  "velocity_mps": 4.704561256404644,
+  "heading_degrees": 316.8131786496324,
+  "timestamp": "2025-10-01T15:29:15.993657+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
