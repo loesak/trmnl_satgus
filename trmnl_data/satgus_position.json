@@ -1,14 +1,14 @@
 {
-  "latitude": -7.316727358267315,
-  "longitude": 116.57253902861707,
-  "altitude_km": 580.9836361286061,
-  "altitude_miles": 361.0063829648681,
-  "velocity_km_s": 7.569307482730851,
-  "velocity_km_h": 27249.506937831065,
-  "velocity_mph": 16932.05337546703,
-  "velocity_mps": 4.703348159851951,
-  "heading_degrees": 348.5461609820693,
-  "timestamp": "2025-10-02T15:09:34.783292+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 48.04678972557038,
+  "longitude": 103.21907192492323,
+  "altitude_km": 573.1621911674829,
+  "altitude_miles": 356.14636388793,
+  "velocity_km_s": 7.5723013520334685,
+  "velocity_km_h": 27260.284867320486,
+  "velocity_mph": 16938.750468291797,
+  "velocity_mps": 4.7052084634143885,
+  "heading_degrees": 345.9804378526833,
+  "timestamp": "2025-10-02T15:24:29.302075+00:00",
+  "location_type": "country",
+  "location_name": "Mongolia"
 }
