@@ -1,14 +1,14 @@
 {
-  "latitude": 54.907681891386645,
-  "longitude": -38.08296073706446,
-  "altitude_km": 572.1690197984026,
-  "altitude_miles": 355.5292360011532,
-  "velocity_km_s": 7.572177019251619,
-  "velocity_km_h": 27259.837269305826,
-  "velocity_mph": 16938.47234386583,
-  "velocity_mps": 4.705131206629398,
-  "heading_degrees": 195.57755728073232,
-  "timestamp": "2025-10-02T14:08:31.306394+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": 0.7842421482244104,
+  "longitude": -52.703491667425624,
+  "altitude_km": 579.8834426131971,
+  "altitude_miles": 360.3227546200049,
+  "velocity_km_s": 7.570671318635839,
+  "velocity_km_h": 27254.41674708902,
+  "velocity_mph": 16935.10418855545,
+  "velocity_mps": 4.70419560793207,
+  "heading_degrees": 191.4191605227385,
+  "timestamp": "2025-10-02T14:23:08.147244+00:00",
+  "location_type": "country",
+  "location_name": "Brazil"
 }
