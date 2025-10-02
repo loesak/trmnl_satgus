@@ -1,14 +1,14 @@
 {
-  "latitude": 82.1736620130618,
-  "longitude": 80.21790751844267,
-  "altitude_km": 570.0091364786767,
-  "altitude_miles": 354.18714714289183,
-  "velocity_km_s": 7.57127905044386,
-  "velocity_km_h": 27256.604581597898,
-  "velocity_mph": 16936.463645472068,
-  "velocity_mps": 4.704573234853352,
-  "heading_degrees": 259.2374295763375,
-  "timestamp": "2025-10-02T10:47:10.123118+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 53.93978442112841,
+  "longitude": 9.59212364677947,
+  "altitude_km": 572.3031209972814,
+  "altitude_miles": 355.61256259720176,
+  "velocity_km_s": 7.5722041425203495,
+  "velocity_km_h": 27259.93491307326,
+  "velocity_mph": 16938.533016871243,
+  "velocity_mps": 4.705148060242012,
+  "heading_degrees": 195.31102156789834,
+  "timestamp": "2025-10-02T10:56:14.899423+00:00",
+  "location_type": "country",
+  "location_name": "Germany"
 }
