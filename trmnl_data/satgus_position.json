@@ -1,14 +1,14 @@
 {
-  "latitude": -76.86993388702807,
-  "longitude": 179.80721342497657,
-  "altitude_km": 583.9346030330926,
-  "altitude_miles": 362.84002822127576,
-  "velocity_km_s": 7.556462471179085,
-  "velocity_km_h": 27203.264896244706,
-  "velocity_mph": 16903.319911844468,
-  "velocity_mps": 4.695366642179019,
-  "heading_degrees": 323.22821422369196,
-  "timestamp": "2025-10-02T13:14:03.171695+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": -9.966031431154217,
+  "longitude": 141.18346012531273,
+  "altitude_km": 581.264432655259,
+  "altitude_miles": 361.180861783431,
+  "velocity_km_s": 7.568864789492264,
+  "velocity_km_h": 27247.91324217215,
+  "velocity_mph": 16931.06309920175,
+  "velocity_mps": 4.703073083111597,
+  "heading_degrees": 348.51635532990235,
+  "timestamp": "2025-10-02T13:32:35.946135+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
