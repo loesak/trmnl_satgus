@@ -1,14 +1,14 @@
 {
-  "latitude": -55.057722438373055,
-  "longitude": -67.7206328556389,
-  "altitude_km": 583.6523770050362,
-  "altitude_miles": 362.66466115199637,
-  "velocity_km_s": 7.559647573748038,
-  "velocity_km_h": 27214.731265492937,
-  "velocity_mph": 16910.444781170612,
-  "velocity_mps": 4.697345772547393,
-  "heading_degrees": 195.6209196959746,
-  "timestamp": "2025-10-02T14:38:14.308239+00:00",
-  "location_type": "country",
-  "location_name": "Chile"
+  "latitude": -82.0797953041474,
+  "longitude": -163.09128417750046,
+  "altitude_km": 583.9296451143655,
+  "altitude_miles": 362.83694751435837,
+  "velocity_km_s": 7.556123160778231,
+  "velocity_km_h": 27202.04337880163,
+  "velocity_mph": 16902.56089632935,
+  "velocity_mps": 4.69515580453593,
+  "heading_degrees": 283.81530567525215,
+  "timestamp": "2025-10-02T14:47:57.696000+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
