@@ -1,14 +1,14 @@
 {
-  "latitude": 23.19381574086157,
-  "longitude": 37.01724457755497,
-  "altitude_km": 576.7936711238235,
-  "altitude_miles": 358.40286021988135,
-  "velocity_km_s": 7.5723764140153795,
-  "velocity_km_h": 27260.555090455367,
-  "velocity_mph": 16938.918377111342,
-  "velocity_mps": 4.70525510475315,
-  "heading_degrees": 348.20472712002123,
-  "timestamp": "2025-10-03T20:10:34.951169+00:00",
-  "location_type": "ocean",
-  "location_name": "Red Sea"
+  "latitude": 81.62778850498289,
+  "longitude": -77.86176279586692,
+  "altitude_km": 569.7854885792522,
+  "altitude_miles": 354.0481788239785,
+  "velocity_km_s": 7.571466480412252,
+  "velocity_km_h": 27257.279329484107,
+  "velocity_mph": 16936.88291424087,
+  "velocity_mps": 4.704689698400242,
+  "heading_degrees": 246.93016520943095,
+  "timestamp": "2025-10-03T20:29:17.322815+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
