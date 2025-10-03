@@ -1,14 +1,14 @@
 {
-  "latitude": 23.53598293310497,
-  "longitude": 133.20578495624275,
-  "altitude_km": 576.7618219157102,
-  "altitude_miles": 358.3830700455868,
-  "velocity_km_s": 7.572380648982675,
-  "velocity_km_h": 27260.570336337627,
-  "velocity_mph": 16938.927850460448,
-  "velocity_mps": 4.705257736239013,
-  "heading_degrees": 348.19182874906994,
-  "timestamp": "2025-10-03T13:45:36.389721+00:00",
-  "location_type": "ocean",
-  "location_name": "Philippine Sea"
+  "latitude": 58.68024592700439,
+  "longitude": 121.37463957182295,
+  "altitude_km": 571.6612384031023,
+  "altitude_miles": 355.21371536777406,
+  "velocity_km_s": 7.572040433603486,
+  "velocity_km_h": 27259.34556097255,
+  "velocity_mph": 16938.166810567076,
+  "velocity_mps": 4.705046336268632,
+  "heading_degrees": 343.18629147578184,
+  "timestamp": "2025-10-03T13:55:09.358326+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
