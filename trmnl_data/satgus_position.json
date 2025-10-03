@@ -1,14 +1,14 @@
 {
-  "latitude": -6.502401500587013,
-  "longitude": 91.3385647604133,
-  "altitude_km": 580.848009548341,
-  "altitude_miles": 360.9221085410622,
-  "velocity_km_s": 7.569423623244939,
-  "velocity_km_h": 27249.92504368178,
-  "velocity_mph": 16932.31317431759,
-  "velocity_mps": 4.703420326199331,
-  "heading_degrees": 348.5531370098503,
-  "timestamp": "2025-10-03T16:50:04.811244+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 27.735396251267904,
+  "longitude": 84.09075216416505,
+  "altitude_km": 576.0987274311119,
+  "altitude_miles": 357.9710423625974,
+  "velocity_km_s": 7.5725093874412375,
+  "velocity_km_h": 27261.033794788455,
+  "velocity_mph": 16939.215830101497,
+  "velocity_mps": 4.705337730583749,
+  "heading_degrees": 348.0081352689841,
+  "timestamp": "2025-10-03T16:59:16.257723+00:00",
+  "location_type": "country",
+  "location_name": "Nepal"
 }
