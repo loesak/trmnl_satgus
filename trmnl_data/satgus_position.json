@@ -1,14 +1,14 @@
 {
-  "latitude": -57.46137933301306,
-  "longitude": 57.9885881442482,
-  "altitude_km": 583.7562280813936,
-  "altitude_miles": 362.7291911991636,
-  "velocity_km_s": 7.559057845073195,
-  "velocity_km_h": 27212.6082422635,
-  "velocity_mph": 16909.125596103513,
-  "velocity_mps": 4.696979332250976,
-  "heading_degrees": 343.61334835562945,
-  "timestamp": "2025-10-03T19:48:47.993791+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": -22.550668720016247,
+  "longitude": 46.614557236482156,
+  "altitude_km": 582.3209301086945,
+  "altitude_miles": 361.8373386625696,
+  "velocity_km_s": 7.566438501436654,
+  "velocity_km_h": 27239.178605171954,
+  "velocity_mph": 16925.635649074302,
+  "velocity_mps": 4.701565458076195,
+  "heading_degrees": 348.2196044004158,
+  "timestamp": "2025-10-03T19:58:18.094466+00:00",
+  "location_type": "country",
+  "location_name": "Madagascar"
 }
