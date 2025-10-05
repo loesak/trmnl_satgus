@@ -1,14 +1,14 @@
 {
-  "latitude": -34.24558216112478,
-  "longitude": 23.4113259528942,
-  "altitude_km": 582.9867125280589,
-  "altitude_miles": 362.2510365502725,
-  "velocity_km_s": 7.563883255428694,
-  "velocity_km_h": 27229.9797195433,
-  "velocity_mph": 16919.91972831234,
-  "velocity_mps": 4.699977702308983,
-  "heading_degrees": 347.59598306331236,
-  "timestamp": "2025-10-05T21:39:22.194328+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 0.36777414208703735,
+  "longitude": 15.76235684151158,
+  "altitude_km": 579.9456795332126,
+  "altitude_miles": 360.3614268372318,
+  "velocity_km_s": 7.570442132143861,
+  "velocity_km_h": 27253.5916757179,
+  "velocity_mph": 16934.59151313251,
+  "velocity_mps": 4.704053198092363,
+  "heading_degrees": 348.580295783734,
+  "timestamp": "2025-10-05T21:48:40.905524+00:00",
+  "location_type": "country",
+  "location_name": "Republic of the Congo"
 }
