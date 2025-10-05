@@ -1,14 +1,14 @@
 {
-  "latitude": 13.483629061383834,
-  "longitude": 61.209663960440466,
-  "altitude_km": 578.1591343580494,
-  "altitude_miles": 359.25131947519554,
-  "velocity_km_s": 7.571839275102108,
-  "velocity_km_h": 27258.62139036759,
-  "velocity_mph": 16937.716831954098,
-  "velocity_mps": 4.704921342209472,
-  "heading_degrees": 348.4658098403094,
-  "timestamp": "2025-10-05T18:39:40.343577+00:00",
-  "location_type": "ocean",
-  "location_name": "Arabian Sea"
+  "latitude": 50.442806343338184,
+  "longitude": 51.16489545455181,
+  "altitude_km": 572.5230260603066,
+  "altitude_miles": 355.74920522611876,
+  "velocity_km_s": 7.572413497732241,
+  "velocity_km_h": 27260.688591836068,
+  "velocity_mph": 16939.00133099777,
+  "velocity_mps": 4.705278147499381,
+  "heading_degrees": 345.5184819544101,
+  "timestamp": "2025-10-05T18:49:39.358970+00:00",
+  "location_type": "country",
+  "location_name": "Kazakhstan"
 }
