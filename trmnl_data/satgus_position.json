@@ -1,14 +1,14 @@
 {
-  "latitude": 54.7714661465345,
-  "longitude": 6.99381253122826,
-  "altitude_km": 571.7240778339547,
-  "altitude_miles": 355.25276196776224,
-  "velocity_km_s": 7.5725418459362865,
-  "velocity_km_h": 27261.15064537063,
-  "velocity_mph": 16939.288437664596,
-  "velocity_mps": 4.705357899351276,
-  "heading_degrees": 195.54005200515812,
-  "timestamp": "2025-10-05T11:08:01.238658+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 11.86041521632751,
+  "longitude": -5.300865581449808,
+  "altitude_km": 577.9867284722859,
+  "altitude_miles": 359.1441914575528,
+  "velocity_km_s": 7.572164998321659,
+  "velocity_km_h": 27259.793993957974,
+  "velocity_mph": 16938.44545381966,
+  "velocity_mps": 4.705123737172127,
+  "heading_degrees": 191.50826948465547,
+  "timestamp": "2025-10-05T11:19:37.533253+00:00",
+  "location_type": "country",
+  "location_name": "Mali"
 }
