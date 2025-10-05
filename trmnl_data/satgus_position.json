@@ -1,14 +1,14 @@
 {
-  "latitude": 42.29843730282745,
-  "longitude": 98.44224924752186,
-  "altitude_km": 573.4311960843406,
-  "altitude_miles": 356.31351574212283,
-  "velocity_km_s": 7.5729173088007045,
-  "velocity_km_h": 27262.502311682536,
-  "velocity_mph": 16940.12832391249,
-  "velocity_mps": 4.705591201086802,
-  "heading_degrees": 193.17455374973866,
-  "timestamp": "2025-10-05T04:46:22.053345+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 8.794543607189981,
+  "longitude": 90.32960460056627,
+  "altitude_km": 578.4475757422651,
+  "altitude_miles": 359.43054858654705,
+  "velocity_km_s": 7.571868187323426,
+  "velocity_km_h": 27258.725474364335,
+  "velocity_mph": 16937.78150673124,
+  "velocity_mps": 4.704939307425345,
+  "heading_degrees": 191.46726351217387,
+  "timestamp": "2025-10-05T04:55:23.416323+00:00",
+  "location_type": "ocean",
+  "location_name": "Bay of Bengal"
 }
