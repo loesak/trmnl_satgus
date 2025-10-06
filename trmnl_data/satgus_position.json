@@ -1,14 +1,14 @@
 {
-  "latitude": 50.12924169824597,
-  "longitude": 100.2333123724409,
-  "altitude_km": 572.2359373218615,
-  "altitude_miles": 355.5708166096224,
-  "velocity_km_s": 7.572762580301238,
-  "velocity_km_h": 27261.94528908446,
-  "velocity_mph": 16939.7822062237,
-  "velocity_mps": 4.70549505728436,
-  "heading_degrees": 194.42300560154078,
-  "timestamp": "2025-10-06T04:48:11.518711+00:00",
-  "location_type": "country",
-  "location_name": "Mongolia"
+  "latitude": 16.393178930218895,
+  "longitude": 90.93152459935564,
+  "altitude_km": 577.2478393507763,
+  "altitude_miles": 358.6850671852312,
+  "velocity_km_s": 7.5725530889752655,
+  "velocity_km_h": 27261.191120310956,
+  "velocity_mph": 16939.31358761874,
+  "velocity_mps": 4.70536488544965,
+  "heading_degrees": 191.5954875716812,
+  "timestamp": "2025-10-06T04:57:18.469063+00:00",
+  "location_type": "ocean",
+  "location_name": "Bay of Bengal"
 }
