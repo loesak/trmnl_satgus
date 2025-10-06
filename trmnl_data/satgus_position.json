@@ -1,14 +1,14 @@
 {
-  "latitude": 27.469929078899785,
-  "longitude": 33.0527701407248,
-  "altitude_km": 575.9322002067529,
-  "altitude_miles": 357.8675671746703,
-  "velocity_km_s": 7.572591418660108,
-  "velocity_km_h": 27261.32910717639,
-  "velocity_mph": 16939.3993286553,
-  "velocity_mps": 4.7053887024042504,
-  "heading_degrees": 348.0208427596958,
-  "timestamp": "2025-10-06T20:23:38.039465+00:00",
-  "location_type": "country",
-  "location_name": "Egypt"
+  "latitude": 75.99423811592284,
+  "longitude": 0.9443468472545539,
+  "altitude_km": 569.7801115003185,
+  "altitude_miles": 354.0448376630644,
+  "velocity_km_s": 7.57173259741339,
+  "velocity_km_h": 27258.237350688203,
+  "velocity_mph": 16937.47820083448,
+  "velocity_mps": 4.704855055787355,
+  "heading_degrees": 325.68879801887397,
+  "timestamp": "2025-10-06T20:37:08.465431+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
