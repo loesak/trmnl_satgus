@@ -1,14 +1,14 @@
 {
-  "latitude": 61.2774796513327,
-  "longitude": -62.49778227921424,
-  "altitude_km": 570.8628592979549,
-  "altitude_miles": 354.7176257448295,
-  "velocity_km_s": 7.572363864866692,
-  "velocity_km_h": 27260.50991352009,
-  "velocity_mph": 16938.89030547389,
-  "velocity_mps": 4.705247307076082,
-  "heading_degrees": 197.91727850924244,
-  "timestamp": "2025-10-06T15:58:57.365643+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 14.562236260073798,
+  "longitude": -77.91576157358855,
+  "altitude_km": 577.4675603059377,
+  "altitude_miles": 358.82159541486084,
+  "velocity_km_s": 7.5724601322234,
+  "velocity_km_h": 27260.85647600424,
+  "velocity_mph": 16939.10564935123,
+  "velocity_mps": 4.705307124819786,
+  "heading_degrees": 191.55610177214376,
+  "timestamp": "2025-10-06T16:11:38.179881+00:00",
+  "location_type": "ocean",
+  "location_name": "Caribbean Sea"
 }
