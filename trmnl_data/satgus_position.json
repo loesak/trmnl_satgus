@@ -1,14 +1,14 @@
 {
-  "latitude": -48.341147129504414,
-  "longitude": -71.38617314675324,
-  "altitude_km": 583.5966350395756,
-  "altitude_miles": 362.63002471117613,
-  "velocity_km_s": 7.560650494660797,
-  "velocity_km_h": 27218.34178077887,
-  "velocity_mph": 16912.688250664345,
-  "velocity_mps": 4.697968958517874,
-  "heading_degrees": 345.9111011825048,
-  "timestamp": "2025-10-09T04:12:24.822538+00:00",
-  "location_type": "country",
-  "location_name": "Argentina"
+  "latitude": 21.92266886334554,
+  "longitude": -87.95902851161695,
+  "altitude_km": 576.9650614036827,
+  "altitude_miles": 358.50935716946776,
+  "velocity_km_s": 7.572188181461939,
+  "velocity_km_h": 27259.877453262983,
+  "velocity_mph": 16938.497313011474,
+  "velocity_mps": 4.705138142503187,
+  "heading_degrees": 348.2483619276852,
+  "timestamp": "2025-10-09T04:31:20.675436+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Mexico"
 }
