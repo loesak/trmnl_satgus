@@ -1,14 +1,14 @@
 {
-  "latitude": 41.8329084844761,
-  "longitude": -1.8979675689583442,
-  "altitude_km": 573.0205856412094,
-  "altitude_miles": 356.05837432046394,
-  "velocity_km_s": 7.573330567910775,
-  "velocity_km_h": 27263.99004447879,
-  "velocity_mph": 16941.05275792783,
-  "velocity_mps": 4.705847988313286,
-  "heading_degrees": 193.11936974595542,
-  "timestamp": "2025-10-09T11:27:19.017595+00:00",
-  "location_type": "country",
-  "location_name": "Spain"
+  "latitude": 3.9794908135475224,
+  "longitude": -10.845994922740793,
+  "altitude_km": 578.5888944463204,
+  "altitude_miles": 359.51835993100457,
+  "velocity_km_s": 7.5717861855754895,
+  "velocity_km_h": 27258.430268071763,
+  "velocity_mph": 16937.59807410202,
+  "velocity_mps": 4.7048883539172275,
+  "heading_degrees": 191.429398999646,
+  "timestamp": "2025-10-09T11:37:30.190654+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
