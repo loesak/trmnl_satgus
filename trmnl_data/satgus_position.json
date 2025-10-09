@@ -1,14 +1,14 @@
 {
-  "latitude": -80.58274594033342,
-  "longitude": 72.61300713962393,
-  "altitude_km": 583.6480198873742,
-  "altitude_miles": 362.6619537654376,
-  "velocity_km_s": 7.556275121924335,
-  "velocity_km_h": 27202.590438927607,
-  "velocity_mph": 16902.900823626886,
-  "velocity_mps": 4.695250228785246,
-  "heading_degrees": 235.19345790160844,
-  "timestamp": "2025-10-09T02:23:37.863166+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 16.638007630287365,
+  "longitude": -62.73685047790351,
+  "altitude_km": 577.7910782816925,
+  "altitude_miles": 359.0226201029736,
+  "velocity_km_s": 7.5718787294209235,
+  "velocity_km_h": 27258.763425915324,
+  "velocity_mph": 16937.80508872443,
+  "velocity_mps": 4.704945857979009,
+  "heading_degrees": 348.3994069905651,
+  "timestamp": "2025-10-09T02:53:39.854592+00:00",
+  "location_type": "ocean",
+  "location_name": "Caribbean Sea"
 }
