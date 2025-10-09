@@ -1,14 +1,14 @@
 {
-  "latitude": -15.086385347372596,
-  "longitude": 39.07432590361176,
-  "altitude_km": 581.7462078492063,
-  "altitude_miles": 361.4802229174691,
-  "velocity_km_s": 7.567692280388677,
-  "velocity_km_h": 27243.692209399236,
-  "velocity_mph": 16928.44027184661,
-  "velocity_mps": 4.702344519957393,
-  "heading_degrees": 348.42754476152055,
-  "timestamp": "2025-10-09T20:24:00.851634+00:00",
-  "location_type": "country",
-  "location_name": "Mozambique"
+  "latitude": 35.20330770158243,
+  "longitude": 28.147365310717056,
+  "altitude_km": 574.7931746131271,
+  "altitude_miles": 357.15980970253344,
+  "velocity_km_s": 7.572549081892003,
+  "velocity_km_h": 27261.17669481121,
+  "velocity_mph": 16939.304624031534,
+  "velocity_mps": 4.705362395564316,
+  "heading_degrees": 347.5329013283618,
+  "timestamp": "2025-10-09T20:37:31.453535+00:00",
+  "location_type": "ocean",
+  "location_name": "Mediterranean Sea"
 }
