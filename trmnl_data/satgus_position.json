@@ -1,14 +1,14 @@
 {
-  "latitude": 39.339670912824104,
-  "longitude": 20.43781359934233,
-  "altitude_km": 573.2952556027676,
-  "altitude_miles": 356.2290462691473,
-  "velocity_km_s": 7.573455424500736,
-  "velocity_km_h": 27264.43952820265,
-  "velocity_mph": 16941.332054078808,
-  "velocity_mps": 4.705925570577447,
-  "heading_degrees": 192.84372268025695,
-  "timestamp": "2025-10-10T09:55:37.881322+00:00",
-  "location_type": "country",
-  "location_name": "Greece"
+  "latitude": -12.198140512264624,
+  "longitude": 8.952044719416985,
+  "altitude_km": 580.4020733939606,
+  "altitude_miles": 360.6450167468787,
+  "velocity_km_s": 7.569383303552075,
+  "velocity_km_h": 27249.779892787472,
+  "velocity_mph": 16932.222981761246,
+  "velocity_mps": 4.7033952727114565,
+  "heading_degrees": 191.5154779142465,
+  "timestamp": "2025-10-10T10:09:28.821313+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
