@@ -1,14 +1,14 @@
 {
-  "latitude": 25.32421798671646,
-  "longitude": 88.9970194255998,
-  "altitude_km": 575.4174795468953,
-  "altitude_miles": 357.54773468353386,
-  "velocity_km_s": 7.573402491318347,
-  "velocity_km_h": 27264.248968746047,
-  "velocity_mph": 16941.2136459587,
-  "velocity_mps": 4.7058926794329725,
-  "heading_degrees": 191.8844886859804,
-  "timestamp": "2025-10-10T05:10:38.053417+00:00",
-  "location_type": "country",
-  "location_name": "Bangladesh"
+  "latitude": -47.287683468259466,
+  "longitude": 72.03997212136883,
+  "altitude_km": 582.814907873998,
+  "altitude_miles": 362.144282120574,
+  "velocity_km_s": 7.56166494609332,
+  "velocity_km_h": 27221.993805935952,
+  "velocity_mph": 16914.95751318823,
+  "velocity_mps": 4.698599309218952,
+  "heading_degrees": 193.8978036694894,
+  "timestamp": "2025-10-10T05:30:11.170710+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
