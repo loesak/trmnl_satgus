@@ -1,14 +1,14 @@
 {
-  "latitude": 72.37088569332899,
-  "longitude": 17.45109932403784,
-  "altitude_km": 569.6349396885389,
-  "altitude_miles": 353.9546321092071,
-  "velocity_km_s": 7.572175659731447,
-  "velocity_km_h": 27259.83237503321,
-  "velocity_mph": 16938.46930270676,
-  "velocity_mps": 4.705130361862989,
-  "heading_degrees": 207.24867817304204,
-  "timestamp": "2025-10-10T11:22:42.518015+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 25.56153274261511,
+  "longitude": -7.206453869267609,
+  "altitude_km": 575.3609916666164,
+  "altitude_miles": 357.51263475287715,
+  "velocity_km_s": 7.5734239414338695,
+  "velocity_km_h": 27264.32618916193,
+  "velocity_mph": 16941.261628485736,
+  "velocity_mps": 4.705906007912705,
+  "heading_degrees": 191.89473664514534,
+  "timestamp": "2025-10-10T11:35:36.495956+00:00",
+  "location_type": "country",
+  "location_name": "Mauritania"
 }
