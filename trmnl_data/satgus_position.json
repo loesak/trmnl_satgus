@@ -1,14 +1,14 @@
 {
-  "latitude": 0.3774301155183406,
-  "longitude": 33.96239141571757,
-  "altitude_km": 580.1056308022225,
-  "altitude_miles": 360.4608159172078,
-  "velocity_km_s": 7.570130706910165,
-  "velocity_km_h": 27252.470544876593,
-  "velocity_mph": 16933.894874940514,
-  "velocity_mps": 4.703859687483476,
-  "heading_degrees": 348.579465367021,
-  "timestamp": "2025-10-11T20:35:56.189365+00:00",
-  "location_type": "country",
-  "location_name": "Uganda"
+  "latitude": 35.48999666910757,
+  "longitude": 26.131533306584565,
+  "altitude_km": 574.7957409765941,
+  "altitude_miles": 357.1614043663672,
+  "velocity_km_s": 7.572456817128261,
+  "velocity_km_h": 27260.84454166174,
+  "velocity_mph": 16939.098233696895,
+  "velocity_mps": 4.705305064915804,
+  "heading_degrees": 347.5105814726121,
+  "timestamp": "2025-10-11T20:45:22.450040+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
