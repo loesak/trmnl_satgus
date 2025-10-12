@@ -1,14 +1,14 @@
 {
-  "latitude": 25.88743539178386,
-  "longitude": 51.64550422322901,
-  "altitude_km": 576.3993606248223,
-  "altitude_miles": 358.1578471108065,
-  "velocity_km_s": 7.572198420361446,
-  "velocity_km_h": 27259.914313301208,
-  "velocity_mph": 16938.520216770285,
-  "velocity_mps": 4.705144504658413,
-  "heading_degrees": 348.09419403360425,
-  "timestamp": "2025-10-12T19:10:23.713284+00:00",
-  "location_type": "ocean",
-  "location_name": "Persian Gulf"
+  "latitude": 65.2707550259201,
+  "longitude": 35.67149748052045,
+  "altitude_km": 570.6394587588857,
+  "altitude_miles": 354.5788111284675,
+  "velocity_km_s": 7.571902720509428,
+  "velocity_km_h": 27258.84979383394,
+  "velocity_mph": 16937.85875524439,
+  "velocity_mps": 4.704960765345664,
+  "heading_degrees": 339.849987726942,
+  "timestamp": "2025-10-12T19:21:09.301279+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
