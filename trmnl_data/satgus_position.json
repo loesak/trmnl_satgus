@@ -1,14 +1,14 @@
 {
-  "latitude": -43.26961483421147,
-  "longitude": 18.267527633526544,
-  "altitude_km": 583.3948606733056,
-  "altitude_miles": 362.5046479714326,
-  "velocity_km_s": 7.561652533098195,
-  "velocity_km_h": 27221.9491191535,
-  "velocity_mph": 16914.92974611753,
-  "velocity_mps": 4.698591596143759,
-  "heading_degrees": 346.69559829840506,
-  "timestamp": "2025-10-13T22:08:07.754001+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 7.394439012264608,
+  "longitude": 6.554525492270813,
+  "altitude_km": 579.2053457991988,
+  "altitude_miles": 359.9014049245939,
+  "velocity_km_s": 7.5708736551594455,
+  "velocity_km_h": 27255.145158574003,
+  "velocity_mph": 16935.556802328287,
+  "velocity_mps": 4.70432133398008,
+  "heading_degrees": 348.5482147696591,
+  "timestamp": "2025-10-13T22:21:46.554305+00:00",
+  "location_type": "country",
+  "location_name": "Nigeria"
 }
