@@ -1,14 +1,14 @@
 {
-  "latitude": 37.60072891394257,
-  "longitude": 70.79898371115517,
-  "altitude_km": 574.5126211153884,
-  "altitude_miles": 356.98548189509,
-  "velocity_km_s": 7.572305001793707,
-  "velocity_km_h": 27260.298006457342,
-  "velocity_mph": 16938.758632570407,
-  "velocity_mps": 4.705210731269557,
-  "heading_degrees": 347.33117475924706,
-  "timestamp": "2025-10-14T17:44:57.584710+00:00",
-  "location_type": "country",
-  "location_name": "Afghanistan"
+  "latitude": 73.75698867648666,
+  "longitude": 46.65412964902787,
+  "altitude_km": 569.8060301984142,
+  "altitude_miles": 354.06094279041884,
+  "velocity_km_s": 7.571719547968599,
+  "velocity_km_h": 27258.190372686957,
+  "velocity_mph": 16937.449010066866,
+  "velocity_mps": 4.704846947240797,
+  "heading_degrees": 330.5076233908241,
+  "timestamp": "2025-10-14T17:55:01.979545+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
