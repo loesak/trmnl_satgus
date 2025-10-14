@@ -1,14 +1,14 @@
 {
-  "latitude": 60.20437733774861,
-  "longitude": -57.77586947315325,
-  "altitude_km": 571.2648499988554,
-  "altitude_miles": 354.96741110863877,
-  "velocity_km_s": 7.571913652404991,
-  "velocity_km_h": 27258.889148657967,
-  "velocity_mph": 16937.88320919075,
-  "velocity_mps": 4.7049675581085415,
-  "heading_degrees": 342.57273784095486,
-  "timestamp": "2025-10-14T01:48:35.448401+00:00",
-  "location_type": "ocean",
-  "location_name": "Labrador Sea"
+  "latitude": -12.31560959675221,
+  "longitude": 125.39664989081646,
+  "altitude_km": 579.9137773634766,
+  "altitude_miles": 360.3416037541208,
+  "velocity_km_s": 7.569796274265847,
+  "velocity_km_h": 27251.266587357048,
+  "velocity_mph": 16933.146770652635,
+  "velocity_mps": 4.703651880736843,
+  "heading_degrees": 191.51501788313158,
+  "timestamp": "2025-10-14T02:23:40.190162+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
