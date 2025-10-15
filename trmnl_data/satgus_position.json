@@ -1,14 +1,14 @@
 {
-  "latitude": 30.89404453350498,
-  "longitude": 47.571038012732295,
-  "altitude_km": 575.5976711618005,
-  "altitude_miles": 357.6597005274791,
-  "velocity_km_s": 7.572220362817968,
-  "velocity_km_h": 27259.993306144686,
-  "velocity_mph": 16938.56930063243,
-  "velocity_mps": 4.705158139064564,
-  "heading_degrees": 347.8346606651859,
-  "timestamp": "2025-10-15T19:23:13.000093+00:00",
-  "location_type": "country",
-  "location_name": "Iraq"
+  "latitude": 75.77395473255214,
+  "longitude": 16.916106799514186,
+  "altitude_km": 569.609432071109,
+  "altitude_miles": 353.9387824154571,
+  "velocity_km_s": 7.571724438888277,
+  "velocity_km_h": 27258.2079799978,
+  "velocity_mph": 16937.459950739212,
+  "velocity_mps": 4.7048499863164475,
+  "heading_degrees": 326.2515660325742,
+  "timestamp": "2025-10-15T19:35:43.843428+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
