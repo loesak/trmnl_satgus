@@ -1,14 +1,14 @@
 {
-  "latitude": 50.579123410395475,
-  "longitude": 16.407974290671632,
-  "altitude_km": 572.5350016108532,
-  "altitude_miles": 355.7566464859375,
-  "velocity_km_s": 7.572092254750656,
-  "velocity_km_h": 27259.53211710236,
-  "velocity_mph": 16938.282731136012,
-  "velocity_mps": 4.70507853642667,
-  "heading_degrees": 345.4915768965087,
-  "timestamp": "2025-10-16T21:08:36.697174+00:00",
-  "location_type": "country",
-  "location_name": "Poland"
+  "latitude": 76.0921747934228,
+  "longitude": -124.50366091752937,
+  "altitude_km": 569.1787348392018,
+  "altitude_miles": 353.67115964576965,
+  "velocity_km_s": 7.572144478399691,
+  "velocity_km_h": 27259.720122238887,
+  "velocity_mph": 16938.399552075698,
+  "velocity_mps": 4.705110986687695,
+  "heading_degrees": 214.56875929381962,
+  "timestamp": "2025-10-16T21:22:07.869335+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
