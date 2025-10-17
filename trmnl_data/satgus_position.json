@@ -1,14 +1,14 @@
 {
-  "latitude": 82.25529738928586,
-  "longitude": -12.330115609019881,
-  "altitude_km": 569.1017753703363,
-  "altitude_miles": 353.62333926364124,
-  "velocity_km_s": 7.571796237056201,
-  "velocity_km_h": 27258.466453402325,
-  "velocity_mph": 16937.620558617054,
-  "velocity_mps": 4.704894599615849,
-  "heading_degrees": 277.04409274145826,
-  "timestamp": "2025-10-17T18:10:02.232291+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 29.751172879544235,
+  "longitude": -109.14995441428394,
+  "altitude_km": 574.0089762171265,
+  "altitude_miles": 356.6725315610121,
+  "velocity_km_s": 7.574090410606393,
+  "velocity_km_h": 27266.725478183016,
+  "velocity_mph": 16942.75247710406,
+  "velocity_mps": 4.706320132528905,
+  "heading_degrees": 192.1008609302889,
+  "timestamp": "2025-10-17T18:26:20.238788+00:00",
+  "location_type": "country",
+  "location_name": "Mexico"
 }
