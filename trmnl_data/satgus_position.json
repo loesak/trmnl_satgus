@@ -1,14 +1,14 @@
 {
-  "latitude": 81.9428840377114,
-  "longitude": 94.44412080212942,
-  "altitude_km": 569.1671204551285,
-  "altitude_miles": 353.66394280432365,
-  "velocity_km_s": 7.571746867872974,
-  "velocity_km_h": 27258.288724342703,
-  "velocity_mph": 16937.51012293355,
-  "velocity_mps": 4.704863923037098,
-  "heading_degrees": 287.27351100876166,
-  "timestamp": "2025-10-17T11:44:38.092848+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 52.197757908602796,
+  "longitude": -5.782433121299001,
+  "altitude_km": 571.0355986265513,
+  "altitude_miles": 354.8249609541788,
+  "velocity_km_s": 7.573427921685469,
+  "velocity_km_h": 27264.34051806769,
+  "velocity_mph": 16941.27053205224,
+  "velocity_mps": 4.705908481125622,
+  "heading_degrees": 194.87398763049603,
+  "timestamp": "2025-10-17T11:55:14.405296+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
