@@ -1,14 +1,14 @@
 {
-  "latitude": 12.152503289153135,
-  "longitude": -0.09470527351536016,
-  "altitude_km": 578.666031588059,
-  "altitude_miles": 359.5662907139038,
-  "velocity_km_s": 7.571009586481299,
-  "velocity_km_h": 27255.63451133268,
-  "velocity_mph": 16935.8608719413,
-  "velocity_mps": 4.7044057977614715,
-  "heading_degrees": 348.48899276548383,
-  "timestamp": "2025-10-19T22:45:47.106773+00:00",
-  "location_type": "country",
-  "location_name": "Burkina Faso"
+  "latitude": 47.08979065570232,
+  "longitude": -9.132614791575657,
+  "altitude_km": 573.0085190722966,
+  "altitude_miles": 356.050876504472,
+  "velocity_km_s": 7.57210517926868,
+  "velocity_km_h": 27259.578645367248,
+  "velocity_mph": 16938.31164245049,
+  "velocity_mps": 4.705086567347359,
+  "heading_degrees": 346.14544516927936,
+  "timestamp": "2025-10-19T22:55:12.701557+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
