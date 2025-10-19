@@ -1,14 +1,14 @@
 {
-  "latitude": 51.69441986682023,
-  "longitude": 13.125668560173073,
-  "altitude_km": 572.3091808689196,
-  "altitude_miles": 355.6163280257015,
-  "velocity_km_s": 7.572045928859722,
-  "velocity_km_h": 27259.365343895,
-  "velocity_mph": 16938.179103101378,
-  "velocity_mps": 4.705049750861495,
-  "heading_degrees": 345.2479716971418,
-  "timestamp": "2025-10-19T21:20:13.212524+00:00",
-  "location_type": "country",
-  "location_name": "Germany"
+  "latitude": 82.20255881684729,
+  "longitude": -59.666992040343395,
+  "altitude_km": 568.9170953344228,
+  "altitude_miles": 353.50858444504564,
+  "velocity_km_s": 7.571921909187948,
+  "velocity_km_h": 27258.91887307661,
+  "velocity_mph": 16937.901679082486,
+  "velocity_mps": 4.704972688634024,
+  "heading_degrees": 279.6337574241081,
+  "timestamp": "2025-10-19T21:29:57.448498+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
