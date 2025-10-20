@@ -1,14 +1,14 @@
 {
-  "latitude": -54.42443012628445,
-  "longitude": -36.67013016323071,
-  "altitude_km": 581.9264377929239,
-  "altitude_miles": 361.59221257782696,
-  "velocity_km_s": 7.5610265095097535,
-  "velocity_km_h": 27219.695434235113,
-  "velocity_mph": 16913.529371666107,
-  "velocity_mps": 4.698202603240585,
-  "heading_degrees": 195.44119308964335,
-  "timestamp": "2025-10-20T12:35:15.440426+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -36.69348773121559,
+  "longitude": 154.07534702740787,
+  "altitude_km": 583.1734156052589,
+  "altitude_miles": 362.36704842805534,
+  "velocity_km_s": 7.562821041725857,
+  "velocity_km_h": 27226.155750213085,
+  "velocity_mph": 16917.543624665654,
+  "velocity_mps": 4.699317673518237,
+  "heading_degrees": 347.39971598860393,
+  "timestamp": "2025-10-20T12:58:51.355807+00:00",
+  "location_type": "ocean",
+  "location_name": "Tasman Sea"
 }
