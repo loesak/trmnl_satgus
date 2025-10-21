@@ -1,14 +1,14 @@
 {
-  "latitude": -20.71542878769347,
-  "longitude": 77.0457114686246,
-  "altitude_km": 582.3692396256192,
-  "altitude_miles": 361.86735679541067,
-  "velocity_km_s": 7.566038345175851,
-  "velocity_km_h": 27237.738042633064,
-  "velocity_mph": 16924.74052528895,
-  "velocity_mps": 4.701316812580264,
-  "heading_degrees": 348.2821731850602,
-  "timestamp": "2025-10-21T17:55:36.145427+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 33.31412529849701,
+  "longitude": 65.4042626208903,
+  "altitude_km": 575.1325545695399,
+  "altitude_miles": 357.3706905654296,
+  "velocity_km_s": 7.572107423379126,
+  "velocity_km_h": 27259.586724164856,
+  "velocity_mph": 16938.31666238104,
+  "velocity_mps": 4.705087961772511,
+  "heading_degrees": 347.67659250746954,
+  "timestamp": "2025-10-21T18:10:07.038231+00:00",
+  "location_type": "country",
+  "location_name": "Afghanistan"
 }
