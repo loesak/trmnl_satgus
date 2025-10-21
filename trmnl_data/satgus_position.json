@@ -1,14 +1,14 @@
 {
-  "latitude": -37.668358801051404,
-  "longitude": 129.36695637351755,
-  "altitude_km": 583.2546239714975,
-  "altitude_miles": 362.41750895179337,
-  "velocity_km_s": 7.562527792225667,
-  "velocity_km_h": 27225.1000520124,
-  "velocity_mph": 16916.887644418995,
-  "velocity_mps": 4.699135456783055,
-  "heading_degrees": 347.31273144455616,
-  "timestamp": "2025-10-21T14:38:32.003118+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 0.6022750149514434,
+  "longitude": 120.73049666027008,
+  "altitude_km": 580.2254849650644,
+  "altitude_miles": 360.53528981822706,
+  "velocity_km_s": 7.569658596503766,
+  "velocity_km_h": 27250.77094741356,
+  "velocity_mph": 16932.83879436531,
+  "velocity_mps": 4.703566331768141,
+  "heading_degrees": 348.5809163664029,
+  "timestamp": "2025-10-21T14:48:50.215405+00:00",
+  "location_type": "country",
+  "location_name": "Indonesia"
 }
