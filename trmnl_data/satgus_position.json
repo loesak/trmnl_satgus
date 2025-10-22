@@ -1,14 +1,14 @@
 {
-  "latitude": 60.58322910192863,
-  "longitude": -54.13849686700302,
-  "altitude_km": 569.308661016833,
-  "altitude_miles": 353.7518920046905,
-  "velocity_km_s": 7.573696167651628,
-  "velocity_km_h": 27265.30620354586,
-  "velocity_mph": 16941.870581003495,
-  "velocity_mps": 4.70607516138986,
-  "heading_degrees": 197.5976150246676,
-  "timestamp": "2025-10-22T15:24:01.784651+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 8.60676467972332,
+  "longitude": -70.33282347061873,
+  "altitude_km": 576.202898116092,
+  "altitude_miles": 358.0357710052942,
+  "velocity_km_s": 7.5737876517815845,
+  "velocity_km_h": 27265.635546413705,
+  "velocity_mph": 16942.07522511063,
+  "velocity_mps": 4.706132006975175,
+  "heading_degrees": 191.4616460061028,
+  "timestamp": "2025-10-22T15:38:06.419568+00:00",
+  "location_type": "country",
+  "location_name": "Venezuela"
 }
