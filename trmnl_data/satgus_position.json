@@ -1,14 +1,14 @@
 {
-  "latitude": -18.935101613025918,
-  "longitude": 51.67625772737237,
-  "altitude_km": 582.2967892239167,
-  "altitude_miles": 361.82233821685435,
-  "velocity_km_s": 7.566296252800432,
-  "velocity_km_h": 27238.666510081555,
-  "velocity_mph": 16925.317448035887,
-  "velocity_mps": 4.701477068898857,
-  "heading_degrees": 348.3354915597783,
-  "timestamp": "2025-10-22T19:36:00.248722+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 15.692147037834587,
+  "longitude": 44.52724111864709,
+  "altitude_km": 578.0373894587938,
+  "altitude_miles": 359.17567072540015,
+  "velocity_km_s": 7.571265375741392,
+  "velocity_km_h": 27256.555352669013,
+  "velocity_mph": 16936.433056043297,
+  "velocity_mps": 4.704564737789805,
+  "heading_degrees": 348.42297646978216,
+  "timestamp": "2025-10-22T19:45:17.873471+00:00",
+  "location_type": "country",
+  "location_name": "Yemen"
 }
