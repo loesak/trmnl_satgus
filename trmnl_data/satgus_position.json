@@ -1,14 +1,14 @@
 {
-  "latitude": 26.283783135705246,
-  "longitude": 28.83329588680428,
-  "altitude_km": 573.5448769006398,
-  "altitude_miles": 356.38415370462747,
-  "velocity_km_s": 7.574889210423854,
-  "velocity_km_h": 27269.601157525874,
-  "velocity_mph": 16944.53934085301,
-  "velocity_mps": 4.706816483570281,
-  "heading_degrees": 191.9225254112588,
-  "timestamp": "2025-10-23T09:12:03.070293+00:00",
-  "location_type": "country",
-  "location_name": "Egypt"
+  "latitude": -44.84798864763068,
+  "longitude": 12.515511478183543,
+  "altitude_km": 581.4564767893344,
+  "altitude_miles": 361.3001924390655,
+  "velocity_km_s": 7.56316312161037,
+  "velocity_km_h": 27227.38723779733,
+  "velocity_mph": 16918.308835337364,
+  "velocity_mps": 4.699530232038157,
+  "heading_degrees": 193.5123530767021,
+  "timestamp": "2025-10-23T09:31:11.243695+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
