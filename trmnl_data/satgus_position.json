@@ -1,14 +1,14 @@
 {
-  "latitude": 15.214824895748253,
-  "longitude": 121.70513139845116,
-  "altitude_km": 574.9787267997881,
-  "altitude_miles": 357.2751064503111,
-  "velocity_km_s": 7.574610020682672,
-  "velocity_km_h": 27268.59607445762,
-  "velocity_mph": 16943.914811381805,
-  "velocity_mps": 4.706643003161613,
-  "heading_degrees": 191.56518837139254,
-  "timestamp": "2025-10-24T02:53:42.063205+00:00",
-  "location_type": "ocean",
-  "location_name": "Philippine Sea"
+  "latitude": -81.91951537606997,
+  "longitude": 40.863244429295555,
+  "altitude_km": 583.1248155806506,
+  "altitude_miles": 362.33684978216445,
+  "velocity_km_s": 7.556300895318931,
+  "velocity_km_h": 27202.683223148153,
+  "velocity_mph": 16902.95847705079,
+  "velocity_mps": 4.69526624362522,
+  "heading_degrees": 252.1971909956028,
+  "timestamp": "2025-10-24T03:21:11.364193+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
