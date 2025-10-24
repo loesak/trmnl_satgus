@@ -1,14 +1,14 @@
 {
-  "latitude": 51.2914024033798,
-  "longitude": -62.55405289016074,
-  "altitude_km": 571.9712347812019,
-  "altitude_miles": 355.40633812723024,
-  "velocity_km_s": 7.572319790042599,
-  "velocity_km_h": 27260.351244153357,
-  "velocity_mph": 16938.791712930815,
-  "velocity_mps": 4.70521992025856,
-  "heading_degrees": 345.3398221943915,
-  "timestamp": "2025-10-24T02:23:33.412212+00:00",
-  "location_type": "country",
-  "location_name": "Canada"
+  "latitude": 15.214824895748253,
+  "longitude": 121.70513139845116,
+  "altitude_km": 574.9787267997881,
+  "altitude_miles": 357.2751064503111,
+  "velocity_km_s": 7.574610020682672,
+  "velocity_km_h": 27268.59607445762,
+  "velocity_mph": 16943.914811381805,
+  "velocity_mps": 4.706643003161613,
+  "heading_degrees": 191.56518837139254,
+  "timestamp": "2025-10-24T02:53:42.063205+00:00",
+  "location_type": "ocean",
+  "location_name": "Philippine Sea"
 }
