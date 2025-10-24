@@ -1,14 +1,14 @@
 {
-  "latitude": -12.54186651557179,
-  "longitude": 48.49291694380112,
-  "altitude_km": 581.8536167768543,
-  "altitude_miles": 361.54696371025074,
-  "velocity_km_s": 7.567322182960419,
-  "velocity_km_h": 27242.35985865751,
-  "velocity_mph": 16927.612387733876,
-  "velocity_mps": 4.7021145521482985,
-  "heading_degrees": 348.47829183654443,
-  "timestamp": "2025-10-24T19:45:01.522296+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 24.40753922188772,
+  "longitude": 40.78352257267479,
+  "altitude_km": 576.5500550013321,
+  "altitude_miles": 358.2514842262327,
+  "velocity_km_s": 7.571833386829513,
+  "velocity_km_h": 27258.600192586247,
+  "velocity_mph": 16937.70366026751,
+  "velocity_mps": 4.704917683407642,
+  "heading_degrees": 348.1590820566832,
+  "timestamp": "2025-10-24T19:54:56.574512+00:00",
+  "location_type": "country",
+  "location_name": "Saudi Arabia"
 }
