@@ -1,14 +1,14 @@
 {
-  "latitude": -15.733484050074079,
-  "longitude": 48.26305554737091,
-  "altitude_km": 582.1588317383303,
-  "altitude_miles": 361.736615436078,
-  "velocity_km_s": 7.566685427725498,
-  "velocity_km_h": 27240.067539811793,
-  "velocity_mph": 16926.188007280394,
-  "velocity_mps": 4.701718890911221,
-  "heading_degrees": 348.4165424988515,
-  "timestamp": "2025-10-25T19:47:47.264464+00:00",
-  "location_type": "country",
-  "location_name": "Madagascar"
+  "latitude": 18.406909303686533,
+  "longitude": 41.22107155246521,
+  "altitude_km": 577.4914562930089,
+  "altitude_miles": 358.83644368824326,
+  "velocity_km_s": 7.571501946321655,
+  "velocity_km_h": 27257.40700675796,
+  "velocity_mph": 16936.9622491962,
+  "velocity_mps": 4.704711735887833,
+  "heading_degrees": 348.3585281032886,
+  "timestamp": "2025-10-25T19:56:56.983760+00:00",
+  "location_type": "ocean",
+  "location_name": "Red Sea"
 }
