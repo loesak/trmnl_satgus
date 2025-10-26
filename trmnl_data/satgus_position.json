@@ -1,14 +1,14 @@
 {
-  "latitude": -1.3691170390093113,
-  "longitude": -75.97923673518261,
-  "altitude_km": 577.1001846603276,
-  "altitude_miles": 358.59331884257244,
-  "velocity_km_s": 7.572914113393435,
-  "velocity_km_h": 27262.490808216367,
-  "velocity_mph": 16940.12117599221,
-  "velocity_mps": 4.705589215553392,
-  "heading_degrees": 191.41541771803207,
-  "timestamp": "2025-10-26T15:55:18.801850+00:00",
-  "location_type": "country",
-  "location_name": "Ecuador"
+  "latitude": -50.06257949325831,
+  "longitude": -88.35320229053288,
+  "altitude_km": 581.7785906890631,
+  "altitude_miles": 361.50034467505384,
+  "velocity_km_s": 7.561770937876192,
+  "velocity_km_h": 27222.37537635429,
+  "velocity_mph": 16915.194609980645,
+  "velocity_mps": 4.698665169439067,
+  "heading_degrees": 194.40589697407688,
+  "timestamp": "2025-10-26T16:08:27.391453+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
