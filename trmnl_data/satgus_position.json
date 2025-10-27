@@ -1,14 +1,14 @@
 {
-  "latitude": 59.697632800143964,
-  "longitude": -117.61299343013212,
-  "altitude_km": 570.1639350601426,
-  "altitude_miles": 354.2833344922559,
-  "velocity_km_s": 7.572779208995401,
-  "velocity_km_h": 27262.005152383445,
-  "velocity_mph": 16939.819403541653,
-  "velocity_mps": 4.705505389872681,
-  "heading_degrees": 342.78962255611657,
-  "timestamp": "2025-10-27T05:49:12.368993+00:00",
-  "location_type": "country",
-  "location_name": "Canada"
+  "latitude": 80.24420695523989,
+  "longitude": 125.04485464697568,
+  "altitude_km": 567.4092012042593,
+  "altitude_miles": 352.57162276149177,
+  "velocity_km_s": 7.573417824317294,
+  "velocity_km_h": 27264.304167542257,
+  "velocity_mph": 16941.2479448899,
+  "velocity_mps": 4.705902206913861,
+  "heading_degrees": 232.49294291891317,
+  "timestamp": "2025-10-27T05:58:42.560705+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
