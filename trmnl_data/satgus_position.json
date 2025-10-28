@@ -1,14 +1,14 @@
 {
-  "latitude": 56.89701648321777,
-  "longitude": -37.6503245252734,
-  "altitude_km": 568.4934658322245,
-  "altitude_miles": 353.24535335763517,
-  "velocity_km_s": 7.575016454370157,
-  "velocity_km_h": 27270.059235732566,
-  "velocity_mph": 16944.82397736638,
-  "velocity_mps": 4.706895549268439,
-  "heading_degrees": 196.18272785226628,
-  "timestamp": "2025-10-28T14:10:31.316997+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -21.590066878243274,
+  "longitude": -57.94017931730351,
+  "altitude_km": 579.5347479714173,
+  "altitude_miles": 360.10608588174756,
+  "velocity_km_s": 7.568836313398898,
+  "velocity_km_h": 27247.810728236032,
+  "velocity_mph": 16930.999400014753,
+  "velocity_mps": 4.703055388892987,
+  "heading_degrees": 191.73888797526027,
+  "timestamp": "2025-10-28T14:31:40.437921+00:00",
+  "location_type": "country",
+  "location_name": "Paraguay"
 }
