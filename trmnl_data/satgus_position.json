@@ -1,14 +1,14 @@
 {
-  "latitude": -14.970395576877387,
-  "longitude": 117.59237841684207,
-  "altitude_km": 582.1236148756625,
-  "altitude_miles": 361.71473269890527,
-  "velocity_km_s": 7.5667222858861765,
-  "velocity_km_h": 27240.200229190235,
-  "velocity_mph": 16926.270456612165,
-  "velocity_mps": 4.70174179350338,
-  "heading_degrees": 348.4334698031916,
-  "timestamp": "2025-10-28T15:10:03.219609+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 43.471231677290305,
+  "longitude": 104.24788124320992,
+  "altitude_km": 572.6249841007029,
+  "altitude_miles": 355.81255899563786,
+  "velocity_km_s": 7.572885507579558,
+  "velocity_km_h": 27262.38782728641,
+  "velocity_mph": 16940.057186628783,
+  "velocity_mps": 4.705571440730218,
+  "heading_degrees": 346.68609996932776,
+  "timestamp": "2025-10-28T15:25:46.336851+00:00",
+  "location_type": "country",
+  "location_name": "Mongolia"
 }
