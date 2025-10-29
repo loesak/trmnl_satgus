@@ -1,14 +1,14 @@
 {
-  "latitude": 32.45800805505346,
-  "longitude": 49.01740317646566,
-  "altitude_km": 571.6647594762562,
-  "altitude_miles": 355.2159032605208,
-  "velocity_km_s": 7.57582078279138,
-  "velocity_km_h": 27272.95481804897,
-  "velocity_mph": 16946.623208245906,
-  "velocity_mps": 4.707395335623863,
-  "heading_degrees": 192.26407508783473,
-  "timestamp": "2025-10-29T07:55:46.846109+00:00",
-  "location_type": "country",
-  "location_name": "Iran"
+  "latitude": -27.36639415085673,
+  "longitude": 36.0759319947607,
+  "altitude_km": 580.1319806368701,
+  "altitude_miles": 360.47718894031266,
+  "velocity_km_s": 7.5673820170484305,
+  "velocity_km_h": 27242.57526137435,
+  "velocity_mph": 16927.74623273544,
+  "velocity_mps": 4.7021517313154,
+  "heading_degrees": 191.97521481445673,
+  "timestamp": "2025-10-29T08:11:50.480815+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
