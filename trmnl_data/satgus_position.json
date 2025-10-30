@@ -1,14 +1,14 @@
 {
-  "latitude": -57.652494036433154,
-  "longitude": -62.6353321213066,
-  "altitude_km": 584.2693618568837,
-  "altitude_miles": 363.0480376463737,
-  "velocity_km_s": 7.5576567689969645,
-  "velocity_km_h": 27207.564368389074,
-  "velocity_mph": 16905.99147915029,
-  "velocity_mps": 4.696108744208413,
-  "heading_degrees": 343.5505785395224,
-  "timestamp": "2025-10-30T03:51:54.449358+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 7.992828503939836,
+  "longitude": -80.45937124869222,
+  "altitude_km": 578.90253636118,
+  "altitude_miles": 359.71324792128274,
+  "velocity_km_s": 7.570661713543122,
+  "velocity_km_h": 27254.382168755237,
+  "velocity_mph": 16935.08270258161,
+  "velocity_mps": 4.704189639606003,
+  "heading_degrees": 348.54437118789855,
+  "timestamp": "2025-10-30T04:09:39.945855+00:00",
+  "location_type": "country",
+  "location_name": "Panama"
 }
