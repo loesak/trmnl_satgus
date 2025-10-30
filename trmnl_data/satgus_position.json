@@ -1,14 +1,14 @@
 {
-  "latitude": -2.717442706462391,
-  "longitude": 41.123896460032654,
-  "altitude_km": 580.4707817134722,
-  "altitude_miles": 360.68771010408193,
-  "velocity_km_s": 7.569105429951453,
-  "velocity_km_h": 27248.77954782523,
-  "velocity_mph": 16931.601396411712,
-  "velocity_mps": 4.703222610114364,
-  "heading_degrees": 348.577329390951,
-  "timestamp": "2025-10-30T20:09:08.933655+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 53.55300442210127,
+  "longitude": 26.436918322850406,
+  "altitude_km": 570.4625552761199,
+  "altitude_miles": 354.46888843447795,
+  "velocity_km_s": 7.5733623556380305,
+  "velocity_km_h": 27264.104480296908,
+  "velocity_mph": 16941.12386502657,
+  "velocity_mps": 4.705867740285159,
+  "heading_degrees": 344.8012123082771,
+  "timestamp": "2025-10-30T20:24:19.674791+00:00",
+  "location_type": "country",
+  "location_name": "Belarus"
 }
