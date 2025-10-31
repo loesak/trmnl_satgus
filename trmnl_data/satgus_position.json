@@ -1,14 +1,14 @@
 {
-  "latitude": -49.86724068326937,
-  "longitude": -68.6508627289009,
-  "altitude_km": 582.0550459302076,
-  "altitude_miles": 361.672125944699,
-  "velocity_km_s": 7.561350964578906,
-  "velocity_km_h": 27220.86347248406,
-  "velocity_mph": 16914.255156760893,
-  "velocity_mps": 4.6984042102113595,
-  "heading_degrees": 194.36723459328965,
-  "timestamp": "2025-10-31T14:49:57.257774+00:00",
+  "latitude": -80.5113433725495,
+  "longitude": -115.54850755030645,
+  "altitude_km": 583.655323227611,
+  "altitude_miles": 362.6664918492639,
+  "velocity_km_s": 7.555564756620318,
+  "velocity_km_h": 27200.033123833146,
+  "velocity_mph": 16901.311782189325,
+  "velocity_mps": 4.6948088283859235,
+  "heading_degrees": 234.56515308147934,
+  "timestamp": "2025-10-31T14:59:04.840407+00:00",
   "location_type": "country",
-  "location_name": "Argentina"
+  "location_name": "Antarctica"
 }
