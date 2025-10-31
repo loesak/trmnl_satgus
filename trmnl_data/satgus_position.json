@@ -1,14 +1,14 @@
 {
-  "latitude": 45.90760654115865,
-  "longitude": 52.662306418366995,
-  "altitude_km": 571.6218080951285,
-  "altitude_miles": 355.1892145178781,
-  "velocity_km_s": 7.573423908862065,
-  "velocity_km_h": 27264.326071903433,
-  "velocity_mph": 16941.261555624707,
-  "velocity_mps": 4.70590598767353,
-  "heading_degrees": 346.3377234736313,
-  "timestamp": "2025-10-31T18:49:31.129817+00:00",
-  "location_type": "ocean",
-  "location_name": "Caspian Sea"
+  "latitude": 77.19904264680122,
+  "longitude": 22.01332920189847,
+  "altitude_km": 567.1502696309963,
+  "altitude_miles": 352.4107301908818,
+  "velocity_km_s": 7.5737605580852,
+  "velocity_km_h": 27265.53800910672,
+  "velocity_mph": 16942.014618256653,
+  "velocity_mps": 4.7061151717379595,
+  "heading_degrees": 322.2135892564325,
+  "timestamp": "2025-10-31T18:58:25.792313+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
