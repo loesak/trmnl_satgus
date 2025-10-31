@@ -1,14 +1,14 @@
 {
-  "latitude": 19.054753736700416,
-  "longitude": 11.692219217982247,
-  "altitude_km": 576.704392465912,
-  "altitude_miles": 358.34738505093617,
-  "velocity_km_s": 7.572098832943145,
-  "velocity_km_h": 27259.555798595324,
-  "velocity_mph": 16938.297446128974,
-  "velocity_mps": 4.705082623924715,
-  "heading_degrees": 348.34132013539164,
-  "timestamp": "2025-10-31T21:54:44.204158+00:00",
-  "location_type": "country",
-  "location_name": "Niger"
+  "latitude": 68.3113536475433,
+  "longitude": -8.83110143348127,
+  "altitude_km": 568.0882561612898,
+  "altitude_miles": 352.9935678191968,
+  "velocity_km_s": 7.573650068592432,
+  "velocity_km_h": 27265.140246932755,
+  "velocity_mph": 16941.767460376854,
+  "velocity_mps": 4.706046516771348,
+  "heading_degrees": 337.4830322672584,
+  "timestamp": "2025-10-31T22:08:11.734815+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
