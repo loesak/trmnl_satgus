@@ -1,14 +1,14 @@
 {
-  "latitude": 7.815188487504591,
-  "longitude": 36.37843056476866,
-  "altitude_km": 578.4948746110367,
-  "altitude_miles": 359.4599387319345,
-  "velocity_km_s": 7.570990012805969,
-  "velocity_km_h": 27255.56404610149,
-  "velocity_mph": 16935.81708689013,
-  "velocity_mps": 4.704393635247258,
-  "heading_degrees": 348.5442405595142,
-  "timestamp": "2025-11-02T20:22:27.314761+00:00",
-  "location_type": "country",
-  "location_name": "Ethiopia"
+  "latitude": 58.42107885071158,
+  "longitude": 21.334377485097768,
+  "altitude_km": 569.1477584533941,
+  "altitude_miles": 353.6519118179439,
+  "velocity_km_s": 7.57387355115414,
+  "velocity_km_h": 27265.944784154904,
+  "velocity_mph": 16942.267376475116,
+  "velocity_mps": 4.7061853823541995,
+  "heading_degrees": 343.2845959324682,
+  "timestamp": "2025-11-02T20:36:08.965071+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
