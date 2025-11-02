@@ -1,14 +1,14 @@
 {
-  "latitude": 69.84016598858828,
-  "longitude": 40.67360936197385,
-  "altitude_km": 566.6238542702895,
-  "altitude_miles": 352.0836309517841,
-  "velocity_km_s": 7.575013425567817,
-  "velocity_km_h": 27270.04833204414,
-  "velocity_mph": 16944.8172021306,
-  "velocity_mps": 4.7068936672585,
-  "heading_degrees": 204.04510624949245,
-  "timestamp": "2025-11-02T09:35:46.728146+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 37.075885655398984,
+  "longitude": 22.699850024810367,
+  "altitude_km": 570.5011052640348,
+  "altitude_miles": 354.49284227901853,
+  "velocity_km_s": 7.576169418848838,
+  "velocity_km_h": 27274.209907855817,
+  "velocity_mph": 16947.403084654277,
+  "velocity_mps": 4.707611967959521,
+  "heading_degrees": 192.62396542971837,
+  "timestamp": "2025-11-02T09:44:49.207351+00:00",
+  "location_type": "country",
+  "location_name": "Greece"
 }
