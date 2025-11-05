@@ -1,14 +1,14 @@
 {
-  "latitude": 67.04384775117316,
-  "longitude": 34.90843075592563,
-  "altitude_km": 566.546371529711,
-  "altitude_miles": 352.03548542378803,
-  "velocity_km_s": 7.575361393319095,
-  "velocity_km_h": 27271.301015948742,
-  "velocity_mph": 16945.595583581086,
-  "velocity_mps": 4.707109884328079,
-  "heading_degrees": 201.45219496442647,
-  "timestamp": "2025-11-05T09:46:56.078099+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 32.42577657112461,
+  "longitude": 18.873627125347607,
+  "altitude_km": 571.1375562048906,
+  "altitude_miles": 354.8883144365891,
+  "velocity_km_s": 7.576173600603391,
+  "velocity_km_h": 27274.224962172208,
+  "velocity_mph": 16947.412438969906,
+  "velocity_mps": 4.7076145663805296,
+  "heading_degrees": 192.26549894816398,
+  "timestamp": "2025-11-05T09:56:25.551392+00:00",
+  "location_type": "ocean",
+  "location_name": "Mediterranean Sea"
 }
