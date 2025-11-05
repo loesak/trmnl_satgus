@@ -1,14 +1,14 @@
 {
-  "latitude": -72.79270137295175,
-  "longitude": 172.56305178855237,
-  "altitude_km": 583.4802107861597,
-  "altitude_miles": 362.5576820564068,
-  "velocity_km_s": 7.5562300124444315,
-  "velocity_km_h": 27202.42804479995,
-  "velocity_mph": 16902.79991662539,
-  "velocity_mps": 4.695222199062609,
-  "heading_degrees": 207.88560042200515,
-  "timestamp": "2025-11-05T21:38:39.213204+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": -70.59600027692001,
+  "longitude": 38.68534940281643,
+  "altitude_km": 584.2463646583547,
+  "altitude_miles": 363.0337478541265,
+  "velocity_km_s": 7.555636220327845,
+  "velocity_km_h": 27200.29039318024,
+  "velocity_mph": 16901.4716419008,
+  "velocity_mps": 4.694853233861333,
+  "heading_degrees": 335.09261626022686,
+  "timestamp": "2025-11-05T21:47:38.015520+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
