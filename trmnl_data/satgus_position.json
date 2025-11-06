@@ -1,14 +1,14 @@
 {
-  "latitude": 47.73327778491536,
-  "longitude": 22.677738016502296,
-  "altitude_km": 568.7045659681798,
-  "altitude_miles": 353.37652486021386,
-  "velocity_km_s": 7.5761177877978465,
-  "velocity_km_h": 27274.02403607225,
-  "velocity_mph": 16947.28758931825,
-  "velocity_mps": 4.707579885921736,
-  "heading_degrees": 193.96891302973324,
-  "timestamp": "2025-11-06T09:55:42.267017+00:00",
-  "location_type": "country",
-  "location_name": "Romania"
+  "latitude": -8.159917535854936,
+  "longitude": 9.271153792922014,
+  "altitude_km": 577.8748550536384,
+  "altitude_miles": 359.07467655953434,
+  "velocity_km_s": 7.571554966369206,
+  "velocity_km_h": 27257.59787892914,
+  "velocity_mph": 16937.080851628078,
+  "velocity_mps": 4.7047446810078,
+  "heading_degrees": 191.4590568904948,
+  "timestamp": "2025-11-06T10:10:44.320785+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
