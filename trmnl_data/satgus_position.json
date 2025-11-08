@@ -1,14 +1,14 @@
 {
-  "latitude": 34.139881095172136,
-  "longitude": -55.386294013284505,
-  "altitude_km": 570.736845503915,
-  "altitude_miles": 354.6393244276132,
-  "velocity_km_s": 7.5762252690252545,
-  "velocity_km_h": 27274.410968490916,
-  "velocity_mph": 16947.52801790217,
-  "velocity_mps": 4.707646671639491,
-  "heading_degrees": 192.38454628382652,
-  "timestamp": "2025-11-08T14:54:49.768491+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -13.045109748683457,
+  "longitude": -65.59323254362921,
+  "altitude_km": 578.527065467616,
+  "altitude_miles": 359.47994119667806,
+  "velocity_km_s": 7.5704452543224,
+  "velocity_km_h": 27253.60291556064,
+  "velocity_mph": 16934.59849724483,
+  "velocity_mps": 4.704055138123564,
+  "heading_degrees": 191.52637875215134,
+  "timestamp": "2025-11-08T15:07:29.498274+00:00",
+  "location_type": "country",
+  "location_name": "Bolivia"
 }
