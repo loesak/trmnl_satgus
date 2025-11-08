@@ -1,14 +1,14 @@
 {
-  "latitude": -51.27488344612208,
-  "longitude": -73.43197947659958,
-  "altitude_km": 583.9062866296363,
-  "altitude_miles": 362.82243322934374,
-  "velocity_km_s": 7.558855594937402,
-  "velocity_km_h": 27211.880141774647,
-  "velocity_mph": 16908.673175574655,
-  "velocity_mps": 4.696853659881849,
-  "heading_degrees": 345.32705512930977,
-  "timestamp": "2025-11-08T04:24:45.581491+00:00",
-  "location_type": "country",
-  "location_name": "Chile"
+  "latitude": 0.8918905376853784,
+  "longitude": -86.76332278555624,
+  "altitude_km": 579.093745941871,
+  "altitude_miles": 359.83206000964634,
+  "velocity_km_s": 7.570361753014713,
+  "velocity_km_h": 27253.302310852967,
+  "velocity_mph": 16934.41171019702,
+  "velocity_mps": 4.704003252832505,
+  "heading_degrees": 348.5812370600853,
+  "timestamp": "2025-11-08T04:38:51.102238+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
