@@ -1,14 +1,14 @@
 {
-  "latitude": 44.6308456299702,
-  "longitude": -4.159298986553706,
-  "altitude_km": 569.0392569003543,
-  "altitude_miles": 353.58449209943007,
-  "velocity_km_s": 7.57623385097187,
-  "velocity_km_h": 27274.44186349873,
-  "velocity_mph": 16947.54721516407,
-  "velocity_mps": 4.707652004212242,
-  "heading_degrees": 193.47894411641917,
-  "timestamp": "2025-11-08T11:39:32.494506+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 10.051611509268332,
+  "longitude": -12.771487537117414,
+  "altitude_km": 574.9400724579227,
+  "altitude_miles": 357.2510877632519,
+  "velocity_km_s": 7.574569024231397,
+  "velocity_km_h": 27268.44848723303,
+  "velocity_mph": 16943.823104960473,
+  "velocity_mps": 4.706617529155687,
+  "heading_degrees": 191.47853399214662,
+  "timestamp": "2025-11-08T11:48:51.109792+00:00",
+  "location_type": "country",
+  "location_name": "Guinea"
 }
