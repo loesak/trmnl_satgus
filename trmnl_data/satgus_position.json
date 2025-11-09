@@ -1,14 +1,14 @@
 {
-  "latitude": 33.47647941770999,
-  "longitude": -104.50345527302575,
-  "altitude_km": 570.7873210502094,
-  "altitude_miles": 354.67068846828965,
-  "velocity_km_s": 7.576225189216353,
-  "velocity_km_h": 27274.41068117887,
-  "velocity_mph": 16947.527839374794,
-  "velocity_mps": 4.707646622048554,
-  "heading_degrees": 192.33544708526725,
-  "timestamp": "2025-11-09T18:10:47.316310+00:00",
-  "location_type": "country",
-  "location_name": "United States of America"
+  "latitude": -49.446196514097174,
+  "longitude": -124.27683047896787,
+  "altitude_km": 582.1378169607888,
+  "altitude_miles": 361.7235574627423,
+  "velocity_km_s": 7.561034703199955,
+  "velocity_km_h": 27219.72493151984,
+  "velocity_mph": 16913.547700423413,
+  "velocity_mps": 4.6982076945620594,
+  "heading_degrees": 194.28534308104378,
+  "timestamp": "2025-11-09T18:33:06.994699+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
