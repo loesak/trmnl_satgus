@@ -1,14 +1,14 @@
 {
-  "latitude": 1.010735998644782,
-  "longitude": -64.38323325009327,
-  "altitude_km": 576.4391661949012,
-  "altitude_miles": 358.18258113769195,
-  "velocity_km_s": 7.573154935316884,
-  "velocity_km_h": 27263.357767140784,
-  "velocity_mph": 16940.659879126037,
-  "velocity_mps": 4.705738855312788,
-  "heading_degrees": 191.41556492690836,
-  "timestamp": "2025-11-10T15:10:23.264121+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": -54.47670321475867,
+  "longitude": -79.16300026602833,
+  "altitude_km": 582.498938392112,
+  "altitude_miles": 361.947947847645,
+  "velocity_km_s": 7.559729408596125,
+  "velocity_km_h": 27215.02587094605,
+  "velocity_mph": 16910.627840455618,
+  "velocity_mps": 4.697396622348783,
+  "heading_degrees": 195.45529226328082,
+  "timestamp": "2025-11-10T15:25:23.008003+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
