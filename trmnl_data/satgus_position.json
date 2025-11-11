@@ -1,14 +1,14 @@
 {
-  "latitude": 56.70815764022189,
-  "longitude": 22.435878186819004,
-  "altitude_km": 567.176590382298,
-  "altitude_miles": 352.42708514243884,
-  "velocity_km_s": 7.576018195889083,
-  "velocity_km_h": 27273.6655052007,
-  "velocity_mph": 16947.064808632065,
-  "velocity_mps": 4.707518002397795,
-  "heading_degrees": 196.12265290331607,
-  "timestamp": "2025-11-11T10:10:00.233386+00:00",
-  "location_type": "country",
-  "location_name": "Latvia"
+  "latitude": -2.413108806162738,
+  "longitude": 6.265326144738783,
+  "altitude_km": 577.0172871089426,
+  "altitude_miles": 358.5418087081708,
+  "velocity_km_s": 7.572483181895095,
+  "velocity_km_h": 27260.93945482234,
+  "velocity_mph": 16939.15720998241,
+  "velocity_mps": 4.705321447217337,
+  "heading_degrees": 191.41892023013045,
+  "timestamp": "2025-11-11T10:25:57.291149+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
