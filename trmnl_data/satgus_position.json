@@ -1,14 +1,14 @@
 {
-  "latitude": 20.357304521470546,
-  "longitude": 122.3606883398758,
-  "altitude_km": 575.0464631791174,
-  "altitude_miles": 357.31719587207135,
-  "velocity_km_s": 7.573406525753915,
-  "velocity_km_h": 27264.263492714097,
-  "velocity_mph": 16941.22267073125,
-  "velocity_mps": 4.705895186314236,
-  "heading_degrees": 348.3036803343684,
-  "timestamp": "2025-11-11T14:31:23.999210+00:00",
-  "location_type": "ocean",
-  "location_name": "Philippine Sea"
+  "latitude": 78.20752079617291,
+  "longitude": 80.93015686259865,
+  "altitude_km": 565.7140383601236,
+  "altitude_miles": 351.5182977298684,
+  "velocity_km_s": 7.574892965325962,
+  "velocity_km_h": 27269.614675173463,
+  "velocity_mph": 16944.54774032721,
+  "velocity_mps": 4.706818816757558,
+  "heading_degrees": 318.5496943982671,
+  "timestamp": "2025-11-11T14:47:33.139511+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
