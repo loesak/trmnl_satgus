@@ -1,14 +1,14 @@
 {
-  "latitude": 38.72688054483282,
-  "longitude": 62.044311700716634,
-  "altitude_km": 569.8259825594841,
-  "altitude_miles": 354.0733406089692,
-  "velocity_km_s": 7.576230016181863,
-  "velocity_km_h": 27274.428058254707,
-  "velocity_mph": 16947.538636985784,
-  "velocity_mps": 4.70764962138494,
-  "heading_degrees": 192.77430949047522,
-  "timestamp": "2025-11-13T07:09:00.021836+00:00",
-  "location_type": "country",
-  "location_name": "Turkmenistan"
+  "latitude": -15.79098425915753,
+  "longitude": 49.98844085211653,
+  "altitude_km": 578.715197514246,
+  "altitude_miles": 359.5968409946246,
+  "velocity_km_s": 7.569804142407561,
+  "velocity_km_h": 27251.294912667217,
+  "velocity_mph": 16933.16437117894,
+  "velocity_mps": 4.7036567697719285,
+  "heading_degrees": 191.5782309843946,
+  "timestamp": "2025-11-13T07:23:38.297789+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
