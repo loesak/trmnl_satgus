@@ -1,14 +1,14 @@
 {
-  "latitude": -10.731868512503858,
-  "longitude": 30.134742206395714,
-  "altitude_km": 579.9049376393605,
-  "altitude_miles": 360.33611100590707,
-  "velocity_km_s": 7.568854624911859,
-  "velocity_km_h": 27247.876649682694,
-  "velocity_mph": 16931.040361689986,
-  "velocity_mps": 4.703066767136107,
-  "heading_degrees": 348.509330300401,
-  "timestamp": "2025-11-14T20:57:40.633120+00:00",
-  "location_type": "country",
-  "location_name": "Zambia"
+  "latitude": 34.5259429190006,
+  "longitude": 20.307095630476848,
+  "altitude_km": 572.0005996756909,
+  "altitude_miles": 355.42458462108374,
+  "velocity_km_s": 7.574525754365571,
+  "velocity_km_h": 27268.292715716056,
+  "velocity_mph": 16943.726313057203,
+  "velocity_mps": 4.70659064251589,
+  "heading_degrees": 347.5928536768781,
+  "timestamp": "2025-11-14T21:09:49.731208+00:00",
+  "location_type": "ocean",
+  "location_name": "Mediterranean Sea"
 }
