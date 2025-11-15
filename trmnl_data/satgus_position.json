@@ -1,14 +1,14 @@
 {
-  "latitude": 12.909757117557877,
-  "longitude": 102.40230207555287,
-  "altitude_km": 574.1074859758164,
-  "altitude_miles": 356.73374266827904,
-  "velocity_km_s": 7.574905168067655,
-  "velocity_km_h": 27269.658605043558,
-  "velocity_mph": 16944.575037074523,
-  "velocity_mps": 4.706826399187367,
-  "heading_degrees": 191.51886005579308,
-  "timestamp": "2025-11-15T04:09:50.368043+00:00",
-  "location_type": "country",
-  "location_name": "Thailand"
+  "latitude": -44.69623564372294,
+  "longitude": 89.08449804413866,
+  "altitude_km": 581.3239885448065,
+  "altitude_miles": 361.217868086075,
+  "velocity_km_s": 7.5624618775957755,
+  "velocity_km_h": 27224.862759344793,
+  "velocity_mph": 16916.740197636835,
+  "velocity_mps": 4.699094499343564,
+  "heading_degrees": 193.48856566775842,
+  "timestamp": "2025-11-15T04:25:20.522213+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
