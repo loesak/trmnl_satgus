@@ -1,14 +1,14 @@
 {
-  "latitude": 35.89674771203858,
-  "longitude": 139.4442328232951,
-  "altitude_km": 571.5611312645033,
-  "altitude_miles": 355.1515116949557,
-  "velocity_km_s": 7.574647675796739,
-  "velocity_km_h": 27268.73163286826,
-  "velocity_mph": 16943.999043446984,
-  "velocity_mps": 4.706666400957496,
-  "heading_degrees": 347.48458591393677,
-  "timestamp": "2025-11-15T13:12:10.618604+00:00",
-  "location_type": "country",
-  "location_name": "Japan"
+  "latitude": 70.2470189683753,
+  "longitude": -17.70491298450536,
+  "altitude_km": 565.5668842204241,
+  "altitude_miles": 351.42686041492914,
+  "velocity_km_s": 7.575546074753396,
+  "velocity_km_h": 27271.965869112224,
+  "velocity_mph": 16946.00870405613,
+  "velocity_mps": 4.707224640015593,
+  "heading_degrees": 204.48514153542428,
+  "timestamp": "2025-11-15T13:31:26.696497+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
