@@ -1,14 +1,14 @@
 {
-  "latitude": 60.22305862393527,
-  "longitude": -75.7281747030362,
-  "altitude_km": 566.4238457630536,
-  "altitude_miles": 351.95935146563437,
-  "velocity_km_s": 7.575954731824616,
-  "velocity_km_h": 27273.43703456862,
-  "velocity_mph": 16946.92284360694,
-  "velocity_mps": 4.707478567668594,
-  "heading_degrees": 197.4352837615194,
-  "timestamp": "2025-11-16T16:49:50.363579+00:00",
-  "location_type": "country",
-  "location_name": "Canada"
+  "latitude": 27.422328683862617,
+  "longitude": -87.58147560387869,
+  "altitude_km": 571.5312406251369,
+  "altitude_miles": 355.1329385184819,
+  "velocity_km_s": 7.575993952888823,
+  "velocity_km_h": 27273.578230399766,
+  "velocity_mph": 16947.010578601734,
+  "velocity_mps": 4.707502938500481,
+  "heading_degrees": 191.97324204044244,
+  "timestamp": "2025-11-16T16:58:45.621209+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Mexico"
 }
