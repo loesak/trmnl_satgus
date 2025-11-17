@@ -1,14 +1,14 @@
 {
-  "latitude": 41.77365778580051,
-  "longitude": 136.17412236470184,
-  "altitude_km": 570.1631689088563,
-  "altitude_miles": 354.2828584280649,
-  "velocity_km_s": 7.575048470639756,
-  "velocity_km_h": 27270.174494303123,
-  "velocity_mph": 16944.895595699625,
-  "velocity_mps": 4.706915443249896,
-  "heading_degrees": 346.9008104108591,
-  "timestamp": "2025-11-17T13:20:00.765837+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Japan"
+  "latitude": 66.78115121354702,
+  "longitude": -23.245613120698653,
+  "altitude_km": 565.5905967089457,
+  "altitude_miles": 351.44159466763426,
+  "velocity_km_s": 7.575862109966826,
+  "velocity_km_h": 27273.103595880573,
+  "velocity_mph": 16946.71565447591,
+  "velocity_mps": 4.707421015132197,
+  "heading_degrees": 201.23526091360685,
+  "timestamp": "2025-11-17T13:38:41.220759+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
