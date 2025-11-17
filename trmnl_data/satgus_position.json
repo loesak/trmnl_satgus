@@ -1,14 +1,14 @@
 {
-  "latitude": 49.041426805212,
-  "longitude": 13.403938752785646,
-  "altitude_km": 568.8015093277472,
-  "altitude_miles": 353.4367626524916,
-  "velocity_km_s": 7.57520682590042,
-  "velocity_km_h": 27270.74457324151,
-  "velocity_mph": 16945.24982621965,
-  "velocity_mps": 4.70701384061657,
-  "heading_degrees": 345.80429870505867,
-  "timestamp": "2025-11-17T21:23:01.194519+00:00",
-  "location_type": "country",
-  "location_name": "Czechia"
+  "latitude": 76.92262465235115,
+  "longitude": -125.56735899544732,
+  "altitude_km": 564.8729881390691,
+  "altitude_miles": 350.9956935129615,
+  "velocity_km_s": 7.575537987062903,
+  "velocity_km_h": 27271.936753426453,
+  "velocity_mph": 16945.99061241335,
+  "velocity_mps": 4.707219614559263,
+  "heading_degrees": 216.91522326013327,
+  "timestamp": "2025-11-17T21:36:40.415708+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
