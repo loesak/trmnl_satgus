@@ -1,14 +1,14 @@
 {
-  "latitude": 47.12322327950993,
-  "longitude": 86.27530007548629,
-  "altitude_km": 569.1717832002723,
-  "altitude_miles": 353.6668400989364,
-  "velocity_km_s": 7.575157399820575,
-  "velocity_km_h": 27270.56663935407,
-  "velocity_mph": 16945.139263262077,
-  "velocity_mps": 4.706983128683911,
-  "heading_degrees": 346.1455186567887,
-  "timestamp": "2025-11-17T16:33:52.720523+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 70.38001431574632,
+  "longitude": -67.18136323448658,
+  "altitude_km": 565.2830537478949,
+  "altitude_miles": 351.2504963903832,
+  "velocity_km_s": 7.575744824629304,
+  "velocity_km_h": 27272.681368665493,
+  "velocity_mph": 16946.453294729046,
+  "velocity_mps": 4.707348137424735,
+  "heading_degrees": 204.63705791305756,
+  "timestamp": "2025-11-17T16:50:03.805493+00:00",
+  "location_type": "ocean",
+  "location_name": "Baffin Bay"
 }
