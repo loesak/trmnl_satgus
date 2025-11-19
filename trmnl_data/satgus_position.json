@@ -1,14 +1,14 @@
 {
-  "latitude": 15.625172517393349,
-  "longitude": 75.8276854720595,
-  "altitude_km": 573.4347191332417,
-  "altitude_miles": 356.31570486254157,
-  "velocity_km_s": 7.575251172500046,
-  "velocity_km_h": 27270.904221000164,
-  "velocity_mph": 16945.349026707092,
-  "velocity_mps": 4.707041396307526,
-  "heading_degrees": 191.57167065200855,
-  "timestamp": "2025-11-19T05:57:45.273045+00:00",
-  "location_type": "country",
-  "location_name": "India"
+  "latitude": -42.336254137725454,
+  "longitude": 62.708709340480645,
+  "altitude_km": 581.1776115904722,
+  "altitude_miles": 361.1269136915833,
+  "velocity_km_s": 7.562890432429832,
+  "velocity_km_h": 27226.405556747395,
+  "velocity_mph": 16917.698847201686,
+  "velocity_mps": 4.699360790889357,
+  "heading_degrees": 193.176155799308,
+  "timestamp": "2025-11-19T06:13:20.554614+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
