@@ -1,14 +1,14 @@
 {
-  "latitude": -8.350920057795433,
-  "longitude": -69.63072748557869,
-  "altitude_km": 579.0073598128429,
-  "altitude_miles": 359.77838217426597,
-  "velocity_km_s": 7.569707399624198,
-  "velocity_km_h": 27250.946638647114,
-  "velocity_mph": 16932.947963802795,
-  "velocity_mps": 4.703596656611888,
-  "heading_degrees": 348.53944980049505,
-  "timestamp": "2025-11-19T03:35:28.606558+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": 57.536018726561664,
+  "longitude": -87.45145747504952,
+  "altitude_km": 567.2601217852189,
+  "altitude_miles": 352.4789891338032,
+  "velocity_km_s": 7.575378535900441,
+  "velocity_km_h": 27271.362729241588,
+  "velocity_mph": 16945.633930431573,
+  "velocity_mps": 4.707120536230993,
+  "heading_degrees": 343.6086877713025,
+  "timestamp": "2025-11-19T03:53:15.170776+00:00",
+  "location_type": "ocean",
+  "location_name": "Hudson Bay"
 }
