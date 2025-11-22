@@ -1,14 +1,14 @@
 {
-  "latitude": -45.39139959389477,
-  "longitude": -86.73258609802713,
-  "altitude_km": 582.3790183940409,
-  "altitude_miles": 361.8734330385236,
-  "velocity_km_s": 7.560955230135136,
-  "velocity_km_h": 27219.438828486487,
-  "velocity_mph": 16913.36992429548,
-  "velocity_mps": 4.698158312304299,
-  "heading_degrees": 346.40401104600164,
-  "timestamp": "2025-11-22T05:10:49.338914+00:00",
-  "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "latitude": 25.483669116101296,
+  "longitude": -103.04639815865829,
+  "altitude_km": 572.6656873640268,
+  "altitude_miles": 355.8378508230727,
+  "velocity_km_s": 7.574857645764418,
+  "velocity_km_h": 27269.487524751905,
+  "velocity_mph": 16944.468732742615,
+  "velocity_mps": 4.706796870206282,
+  "heading_degrees": 348.119383497561,
+  "timestamp": "2025-11-22T05:29:53.732967+00:00",
+  "location_type": "country",
+  "location_name": "Mexico"
 }
