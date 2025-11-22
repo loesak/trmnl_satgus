@@ -1,14 +1,14 @@
 {
-  "latitude": 17.749126293826496,
-  "longitude": -46.242707033026335,
-  "altitude_km": 573.0484426678886,
-  "altitude_miles": 356.0756838689886,
-  "velocity_km_s": 7.575376638221397,
-  "velocity_km_h": 27271.35589759703,
-  "velocity_mph": 16945.629685445765,
-  "velocity_mps": 4.707119357068268,
-  "heading_degrees": 191.62111798883566,
-  "timestamp": "2025-11-22T14:07:19.679089+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -33.12201699617223,
+  "longitude": -57.181013880332564,
+  "altitude_km": 580.5542179599133,
+  "altitude_miles": 360.7395549679693,
+  "velocity_km_s": 7.565081940320346,
+  "velocity_km_h": 27234.294985153247,
+  "velocity_mph": 16922.601109219657,
+  "velocity_mps": 4.700722530338794,
+  "heading_degrees": 192.31229335555233,
+  "timestamp": "2025-11-22T14:20:59.262901+00:00",
+  "location_type": "country",
+  "location_name": "Uruguay"
 }
