@@ -1,14 +1,14 @@
 {
-  "latitude": -19.258708105819593,
-  "longitude": 1.790701862051321,
-  "altitude_km": 580.0291651792531,
-  "altitude_miles": 360.4133023965977,
-  "velocity_km_s": 7.567595896091003,
-  "velocity_km_h": 27243.34522592761,
-  "velocity_mph": 16928.224666379865,
-  "velocity_mps": 4.702284629549963,
-  "heading_degrees": 348.33069217908627,
-  "timestamp": "2025-11-22T22:56:06.359688+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 26.06999830356625,
+  "longitude": -7.7345657365490235,
+  "altitude_km": 572.4263023777667,
+  "altitude_miles": 355.68910393477523,
+  "velocity_km_s": 7.575017223413782,
+  "velocity_km_h": 27270.062004289615,
+  "velocity_mph": 16944.825697667442,
+  "velocity_mps": 4.706896027129845,
+  "heading_degrees": 348.0937048890154,
+  "timestamp": "2025-11-22T23:08:16.019464+00:00",
+  "location_type": "country",
+  "location_name": "Mauritania"
 }
