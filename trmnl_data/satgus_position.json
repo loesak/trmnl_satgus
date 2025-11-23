@@ -1,14 +1,14 @@
 {
-  "latitude": -26.651603579896832,
-  "longitude": 50.82445959614846,
-  "altitude_km": 580.7838081417185,
-  "altitude_miles": 360.88221564882775,
-  "velocity_km_s": 7.565782822987478,
-  "velocity_km_h": 27236.81816275492,
-  "velocity_mph": 16924.16893860919,
-  "velocity_mps": 4.701158038502552,
-  "heading_degrees": 348.05592428755034,
-  "timestamp": "2025-11-23T19:44:42.182147+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 11.274146968735922,
+  "longitude": 42.857333567802385,
+  "altitude_km": 575.1398090620023,
+  "altitude_miles": 357.3751982966654,
+  "velocity_km_s": 7.573605678687345,
+  "velocity_km_h": 27264.980443274442,
+  "velocity_mph": 16941.668163017883,
+  "velocity_mps": 4.7060189341716345,
+  "heading_degrees": 348.5090255665339,
+  "timestamp": "2025-11-23T19:54:52.965030+00:00",
+  "location_type": "country",
+  "location_name": "Djibouti"
 }
