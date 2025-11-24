@@ -1,14 +1,14 @@
 {
-  "latitude": 21.35402362677885,
-  "longitude": 15.906947825693512,
-  "altitude_km": 573.0328944156363,
-  "altitude_miles": 356.06602263593834,
-  "velocity_km_s": 7.574909207847701,
-  "velocity_km_h": 27269.673148251724,
-  "velocity_mph": 16944.58407380232,
-  "velocity_mps": 4.706828909389534,
-  "heading_degrees": 348.27695813503226,
-  "timestamp": "2025-11-24T21:36:46.265636+00:00",
-  "location_type": "country",
-  "location_name": "Chad"
+  "latitude": 56.41041741837014,
+  "longitude": 4.838246219877307,
+  "altitude_km": 566.5145068003885,
+  "altitude_miles": 352.0156856050642,
+  "velocity_km_s": 7.576210384391213,
+  "velocity_km_h": 27274.357383808365,
+  "velocity_mph": 16947.49472193439,
+  "velocity_mps": 4.707637422759552,
+  "heading_degrees": 343.98626353555994,
+  "timestamp": "2025-11-24T21:46:16.124605+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
