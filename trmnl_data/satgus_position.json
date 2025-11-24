@@ -1,14 +1,14 @@
 {
-  "latitude": 5.9563271185842845,
-  "longitude": -4.893738786629972,
-  "altitude_km": 575.9630153823355,
-  "altitude_miles": 357.88671483113717,
-  "velocity_km_s": 7.572960963000724,
-  "velocity_km_h": 27262.659466802605,
-  "velocity_mph": 16940.2259755466,
-  "velocity_mps": 4.705618326540723,
-  "heading_degrees": 348.56689500548555,
-  "timestamp": "2025-11-24T23:08:50.405764+00:00",
-  "location_type": "country",
-  "location_name": "Ivory Coast"
+  "latitude": 59.511200612859874,
+  "longitude": -20.950511502127835,
+  "altitude_km": 566.0484420406738,
+  "altitude_miles": 351.7260864792555,
+  "velocity_km_s": 7.576209263916477,
+  "velocity_km_h": 27274.353350099314,
+  "velocity_mph": 16947.49221550456,
+  "velocity_mps": 4.707636726529045,
+  "heading_degrees": 342.8716683630562,
+  "timestamp": "2025-11-24T23:23:19.422850+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
