@@ -1,14 +1,14 @@
 {
-  "latitude": 60.88623236580916,
-  "longitude": 62.932072478043324,
-  "altitude_km": 565.4952953980446,
-  "altitude_miles": 351.3823771967784,
-  "velocity_km_s": 7.576614940703276,
-  "velocity_km_h": 27275.813786531795,
-  "velocity_mph": 16948.399688351048,
-  "velocity_mps": 4.707888802319736,
-  "heading_degrees": 197.72449012832786,
-  "timestamp": "2025-11-24T07:36:48.833036+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 26.532766625659757,
+  "longitude": 50.442447277535045,
+  "altitude_km": 571.2561698333529,
+  "altitude_miles": 354.96201750552035,
+  "velocity_km_s": 7.576174551048819,
+  "velocity_km_h": 27274.22838377575,
+  "velocity_mph": 16947.41456505512,
+  "velocity_mps": 4.707615156959756,
+  "heading_degrees": 191.92901443932394,
+  "timestamp": "2025-11-24T07:46:09.415776+00:00",
+  "location_type": "ocean",
+  "location_name": "Persian Gulf"
 }
