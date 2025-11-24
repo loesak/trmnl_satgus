@@ -1,14 +1,14 @@
 {
-  "latitude": 71.10835433243241,
-  "longitude": -151.24688143833384,
-  "altitude_km": 564.7302244337834,
-  "altitude_miles": 350.90698428664444,
-  "velocity_km_s": 7.576069997192718,
-  "velocity_km_h": 27273.851989893785,
-  "velocity_mph": 16947.18068481229,
-  "velocity_mps": 4.7075501902256365,
-  "heading_degrees": 334.5007108034907,
-  "timestamp": "2025-11-24T07:24:37.590782+00:00",
-  "location_type": "ocean",
-  "location_name": "Beaufort Sea"
+  "latitude": 60.88623236580916,
+  "longitude": 62.932072478043324,
+  "altitude_km": 565.4952953980446,
+  "altitude_miles": 351.3823771967784,
+  "velocity_km_s": 7.576614940703276,
+  "velocity_km_h": 27275.813786531795,
+  "velocity_mph": 16948.399688351048,
+  "velocity_mps": 4.707888802319736,
+  "heading_degrees": 197.72449012832786,
+  "timestamp": "2025-11-24T07:36:48.833036+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
