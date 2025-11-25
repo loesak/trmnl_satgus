@@ -1,14 +1,14 @@
 {
-  "latitude": 46.024329919693876,
-  "longitude": 7.093351846264087,
-  "altitude_km": 567.593280644518,
-  "altitude_miles": 352.6860043873648,
-  "velocity_km_s": 7.576846628632646,
-  "velocity_km_h": 27276.647863077527,
-  "velocity_mph": 16948.917959328348,
-  "velocity_mps": 4.708032766480096,
-  "heading_degrees": 193.67961159555188,
-  "timestamp": "2025-11-25T10:56:15.690323+00:00",
-  "location_type": "country",
-  "location_name": "Switzerland"
+  "latitude": 0.34764918417286367,
+  "longitude": -3.966342786699281,
+  "altitude_km": 576.1235652097721,
+  "altitude_miles": 357.9864758379613,
+  "velocity_km_s": 7.5728786214121655,
+  "velocity_km_h": 27262.363037083796,
+  "velocity_mph": 16940.041782715794,
+  "velocity_mps": 4.705567161865499,
+  "heading_degrees": 191.41149425883165,
+  "timestamp": "2025-11-25T11:08:32.910991+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
