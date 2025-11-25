@@ -1,14 +1,14 @@
 {
-  "latitude": -11.719938577806872,
-  "longitude": -54.523536515711626,
-  "altitude_km": 578.0702678457492,
-  "altitude_miles": 359.196100401581,
-  "velocity_km_s": 7.570330596419273,
-  "velocity_km_h": 27253.190147109384,
-  "velocity_mph": 16934.342014899506,
-  "velocity_mps": 4.70398389302764,
-  "heading_degrees": 191.5002434184304,
-  "timestamp": "2025-11-25T14:24:10.713055+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": -73.09680182742142,
+  "longitude": -83.48714464062768,
+  "altitude_km": 583.0485940553317,
+  "altitude_miles": 362.2894879367555,
+  "velocity_km_s": 7.555863136439771,
+  "velocity_km_h": 27201.107291183176,
+  "velocity_mph": 16901.97923862978,
+  "velocity_mps": 4.694994232952717,
+  "heading_degrees": 208.35062643366663,
+  "timestamp": "2025-11-25T14:41:03.385284+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
