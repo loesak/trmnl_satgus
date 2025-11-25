@@ -1,14 +1,14 @@
 {
-  "latitude": -74.77163703507912,
-  "longitude": -41.00398005168229,
-  "altitude_km": 583.2967160374292,
-  "altitude_miles": 362.4436637408934,
-  "velocity_km_s": 7.555444480651069,
-  "velocity_km_h": 27199.600130343846,
-  "velocity_mph": 16901.042732591886,
-  "velocity_mps": 4.694734092386636,
-  "heading_degrees": 328.54386165163834,
-  "timestamp": "2025-11-25T03:35:17.938835+00:00",
-  "location_type": "ocean",
-  "location_name": "Weddell Sea"
+  "latitude": 0.7833821352535383,
+  "longitude": -75.99469462419957,
+  "altitude_km": 576.9123596121608,
+  "altitude_miles": 358.476609804568,
+  "velocity_km_s": 7.572026775168989,
+  "velocity_km_h": 27259.29639060836,
+  "velocity_mph": 16938.13625752871,
+  "velocity_mps": 4.70503784931353,
+  "heading_degrees": 348.58745454766915,
+  "timestamp": "2025-11-25T03:56:02.871232+00:00",
+  "location_type": "country",
+  "location_name": "Colombia"
 }
