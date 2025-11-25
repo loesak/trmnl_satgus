@@ -1,14 +1,14 @@
 {
-  "latitude": 71.04239670551198,
-  "longitude": 72.01571319446127,
-  "altitude_km": 564.3103448607017,
-  "altitude_miles": 350.64608329643903,
-  "velocity_km_s": 7.57650433340101,
-  "velocity_km_h": 27275.415600243636,
-  "velocity_mph": 16948.15226693899,
-  "velocity_mps": 4.707820074149719,
-  "heading_degrees": 205.42352174644407,
-  "timestamp": "2025-11-25T07:36:54.099487+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 38.59114358208784,
+  "longitude": 52.83177168527013,
+  "altitude_km": 568.9079585603331,
+  "altitude_miles": 353.50290711859276,
+  "velocity_km_s": 7.576750638111557,
+  "velocity_km_h": 27276.302297201604,
+  "velocity_mph": 16948.70323471446,
+  "velocity_mps": 4.7079731207540165,
+  "heading_degrees": 192.75827516690526,
+  "timestamp": "2025-11-25T07:45:52.851657+00:00",
+  "location_type": "ocean",
+  "location_name": "Caspian Sea"
 }
