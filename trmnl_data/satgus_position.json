@@ -1,14 +1,14 @@
 {
-  "latitude": 44.58445234549278,
-  "longitude": 33.035366902233115,
-  "altitude_km": 568.3469207545495,
-  "altitude_miles": 353.15429449617517,
-  "velocity_km_s": 7.57627435460494,
-  "velocity_km_h": 27274.587676577783,
-  "velocity_mph": 16947.637819182815,
-  "velocity_mps": 4.707677171995226,
-  "heading_degrees": 346.53957827150384,
-  "timestamp": "2025-11-25T20:09:48.295956+00:00",
-  "location_type": "ocean",
-  "location_name": "Black Sea"
+  "latitude": 74.53943579212068,
+  "longitude": -114.04836121243183,
+  "altitude_km": 564.0240508093557,
+  "altitude_miles": 350.4681884754602,
+  "velocity_km_s": 7.576439348342819,
+  "velocity_km_h": 27275.18165403415,
+  "velocity_mph": 16948.006899548855,
+  "velocity_mps": 4.707779694319126,
+  "heading_degrees": 210.97277223776211,
+  "timestamp": "2025-11-25T20:25:25.749660+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
