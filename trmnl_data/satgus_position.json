@@ -1,14 +1,14 @@
 {
-  "latitude": 29.632430229694872,
-  "longitude": 12.505627443318787,
-  "altitude_km": 570.9946970604724,
-  "altitude_miles": 354.7995459071628,
-  "velocity_km_s": 7.575901080171904,
-  "velocity_km_h": 27273.243888618854,
-  "velocity_mph": 16946.802828314987,
-  "velocity_mps": 4.7074452300874965,
-  "heading_degrees": 347.91665177927683,
-  "timestamp": "2025-11-26T21:44:53.646879+00:00",
-  "location_type": "country",
-  "location_name": "Libya"
+  "latitude": 66.17041757076032,
+  "longitude": -3.3721951355226683,
+  "altitude_km": 564.8417732228272,
+  "altitude_miles": 350.9762974692414,
+  "velocity_km_s": 7.576462203450059,
+  "velocity_km_h": 27275.26393242021,
+  "velocity_mph": 16948.05802495188,
+  "velocity_mps": 4.707793895819966,
+  "heading_degrees": 339.23677582361347,
+  "timestamp": "2025-11-26T21:54:53.205037+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
