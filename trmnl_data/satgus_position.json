@@ -1,14 +1,14 @@
 {
-  "latitude": 43.388556172089466,
-  "longitude": 29.820188714230685,
-  "altitude_km": 567.6784903188518,
-  "altitude_miles": 352.73895120791525,
-  "velocity_km_s": 7.5770419662227155,
-  "velocity_km_h": 27277.351078401774,
-  "velocity_mph": 16949.354916937587,
-  "velocity_mps": 4.708154143593775,
-  "heading_degrees": 346.70245454681253,
-  "timestamp": "2025-11-30T20:23:59.326775+00:00",
-  "location_type": "ocean",
-  "location_name": "Black Sea"
+  "latitude": 80.56305529421044,
+  "longitude": -92.06801358625025,
+  "altitude_km": 563.2405036039063,
+  "altitude_miles": 349.98131496486286,
+  "velocity_km_s": 7.576652728315823,
+  "velocity_km_h": 27275.949821936963,
+  "velocity_mph": 16948.48421680679,
+  "velocity_mps": 4.7079122824463315,
+  "heading_degrees": 234.9750147168906,
+  "timestamp": "2025-11-30T20:37:48.089094+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
