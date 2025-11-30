@@ -1,14 +1,14 @@
 {
-  "latitude": -65.39269558143657,
-  "longitude": 115.05810316901074,
-  "altitude_km": 582.9059965100714,
-  "altitude_miles": 362.2008819574596,
-  "velocity_km_s": 7.556786811564081,
-  "velocity_km_h": 27204.43252163069,
-  "velocity_mph": 16904.045440398182,
-  "velocity_mps": 4.695568177888385,
-  "heading_degrees": 200.22630715263034,
-  "timestamp": "2025-11-30T02:03:48.929242+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 64.1402430147923,
+  "longitude": -75.91499562944418,
+  "altitude_km": 564.6041926276475,
+  "altitude_miles": 350.828671777234,
+  "velocity_km_s": 7.576901567150722,
+  "velocity_km_h": 27276.8456417426,
+  "velocity_mph": 16949.04085325524,
+  "velocity_mps": 4.7080669036820115,
+  "heading_degrees": 340.58126036586265,
+  "timestamp": "2025-11-30T02:51:35.539147+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
