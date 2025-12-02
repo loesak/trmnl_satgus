@@ -1,14 +1,14 @@
 {
-  "latitude": 76.93172187534364,
-  "longitude": 79.84658937405689,
-  "altitude_km": 563.4266199154563,
-  "altitude_miles": 350.096962243487,
-  "velocity_km_s": 7.576652405273727,
-  "velocity_km_h": 27275.948658985417,
-  "velocity_mph": 16948.483494182427,
-  "velocity_mps": 4.707912081717341,
-  "heading_degrees": 216.94343687926866,
-  "timestamp": "2025-12-02T07:55:19.951500+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 15.539235998868662,
+  "longitude": 42.215183816554855,
+  "altitude_km": 573.64144399413,
+  "altitude_miles": 356.44415769607656,
+  "velocity_km_s": 7.57461057277863,
+  "velocity_km_h": 27268.598062003068,
+  "velocity_mph": 16943.916046384908,
+  "velocity_mps": 4.70664334621803,
+  "heading_degrees": 191.57020455738495,
+  "timestamp": "2025-12-02T08:12:19.840303+00:00",
+  "location_type": "ocean",
+  "location_name": "Red Sea"
 }
