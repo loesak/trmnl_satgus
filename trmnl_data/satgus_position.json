@@ -1,14 +1,14 @@
 {
-  "latitude": 32.50112854186242,
-  "longitude": 44.745394570037554,
-  "altitude_km": 570.3049376056342,
-  "altitude_miles": 354.37094938495056,
-  "velocity_km_s": 7.575930632137401,
-  "velocity_km_h": 27273.350275694644,
-  "velocity_mph": 16946.868934158658,
-  "velocity_mps": 4.707463592821849,
-  "heading_degrees": 192.26675369816394,
-  "timestamp": "2025-12-04T08:13:22.017483+00:00",
-  "location_type": "country",
-  "location_name": "Iraq"
+  "latitude": -43.5185471576577,
+  "longitude": 27.34205001889666,
+  "altitude_km": 581.8310718207867,
+  "altitude_miles": 361.53295492835406,
+  "velocity_km_s": 7.561452869999555,
+  "velocity_km_h": 27221.2303319984,
+  "velocity_mph": 16914.483112624177,
+  "velocity_mps": 4.698467531284494,
+  "heading_degrees": 193.3285826154335,
+  "timestamp": "2025-12-04T08:33:48.960156+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
