@@ -1,14 +1,14 @@
 {
-  "latitude": 80.71561787990122,
-  "longitude": 144.32415559767685,
-  "altitude_km": 562.9973537180249,
-  "altitude_miles": 349.8302286771229,
-  "velocity_km_s": 7.576765783252494,
-  "velocity_km_h": 27276.356819708977,
-  "velocity_mph": 16948.737113419385,
-  "velocity_mps": 4.707982531505386,
-  "heading_degrees": 303.6937123843752,
-  "timestamp": "2025-12-04T09:32:52.081827+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 38.348446788068614,
+  "longitude": 22.29016975942671,
+  "altitude_km": 569.1366072347,
+  "altitude_miles": 353.64498277403277,
+  "velocity_km_s": 7.576208463085838,
+  "velocity_km_h": 27274.35046710902,
+  "velocity_mph": 16947.490424098,
+  "velocity_mps": 4.707636228916111,
+  "heading_degrees": 192.73836671585374,
+  "timestamp": "2025-12-04T09:47:58.420856+00:00",
+  "location_type": "country",
+  "location_name": "Greece"
 }
