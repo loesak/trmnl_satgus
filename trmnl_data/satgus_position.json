@@ -1,14 +1,14 @@
 {
-  "latitude": 48.356069551117365,
-  "longitude": -23.20160224810826,
-  "altitude_km": 567.1678965489382,
-  "altitude_miles": 352.4216830465103,
-  "velocity_km_s": 7.576462971983968,
-  "velocity_km_h": 27275.266699142285,
-  "velocity_mph": 16948.05974411274,
-  "velocity_mps": 4.70779437336465,
-  "heading_degrees": 194.07524846543572,
-  "timestamp": "2025-12-05T13:00:21.533433+00:00",
+  "latitude": -26.215370735621434,
+  "longitude": -40.751410780767664,
+  "altitude_km": 580.2859217626337,
+  "altitude_miles": 360.5728434915695,
+  "velocity_km_s": 7.565915081990762,
+  "velocity_km_h": 27237.294295166743,
+  "velocity_mph": 16924.464793482053,
+  "velocity_mps": 4.701240220411682,
+  "heading_degrees": 191.9223755104129,
+  "timestamp": "2025-12-05T13:20:24.932905+00:00",
   "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "location_name": "South Atlantic Ocean"
 }
