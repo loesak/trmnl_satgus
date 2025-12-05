@@ -1,14 +1,14 @@
 {
-  "latitude": 69.21256087634028,
-  "longitude": 179.38931287820438,
-  "altitude_km": 563.5095503442762,
-  "altitude_miles": 350.1484928069733,
-  "velocity_km_s": 7.577169203114302,
-  "velocity_km_h": 27277.80913121149,
-  "velocity_mph": 16949.639537670013,
-  "velocity_mps": 4.708233204908337,
-  "heading_degrees": 336.6232114036053,
-  "timestamp": "2025-12-05T09:31:48.917527+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 53.53530764750111,
+  "longitude": 27.034584541602058,
+  "altitude_km": 566.2605545070346,
+  "altitude_miles": 351.85788701459063,
+  "velocity_km_s": 7.5765423103076,
+  "velocity_km_h": 27275.55231710736,
+  "velocity_mph": 16948.237218833317,
+  "velocity_mps": 4.707843671898144,
+  "heading_degrees": 195.19908847806957,
+  "timestamp": "2025-12-05T09:46:34.842541+00:00",
+  "location_type": "country",
+  "location_name": "Belarus"
 }
