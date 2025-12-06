@@ -1,14 +1,14 @@
 {
-  "latitude": 55.36762488962158,
-  "longitude": 93.06063579101877,
-  "altitude_km": 564.9527366747288,
-  "altitude_miles": 351.04524694031295,
-  "velocity_km_s": 7.577581596639045,
-  "velocity_km_h": 27279.293747900563,
-  "velocity_mph": 16950.56203542672,
-  "velocity_mps": 4.7084894542852,
-  "heading_degrees": 344.30257231025615,
-  "timestamp": "2025-12-06T15:55:21.859150+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 70.93301839366289,
+  "longitude": -56.140624614706866,
+  "altitude_km": 563.8460010003755,
+  "altitude_miles": 350.3575534876043,
+  "velocity_km_s": 7.5765282785309065,
+  "velocity_km_h": 27275.501802711264,
+  "velocity_mph": 16948.2058306525,
+  "velocity_mps": 4.707834952959028,
+  "heading_degrees": 205.2966404307145,
+  "timestamp": "2025-12-06T16:09:07.491072+00:00",
+  "location_type": "ocean",
+  "location_name": "Baffin Bay"
 }
