@@ -1,14 +1,14 @@
 {
-  "latitude": 51.58327082526229,
-  "longitude": 145.72621968480485,
-  "altitude_km": 566.6178509724077,
-  "altitude_miles": 352.07990067657596,
-  "velocity_km_s": 7.576458257984181,
-  "velocity_km_h": 27275.249728743052,
-  "velocity_mph": 16948.0491991988,
-  "velocity_mps": 4.707791444221889,
-  "heading_degrees": 194.72785455078255,
-  "timestamp": "2025-12-06T01:48:55.550383+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Okhotsk"
+  "latitude": -81.61116317637052,
+  "longitude": 60.47521877162147,
+  "altitude_km": 582.487338287383,
+  "altitude_miles": 361.94073987896945,
+  "velocity_km_s": 7.555357521119886,
+  "velocity_km_h": 27199.28707603159,
+  "velocity_mph": 16900.848209720825,
+  "velocity_mps": 4.694680058255784,
+  "heading_degrees": 246.63312974547932,
+  "timestamp": "2025-12-06T02:26:00.280341+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
