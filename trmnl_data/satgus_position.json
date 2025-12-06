@@ -1,14 +1,14 @@
 {
-  "latitude": 15.200651071950814,
-  "longitude": -15.283962050826544,
-  "altitude_km": 571.938768534791,
-  "altitude_miles": 355.38616454323164,
-  "velocity_km_s": 7.576229664987971,
-  "velocity_km_h": 27274.426793956696,
-  "velocity_mph": 16947.537851387668,
-  "velocity_mps": 4.7076494031632405,
-  "heading_degrees": 348.44013532746044,
-  "timestamp": "2025-12-06T23:45:24.048027+00:00",
-  "location_type": "country",
-  "location_name": "Senegal"
+  "latitude": 49.75894060745744,
+  "longitude": -24.686350100555078,
+  "altitude_km": 565.7145776239831,
+  "altitude_miles": 351.518632812792,
+  "velocity_km_s": 7.577712921658567,
+  "velocity_km_h": 27279.766517970842,
+  "velocity_mph": 16950.85580103806,
+  "velocity_mps": 4.708571055843906,
+  "heading_degrees": 345.66562731127857,
+  "timestamp": "2025-12-06T23:54:43.309629+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
