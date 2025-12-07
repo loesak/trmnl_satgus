@@ -1,14 +1,14 @@
 {
-  "latitude": 80.57619977382227,
-  "longitude": 23.481006099831937,
-  "altitude_km": 563.07920083916,
-  "altitude_miles": 349.8810861046297,
-  "velocity_km_s": 7.576503996378572,
-  "velocity_km_h": 27275.41438696286,
-  "velocity_mph": 16948.1515130415,
-  "velocity_mps": 4.70781986473375,
-  "heading_degrees": 235.10271350582406,
-  "timestamp": "2025-12-07T12:56:14.180054+00:00",
-  "location_type": "country",
-  "location_name": "Norway"
+  "latitude": 20.853727596165868,
+  "longitude": -32.18136667651287,
+  "altitude_km": 572.7751941555816,
+  "altitude_miles": 355.90589516764794,
+  "velocity_km_s": 7.574720376278505,
+  "velocity_km_h": 27268.99335460262,
+  "velocity_mph": 16944.161669742785,
+  "velocity_mps": 4.706711574928551,
+  "heading_degrees": 191.711796716013,
+  "timestamp": "2025-12-07T13:13:11.085198+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
