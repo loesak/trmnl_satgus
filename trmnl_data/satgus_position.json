@@ -1,14 +1,14 @@
 {
-  "latitude": -8.111546004847074,
-  "longitude": -58.61274721963274,
-  "altitude_km": 576.0199583078511,
-  "altitude_miles": 357.92209751370774,
-  "velocity_km_s": 7.572295954744359,
-  "velocity_km_h": 27260.26543707969,
-  "velocity_mph": 16938.738394903645,
-  "velocity_mps": 4.705205109695457,
-  "heading_degrees": 348.544427735492,
-  "timestamp": "2025-12-07T02:51:31.635372+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": 17.958849009477422,
+  "longitude": 111.45086239944779,
+  "altitude_km": 573.3312443720115,
+  "altitude_miles": 356.25140864668117,
+  "velocity_km_s": 7.574458116209113,
+  "velocity_km_h": 27268.049218352808,
+  "velocity_mph": 16943.5750108571,
+  "velocity_mps": 4.706548614126973,
+  "heading_degrees": 191.62825130271744,
+  "timestamp": "2025-12-07T03:36:53.455686+00:00",
+  "location_type": "ocean",
+  "location_name": "South China Sea"
 }
