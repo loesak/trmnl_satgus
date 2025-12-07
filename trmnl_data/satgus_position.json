@@ -1,14 +1,14 @@
 {
-  "latitude": 43.62574927785055,
-  "longitude": 21.884299717116345,
-  "altitude_km": 568.2032611670684,
-  "altitude_miles": 353.06502859464246,
-  "velocity_km_s": 7.576109718442927,
-  "velocity_km_h": 27273.994986394537,
-  "velocity_mph": 16947.269538690958,
-  "velocity_mps": 4.7075748718586,
-  "heading_degrees": 193.3374806881789,
-  "timestamp": "2025-12-07T09:54:41.284267+00:00",
-  "location_type": "country",
-  "location_name": "Republic of Serbia"
+  "latitude": -5.0967798781764415,
+  "longitude": 10.532822198834483,
+  "altitude_km": 577.5099836950349,
+  "altitude_miles": 358.8479560785675,
+  "velocity_km_s": 7.5707817266901225,
+  "velocity_km_h": 27254.81421608444,
+  "velocity_mph": 16935.351164262604,
+  "velocity_mps": 4.704264212295168,
+  "heading_degrees": 191.43112278559306,
+  "timestamp": "2025-12-07T10:07:47.113062+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
