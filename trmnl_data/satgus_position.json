@@ -1,14 +1,14 @@
 {
-  "latitude": 0.12032991446796533,
-  "longitude": 179.23446731957748,
-  "altitude_km": 576.6815643368291,
-  "altitude_miles": 358.3332003135398,
-  "velocity_km_s": 7.571739910506213,
-  "velocity_km_h": 27258.263677822364,
-  "velocity_mph": 16937.494559752162,
-  "velocity_mps": 4.704859599931156,
-  "heading_degrees": 191.41452142911112,
-  "timestamp": "2025-12-07T22:55:48.588819+00:00",
-  "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "latitude": -44.28743601354303,
+  "longitude": 168.66473736884677,
+  "altitude_km": 581.6143436181346,
+  "altitude_miles": 361.3982863083439,
+  "velocity_km_s": 7.561347164379919,
+  "velocity_km_h": 27220.84979176771,
+  "velocity_mph": 16914.246655960495,
+  "velocity_mps": 4.698401848877915,
+  "heading_degrees": 193.43235919747679,
+  "timestamp": "2025-12-07T23:07:46.642374+00:00",
+  "location_type": "country",
+  "location_name": "New Zealand"
 }
