@@ -1,14 +1,14 @@
 {
-  "latitude": 10.843915462987248,
-  "longitude": -83.72623816771382,
-  "altitude_km": 574.8871463409259,
-  "altitude_miles": 357.2182010090075,
-  "velocity_km_s": 7.573287850129075,
-  "velocity_km_h": 27263.83626046467,
-  "velocity_mph": 16940.957201001194,
-  "velocity_mps": 4.705821444722553,
-  "heading_degrees": 191.48724126628818,
-  "timestamp": "2025-12-09T16:33:32.193253+00:00",
-  "location_type": "country",
-  "location_name": "Costa Rica"
+  "latitude": -52.465060174120396,
+  "longitude": -99.58872569799948,
+  "altitude_km": 581.8556433542808,
+  "altitude_miles": 361.54822296669283,
+  "velocity_km_s": 7.559572955749406,
+  "velocity_km_h": 27214.46264069786,
+  "velocity_mph": 16910.27786551307,
+  "velocity_mps": 4.697299407086964,
+  "heading_degrees": 194.93452005090188,
+  "timestamp": "2025-12-09T16:50:36.943010+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
