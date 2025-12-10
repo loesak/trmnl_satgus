@@ -1,14 +1,14 @@
 {
-  "latitude": -64.37892078588376,
-  "longitude": 85.05352801137393,
-  "altitude_km": 581.9782983285859,
-  "altitude_miles": 361.62443721073174,
-  "velocity_km_s": 7.557512083167719,
-  "velocity_km_h": 27207.04349940379,
-  "velocity_mph": 16905.667826268033,
-  "velocity_mps": 4.696018840630009,
-  "heading_degrees": 199.57307013336404,
-  "timestamp": "2025-12-10T04:07:09.620056+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": -51.9554931071565,
+  "longitude": -72.85017848095029,
+  "altitude_km": 580.1920418267282,
+  "altitude_miles": 360.51450922191594,
+  "velocity_km_s": 7.561462482339744,
+  "velocity_km_h": 27221.26493642308,
+  "velocity_mph": 16914.504614810146,
+  "velocity_mps": 4.698473504113929,
+  "heading_degrees": 345.1806610038854,
+  "timestamp": "2025-12-10T04:23:49.167314+00:00",
+  "location_type": "country",
+  "location_name": "Chile"
 }
