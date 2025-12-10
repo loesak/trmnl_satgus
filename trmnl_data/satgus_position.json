@@ -1,14 +1,14 @@
 {
-  "latitude": -51.9554931071565,
-  "longitude": -72.85017848095029,
-  "altitude_km": 580.1920418267282,
-  "altitude_miles": 360.51450922191594,
-  "velocity_km_s": 7.561462482339744,
-  "velocity_km_h": 27221.26493642308,
-  "velocity_mph": 16914.504614810146,
-  "velocity_mps": 4.698473504113929,
-  "heading_degrees": 345.1806610038854,
-  "timestamp": "2025-12-10T04:23:49.167314+00:00",
-  "location_type": "country",
-  "location_name": "Chile"
+  "latitude": 24.28526983871599,
+  "longitude": -91.39787190160325,
+  "altitude_km": 569.9575375295444,
+  "altitude_miles": 354.1550850522706,
+  "velocity_km_s": 7.57727953608349,
+  "velocity_km_h": 27278.206329900564,
+  "velocity_mph": 16949.886345416642,
+  "velocity_mps": 4.708301762615735,
+  "heading_degrees": 348.1719456654183,
+  "timestamp": "2025-12-10T04:44:21.098884+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Mexico"
 }
