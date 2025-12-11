@@ -1,14 +1,14 @@
 {
-  "latitude": -36.74427225044161,
-  "longitude": 40.88618837730016,
-  "altitude_km": 578.6295074168966,
-  "altitude_miles": 359.54359565314445,
-  "velocity_km_s": 7.56581672635406,
-  "velocity_km_h": 27236.940214874616,
-  "velocity_mph": 16924.244778256856,
-  "velocity_mps": 4.701179105071349,
-  "heading_degrees": 347.40275984162184,
-  "timestamp": "2025-12-11T20:32:18.691593+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 15.22300935377719,
+  "longitude": 29.51494036171251,
+  "altitude_km": 571.3844088570368,
+  "altitude_miles": 355.0417015159058,
+  "velocity_km_s": 7.576688470541948,
+  "velocity_km_h": 27276.078493951016,
+  "velocity_mph": 16948.564169864836,
+  "velocity_mps": 4.707934491629121,
+  "heading_degrees": 348.44230566149236,
+  "timestamp": "2025-12-11T20:46:15.989060+00:00",
+  "location_type": "country",
+  "location_name": "Sudan"
 }
