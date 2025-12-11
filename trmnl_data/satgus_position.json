@@ -1,14 +1,14 @@
 {
-  "latitude": -19.480742706278868,
-  "longitude": 156.89288896571856,
-  "altitude_km": 576.8210822954716,
-  "altitude_miles": 358.4198927270195,
-  "velocity_km_s": 7.570337725521497,
-  "velocity_km_h": 27253.21581187739,
-  "velocity_mph": 16934.357962242066,
-  "velocity_mps": 4.703988322845018,
-  "heading_degrees": 348.32791782656716,
-  "timestamp": "2025-12-11T12:36:06.084361+00:00",
-  "location_type": "ocean",
-  "location_name": "Coral Sea"
+  "latitude": 80.03448374133104,
+  "longitude": 97.14023259681365,
+  "altitude_km": 563.0729418863957,
+  "altitude_miles": 349.87719697289157,
+  "velocity_km_s": 7.576414240516321,
+  "velocity_km_h": 27275.091265858755,
+  "velocity_mph": 16947.95073495792,
+  "velocity_mps": 4.707764093043867,
+  "heading_degrees": 309.01789106716353,
+  "timestamp": "2025-12-11T13:03:36.845505+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
