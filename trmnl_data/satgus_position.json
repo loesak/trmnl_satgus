@@ -1,14 +1,14 @@
 {
-  "latitude": 48.64114021927653,
-  "longitude": 20.55318164932177,
-  "altitude_km": 565.771492702148,
-  "altitude_miles": 351.5539981918264,
-  "velocity_km_s": 7.5777076119231195,
-  "velocity_km_h": 27279.74740292323,
-  "velocity_mph": 16950.84392350181,
-  "velocity_mps": 4.70856775652828,
-  "heading_degrees": 345.88299590253376,
-  "timestamp": "2025-12-11T20:55:16.563414+00:00",
-  "location_type": "country",
-  "location_name": "Slovakia"
+  "latitude": 75.1426615814847,
+  "longitude": -123.65792194425264,
+  "altitude_km": 563.8379832953333,
+  "altitude_miles": 350.35257151820457,
+  "velocity_km_s": 7.575944063015052,
+  "velocity_km_h": 27273.398626854185,
+  "velocity_mph": 16946.898978167013,
+  "velocity_mps": 4.707471938379726,
+  "heading_degrees": 212.2549280414667,
+  "timestamp": "2025-12-11T21:09:36.347480+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
