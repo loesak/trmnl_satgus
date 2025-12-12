@@ -1,14 +1,14 @@
 {
-  "latitude": -28.195133105619146,
-  "longitude": 26.30125631041043,
-  "altitude_km": 580.1132170113915,
-  "altitude_miles": 360.46552976758534,
-  "velocity_km_s": 7.56554149392929,
-  "velocity_km_h": 27235.949378145444,
-  "velocity_mph": 16923.629101047612,
-  "velocity_mps": 4.701008083624337,
-  "heading_degrees": 192.01509066702684,
-  "timestamp": "2025-12-12T08:50:57.556050+00:00",
-  "location_type": "country",
-  "location_name": "South Africa"
+  "latitude": -73.0238367798879,
+  "longitude": -128.4854766346987,
+  "altitude_km": 580.7216669078207,
+  "altitude_miles": 360.8436028881795,
+  "velocity_km_s": 7.5577021595829725,
+  "velocity_km_h": 27207.7277744987,
+  "velocity_mph": 16906.09301496803,
+  "velocity_mps": 4.6961369486022315,
+  "heading_degrees": 331.7601255080836,
+  "timestamp": "2025-12-12T09:11:33.887395+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
