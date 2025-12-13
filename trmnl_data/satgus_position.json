@@ -1,14 +1,14 @@
 {
-  "latitude": 80.99399556928755,
-  "longitude": 47.623713414752764,
-  "altitude_km": 563.375861677674,
-  "altitude_miles": 350.065422546518,
-  "velocity_km_s": 7.575911269585748,
-  "velocity_km_h": 27273.280570508694,
-  "velocity_mph": 16946.825621377557,
-  "velocity_mps": 4.707451561493766,
-  "heading_degrees": 238.94530156527753,
-  "timestamp": "2025-12-13T11:35:31.711061+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 50.367805461735266,
+  "longitude": -3.6132230523202775,
+  "altitude_km": 567.3901520437594,
+  "altitude_miles": 352.5597861655828,
+  "velocity_km_s": 7.575529808205046,
+  "velocity_km_h": 27271.90730953817,
+  "velocity_mph": 16945.972316835043,
+  "velocity_mps": 4.707214532454178,
+  "heading_degrees": 194.46171206185554,
+  "timestamp": "2025-12-13T11:44:42.383216+00:00",
+  "location_type": "country",
+  "location_name": "United Kingdom"
 }
