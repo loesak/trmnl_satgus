@@ -1,14 +1,14 @@
 {
-  "latitude": 0.3720429457958938,
-  "longitude": 31.29845860298258,
-  "altitude_km": 573.5654817699397,
-  "altitude_miles": 356.3969569728692,
-  "velocity_km_s": 7.574891843492027,
-  "velocity_km_h": 27269.6106365713,
-  "velocity_mph": 16944.545230856944,
-  "velocity_mps": 4.7068181196824845,
-  "heading_degrees": 348.5908274365792,
-  "timestamp": "2025-12-13T20:47:22.672263+00:00",
-  "location_type": "country",
-  "location_name": "Uganda"
+  "latitude": 35.14743831012107,
+  "longitude": 23.567388806650357,
+  "altitude_km": 567.7415883475387,
+  "altitude_miles": 352.7781584930985,
+  "velocity_km_s": 7.577838115069999,
+  "velocity_km_h": 27280.217214251996,
+  "velocity_mph": 16951.135850636976,
+  "velocity_mps": 4.70864884739916,
+  "heading_degrees": 347.54991717817177,
+  "timestamp": "2025-12-13T20:56:42.515882+00:00",
+  "location_type": "ocean",
+  "location_name": "Mediterranean Sea"
 }
