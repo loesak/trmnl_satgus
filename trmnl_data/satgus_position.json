@@ -1,14 +1,14 @@
 {
-  "latitude": 5.397844691430938,
-  "longitude": 78.36564544804796,
-  "altitude_km": 572.7891643934108,
-  "altitude_miles": 355.9145758682981,
-  "velocity_km_s": 7.575655207244353,
-  "velocity_km_h": 27272.35874607967,
-  "velocity_mph": 16946.25282641027,
-  "velocity_mps": 4.7072924517806305,
-  "heading_degrees": 348.5740289038642,
-  "timestamp": "2025-12-13T17:36:23.223271+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 40.480145950076086,
+  "longitude": 70.12966831867588,
+  "altitude_km": 566.9030008652562,
+  "altitude_miles": 352.2570845506451,
+  "velocity_km_s": 7.577828695065357,
+  "velocity_km_h": 27280.183302235284,
+  "velocity_mph": 16951.11477869324,
+  "velocity_mps": 4.708642994081456,
+  "heading_degrees": 347.0528442097521,
+  "timestamp": "2025-12-13T17:45:48.766309+00:00",
+  "location_type": "country",
+  "location_name": "Tajikistan"
 }
