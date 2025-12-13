@@ -1,14 +1,14 @@
 {
-  "latitude": -7.646640320771981,
-  "longitude": 56.96479538626154,
-  "altitude_km": 574.7776466301839,
-  "altitude_miles": 357.150161064244,
-  "velocity_km_s": 7.573392305587039,
-  "velocity_km_h": 27264.21230011334,
-  "velocity_mph": 16941.190861133728,
-  "velocity_mps": 4.705886350314924,
-  "heading_degrees": 348.5524846876817,
-  "timestamp": "2025-12-13T19:09:03.728547+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 42.04015544649361,
+  "longitude": 45.60726388078022,
+  "altitude_km": 566.6557608601979,
+  "altitude_miles": 352.10345678146206,
+  "velocity_km_s": 7.5778155114766275,
+  "velocity_km_h": 27280.13584131586,
+  "velocity_mph": 16951.085287854276,
+  "velocity_mps": 4.708634802181743,
+  "heading_degrees": 346.87359443239444,
+  "timestamp": "2025-12-13T19:22:24.199056+00:00",
+  "location_type": "country",
+  "location_name": "Georgia"
 }
