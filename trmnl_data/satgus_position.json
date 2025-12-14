@@ -1,14 +1,14 @@
 {
-  "latitude": 81.85259702448364,
-  "longitude": 59.21100883022395,
-  "altitude_km": 563.5139275073025,
-  "altitude_miles": 350.15121264914006,
-  "velocity_km_s": 7.5756938245800285,
-  "velocity_km_h": 27272.4977684881,
-  "velocity_mph": 16946.33921090322,
-  "velocity_mps": 4.707316447473117,
-  "heading_degrees": 250.7655273336648,
-  "timestamp": "2025-12-14T11:37:32.154814+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 52.39407475555155,
+  "longitude": -3.3935740537584502,
+  "altitude_km": 567.223046437005,
+  "altitude_miles": 352.45595158760824,
+  "velocity_km_s": 7.575333011665383,
+  "velocity_km_h": 27271.198841995378,
+  "velocity_mph": 16945.53209564951,
+  "velocity_mps": 4.707092248791531,
+  "heading_degrees": 194.91239684467905,
+  "timestamp": "2025-12-14T11:46:41.656062+00:00",
+  "location_type": "country",
+  "location_name": "United Kingdom"
 }
