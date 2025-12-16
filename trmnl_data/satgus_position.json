@@ -1,14 +1,14 @@
 {
-  "latitude": 66.16998974108662,
-  "longitude": 28.04549005362287,
-  "altitude_km": 565.4047292347641,
-  "altitude_miles": 351.3261020093346,
-  "velocity_km_s": 7.575119627781425,
-  "velocity_km_h": 27270.43066001313,
-  "velocity_mph": 16945.05476964302,
-  "velocity_mps": 4.7069596582341715,
-  "heading_degrees": 200.77035279946585,
-  "timestamp": "2025-12-16T10:11:44.894780+00:00",
-  "location_type": "country",
-  "location_name": "Finland"
+  "latitude": -14.17976556217398,
+  "longitude": 2.876755734363224,
+  "altitude_km": 578.5200044262965,
+  "altitude_miles": 359.4755536703723,
+  "velocity_km_s": 7.568863466662583,
+  "velocity_km_h": 27247.908479985297,
+  "velocity_mph": 16931.060140116944,
+  "velocity_mps": 4.703072261143595,
+  "heading_degrees": 191.54346211434856,
+  "timestamp": "2025-12-16T10:33:29.889747+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
