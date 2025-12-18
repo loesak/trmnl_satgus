@@ -1,14 +1,14 @@
 {
-  "latitude": 35.91899604125358,
-  "longitude": 20.239022178193032,
-  "altitude_km": 567.9980689511603,
-  "altitude_miles": 352.93752810225146,
-  "velocity_km_s": 7.57735644367642,
-  "velocity_km_h": 27278.483197235113,
-  "velocity_mph": 16950.05838274918,
-  "velocity_mps": 4.708349550763661,
-  "heading_degrees": 347.48817614669645,
-  "timestamp": "2025-12-18T21:09:28.504919+00:00",
-  "location_type": "ocean",
-  "location_name": "Mediterranean Sea"
+  "latitude": 82.31970002773517,
+  "longitude": -67.82606785590364,
+  "altitude_km": 563.9198964546904,
+  "altitude_miles": 350.40346997994743,
+  "velocity_km_s": 7.575157720018167,
+  "velocity_km_h": 27270.5677920654,
+  "velocity_mph": 16945.139979523472,
+  "velocity_mps": 4.706983327645409,
+  "heading_degrees": 269.9252582803964,
+  "timestamp": "2025-12-18T21:23:50.298768+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
