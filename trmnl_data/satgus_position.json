@@ -1,14 +1,14 @@
 {
-  "latitude": 43.26613883862779,
-  "longitude": 62.823182220863494,
-  "altitude_km": 569.1168396698968,
-  "altitude_miles": 353.63269978252345,
-  "velocity_km_s": 7.574849674466128,
-  "velocity_km_h": 27269.45882807806,
-  "velocity_mph": 16944.450901461692,
-  "velocity_mps": 4.706791917072692,
-  "heading_degrees": 193.28688757475072,
-  "timestamp": "2025-12-18T07:10:43.318405+00:00",
-  "location_type": "country",
-  "location_name": "Uzbekistan"
+  "latitude": -33.93559079260488,
+  "longitude": 45.135001072683835,
+  "altitude_km": 579.8624153360843,
+  "altitude_miles": 360.30968887979805,
+  "velocity_km_s": 7.56476993305084,
+  "velocity_km_h": 27233.171758983026,
+  "velocity_mph": 16921.903169051042,
+  "velocity_mps": 4.700528658069734,
+  "heading_degrees": 192.36796185130976,
+  "timestamp": "2025-12-18T07:31:28.867966+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
