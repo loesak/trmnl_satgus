@@ -1,14 +1,14 @@
 {
-  "latitude": 16.445582870301553,
-  "longitude": -88.85627385345107,
-  "altitude_km": 573.9560371316411,
-  "altitude_miles": 356.63963674852494,
-  "velocity_km_s": 7.573556226017865,
-  "velocity_km_h": 27264.802413664314,
-  "velocity_mph": 16941.55754058101,
-  "velocity_mps": 4.705988205716947,
-  "heading_degrees": 191.5885774661411,
-  "timestamp": "2025-12-19T16:57:25.109482+00:00",
-  "location_type": "country",
-  "location_name": "Belize"
+  "latitude": -28.587824064077495,
+  "longitude": -98.3736674557682,
+  "altitude_km": 579.4061580849675,
+  "altitude_miles": 360.02618385541433,
+  "velocity_km_s": 7.566085817806013,
+  "velocity_km_h": 27237.908944101648,
+  "velocity_mph": 16924.846718505385,
+  "velocity_mps": 4.70134631069594,
+  "heading_degrees": 192.03400937918815,
+  "timestamp": "2025-12-19T17:09:30.343647+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
