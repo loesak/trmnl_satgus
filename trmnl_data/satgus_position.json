@@ -1,14 +1,14 @@
 {
-  "latitude": 75.24424558881215,
-  "longitude": 159.97726500196356,
-  "altitude_km": 564.0002161632474,
-  "altitude_miles": 350.4533783175732,
-  "velocity_km_s": 7.575548657640526,
-  "velocity_km_h": 27271.975167505894,
-  "velocity_mph": 16946.014481808306,
-  "velocity_mps": 4.707226244946751,
-  "heading_degrees": 327.5302095732247,
-  "timestamp": "2025-12-19T10:09:45.972711+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 42.21774150957509,
+  "longitude": 13.789739174722797,
+  "altitude_km": 569.3480461426543,
+  "altitude_miles": 353.77636477970725,
+  "velocity_km_s": 7.574759502779042,
+  "velocity_km_h": 27269.13421000455,
+  "velocity_mph": 16944.249193204738,
+  "velocity_mps": 4.706735887001316,
+  "heading_degrees": 193.15459380200048,
+  "timestamp": "2025-12-19T10:25:48.996924+00:00",
+  "location_type": "country",
+  "location_name": "Italy"
 }
