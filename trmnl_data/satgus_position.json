@@ -1,14 +1,14 @@
 {
-  "latitude": 11.876821974186674,
-  "longitude": 24.60709549943773,
-  "altitude_km": 571.8199729823873,
-  "altitude_miles": 355.31234843203896,
-  "velocity_km_s": 7.576257207448237,
-  "velocity_km_h": 27274.525946813654,
-  "velocity_mph": 16947.599462097547,
-  "velocity_mps": 4.707666517249319,
-  "heading_degrees": 348.5049081394775,
-  "timestamp": "2025-12-20T21:07:57.457169+00:00",
-  "location_type": "country",
-  "location_name": "Sudan"
+  "latitude": 63.442031158992634,
+  "longitude": 7.085297679052618,
+  "altitude_km": 564.8189047725236,
+  "altitude_miles": 350.9620876774078,
+  "velocity_km_s": 7.5760499009606646,
+  "velocity_km_h": 27273.77964345839,
+  "velocity_mph": 16947.135730835384,
+  "velocity_mps": 4.707537703009829,
+  "heading_degrees": 340.99271512180087,
+  "timestamp": "2025-12-20T21:21:56.641339+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
