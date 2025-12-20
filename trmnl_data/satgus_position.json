@@ -1,14 +1,14 @@
 {
-  "latitude": 35.052728544293366,
-  "longitude": 91.36977824516667,
-  "altitude_km": 568.2728807675248,
-  "altitude_miles": 353.1082881953977,
-  "velocity_km_s": 7.577172708622693,
-  "velocity_km_h": 27277.821751041694,
-  "velocity_mph": 16949.647379266527,
-  "velocity_mps": 4.708235383129591,
-  "heading_degrees": 347.5586659751007,
-  "timestamp": "2025-12-20T16:25:41.432095+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 82.31996985483879,
+  "longitude": 3.8341199946493116,
+  "altitude_km": 564.0863642142403,
+  "altitude_miles": 350.50690821816676,
+  "velocity_km_s": 7.574944464188813,
+  "velocity_km_h": 27269.800071079728,
+  "velocity_mph": 16944.662939966882,
+  "velocity_mps": 4.706850816657467,
+  "heading_degrees": 270.67063274861414,
+  "timestamp": "2025-12-20T16:40:15.666079+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
