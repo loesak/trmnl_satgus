@@ -1,14 +1,14 @@
 {
-  "latitude": -31.318865101533827,
-  "longitude": 153.42823129304702,
-  "altitude_km": 576.9502678284553,
-  "altitude_miles": 358.5001648708351,
-  "velocity_km_s": 7.568310914002591,
-  "velocity_km_h": 27245.91929040933,
-  "velocity_mph": 16929.824115400934,
-  "velocity_mps": 4.702728920944704,
-  "heading_degrees": 347.80875342385167,
-  "timestamp": "2025-12-21T12:58:00.362506+00:00",
-  "location_type": "ocean",
-  "location_name": "Tasman Sea"
+  "latitude": 36.38493489526587,
+  "longitude": 138.47700783405776,
+  "altitude_km": 568.1348921146209,
+  "altitude_miles": 353.02254604815414,
+  "velocity_km_s": 7.577081256578399,
+  "velocity_km_h": 27277.49252368224,
+  "velocity_mph": 16949.442806932955,
+  "velocity_mps": 4.708178557481377,
+  "heading_degrees": 347.45054367623845,
+  "timestamp": "2025-12-21T13:16:10.831476+00:00",
+  "location_type": "country",
+  "location_name": "Japan"
 }
