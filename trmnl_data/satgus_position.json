@@ -1,14 +1,14 @@
 {
-  "latitude": 23.08414296158238,
-  "longitude": 93.69808164911008,
-  "altitude_km": 570.1564312835117,
-  "altitude_miles": 354.2786718630669,
-  "velocity_km_s": 7.576916044951359,
-  "velocity_km_h": 27276.89776182489,
-  "velocity_mph": 16949.073239162895,
-  "velocity_mps": 4.708075899767471,
-  "heading_degrees": 348.22110159526244,
-  "timestamp": "2025-12-21T16:24:55.678764+00:00",
-  "location_type": "country",
-  "location_name": "Myanmar"
+  "latitude": 79.8325309116612,
+  "longitude": 44.23901778560803,
+  "altitude_km": 564.074821825764,
+  "altitude_miles": 350.49973611269684,
+  "velocity_km_s": 7.5750801127867495,
+  "velocity_km_h": 27270.288406032298,
+  "velocity_mph": 16944.966377144694,
+  "velocity_mps": 4.706935104762415,
+  "heading_degrees": 310.36806422622533,
+  "timestamp": "2025-12-21T16:40:57.051398+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
