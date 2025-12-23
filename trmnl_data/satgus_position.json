@@ -1,14 +1,14 @@
 {
-  "latitude": -14.28654156182164,
-  "longitude": -73.55874238263515,
-  "altitude_km": 577.7759568621059,
-  "altitude_miles": 359.0132240913636,
-  "velocity_km_s": 7.569499067878857,
-  "velocity_km_h": 27250.196644363885,
-  "velocity_mph": 16932.481939105033,
-  "velocity_mps": 4.7034672053069535,
-  "heading_degrees": 191.54229897660124,
-  "timestamp": "2025-12-23T15:39:17.581298+00:00",
-  "location_type": "country",
-  "location_name": "Peru"
+  "latitude": -54.66443426171845,
+  "longitude": -85.28905950451816,
+  "altitude_km": 579.689885807863,
+  "altitude_miles": 360.20248403431765,
+  "velocity_km_s": 7.561170903626953,
+  "velocity_km_h": 27220.21525305703,
+  "velocity_mph": 16913.8523720073,
+  "velocity_mps": 4.698292325557584,
+  "heading_degrees": 195.49542238298176,
+  "timestamp": "2025-12-23T15:50:14.110497+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
