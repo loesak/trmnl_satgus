@@ -1,14 +1,14 @@
 {
-  "latitude": -5.355812999592505,
-  "longitude": 144.64460729741324,
-  "altitude_km": 576.838471532028,
-  "altitude_miles": 358.4306978943278,
-  "velocity_km_s": 7.571072374329231,
-  "velocity_km_h": 27255.86054758523,
-  "velocity_mph": 16936.001324313584,
-  "velocity_mps": 4.704444812309329,
-  "heading_degrees": 191.4273569571461,
-  "timestamp": "2025-12-23T01:11:26.603397+00:00",
-  "location_type": "country",
-  "location_name": "Papua New Guinea"
+  "latitude": 19.927990630451564,
+  "longitude": -50.445399094222246,
+  "altitude_km": 570.6934955471706,
+  "altitude_miles": 354.612388021641,
+  "velocity_km_s": 7.576669646261985,
+  "velocity_km_h": 27276.010726543147,
+  "velocity_mph": 16948.522061162843,
+  "velocity_mps": 4.707922794767456,
+  "heading_degrees": 348.3269018756937,
+  "timestamp": "2025-12-23T02:03:29.660609+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
