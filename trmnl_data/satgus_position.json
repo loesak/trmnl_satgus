@@ -1,14 +1,14 @@
 {
-  "latitude": 18.70687457322234,
-  "longitude": 52.83657406839222,
-  "altitude_km": 573.2350382159111,
-  "altitude_miles": 356.1916289312589,
-  "velocity_km_s": 7.574003724198764,
-  "velocity_km_h": 27266.413407115553,
-  "velocity_mph": 16942.558565192798,
-  "velocity_mps": 4.70626626810911,
-  "heading_degrees": 191.64350045582208,
-  "timestamp": "2025-12-24T07:32:03.496770+00:00",
-  "location_type": "country",
-  "location_name": "Oman"
+  "latitude": -35.524906630778474,
+  "longitude": 41.054762021776284,
+  "altitude_km": 579.1592394456111,
+  "altitude_miles": 359.8727557735588,
+  "velocity_km_s": 7.565129261742976,
+  "velocity_km_h": 27234.465342274714,
+  "velocity_mph": 16922.70696419458,
+  "velocity_mps": 4.700751934498495,
+  "heading_degrees": 192.4871731490404,
+  "timestamp": "2025-12-24T07:46:37.492885+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
