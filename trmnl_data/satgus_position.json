@@ -1,14 +1,14 @@
 {
-  "latitude": -20.03845499340337,
-  "longitude": -42.74889710564696,
-  "altitude_km": 575.8872440732084,
-  "altitude_miles": 357.8396327370136,
-  "velocity_km_s": 7.570966186553396,
-  "velocity_km_h": 27255.478271592227,
-  "velocity_mph": 16935.763789097535,
-  "velocity_mps": 4.70437883030487,
-  "heading_degrees": 348.3152810247199,
-  "timestamp": "2025-12-24T01:55:12.267919+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": 19.899322135386505,
+  "longitude": 125.21707306901239,
+  "altitude_km": 573.0401253174305,
+  "altitude_miles": 356.0705157086171,
+  "velocity_km_s": 7.574088472094815,
+  "velocity_km_h": 27266.718499541337,
+  "velocity_mph": 16942.7481407785,
+  "velocity_mps": 4.706318927994028,
+  "heading_degrees": 191.67761917137042,
+  "timestamp": "2025-12-24T02:43:15.361444+00:00",
+  "location_type": "ocean",
+  "location_name": "Philippine Sea"
 }
