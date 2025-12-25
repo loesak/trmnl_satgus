@@ -1,14 +1,14 @@
 {
-  "latitude": 81.66104939929255,
-  "longitude": -48.65127404795216,
-  "altitude_km": 564.1268654733849,
-  "altitude_miles": 350.5320745260627,
-  "velocity_km_s": 7.574788105768005,
-  "velocity_km_h": 27269.237180764816,
-  "velocity_mph": 16944.313176249016,
-  "velocity_mps": 4.706753660069171,
-  "heading_degrees": 292.6818708441036,
-  "timestamp": "2025-12-25T21:40:00.833496+00:00",
-  "location_type": "country",
-  "location_name": "Greenland"
+  "latitude": 57.33867117286329,
+  "longitude": -151.9744257782661,
+  "altitude_km": 566.8057584351927,
+  "altitude_miles": 352.19666092463416,
+  "velocity_km_s": 7.574695771434014,
+  "velocity_km_h": 27268.90477716245,
+  "velocity_mph": 16944.106630290207,
+  "velocity_mps": 4.7066962861917245,
+  "heading_degrees": 196.32141500639904,
+  "timestamp": "2025-12-25T21:49:25.280448+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Alaska"
 }
