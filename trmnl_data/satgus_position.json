@@ -1,14 +1,14 @@
 {
-  "latitude": -7.695233211359171,
-  "longitude": -69.9876388521947,
-  "altitude_km": 574.5298738684305,
-  "altitude_miles": 356.9962022555005,
-  "velocity_km_s": 7.573431730057187,
-  "velocity_km_h": 27264.354228205873,
-  "velocity_mph": 16941.279051134512,
-  "velocity_mps": 4.705910847537365,
-  "heading_degrees": 348.55513288319753,
-  "timestamp": "2025-12-25T03:37:04.584537+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": 81.73555011160305,
+  "longitude": 170.39572700304083,
+  "altitude_km": 564.2433478161493,
+  "altitude_miles": 350.6044532758685,
+  "velocity_km_s": 7.574678716371091,
+  "velocity_km_h": 27268.843378935926,
+  "velocity_mph": 16944.068479212794,
+  "velocity_mps": 4.7066856886702215,
+  "heading_degrees": 248.56019374903394,
+  "timestamp": "2025-12-25T04:03:57.695951+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
