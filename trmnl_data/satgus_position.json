@@ -1,14 +1,14 @@
 {
-  "latitude": 21.16795826143075,
-  "longitude": 100.2684470943948,
-  "altitude_km": 572.6545710326764,
-  "altitude_miles": 355.83094345714517,
-  "velocity_km_s": 7.574296546886037,
-  "velocity_km_h": 27267.467568789732,
-  "velocity_mph": 16943.213590686446,
-  "velocity_mps": 4.706448219635124,
-  "heading_degrees": 191.71609764842603,
-  "timestamp": "2025-12-26T04:23:51.642624+00:00",
-  "location_type": "country",
-  "location_name": "Myanmar"
+  "latitude": -58.350368870034536,
+  "longitude": 79.27705135334855,
+  "altitude_km": 579.395008641689,
+  "altitude_miles": 360.0192559146949,
+  "velocity_km_s": 7.56080145257816,
+  "velocity_km_h": 27218.88522928138,
+  "velocity_mph": 16913.0259338038,
+  "velocity_mps": 4.698062759389944,
+  "heading_degrees": 196.67991859850184,
+  "timestamp": "2025-12-26T04:45:19.600986+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
