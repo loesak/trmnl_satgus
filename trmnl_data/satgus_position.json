@@ -1,14 +1,14 @@
 {
-  "latitude": 53.330022665116225,
-  "longitude": 177.0937852280877,
-  "altitude_km": 565.9822782625797,
-  "altitude_miles": 351.6849742262974,
-  "velocity_km_s": 7.576231661276294,
-  "velocity_km_h": 27274.43398059466,
-  "velocity_mph": 16947.542316956085,
-  "velocity_mps": 4.707650643598912,
-  "heading_degrees": 344.8708965849261,
-  "timestamp": "2025-12-27T10:22:53.186927+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 63.43348079285174,
+  "longitude": 19.046373738209663,
+  "altitude_km": 565.87126156663,
+  "altitude_miles": 351.61599167091845,
+  "velocity_km_s": 7.574718516626059,
+  "velocity_km_h": 27268.986659853814,
+  "velocity_mph": 16944.157509820023,
+  "velocity_mps": 4.706710419394451,
+  "heading_degrees": 199.00512793673607,
+  "timestamp": "2025-12-27T10:39:21.404412+00:00",
+  "location_type": "country",
+  "location_name": "Sweden"
 }
