@@ -1,14 +1,14 @@
 {
-  "latitude": -38.56125465298809,
-  "longitude": 109.96399158673682,
-  "altitude_km": 578.8289867891044,
-  "altitude_miles": 359.6675463501326,
-  "velocity_km_s": 7.564839243261135,
-  "velocity_km_h": 27233.421275740086,
-  "velocity_mph": 16922.058211527892,
-  "velocity_mps": 4.700571725424415,
-  "heading_degrees": 192.75411120842168,
-  "timestamp": "2025-12-28T03:08:27.843603+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 22.167197912993142,
+  "longitude": -77.9426308545206,
+  "altitude_km": 570.3663749328798,
+  "altitude_miles": 354.40912475841844,
+  "velocity_km_s": 7.576600821561452,
+  "velocity_km_h": 27275.762957621228,
+  "velocity_mph": 16948.36810474006,
+  "velocity_mps": 4.7078800290944605,
+  "heading_degrees": 348.25593129759284,
+  "timestamp": "2025-12-28T03:52:10.401024+00:00",
+  "location_type": "country",
+  "location_name": "Cuba"
 }
