@@ -1,14 +1,14 @@
 {
-  "latitude": 7.628392865990516,
-  "longitude": -0.49770849729981553,
-  "altitude_km": 574.3952875325931,
-  "altitude_miles": 356.9125742094149,
-  "velocity_km_s": 7.573437863226655,
-  "velocity_km_h": 27264.376307615956,
-  "velocity_mph": 16941.292770639633,
-  "velocity_mps": 4.70591465851101,
-  "heading_degrees": 191.4434368736877,
-  "timestamp": "2025-12-29T10:59:08.740480+00:00",
-  "location_type": "country",
-  "location_name": "Ghana"
+  "latitude": -38.28341610638274,
+  "longitude": -10.725202622397534,
+  "altitude_km": 578.669323584787,
+  "altitude_miles": 359.5683362652027,
+  "velocity_km_s": 7.565011131018387,
+  "velocity_km_h": 27234.040071666193,
+  "velocity_mph": 16922.442713371296,
+  "velocity_mps": 4.700678531492026,
+  "heading_degrees": 192.72763323864814,
+  "timestamp": "2025-12-29T11:11:29.228293+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
