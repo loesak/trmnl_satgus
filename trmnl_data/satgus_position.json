@@ -1,14 +1,14 @@
 {
-  "latitude": -81.64972974721215,
-  "longitude": -170.22977966038098,
-  "altitude_km": 578.6439283580366,
-  "altitude_miles": 359.5525564077616,
-  "velocity_km_s": 7.558785616160052,
-  "velocity_km_h": 27211.62821817619,
-  "velocity_mph": 16908.516637556357,
-  "velocity_mps": 4.696810177098988,
-  "heading_degrees": 292.85970143563316,
-  "timestamp": "2025-12-30T14:40:44.705363+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": -28.26601115298974,
+  "longitude": 123.33095054282394,
+  "altitude_km": 576.3915761595645,
+  "altitude_miles": 358.15301006984475,
+  "velocity_km_s": 7.569078855790963,
+  "velocity_km_h": 27248.683880847464,
+  "velocity_mph": 16931.54195172607,
+  "velocity_mps": 4.7032060977016865,
+  "heading_degrees": 347.984601039135,
+  "timestamp": "2025-12-30T14:56:20.326567+00:00",
+  "location_type": "country",
+  "location_name": "Australia"
 }
