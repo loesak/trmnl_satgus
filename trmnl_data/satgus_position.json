@@ -1,14 +1,14 @@
 {
-  "latitude": 35.02469923653342,
-  "longitude": 12.797012303762013,
-  "altitude_km": 568.2378288759719,
-  "altitude_miles": 353.0865079664915,
-  "velocity_km_s": 7.576832033979941,
-  "velocity_km_h": 27276.595322327787,
-  "velocity_mph": 16948.88531203014,
-  "velocity_mps": 4.70802369778615,
-  "heading_degrees": 347.5625495202362,
-  "timestamp": "2025-12-31T21:40:11.107195+00:00",
-  "location_type": "ocean",
-  "location_name": "Mediterranean Sea"
+  "latitude": 69.34476536971967,
+  "longitude": -5.097171894151549,
+  "altitude_km": 564.2036504072939,
+  "altitude_miles": 350.5797864572306,
+  "velocity_km_s": 7.5755498523140865,
+  "velocity_km_h": 27271.979468330712,
+  "velocity_mph": 16946.017154216122,
+  "velocity_mps": 4.707226987282256,
+  "heading_degrees": 336.50575283705354,
+  "timestamp": "2025-12-31T21:49:37.918471+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
