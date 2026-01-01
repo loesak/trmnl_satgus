@@ -1,14 +1,14 @@
 {
-  "latitude": 34.5496894325756,
-  "longitude": -68.19318512744145,
-  "altitude_km": 569.6596943074128,
-  "altitude_miles": 353.9700139114914,
-  "velocity_km_s": 7.575317925391425,
-  "velocity_km_h": 27271.14453140913,
-  "velocity_mph": 16945.49834862622,
-  "velocity_mps": 4.707082874618395,
-  "heading_degrees": 192.40710209473457,
-  "timestamp": "2026-01-01T15:47:09.076026+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -1.6815411519405064,
+  "longitude": -76.17759081199422,
+  "altitude_km": 575.27374300877,
+  "altitude_miles": 357.4584209671024,
+  "velocity_km_s": 7.572491938855337,
+  "velocity_km_h": 27260.970979879214,
+  "velocity_mph": 16939.17679873853,
+  "velocity_mps": 4.70532688853848,
+  "heading_degrees": 191.41018292096246,
+  "timestamp": "2026-01-01T15:56:52.561323+00:00",
+  "location_type": "country",
+  "location_name": "Ecuador"
 }
