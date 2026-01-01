@@ -1,14 +1,14 @@
 {
-  "latitude": 48.36488895539505,
-  "longitude": 32.07743090950788,
-  "altitude_km": 566.2754869707023,
-  "altitude_miles": 351.8671656144723,
-  "velocity_km_s": 7.5765452708596985,
-  "velocity_km_h": 27275.562975094916,
-  "velocity_mph": 16948.243841397703,
-  "velocity_mps": 4.707845511499362,
-  "heading_degrees": 345.93759167654696,
-  "timestamp": "2026-01-01T20:09:52.358787+00:00",
-  "location_type": "country",
-  "location_name": "Ukraine"
+  "latitude": 70.62772164731966,
+  "longitude": -120.59543507691005,
+  "altitude_km": 564.5730076585842,
+  "altitude_miles": 350.8092943418221,
+  "velocity_km_s": 7.574943247395611,
+  "velocity_km_h": 27269.7956906242,
+  "velocity_mph": 16944.66021807885,
+  "velocity_mps": 4.706850060577458,
+  "heading_degrees": 204.91191607588647,
+  "timestamp": "2026-01-01T20:25:38.611638+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
