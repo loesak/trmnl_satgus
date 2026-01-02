@@ -1,14 +1,14 @@
 {
-  "latitude": 54.59553248727328,
-  "longitude": 10.337495260269941,
-  "altitude_km": 566.4277994249733,
-  "altitude_miles": 351.96180815649507,
-  "velocity_km_s": 7.575252058179201,
-  "velocity_km_h": 27270.907409445124,
-  "velocity_mph": 16945.351007914327,
-  "velocity_mps": 4.707041946642868,
-  "heading_degrees": 195.47474832765488,
-  "timestamp": "2026-01-02T10:55:28.319130+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 6.333065746568165,
+  "longitude": -2.9952971034355014,
+  "altitude_km": 574.1078228985461,
+  "altitude_miles": 356.7339520222925,
+  "velocity_km_s": 7.573612155725475,
+  "velocity_km_h": 27265.00376061171,
+  "velocity_mph": 16941.68265173506,
+  "velocity_mps": 4.706022958815294,
+  "heading_degrees": 191.4326101444231,
+  "timestamp": "2026-01-02T11:08:29.836197+00:00",
+  "location_type": "country",
+  "location_name": "Ghana"
 }
