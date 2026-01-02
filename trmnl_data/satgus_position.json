@@ -1,14 +1,14 @@
 {
-  "latitude": 11.177697770104006,
-  "longitude": 89.30510506255382,
-  "altitude_km": 571.7301763436299,
-  "altitude_miles": 355.2565514048176,
-  "velocity_km_s": 7.575933226258309,
-  "velocity_km_h": 27273.359614529913,
-  "velocity_mph": 16946.874737040067,
-  "velocity_mps": 4.707465204733352,
-  "heading_degrees": 348.5166621549809,
-  "timestamp": "2026-01-02T16:49:45.847129+00:00",
-  "location_type": "ocean",
-  "location_name": "Bay of Bengal"
+  "latitude": 48.73285489465604,
+  "longitude": 79.46405682185426,
+  "altitude_km": 566.1815862158483,
+  "altitude_miles": 351.8088184085278,
+  "velocity_km_s": 7.576542805938281,
+  "velocity_km_h": 27275.554101377813,
+  "velocity_mph": 16948.238327527233,
+  "velocity_mps": 4.7078439798686755,
+  "heading_degrees": 345.8703276230384,
+  "timestamp": "2026-01-02T16:59:53.014609+00:00",
+  "location_type": "country",
+  "location_name": "Kazakhstan"
 }
