@@ -1,14 +1,14 @@
 {
-  "latitude": 42.51471877557788,
-  "longitude": 57.58797287496072,
-  "altitude_km": 567.0231250359993,
-  "altitude_miles": 352.33172622674397,
-  "velocity_km_s": 7.576745730618999,
-  "velocity_km_h": 27276.284630228398,
-  "velocity_mph": 16948.69225696965,
-  "velocity_mps": 4.707970071380458,
-  "heading_degrees": 346.81870465680686,
-  "timestamp": "2026-01-02T18:34:20.407891+00:00",
-  "location_type": "country",
-  "location_name": "Uzbekistan"
+  "latitude": 74.08182674257304,
+  "longitude": -91.18333875409012,
+  "altitude_km": 564.2043138672398,
+  "altitude_miles": 350.58019871200065,
+  "velocity_km_s": 7.574938491610985,
+  "velocity_km_h": 27269.778569799546,
+  "velocity_mph": 16944.649579694913,
+  "velocity_mps": 4.70684710547081,
+  "heading_degrees": 210.06903067648233,
+  "timestamp": "2026-01-02T18:50:40.051987+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
