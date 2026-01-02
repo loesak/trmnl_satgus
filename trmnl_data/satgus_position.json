@@ -1,14 +1,14 @@
 {
-  "latitude": 4.211212898679822,
-  "longitude": 20.6104423419061,
-  "altitude_km": 574.411511646409,
-  "altitude_miles": 356.92265540324087,
-  "velocity_km_s": 7.573353331645753,
-  "velocity_km_h": 27264.07199392471,
-  "velocity_mph": 16941.10367893699,
-  "velocity_mps": 4.705862133038053,
-  "heading_degrees": 191.4188105281968,
-  "timestamp": "2026-01-02T09:32:55.140125+00:00",
-  "location_type": "country",
-  "location_name": "Democratic Republic of the Congo"
+  "latitude": -53.09489736387202,
+  "longitude": 5.83322571257844,
+  "altitude_km": 578.6010424026908,
+  "altitude_miles": 359.5259083188024,
+  "velocity_km_s": 7.562243764514532,
+  "velocity_km_h": 27224.077552252314,
+  "velocity_mph": 16916.252292720572,
+  "velocity_mps": 4.6989589702001595,
+  "heading_degrees": 195.07971976795514,
+  "timestamp": "2026-01-02T09:48:23.023113+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
