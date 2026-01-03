@@ -1,14 +1,14 @@
 {
-  "latitude": 75.53866952014933,
-  "longitude": -17.75866936165547,
-  "altitude_km": 563.590925656079,
-  "altitude_miles": 350.1990570658435,
-  "velocity_km_s": 7.575407824589434,
-  "velocity_km_h": 27271.468168521962,
-  "velocity_mph": 16945.69944734266,
-  "velocity_mps": 4.707138735372961,
-  "heading_degrees": 326.8568182251239,
-  "timestamp": "2026-01-03T21:58:04.621400+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 55.68705249449522,
+  "longitude": -157.91971378492636,
+  "altitude_km": 566.1289893457115,
+  "altitude_miles": 351.7761362387341,
+  "velocity_km_s": 7.575311642239676,
+  "velocity_km_h": 27271.121912062834,
+  "velocity_mph": 16945.484293620397,
+  "velocity_mps": 4.70707897045011,
+  "heading_degrees": 195.79073916506985,
+  "timestamp": "2026-01-03T22:10:21.499674+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Alaska"
 }
