@@ -1,14 +1,14 @@
 {
-  "latitude": -4.318177275114194,
-  "longitude": 139.9844820169375,
-  "altitude_km": 573.7232764542259,
-  "altitude_miles": 356.49500601363883,
-  "velocity_km_s": 7.574034886723158,
-  "velocity_km_h": 27266.52559220337,
-  "velocity_mph": 16942.628273753,
-  "velocity_mps": 4.706285631598056,
-  "heading_degrees": 348.5815146391998,
-  "timestamp": "2026-01-03T13:35:29.848181+00:00",
-  "location_type": "country",
-  "location_name": "Indonesia"
+  "latitude": 40.37417558355307,
+  "longitude": 129.8191436656408,
+  "altitude_km": 567.2152795274687,
+  "altitude_miles": 352.4511254552628,
+  "velocity_km_s": 7.5768722253500655,
+  "velocity_km_h": 27276.740011260237,
+  "velocity_mph": 16948.975217536787,
+  "velocity_mps": 4.708048671537996,
+  "heading_degrees": 347.067817714284,
+  "timestamp": "2026-01-03T13:47:29.798795+00:00",
+  "location_type": "ocean",
+  "location_name": "Sea of Japan"
 }
