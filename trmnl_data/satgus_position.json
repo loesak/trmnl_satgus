@@ -1,14 +1,14 @@
 {
-  "latitude": 35.926835555623654,
-  "longitude": 127.96607611821362,
-  "altitude_km": 567.6257415435111,
-  "altitude_miles": 352.70617464863307,
-  "velocity_km_s": 7.577003323503371,
-  "velocity_km_h": 27277.211964612135,
-  "velocity_mph": 16949.268475663008,
-  "velocity_mps": 4.7081301321286135,
-  "heading_degrees": 347.49145646448346,
-  "timestamp": "2026-01-09T13:58:55.263958+00:00",
-  "location_type": "country",
-  "location_name": "South Korea"
+  "latitude": 81.45602743144785,
+  "longitude": 66.4356361448572,
+  "altitude_km": 563.0617653856107,
+  "altitude_miles": 349.8702522194223,
+  "velocity_km_s": 7.575377788141329,
+  "velocity_km_h": 27271.360037308783,
+  "velocity_mph": 16945.632257742596,
+  "velocity_mps": 4.707120071595166,
+  "heading_degrees": 295.7057389993047,
+  "timestamp": "2026-01-09T14:12:16.203506+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
