@@ -1,14 +1,14 @@
 {
-  "latitude": 71.90179592535046,
-  "longitude": 68.86752368060658,
-  "altitude_km": 563.8126570133654,
-  "altitude_miles": 350.3368345010519,
-  "velocity_km_s": 7.575326657930152,
-  "velocity_km_h": 27271.175968548545,
-  "velocity_mph": 16945.517882752978,
-  "velocity_mps": 4.707088300764716,
-  "heading_degrees": 206.54094342058718,
-  "timestamp": "2026-01-10T07:55:11.290855+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 14.70303981646875,
+  "longitude": 42.62017084852197,
+  "altitude_km": 572.1631164770943,
+  "altitude_miles": 355.52556784848855,
+  "velocity_km_s": 7.574921019680601,
+  "velocity_km_h": 27269.715670850164,
+  "velocity_mph": 16944.610496111836,
+  "velocity_mps": 4.706836248919955,
+  "heading_degrees": 191.54605775662847,
+  "timestamp": "2026-01-10T08:10:50.811584+00:00",
+  "location_type": "ocean",
+  "location_name": "Red Sea"
 }
