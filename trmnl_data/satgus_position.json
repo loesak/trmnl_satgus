@@ -1,14 +1,14 @@
 {
-  "latitude": -23.42015573004012,
-  "longitude": 44.25710410490965,
-  "altitude_km": 575.464606768659,
-  "altitude_miles": 357.5770181724484,
-  "velocity_km_s": 7.57034432566072,
-  "velocity_km_h": 27253.239572378592,
-  "velocity_mph": 16934.37272632846,
-  "velocity_mps": 4.703992423980127,
-  "heading_degrees": 348.20157279685253,
-  "timestamp": "2026-01-10T20:09:35.331095+00:00",
-  "location_type": "country",
-  "location_name": "Madagascar"
+  "latitude": 33.905651066710426,
+  "longitude": 31.867582851724435,
+  "altitude_km": 567.9103313505266,
+  "altitude_miles": 352.88301050160806,
+  "velocity_km_s": 7.577006652018326,
+  "velocity_km_h": 27277.223947265975,
+  "velocity_mph": 16949.275921336608,
+  "velocity_mps": 4.7081322003712796,
+  "heading_degrees": 347.6482964739199,
+  "timestamp": "2026-01-10T20:24:57.900294+00:00",
+  "location_type": "ocean",
+  "location_name": "Mediterranean Sea"
 }
