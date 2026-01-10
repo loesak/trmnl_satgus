@@ -1,14 +1,14 @@
 {
-  "latitude": -21.451379147917283,
-  "longitude": 67.84720930144263,
-  "altitude_km": 575.2988564679563,
-  "altitude_miles": 357.4740257423505,
-  "velocity_km_s": 7.5707759254754405,
-  "velocity_km_h": 27254.793331711586,
-  "velocity_mph": 16935.33818731896,
-  "velocity_mps": 4.7042606075886,
-  "heading_degrees": 348.2719046854809,
-  "timestamp": "2026-01-10T18:33:58.957769+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 38.77838363686547,
+  "longitude": 54.55333075166558,
+  "altitude_km": 567.1766818681044,
+  "altitude_miles": 352.42714198906594,
+  "velocity_km_s": 7.576970609997535,
+  "velocity_km_h": 27277.09419599113,
+  "velocity_mph": 16949.195297657203,
+  "velocity_mps": 4.708109804904779,
+  "heading_degrees": 347.2340244958652,
+  "timestamp": "2026-01-10T18:50:08.684936+00:00",
+  "location_type": "country",
+  "location_name": "Turkmenistan"
 }
