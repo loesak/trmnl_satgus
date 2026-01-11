@@ -1,14 +1,14 @@
 {
-  "latitude": -28.868575861537273,
-  "longitude": -63.228780399945435,
-  "altitude_km": 577.0020528569703,
-  "altitude_miles": 358.5323425857885,
-  "velocity_km_s": 7.567875369974257,
-  "velocity_km_h": 27244.351331907328,
-  "velocity_mph": 16928.84983145859,
-  "velocity_mps": 4.702458286516275,
-  "heading_degrees": 192.0436135755182,
-  "timestamp": "2026-01-11T14:49:06.494166+00:00",
-  "location_type": "country",
-  "location_name": "Argentina"
+  "latitude": -62.483100943404324,
+  "longitude": -76.26050491999447,
+  "altitude_km": 577.9962783944084,
+  "altitude_miles": 359.15012550221195,
+  "velocity_km_s": 7.561053657547429,
+  "velocity_km_h": 27219.793167170745,
+  "velocity_mph": 16913.590100078054,
+  "velocity_mps": 4.6982194722439035,
+  "heading_degrees": 198.48973182103222,
+  "timestamp": "2026-01-11T14:58:17.762929+00:00",
+  "location_type": "ocean",
+  "location_name": "SOUTHERN OCEAN"
 }
