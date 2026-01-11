@@ -1,14 +1,14 @@
 {
-  "latitude": 7.462507923519622,
-  "longitude": 85.393214919766,
-  "altitude_km": 571.8825846934624,
-  "altitude_miles": 355.3512535335614,
-  "velocity_km_s": 7.575676018208877,
-  "velocity_km_h": 27272.433665551955,
-  "velocity_mph": 16946.299379197684,
-  "velocity_mps": 4.707305383110468,
-  "heading_degrees": 348.5617562617234,
-  "timestamp": "2026-01-11T17:07:37.380068+00:00",
-  "location_type": "ocean",
-  "location_name": "Bay of Bengal"
+  "latitude": 59.44644695537153,
+  "longitude": 69.69112591684168,
+  "altitude_km": 564.4686667018877,
+  "altitude_miles": 350.7444598972187,
+  "velocity_km_s": 7.576267567098403,
+  "velocity_km_h": 27274.563241554253,
+  "velocity_mph": 16947.622635967808,
+  "velocity_mps": 4.707672954435502,
+  "heading_degrees": 342.9062215420442,
+  "timestamp": "2026-01-11T17:21:40.626843+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
