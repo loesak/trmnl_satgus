@@ -1,14 +1,14 @@
 {
-  "latitude": 24.2095749879546,
-  "longitude": 68.23503031840687,
-  "altitude_km": 570.601635748586,
-  "altitude_miles": 354.5553090067346,
-  "velocity_km_s": 7.575533550958471,
-  "velocity_km_h": 27271.920783450496,
-  "velocity_mph": 16945.98068913342,
-  "velocity_mps": 4.707216858092616,
-  "heading_degrees": 191.82441928710705,
-  "timestamp": "2026-01-11T06:34:11.639033+00:00",
-  "location_type": "country",
-  "location_name": "Pakistan"
+  "latitude": -40.28786606791287,
+  "longitude": 53.86680979924503,
+  "altitude_km": 577.591955114508,
+  "altitude_miles": 358.89889074145697,
+  "velocity_km_s": 7.565331984265456,
+  "velocity_km_h": 27235.195143355642,
+  "velocity_mph": 16923.16044142204,
+  "velocity_mps": 4.700877900395011,
+  "heading_degrees": 192.93042766253774,
+  "timestamp": "2026-01-11T06:51:31.322768+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
