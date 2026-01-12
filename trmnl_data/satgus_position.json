@@ -1,14 +1,14 @@
 {
-  "latitude": 13.106884809277954,
-  "longitude": 17.248912437384888,
-  "altitude_km": 572.2606290575304,
-  "altitude_miles": 355.58615933810677,
-  "velocity_km_s": 7.574893574293031,
-  "velocity_km_h": 27269.61686745491,
-  "velocity_mph": 16944.549102547327,
-  "velocity_mps": 4.706819195152035,
-  "heading_degrees": 191.51710459448066,
-  "timestamp": "2026-01-12T09:51:27.508512+00:00",
-  "location_type": "country",
-  "location_name": "Chad"
+  "latitude": -60.693053095552706,
+  "longitude": -3.4340769908550954,
+  "altitude_km": 577.8716158668349,
+  "altitude_miles": 359.07266382279107,
+  "velocity_km_s": 7.561442497754204,
+  "velocity_km_h": 27221.192991915133,
+  "velocity_mph": 16914.4599105793,
+  "velocity_mps": 4.698461086272028,
+  "heading_degrees": 197.63154286643575,
+  "timestamp": "2026-01-12T10:11:24.355273+00:00",
+  "location_type": "ocean",
+  "location_name": "SOUTHERN OCEAN"
 }
