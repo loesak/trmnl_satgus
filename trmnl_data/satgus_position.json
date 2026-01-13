@@ -1,14 +1,14 @@
 {
-  "latitude": -31.401043110967734,
-  "longitude": 92.74162386224533,
-  "altitude_km": 575.9110683800627,
-  "altitude_miles": 357.85443647038795,
-  "velocity_km_s": 7.56860951843953,
-  "velocity_km_h": 27246.99426638231,
-  "velocity_mph": 16930.492074296242,
-  "velocity_mps": 4.702914465082289,
-  "heading_degrees": 347.8046892714782,
-  "timestamp": "2026-01-13T17:01:11.985613+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 41.943637784793864,
+  "longitude": 76.13757460172825,
+  "altitude_km": 566.7257345778216,
+  "altitude_miles": 352.1469364203556,
+  "velocity_km_s": 7.576816426273774,
+  "velocity_km_h": 27276.539134585586,
+  "velocity_mph": 16948.85039859658,
+  "velocity_mps": 4.708013999610161,
+  "heading_degrees": 346.8880103614852,
+  "timestamp": "2026-01-13T17:20:53.852582+00:00",
+  "location_type": "country",
+  "location_name": "Kyrgyzstan"
 }
