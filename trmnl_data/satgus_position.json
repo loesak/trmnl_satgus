@@ -1,14 +1,14 @@
 {
-  "latitude": 82.00492667547846,
-  "longitude": 93.65337048559473,
-  "altitude_km": 563.1095346418679,
-  "altitude_miles": 349.89993464995206,
-  "velocity_km_s": 7.575198070986287,
-  "velocity_km_h": 27270.713055550634,
-  "velocity_mph": 16945.230242040554,
-  "velocity_mps": 4.707008400566821,
-  "heading_degrees": 254.0262394072585,
-  "timestamp": "2026-01-13T09:33:33.865745+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 25.241612349226706,
+  "longitude": 19.413088795802654,
+  "altitude_km": 570.3114225479285,
+  "altitude_miles": 354.3749789400289,
+  "velocity_km_s": 7.575649648058031,
+  "velocity_km_h": 27272.33873300891,
+  "velocity_mph": 16946.24039086848,
+  "velocity_mps": 4.707288997463467,
+  "heading_degrees": 191.86841301125176,
+  "timestamp": "2026-01-13T09:50:12.154697+00:00",
+  "location_type": "country",
+  "location_name": "Libya"
 }
