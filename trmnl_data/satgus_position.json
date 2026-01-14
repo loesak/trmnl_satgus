@@ -1,14 +1,14 @@
 {
-  "latitude": 7.443454803918612,
-  "longitude": 83.9104029356813,
-  "altitude_km": 571.999035646545,
-  "altitude_miles": 355.42361277872936,
-  "velocity_km_s": 7.575495323067055,
-  "velocity_km_h": 27271.783163041397,
-  "velocity_mph": 16945.895175802198,
-  "velocity_mps": 4.707193104389499,
-  "heading_degrees": 348.56010311500256,
-  "timestamp": "2026-01-14T17:13:37.411307+00:00",
-  "location_type": "ocean",
-  "location_name": "Bay of Bengal"
+  "latitude": 80.05748529760767,
+  "longitude": 29.56326731356092,
+  "altitude_km": 563.1058344374778,
+  "altitude_miles": 349.89763545025005,
+  "velocity_km_s": 7.575304458092049,
+  "velocity_km_h": 27271.096049131374,
+  "velocity_mph": 16945.468223144813,
+  "velocity_mps": 4.707074506429114,
+  "heading_degrees": 308.8826908543524,
+  "timestamp": "2026-01-14T17:33:55.871975+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
