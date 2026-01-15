@@ -1,14 +1,14 @@
 {
-  "latitude": 25.14689322934954,
-  "longitude": 55.57939090551632,
-  "altitude_km": 569.4069565720984,
-  "altitude_miles": 353.8129700121613,
-  "velocity_km_s": 7.576631789006672,
-  "velocity_km_h": 27275.87444042402,
-  "velocity_mph": 16948.437376920716,
-  "velocity_mps": 4.707899271366865,
-  "heading_degrees": 348.1394442933521,
-  "timestamp": "2026-01-15T18:56:29.382658+00:00",
-  "location_type": "country",
-  "location_name": "United Arab Emirates"
+  "latitude": 82.1688969489522,
+  "longitude": -23.626989103274834,
+  "altitude_km": 563.0751041779795,
+  "altitude_miles": 349.8785405581753,
+  "velocity_km_s": 7.575209760913099,
+  "velocity_km_h": 27270.755139287157,
+  "velocity_mph": 16945.256391654002,
+  "velocity_mps": 4.707015664348333,
+  "heading_degrees": 281.17573910843134,
+  "timestamp": "2026-01-15T19:13:20.211531+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
