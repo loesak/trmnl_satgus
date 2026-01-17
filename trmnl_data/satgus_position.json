@@ -1,14 +1,14 @@
 {
-  "latitude": 16.997869635133615,
-  "longitude": -56.48660746949709,
-  "altitude_km": 571.3210606836637,
-  "altitude_miles": 355.0023387980688,
-  "velocity_km_s": 7.575493176283012,
-  "velocity_km_h": 27271.775434618845,
-  "velocity_mph": 16945.890373584545,
-  "velocity_mps": 4.707191770440152,
-  "heading_degrees": 191.59830956439254,
-  "timestamp": "2026-01-17T14:48:45.197986+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -16.219572323309894,
+  "longitude": -63.32179483442315,
+  "altitude_km": 575.4360428152222,
+  "altitude_miles": 357.5592693601374,
+  "velocity_km_s": 7.571080489745819,
+  "velocity_km_h": 27255.88976308495,
+  "velocity_mph": 16936.019477977858,
+  "velocity_mps": 4.704449854993849,
+  "heading_degrees": 191.58190881490523,
+  "timestamp": "2026-01-17T14:57:39.226863+00:00",
+  "location_type": "country",
+  "location_name": "Bolivia"
 }
