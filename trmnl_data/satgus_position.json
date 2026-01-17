@@ -1,14 +1,14 @@
 {
-  "latitude": 70.97123200606248,
-  "longitude": 8.040474613841049,
-  "altitude_km": 563.6700414806928,
-  "altitude_miles": 350.24821734489956,
-  "velocity_km_s": 7.575450148518404,
-  "velocity_km_h": 27271.620534666254,
-  "velocity_mph": 16945.794123246105,
-  "velocity_mps": 4.707165034235029,
-  "heading_degrees": 334.6784093517289,
-  "timestamp": "2026-01-17T20:49:08.806033+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 72.16955521866268,
+  "longitude": -126.41447629768324,
+  "altitude_km": 563.7576655747362,
+  "altitude_miles": 350.3026644158394,
+  "velocity_km_s": 7.575222992235538,
+  "velocity_km_h": 27270.802772047937,
+  "velocity_mph": 16945.2859892702,
+  "velocity_mps": 4.707023885908389,
+  "heading_degrees": 206.92586554088598,
+  "timestamp": "2026-01-17T20:58:09.302138+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
