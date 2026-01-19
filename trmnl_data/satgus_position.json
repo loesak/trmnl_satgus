@@ -1,14 +1,14 @@
 {
-  "latitude": 75.80811079447683,
-  "longitude": -71.59986685911979,
-  "altitude_km": 563.5280894188245,
-  "altitude_miles": 350.1600124502644,
-  "velocity_km_s": 7.575073299626697,
-  "velocity_km_h": 27270.26387865611,
-  "velocity_mph": 16944.951136544427,
-  "velocity_mps": 4.70693087126234,
-  "heading_degrees": 213.8113227110714,
-  "timestamp": "2026-01-19T17:48:40.355973+00:00",
-  "location_type": "ocean",
-  "location_name": "Baffin Bay"
+  "latitude": 42.62304800539997,
+  "longitude": -99.0257131068462,
+  "altitude_km": 567.2415631923704,
+  "altitude_miles": 352.46745736240644,
+  "velocity_km_s": 7.5760444027007035,
+  "velocity_km_h": 27273.759849722534,
+  "velocity_mph": 16947.123431581942,
+  "velocity_mps": 4.707534286550539,
+  "heading_degrees": 193.20152114964915,
+  "timestamp": "2026-01-19T17:58:00.688721+00:00",
+  "location_type": "country",
+  "location_name": "United States of America"
 }
