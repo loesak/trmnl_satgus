@@ -1,14 +1,14 @@
 {
-  "latitude": 1.6765958013264128,
-  "longitude": 10.549571623370564,
-  "altitude_km": 572.8799098553482,
-  "altitude_miles": 355.97096246672754,
-  "velocity_km_s": 7.574604984233852,
-  "velocity_km_h": 27268.577943241868,
-  "velocity_mph": 16943.903545170142,
-  "velocity_mps": 4.706639873658372,
-  "heading_degrees": 348.59167309321447,
-  "timestamp": "2026-01-19T22:10:17.907103+00:00",
-  "location_type": "country",
-  "location_name": "Equatorial Guinea"
+  "latitude": 59.496226028688525,
+  "longitude": -6.358800046642503,
+  "altitude_km": 564.7803754362603,
+  "altitude_miles": 350.9381466652045,
+  "velocity_km_s": 7.575772158369612,
+  "velocity_km_h": 27272.779770130604,
+  "velocity_mph": 16946.514438545822,
+  "velocity_mps": 4.707365121818285,
+  "heading_degrees": 342.8827439591141,
+  "timestamp": "2026-01-19T22:25:55.028971+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
