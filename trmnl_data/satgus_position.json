@@ -1,14 +1,14 @@
 {
-  "latitude": 12.109764273072228,
-  "longitude": -15.612392454251744,
-  "altitude_km": 571.4831260043875,
-  "altitude_miles": 355.1030414884723,
-  "velocity_km_s": 7.575685425205648,
-  "velocity_km_h": 27272.46753074033,
-  "velocity_mph": 16946.32042204365,
-  "velocity_mps": 4.707311228345459,
-  "heading_degrees": 348.5018392247733,
-  "timestamp": "2026-01-19T23:49:13.271634+00:00",
-  "location_type": "country",
-  "location_name": "Guinea-Bissau"
+  "latitude": 46.69454917537501,
+  "longitude": -24.507767490604863,
+  "altitude_km": 566.3680299115194,
+  "altitude_miles": 351.92466911415073,
+  "velocity_km_s": 7.576255321112076,
+  "velocity_km_h": 27274.519156003473,
+  "velocity_mph": 16947.595242485033,
+  "velocity_mps": 4.707665345134732,
+  "heading_degrees": 346.22315233067695,
+  "timestamp": "2026-01-19T23:58:32.189952+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
