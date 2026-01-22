@@ -1,14 +1,14 @@
 {
-  "latitude": 15.314743688049512,
-  "longitude": 36.914440955278444,
-  "altitude_km": 570.9364426487627,
-  "altitude_miles": 354.7633483051044,
-  "velocity_km_s": 7.575833325099395,
-  "velocity_km_h": 27272.99997035782,
-  "velocity_mph": 16946.65126458121,
-  "velocity_mps": 4.707403129050336,
-  "heading_degrees": 191.5585033763303,
-  "timestamp": "2026-01-22T08:34:15.104903+00:00",
-  "location_type": "country",
-  "location_name": "Eritrea"
+  "latitude": -55.7527228774614,
+  "longitude": 18.586845111292806,
+  "altitude_km": 576.4677943652414,
+  "altitude_miles": 358.20036985252443,
+  "velocity_km_s": 7.563457093870213,
+  "velocity_km_h": 27228.445537932766,
+  "velocity_mph": 16918.966432350822,
+  "velocity_mps": 4.699712897875228,
+  "heading_degrees": 195.81021746560302,
+  "timestamp": "2026-01-22T08:53:24.839693+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
