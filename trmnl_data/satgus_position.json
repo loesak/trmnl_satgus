@@ -1,14 +1,14 @@
 {
-  "latitude": 48.77628384209666,
-  "longitude": 117.53705811218833,
-  "altitude_km": 566.0167626565135,
-  "altitude_miles": 351.7064018286404,
-  "velocity_km_s": 7.576091236770739,
-  "velocity_km_h": 27273.92845237466,
-  "velocity_mph": 16947.228196380496,
-  "velocity_mps": 4.707563387883471,
-  "heading_degrees": 194.14221782603602,
-  "timestamp": "2026-01-23T03:38:42.708861+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": -58.66467156192872,
+  "longitude": 88.64849357923127,
+  "altitude_km": 576.4329670571278,
+  "altitude_miles": 358.17872917325457,
+  "velocity_km_s": 7.563026396831278,
+  "velocity_km_h": 27226.8950285926,
+  "velocity_mph": 16918.002990811612,
+  "velocity_mps": 4.699445275225448,
+  "heading_degrees": 196.7949632127184,
+  "timestamp": "2026-01-23T04:07:42.148063+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
