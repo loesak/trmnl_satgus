@@ -1,14 +1,14 @@
 {
-  "latitude": 12.013675326810255,
-  "longitude": 5.703003114130585,
-  "altitude_km": 571.5721607669047,
-  "altitude_miles": 355.1583651078924,
-  "velocity_km_s": 7.575325707724414,
-  "velocity_km_h": 27271.172547807888,
-  "velocity_mph": 16945.515757203935,
-  "velocity_mps": 4.707087710334426,
-  "heading_degrees": 348.5059594325389,
-  "timestamp": "2026-01-25T22:24:07.490068+00:00",
-  "location_type": "country",
-  "location_name": "Nigeria"
+  "latitude": 70.12871500087411,
+  "longitude": -18.512550083626476,
+  "altitude_km": 563.8382718126659,
+  "altitude_miles": 350.35275079450804,
+  "velocity_km_s": 7.57504037012457,
+  "velocity_km_h": 27270.14533244845,
+  "velocity_mph": 16944.877475368827,
+  "velocity_mps": 4.706910409824674,
+  "heading_degrees": 335.67644705769226,
+  "timestamp": "2026-01-25T22:39:58.894813+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
