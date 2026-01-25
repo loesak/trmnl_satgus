@@ -1,14 +1,14 @@
 {
-  "latitude": 72.882575754849,
-  "longitude": 15.28095858326705,
-  "altitude_km": 563.5129331939461,
-  "altitude_miles": 350.1505948116555,
-  "velocity_km_s": 7.57510946047811,
-  "velocity_km_h": 27270.394057721198,
-  "velocity_mph": 16945.032026040277,
-  "velocity_mps": 4.706953340566744,
-  "heading_degrees": 207.9901686984476,
-  "timestamp": "2026-01-25T11:36:11.442529+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 37.222985044487096,
+  "longitude": -7.268927080902738,
+  "altitude_km": 567.4481465795598,
+  "altitude_miles": 352.59582228828765,
+  "velocity_km_s": 7.576519637925801,
+  "velocity_km_h": 27275.470696532884,
+  "velocity_mph": 16948.186502175336,
+  "velocity_mps": 4.707829583937593,
+  "heading_degrees": 192.62373291217736,
+  "timestamp": "2026-01-25T11:46:05.126456+00:00",
+  "location_type": "country",
+  "location_name": "Spain"
 }
