@@ -1,14 +1,14 @@
 {
-  "latitude": 52.777638392615906,
-  "longitude": 17.96981208540606,
-  "altitude_km": 565.7163800229937,
-  "altitude_miles": 351.51975277126763,
-  "velocity_km_s": 7.575569303953315,
-  "velocity_km_h": 27272.049494231935,
-  "velocity_mph": 16946.06066628039,
-  "velocity_mps": 4.707239073966775,
-  "heading_degrees": 345.0111888434629,
-  "timestamp": "2026-01-26T21:00:46.413550+00:00",
-  "location_type": "country",
-  "location_name": "Poland"
+  "latitude": 52.56594249884749,
+  "longitude": -146.57711931985529,
+  "altitude_km": 565.267938701927,
+  "altitude_miles": 351.24110433915513,
+  "velocity_km_s": 7.576094852734213,
+  "velocity_km_h": 27273.94146984317,
+  "velocity_mph": 16947.23628505792,
+  "velocity_mps": 4.707565634738311,
+  "heading_degrees": 194.94369586389834,
+  "timestamp": "2026-01-26T21:20:23.887539+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
