@@ -1,14 +1,14 @@
 {
-  "latitude": -57.6244752596913,
-  "longitude": 47.47728148433093,
-  "altitude_km": 576.1845074180646,
-  "altitude_miles": 358.02434355887027,
-  "velocity_km_s": 7.5632917742737025,
-  "velocity_km_h": 27227.85038738533,
-  "velocity_mph": 16918.59662306001,
-  "velocity_mps": 4.699610173072225,
-  "heading_degrees": 343.5803777301183,
-  "timestamp": "2026-01-27T20:32:43.315011+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 1.4170389135950254,
+  "longitude": 31.025438118605308,
+  "altitude_km": 573.0029117739086,
+  "altitude_miles": 356.0473922918654,
+  "velocity_km_s": 7.5741252730727044,
+  "velocity_km_h": 27266.850983061737,
+  "velocity_mph": 16942.830462196056,
+  "velocity_mps": 4.70634179505446,
+  "heading_degrees": 348.59587197205576,
+  "timestamp": "2026-01-27T20:48:40.781197+00:00",
+  "location_type": "country",
+  "location_name": "Uganda"
 }
