@@ -1,14 +1,14 @@
 {
-  "latitude": 47.22767908095464,
-  "longitude": 18.635584542116415,
-  "altitude_km": 565.7493962092631,
-  "altitude_miles": 351.540268071946,
-  "velocity_km_s": 7.576457921537368,
-  "velocity_km_h": 27275.248517534525,
-  "velocity_mph": 16948.048446588946,
-  "velocity_mps": 4.7077912351635955,
-  "heading_degrees": 193.86464455596135,
-  "timestamp": "2026-01-28T10:12:31.099514+00:00",
-  "location_type": "country",
-  "location_name": "Hungary"
+  "latitude": -31.64125757884061,
+  "longitude": 0.198496326908575,
+  "altitude_km": 574.6197076641965,
+  "altitude_miles": 357.05202237100946,
+  "velocity_km_s": 7.5695096174407706,
+  "velocity_km_h": 27250.234622786775,
+  "velocity_mph": 16932.50553779564,
+  "velocity_mps": 4.703473760498789,
+  "heading_degrees": 192.20069011536438,
+  "timestamp": "2026-01-28T10:33:42.701672+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
