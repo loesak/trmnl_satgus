@@ -1,14 +1,14 @@
 {
-  "latitude": 10.028689795488193,
-  "longitude": 31.898234539886985,
-  "altitude_km": 570.3188036633801,
-  "altitude_miles": 354.3795653511182,
-  "velocity_km_s": 7.576601541628368,
-  "velocity_km_h": 27275.765549862124,
-  "velocity_mph": 16948.36971548338,
-  "velocity_mps": 4.707880476523161,
-  "heading_degrees": 191.46392600356157,
-  "timestamp": "2026-01-31T08:51:28.945139+00:00",
-  "location_type": "country",
-  "location_name": "South Sudan"
+  "latitude": -67.33506444405607,
+  "longitude": 6.462153707088621,
+  "altitude_km": 575.2497930345335,
+  "altitude_miles": 357.4435391476611,
+  "velocity_km_s": 7.562717204903733,
+  "velocity_km_h": 27225.78193765344,
+  "velocity_mph": 16917.311348381656,
+  "velocity_mps": 4.699253152328238,
+  "heading_degrees": 201.6511314252588,
+  "timestamp": "2026-01-31T09:12:27.887279+00:00",
+  "location_type": "ocean",
+  "location_name": "SOUTHERN OCEAN"
 }
