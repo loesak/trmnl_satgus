@@ -1,14 +1,14 @@
 {
-  "latitude": 36.23804955601404,
-  "longitude": 134.06914234714333,
-  "altitude_km": 566.8646948458181,
-  "altitude_miles": 352.23328230104084,
-  "velocity_km_s": 7.577095871116997,
-  "velocity_km_h": 27277.54513602119,
-  "velocity_mph": 16949.475498714623,
-  "velocity_mps": 4.7081876385318395,
-  "heading_degrees": 192.53545143553924,
-  "timestamp": "2026-01-31T02:20:00.152890+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Japan"
+  "latitude": -16.86599983378212,
+  "longitude": -62.58528999707336,
+  "altitude_km": 574.7949914599149,
+  "altitude_miles": 357.1609386384388,
+  "velocity_km_s": 7.571175825203452,
+  "velocity_km_h": 27256.232970732424,
+  "velocity_mph": 16936.232737256978,
+  "velocity_mps": 4.704509093682494,
+  "heading_degrees": 348.40607294820535,
+  "timestamp": "2026-01-31T03:13:18.945034+00:00",
+  "location_type": "country",
+  "location_name": "Bolivia"
 }
