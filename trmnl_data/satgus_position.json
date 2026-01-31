@@ -1,14 +1,14 @@
 {
-  "latitude": 4.274933318374984,
-  "longitude": 102.80674178786988,
-  "altitude_km": 571.0446225064397,
-  "altitude_miles": 354.83056813144896,
-  "velocity_km_s": 7.576071050689552,
-  "velocity_km_h": 27273.855782482387,
-  "velocity_mph": 16947.183041416865,
-  "velocity_mps": 4.707550844838018,
-  "heading_degrees": 191.4120769028183,
-  "timestamp": "2026-01-31T04:04:41.493553+00:00",
-  "location_type": "country",
-  "location_name": "Malaysia"
+  "latitude": -40.77740191628644,
+  "longitude": -80.66809427483277,
+  "altitude_km": 575.8519942026933,
+  "altitude_miles": 357.8177294897217,
+  "velocity_km_s": 7.566491723849949,
+  "velocity_km_h": 27239.370205859817,
+  "velocity_mph": 16925.75470418532,
+  "velocity_mps": 4.701598528940367,
+  "heading_degrees": 347.01561251683614,
+  "timestamp": "2026-01-31T04:42:58.710035+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
