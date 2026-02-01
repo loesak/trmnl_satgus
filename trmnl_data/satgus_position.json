@@ -1,14 +1,14 @@
 {
-  "latitude": -30.38851845411739,
-  "longitude": -131.97726593459606,
-  "altitude_km": 575.6444629706284,
-  "altitude_miles": 357.6887756005224,
-  "velocity_km_s": 7.56846464692394,
-  "velocity_km_h": 27246.472728926183,
-  "velocity_mph": 16930.16800604559,
-  "velocity_mps": 4.702824446123776,
-  "heading_degrees": 347.87166692427917,
-  "timestamp": "2026-02-01T07:59:40.012302+00:00",
+  "latitude": 30.153048095994304,
+  "longitude": -145.05983458942177,
+  "altitude_km": 569.2329625958728,
+  "altitude_miles": 353.70485520116006,
+  "velocity_km_s": 7.575495298874048,
+  "velocity_km_h": 27271.783075946572,
+  "velocity_mph": 16945.895121684,
+  "velocity_mps": 4.707193089356666,
+  "heading_degrees": 347.8955564596008,
+  "timestamp": "2026-02-01T08:15:54.718581+00:00",
   "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "location_name": "North Pacific Ocean"
 }
