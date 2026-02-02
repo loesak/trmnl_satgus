@@ -1,14 +1,14 @@
 {
-  "latitude": 51.761657510465874,
-  "longitude": -152.28455700477508,
-  "altitude_km": 566.0212536167028,
-  "altitude_miles": 351.7091923810642,
-  "velocity_km_s": 7.575197234752674,
-  "velocity_km_h": 27270.710045109627,
-  "velocity_mph": 16945.228371439815,
-  "velocity_mps": 4.707007880955504,
-  "heading_degrees": 345.2539715281947,
-  "timestamp": "2026-02-02T08:23:24.378358+00:00",
-  "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "latitude": 30.533250255248372,
+  "longitude": 35.65066574292025,
+  "altitude_km": 567.3290765555321,
+  "altitude_miles": 352.5218356283875,
+  "velocity_km_s": 7.577487808903859,
+  "velocity_km_h": 27278.956112053893,
+  "velocity_mph": 16950.35223830304,
+  "velocity_mps": 4.7084311773064,
+  "heading_degrees": 192.12884459183712,
+  "timestamp": "2026-02-02T08:49:16.697588+00:00",
+  "location_type": "country",
+  "location_name": "Jordan"
 }
