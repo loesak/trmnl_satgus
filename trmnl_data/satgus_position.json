@@ -1,14 +1,14 @@
 {
-  "latitude": 61.93215907581639,
-  "longitude": 9.612309803721953,
-  "altitude_km": 564.636301041045,
-  "altitude_miles": 350.8486230141752,
-  "velocity_km_s": 7.574971005529913,
-  "velocity_km_h": 27269.895619907686,
-  "velocity_mph": 16944.72231123766,
-  "velocity_mps": 4.706867308677127,
-  "heading_degrees": 341.8055791483714,
-  "timestamp": "2026-02-03T21:16:41.301727+00:00",
-  "location_type": "country",
-  "location_name": "Norway"
+  "latitude": 44.45419146428369,
+  "longitude": -152.98417305411598,
+  "altitude_km": 565.2294059325031,
+  "altitude_miles": 351.2171611936854,
+  "velocity_km_s": 7.577324888350869,
+  "velocity_km_h": 27278.36959806313,
+  "velocity_mph": 16949.987795518085,
+  "velocity_mps": 4.708329943199468,
+  "heading_degrees": 193.4348597373913,
+  "timestamp": "2026-02-03T21:35:59.626177+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
