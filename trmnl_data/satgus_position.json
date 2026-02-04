@@ -1,14 +1,14 @@
 {
-  "latitude": 42.40238528628862,
-  "longitude": 114.2307980845727,
-  "altitude_km": 567.3939154461996,
-  "altitude_miles": 352.5621246347205,
-  "velocity_km_s": 7.575304952082695,
-  "velocity_km_h": 27271.097827497702,
-  "velocity_mph": 16945.469328170075,
-  "velocity_mps": 4.707074813380577,
-  "heading_degrees": 346.84000210486374,
-  "timestamp": "2026-02-04T14:48:29.947377+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 60.73903515576424,
+  "longitude": -49.83951858429225,
+  "altitude_km": 563.4278665514476,
+  "altitude_miles": 350.0977368669395,
+  "velocity_km_s": 7.57644095399126,
+  "velocity_km_h": 27275.187434368538,
+  "velocity_mph": 16948.010491281013,
+  "velocity_mps": 4.707780692022503,
+  "heading_degrees": 197.6390076038915,
+  "timestamp": "2026-02-04T15:08:41.712796+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
