@@ -1,14 +1,14 @@
 {
-  "latitude": -20.585863033646763,
-  "longitude": 167.3492227121462,
-  "altitude_km": 572.6005640427666,
-  "altitude_miles": 355.7973850798179,
-  "velocity_km_s": 7.5729976989393,
-  "velocity_km_h": 27262.79171618148,
-  "velocity_mph": 16940.3081514754,
-  "velocity_mps": 4.705641153187612,
-  "heading_degrees": 191.68918238775834,
-  "timestamp": "2026-02-05T23:32:42.843600+00:00",
-  "location_type": "ocean",
-  "location_name": "Coral Sea"
+  "latitude": -79.44232919077389,
+  "longitude": 119.82358348685592,
+  "altitude_km": 575.3572520256239,
+  "altitude_miles": 357.51031104841394,
+  "velocity_km_s": 7.561240248590671,
+  "velocity_km_h": 27220.464894926416,
+  "velocity_mph": 16914.007492225322,
+  "velocity_mps": 4.698335414507034,
+  "heading_degrees": 227.24565984697466,
+  "timestamp": "2026-02-05T23:49:17.363865+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
