@@ -1,14 +1,14 @@
 {
-  "latitude": 16.275258066800326,
-  "longitude": 102.89394903343523,
-  "altitude_km": 568.4154085497321,
-  "altitude_miles": 353.1968508259556,
-  "velocity_km_s": 7.57801327357636,
-  "velocity_km_h": 27280.847784874895,
-  "velocity_mph": 16951.527668935498,
-  "velocity_mps": 4.708757685815416,
-  "heading_degrees": 191.57036962825126,
-  "timestamp": "2026-02-06T04:11:09.231216+00:00",
-  "location_type": "country",
-  "location_name": "Thailand"
+  "latitude": -22.070352276899808,
+  "longitude": -87.86555062316475,
+  "altitude_km": 575.6069543940612,
+  "altitude_miles": 357.66546885879217,
+  "velocity_km_s": 7.569524356536261,
+  "velocity_km_h": 27250.28768353054,
+  "velocity_mph": 16932.538508203055,
+  "velocity_mps": 4.703482918945293,
+  "heading_degrees": 348.25661884265065,
+  "timestamp": "2026-02-06T04:57:42.007646+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
