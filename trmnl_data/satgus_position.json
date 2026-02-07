@@ -1,14 +1,14 @@
 {
-  "latitude": -65.99845724728566,
-  "longitude": 73.00453795312795,
-  "altitude_km": 576.1607476807048,
-  "altitude_miles": 358.0095799471072,
-  "velocity_km_s": 7.561672431218674,
-  "velocity_km_h": 27222.020752387227,
-  "velocity_mph": 16914.974256931604,
-  "velocity_mps": 4.698603960258779,
-  "heading_degrees": 339.3736271314743,
-  "timestamp": "2026-02-07T19:12:09.268689+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 9.356166446300268,
+  "longitude": 49.017317949873956,
+  "altitude_km": 572.4808274963489,
+  "altitude_miles": 355.7229842622338,
+  "velocity_km_s": 7.574053475835034,
+  "velocity_km_h": 27266.592513006122,
+  "velocity_mph": 16942.669856399127,
+  "velocity_mps": 4.706297182333091,
+  "heading_degrees": 348.54676600701407,
+  "timestamp": "2026-02-07T19:32:35.201487+00:00",
+  "location_type": "country",
+  "location_name": "Somalia"
 }
