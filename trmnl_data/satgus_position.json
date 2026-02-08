@@ -1,14 +1,14 @@
 {
-  "latitude": 35.38593541643755,
-  "longitude": 10.547691272247679,
-  "altitude_km": 565.535347326917,
-  "altitude_miles": 351.4072643038737,
-  "velocity_km_s": 7.578455553838149,
-  "velocity_km_h": 27282.439993817334,
-  "velocity_mph": 16952.51702139827,
-  "velocity_mps": 4.709032505943965,
-  "heading_degrees": 192.4594967310763,
-  "timestamp": "2026-02-08T10:33:31.149193+00:00",
-  "location_type": "country",
-  "location_name": "Tunisia"
+  "latitude": -32.961814761476546,
+  "longitude": -4.535170781421786,
+  "altitude_km": 573.1443975260327,
+  "altitude_miles": 356.13530743514843,
+  "velocity_km_s": 7.570557690357963,
+  "velocity_km_h": 27254.007685288667,
+  "velocity_mph": 16934.850009415506,
+  "velocity_mps": 4.7041250026154176,
+  "heading_degrees": 192.28159042072124,
+  "timestamp": "2026-02-08T10:51:51.194123+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
