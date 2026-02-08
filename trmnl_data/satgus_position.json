@@ -1,14 +1,14 @@
 {
-  "latitude": 48.198985256473506,
-  "longitude": 14.60310640159355,
-  "altitude_km": 566.3761402690261,
-  "altitude_miles": 351.929708655105,
-  "velocity_km_s": 7.5752417546697925,
-  "velocity_km_h": 27270.87031681125,
-  "velocity_mph": 16945.327959627324,
-  "velocity_mps": 4.707035544340924,
-  "heading_degrees": 345.97911265968276,
-  "timestamp": "2026-02-08T21:20:41.776056+00:00",
-  "location_type": "country",
-  "location_name": "Austria"
+  "latitude": 47.43878558026656,
+  "longitude": -153.86799572221494,
+  "altitude_km": 564.00405488672,
+  "altitude_miles": 350.4557635890161,
+  "velocity_km_s": 7.577965545747344,
+  "velocity_km_h": 27280.67596469044,
+  "velocity_mph": 16951.420904855662,
+  "velocity_mps": 4.708728029126573,
+  "heading_degrees": 193.89261110040488,
+  "timestamp": "2026-02-08T21:42:57.950799+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
