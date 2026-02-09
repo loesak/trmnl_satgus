@@ -1,14 +1,14 @@
 {
-  "latitude": 1.709001224561123,
-  "longitude": -69.93754311966596,
-  "altitude_km": 573.6857032051767,
-  "altitude_miles": 356.4716590863038,
-  "velocity_km_s": 7.572996104448721,
-  "velocity_km_h": 27262.785976015395,
-  "velocity_mph": 16940.304584702662,
-  "velocity_mps": 4.7056401624174065,
-  "heading_degrees": 348.5991253625427,
-  "timestamp": "2026-02-09T03:32:35.713275+00:00",
-  "location_type": "country",
-  "location_name": "Colombia"
+  "latitude": -47.58169977231351,
+  "longitude": 86.73149833515791,
+  "altitude_km": 573.9769431162513,
+  "altitude_miles": 356.6526271210882,
+  "velocity_km_s": 7.567061983100243,
+  "velocity_km_h": 27241.423139160874,
+  "velocity_mph": 16927.030337403532,
+  "velocity_mps": 4.701952871500981,
+  "heading_degrees": 193.91780701909698,
+  "timestamp": "2026-02-09T04:32:56.275879+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
