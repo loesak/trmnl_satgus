@@ -1,14 +1,14 @@
 {
-  "latitude": 52.68314077806248,
-  "longitude": 16.030871973203123,
-  "altitude_km": 563.3060273310612,
-  "altitude_miles": 350.0220295087288,
-  "velocity_km_s": 7.577787393382658,
-  "velocity_km_h": 27280.034616177567,
-  "velocity_mph": 16951.02238948887,
-  "velocity_mps": 4.708617330413576,
-  "heading_degrees": 194.9615157276439,
-  "timestamp": "2026-02-09T10:30:21.074212+00:00",
-  "location_type": "country",
-  "location_name": "Poland"
+  "latitude": -45.15187406160339,
+  "longitude": -8.508249286131022,
+  "altitude_km": 573.8508202666471,
+  "altitude_miles": 356.5742580399068,
+  "velocity_km_s": 7.567632397889152,
+  "velocity_km_h": 27243.476632400947,
+  "velocity_mph": 16928.306318551608,
+  "velocity_mps": 4.702307310708781,
+  "heading_degrees": 193.5319594169969,
+  "timestamp": "2026-02-09T10:56:40.800952+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
