@@ -1,14 +1,14 @@
 {
-  "latitude": -82.13891075132538,
-  "longitude": -129.26909703071289,
-  "altitude_km": 575.6900043979904,
-  "altitude_miles": 357.7170737227837,
-  "velocity_km_s": 7.560607100005483,
-  "velocity_km_h": 27218.185560019738,
-  "velocity_mph": 16912.591179615025,
-  "velocity_mps": 4.697941994337507,
-  "heading_degrees": 257.48741092672367,
-  "timestamp": "2026-02-10T14:21:49.351655+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 19.075090308212072,
+  "longitude": 117.91305782686777,
+  "altitude_km": 571.2007904012362,
+  "altitude_miles": 354.9276063324065,
+  "velocity_km_s": 7.574586162808614,
+  "velocity_km_h": 27268.51018611101,
+  "velocity_mph": 16943.861442853984,
+  "velocity_mps": 4.7066281785705515,
+  "heading_degrees": 348.3591671405869,
+  "timestamp": "2026-02-10T14:51:27.819164+00:00",
+  "location_type": "ocean",
+  "location_name": "South China Sea"
 }
