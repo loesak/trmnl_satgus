@@ -1,14 +1,14 @@
 {
-  "latitude": 27.778029719740157,
-  "longitude": -88.60350416320124,
-  "altitude_km": 565.9438219132117,
-  "altitude_miles": 351.66107856603423,
-  "velocity_km_s": 7.579166605440788,
-  "velocity_km_h": 27284.999779586837,
-  "velocity_mph": 16954.107598041654,
-  "velocity_mps": 4.709474332789348,
-  "heading_degrees": 191.97261402501755,
-  "timestamp": "2026-02-11T17:04:29.845803+00:00",
-  "location_type": "ocean",
-  "location_name": "Gulf of Mexico"
+  "latitude": -78.90419610016042,
+  "longitude": -143.37041027796823,
+  "altitude_km": 575.5569879141603,
+  "altitude_miles": 357.63442113720976,
+  "velocity_km_s": 7.560925002212327,
+  "velocity_km_h": 27219.330007964378,
+  "velocity_mph": 16913.302306378835,
+  "velocity_mps": 4.698139529549676,
+  "heading_degrees": 224.4341804198798,
+  "timestamp": "2026-02-11T17:33:49.190103+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
