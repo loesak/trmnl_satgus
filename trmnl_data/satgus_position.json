@@ -1,14 +1,14 @@
 {
-  "latitude": -14.212242586736997,
-  "longitude": 46.344312554066995,
-  "altitude_km": 571.240558211417,
-  "altitude_miles": 354.9523168963864,
-  "velocity_km_s": 7.574977437076622,
-  "velocity_km_h": 27269.918773475838,
-  "velocity_mph": 16944.736698193454,
-  "velocity_mps": 4.706871305053737,
-  "heading_degrees": 191.52623507725227,
-  "timestamp": "2026-02-12T07:40:37.686013+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -76.65366147987261,
+  "longitude": -102.91297756922698,
+  "altitude_km": 576.3370732272115,
+  "altitude_miles": 358.1191435282656,
+  "velocity_km_s": 7.56022543999623,
+  "velocity_km_h": 27216.811583986426,
+  "velocity_mph": 16911.73743075323,
+  "velocity_mps": 4.697704841875897,
+  "heading_degrees": 323.95413525109103,
+  "timestamp": "2026-02-12T08:03:49.132603+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
