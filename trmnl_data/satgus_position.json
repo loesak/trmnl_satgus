@@ -1,14 +1,14 @@
 {
-  "latitude": 39.85154710537445,
-  "longitude": 105.70096936979326,
-  "altitude_km": 563.7849997589801,
-  "altitude_miles": 350.31964908523724,
-  "velocity_km_s": 7.5794655556392305,
-  "velocity_km_h": 27286.07600030123,
-  "velocity_mph": 16954.776330383174,
-  "velocity_mps": 4.709660091773104,
-  "heading_degrees": 192.8684806708099,
-  "timestamp": "2026-02-14T04:16:52.176144+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": -77.94499021422504,
+  "longitude": -50.97153872952506,
+  "altitude_km": 576.5482411668618,
+  "altitude_miles": 358.2503571620941,
+  "velocity_km_s": 7.559855830550332,
+  "velocity_km_h": 27215.480989981195,
+  "velocity_mph": 16910.910638225607,
+  "velocity_mps": 4.697475177284891,
+  "heading_degrees": 319.66175229285466,
+  "timestamp": "2026-02-14T04:54:07.149800+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
