@@ -1,14 +1,14 @@
 {
-  "latitude": -38.6172170894002,
-  "longitude": 159.16400058797984,
-  "altitude_km": 573.461274090394,
-  "altitude_miles": 356.3322053428222,
-  "velocity_km_s": 7.569083032043135,
-  "velocity_km_h": 27248.698915355286,
-  "velocity_mph": 16931.551293733228,
-  "velocity_mps": 4.703208692703675,
-  "heading_degrees": 192.74617633875485,
-  "timestamp": "2026-02-15T23:52:31.823137+00:00",
-  "location_type": "ocean",
-  "location_name": "Tasman Sea"
+  "latitude": 62.56277562727451,
+  "longitude": -43.36049520117293,
+  "altitude_km": 563.2467342230357,
+  "altitude_miles": 349.9851864909019,
+  "velocity_km_s": 7.576081924031388,
+  "velocity_km_h": 27273.894926512996,
+  "velocity_mph": 16947.207364382306,
+  "velocity_mps": 4.7075576012173075,
+  "heading_degrees": 341.49316107043154,
+  "timestamp": "2026-02-16T00:47:11.878155+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
