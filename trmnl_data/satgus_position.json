@@ -1,14 +1,14 @@
 {
-  "latitude": 18.349916258511666,
-  "longitude": 115.55150862054896,
-  "altitude_km": 571.1042148045944,
-  "altitude_miles": 354.8675970573457,
-  "velocity_km_s": 7.5746154926347,
-  "velocity_km_h": 27268.61577348492,
-  "velocity_mph": 16943.927051786097,
-  "velocity_mps": 4.706646403273916,
-  "heading_degrees": 348.3796941518931,
-  "timestamp": "2026-02-17T15:01:28.183232+00:00",
-  "location_type": "ocean",
-  "location_name": "South China Sea"
+  "latitude": 50.59874125384909,
+  "longitude": -59.81651667037468,
+  "altitude_km": 561.7813317759819,
+  "altitude_miles": 349.07462790697366,
+  "velocity_km_s": 7.579636915021304,
+  "velocity_km_h": 27286.692894076696,
+  "velocity_mph": 16955.15965028533,
+  "velocity_mps": 4.709766569523703,
+  "heading_degrees": 194.48823314027683,
+  "timestamp": "2026-02-17T15:30:55.296066+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
