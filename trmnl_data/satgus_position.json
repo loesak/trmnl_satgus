@@ -1,14 +1,14 @@
 {
-  "latitude": 37.21501588846323,
-  "longitude": 78.81378360967463,
-  "altitude_km": 563.0090035508829,
-  "altitude_miles": 349.8374675454157,
-  "velocity_km_s": 7.5806521680857015,
-  "velocity_km_h": 27290.347805108526,
-  "velocity_mph": 16957.43070600809,
-  "velocity_mps": 4.710397418335581,
-  "heading_degrees": 192.61019859923246,
-  "timestamp": "2026-02-20T06:02:10.940135+00:00",
+  "latitude": -71.283776733888,
+  "longitude": 42.17254838863141,
+  "altitude_km": 576.2139486269416,
+  "altitude_miles": 358.04263747227134,
+  "velocity_km_s": 7.560715553772792,
+  "velocity_km_h": 27218.575993582053,
+  "velocity_mph": 16912.833783708073,
+  "velocity_mps": 4.6980093843633535,
+  "heading_degrees": 205.6838419346811,
+  "timestamp": "2026-02-20T06:31:36.046669+00:00",
   "location_type": "country",
-  "location_name": "China"
+  "location_name": "Antarctica"
 }
