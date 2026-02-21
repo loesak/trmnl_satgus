@@ -1,14 +1,14 @@
 {
-  "latitude": 64.76982517415418,
-  "longitude": -23.132991899137064,
-  "altitude_km": 561.6748409566244,
-  "altitude_miles": 349.00845760005865,
-  "velocity_km_s": 7.577368359554059,
-  "velocity_km_h": 27278.526094394612,
-  "velocity_mph": 16950.085037800076,
-  "velocity_mps": 4.708356954944465,
-  "heading_degrees": 340.22449574156445,
-  "timestamp": "2026-02-21T23:20:06.759388+00:00",
-  "location_type": "country",
-  "location_name": "Iceland"
+  "latitude": 52.78383773200137,
+  "longitude": 179.623751145499,
+  "altitude_km": 560.732877964032,
+  "altitude_miles": 348.42314911338855,
+  "velocity_km_s": 7.580319077838534,
+  "velocity_km_h": 27289.14868021872,
+  "velocity_mph": 16956.68560457619,
+  "velocity_mps": 4.710190445715607,
+  "heading_degrees": 194.98131476706004,
+  "timestamp": "2026-02-21T23:36:20.350105+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
