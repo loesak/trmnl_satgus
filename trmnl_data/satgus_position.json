@@ -1,14 +1,14 @@
 {
-  "latitude": 50.22991375979323,
-  "longitude": 81.25416187211026,
-  "altitude_km": 564.2569661645794,
-  "altitude_miles": 350.61291532265085,
-  "velocity_km_s": 7.5769313217240875,
-  "velocity_km_h": 27276.952758206713,
-  "velocity_mph": 16949.107412319663,
-  "velocity_mps": 4.708085392311018,
-  "heading_degrees": 345.5948714505309,
-  "timestamp": "2026-02-21T16:51:43.851979+00:00",
-  "location_type": "country",
-  "location_name": "Kazakhstan"
+  "latitude": 56.67104887476249,
+  "longitude": -82.41642173299779,
+  "altitude_km": 560.3431589565771,
+  "altitude_miles": 348.18098902400726,
+  "velocity_km_s": 7.580082231313471,
+  "velocity_km_h": 27288.296032728493,
+  "velocity_mph": 16956.155794152535,
+  "velocity_mps": 4.710043276153483,
+  "heading_degrees": 196.07744266567354,
+  "timestamp": "2026-02-21T17:10:54.506292+00:00",
+  "location_type": "ocean",
+  "location_name": "Hudson Bay"
 }
