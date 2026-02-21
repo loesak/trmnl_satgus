@@ -1,14 +1,14 @@
 {
-  "latitude": -49.28659268575267,
-  "longitude": 34.20071858699162,
-  "altitude_km": 578.1493056454801,
-  "altitude_miles": 359.24521219823765,
-  "velocity_km_s": 7.561945599340789,
-  "velocity_km_h": 27223.00415762684,
-  "velocity_mph": 16915.585316428747,
-  "velocity_mps": 4.698773699007986,
-  "heading_degrees": 345.76607298351195,
-  "timestamp": "2026-02-21T21:13:11.467105+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 23.60259211485374,
+  "longitude": 16.922312555432935,
+  "altitude_km": 569.631086796112,
+  "altitude_miles": 353.95223803358687,
+  "velocity_km_s": 7.575518608595418,
+  "velocity_km_h": 27271.866990943505,
+  "velocity_mph": 16945.947264029557,
+  "velocity_mps": 4.7072075733415435,
+  "heading_degrees": 348.2130247087319,
+  "timestamp": "2026-02-21T21:32:48.559003+00:00",
+  "location_type": "country",
+  "location_name": "Libya"
 }
