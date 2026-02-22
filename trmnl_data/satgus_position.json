@@ -1,14 +1,14 @@
 {
-  "latitude": 43.99532361940698,
-  "longitude": -36.592260948828056,
-  "altitude_km": 565.4062833197768,
-  "altitude_miles": 351.32706767269303,
-  "velocity_km_s": 7.576786172799754,
-  "velocity_km_h": 27276.430222079114,
-  "velocity_mph": 16948.78272352352,
-  "velocity_mps": 4.707995200978756,
-  "heading_degrees": 346.6411777158856,
-  "timestamp": "2026-02-22T00:50:29.091095+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -5.920350128770596,
+  "longitude": 140.64590838193703,
+  "altitude_km": 569.8127697437349,
+  "altitude_miles": 354.0651305484343,
+  "velocity_km_s": 7.576839139935224,
+  "velocity_km_h": 27276.620903766805,
+  "velocity_mph": 16948.901207594485,
+  "velocity_mps": 4.70802811322069,
+  "heading_degrees": 191.41425924765815,
+  "timestamp": "2026-02-22T01:28:12.525432+00:00",
+  "location_type": "country",
+  "location_name": "Indonesia"
 }
