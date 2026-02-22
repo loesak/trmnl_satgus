@@ -1,14 +1,14 @@
 {
-  "latitude": -68.3314633672261,
-  "longitude": 70.02291957481374,
-  "altitude_km": 578.1235854634815,
-  "altitude_miles": 359.229230423029,
-  "velocity_km_s": 7.55892718204577,
-  "velocity_km_h": 27212.137855364774,
-  "velocity_mph": 16908.833311325863,
-  "velocity_mps": 4.6968981420349625,
-  "heading_degrees": 337.4980504983045,
-  "timestamp": "2026-02-22T19:33:08.512158+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -14.764593032187717,
+  "longitude": 48.588041837030104,
+  "altitude_km": 575.9190379807551,
+  "altitude_miles": 357.8593885491398,
+  "velocity_km_s": 7.569606961188336,
+  "velocity_km_h": 27250.585060278012,
+  "velocity_mph": 16932.723289490008,
+  "velocity_mps": 4.703534247080558,
+  "heading_degrees": 348.4579499285817,
+  "timestamp": "2026-02-22T19:47:47.164194+00:00",
+  "location_type": "country",
+  "location_name": "Madagascar"
 }
