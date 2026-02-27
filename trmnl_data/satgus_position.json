@@ -1,14 +1,14 @@
 {
-  "latitude": 64.87444057261608,
-  "longitude": 118.97282403315715,
-  "altitude_km": 560.1450314500398,
-  "altitude_miles": 348.0578783371427,
-  "velocity_km_s": 7.578842535474692,
-  "velocity_km_h": 27283.83312770889,
-  "velocity_mph": 16953.382674397602,
-  "velocity_mps": 4.709272965110445,
-  "heading_degrees": 340.1577360467763,
-  "timestamp": "2026-02-27T13:51:28.130753+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 5.419860453628068,
+  "longitude": -50.846534195232245,
+  "altitude_km": 568.0502690135945,
+  "altitude_miles": 352.9699637072462,
+  "velocity_km_s": 7.578612741762587,
+  "velocity_km_h": 27283.005870345314,
+  "velocity_mph": 16952.86864066234,
+  "velocity_mps": 4.709130177961761,
+  "heading_degrees": 191.41029856202314,
+  "timestamp": "2026-02-27T14:20:24.622567+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
