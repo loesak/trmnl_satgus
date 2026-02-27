@@ -1,14 +1,14 @@
 {
-  "latitude": 60.6462699941175,
-  "longitude": 26.018252522181427,
-  "altitude_km": 560.7665424944926,
-  "altitude_miles": 348.4440672763453,
-  "velocity_km_s": 7.578784732417018,
-  "velocity_km_h": 27283.625036701265,
-  "velocity_mph": 16953.2533726801,
-  "velocity_mps": 4.709237047966695,
-  "heading_degrees": 342.4190872679131,
-  "timestamp": "2026-02-27T20:14:37.395450+00:00",
-  "location_type": "country",
-  "location_name": "Finland"
+  "latitude": 46.13109209436548,
+  "longitude": -136.87515848580247,
+  "altitude_km": 560.6930265769624,
+  "altitude_miles": 348.39838661715373,
+  "velocity_km_s": 7.581365777636291,
+  "velocity_km_h": 27292.91679949065,
+  "velocity_mph": 16959.027004616306,
+  "velocity_mps": 4.71084083461564,
+  "heading_degrees": 193.6739556605755,
+  "timestamp": "2026-02-27T20:33:48.464839+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
