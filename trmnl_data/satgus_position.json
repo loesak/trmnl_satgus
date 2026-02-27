@@ -1,14 +1,14 @@
 {
-  "latitude": -81.1368416272599,
-  "longitude": 157.4297099374382,
-  "altitude_km": 578.3090341731049,
-  "altitude_miles": 359.3444628731764,
-  "velocity_km_s": 7.557389143637708,
-  "velocity_km_h": 27206.600917095748,
-  "velocity_mph": 16905.3928184567,
-  "velocity_mps": 4.695942449571306,
-  "heading_degrees": 299.6969480571067,
-  "timestamp": "2026-02-27T16:23:12.073511+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 8.847579795690704,
+  "longitude": 90.21257294349081,
+  "altitude_km": 571.5226410057921,
+  "altitude_miles": 355.1275949644101,
+  "velocity_km_s": 7.574671855898062,
+  "velocity_km_h": 27268.818681233024,
+  "velocity_mph": 16944.053132776444,
+  "velocity_mps": 4.706681425771235,
+  "heading_degrees": 348.5561500187112,
+  "timestamp": "2026-02-27T16:48:26.668210+00:00",
+  "location_type": "ocean",
+  "location_name": "Bay of Bengal"
 }
