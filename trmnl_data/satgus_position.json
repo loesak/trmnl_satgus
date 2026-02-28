@@ -1,14 +1,14 @@
 {
-  "latitude": 16.536377318866684,
-  "longitude": 119.29220738682339,
-  "altitude_km": 565.9144686162545,
-  "altitude_miles": 351.64283927855064,
-  "velocity_km_s": 7.5801853841447,
-  "velocity_km_h": 27288.66738292092,
-  "velocity_mph": 16956.386540392956,
-  "velocity_mps": 4.710107372331376,
-  "heading_degrees": 191.5714431148315,
-  "timestamp": "2026-02-28T03:06:06.211419+00:00",
-  "location_type": "ocean",
-  "location_name": "South China Sea"
+  "latitude": -29.651454091687267,
+  "longitude": -69.75132125604091,
+  "altitude_km": 577.2190433343249,
+  "altitude_miles": 358.66717417569276,
+  "velocity_km_s": 7.566167194476977,
+  "velocity_km_h": 27238.201900117117,
+  "velocity_mph": 16925.028752877675,
+  "velocity_mps": 4.701396875799354,
+  "heading_degrees": 347.91846416997186,
+  "timestamp": "2026-02-28T03:50:41.872904+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
