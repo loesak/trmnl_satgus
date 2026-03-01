@@ -1,14 +1,14 @@
 {
-  "latitude": 25.022652275942253,
-  "longitude": 48.805066315167196,
-  "altitude_km": 564.3277169830271,
-  "altitude_miles": 350.65687782946054,
-  "velocity_km_s": 7.580879165681851,
-  "velocity_km_h": 27291.164996454663,
-  "velocity_mph": 16957.93848501203,
-  "velocity_mps": 4.710538468058897,
-  "heading_degrees": 191.842584097456,
-  "timestamp": "2026-03-01T07:53:19.222008+00:00",
-  "location_type": "country",
-  "location_name": "Saudi Arabia"
+  "latitude": -50.7933460919861,
+  "longitude": 30.604569721096176,
+  "altitude_km": 576.1198254363435,
+  "altitude_miles": 357.9841520512062,
+  "velocity_km_s": 7.563649051987628,
+  "velocity_km_h": 27229.136587155463,
+  "velocity_mph": 16919.395830297377,
+  "velocity_mps": 4.699832175082604,
+  "heading_degrees": 194.53133979958187,
+  "timestamp": "2026-03-01T08:13:42.554682+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
