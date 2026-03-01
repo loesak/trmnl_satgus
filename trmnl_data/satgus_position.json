@@ -1,14 +1,14 @@
 {
-  "latitude": -47.818812042804666,
-  "longitude": 127.1806256359468,
-  "altitude_km": 578.3228253175521,
-  "altitude_miles": 359.35303229039266,
-  "velocity_km_s": 7.561775889149234,
-  "velocity_km_h": 27222.393200937244,
-  "velocity_mph": 16915.205685659577,
-  "velocity_mps": 4.698668246016549,
-  "heading_degrees": 346.0342870676231,
-  "timestamp": "2026-03-01T14:59:35.423453+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 0.032200790949373705,
+  "longitude": 115.40672148257649,
+  "altitude_km": 572.8209529791593,
+  "altitude_miles": 355.9343283736132,
+  "velocity_km_s": 7.573439591175041,
+  "velocity_km_h": 27264.382528230148,
+  "velocity_mph": 16941.296635948896,
+  "velocity_mps": 4.705915732208027,
+  "heading_degrees": 348.60314651438944,
+  "timestamp": "2026-03-01T15:12:29.311428+00:00",
+  "location_type": "country",
+  "location_name": "Indonesia"
 }
