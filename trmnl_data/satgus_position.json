@@ -1,14 +1,14 @@
 {
-  "latitude": 79.94267149559316,
-  "longitude": 50.42997994980203,
-  "altitude_km": 557.3428780341319,
-  "altitude_miles": 346.3167014669466,
-  "velocity_km_s": 7.580272389141441,
-  "velocity_km_h": 27288.980600909188,
-  "velocity_mph": 16956.58116496754,
-  "velocity_mps": 4.710161434713206,
-  "heading_degrees": 230.25876462938155,
-  "timestamp": "2026-03-01T10:49:57.837043+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 44.14776118448124,
+  "longitude": 5.95898420406346,
+  "altitude_km": 560.8393194926648,
+  "altitude_miles": 348.4892887924766,
+  "velocity_km_s": 7.581517626791934,
+  "velocity_km_h": 27293.46345645096,
+  "velocity_mph": 16959.36668139839,
+  "velocity_mps": 4.710935189277331,
+  "heading_degrees": 193.3828377196368,
+  "timestamp": "2026-03-01T11:00:19.934652+00:00",
+  "location_type": "country",
+  "location_name": "France"
 }
