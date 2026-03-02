@@ -1,14 +1,14 @@
 {
-  "latitude": 69.23420460206853,
-  "longitude": 65.59716050050456,
-  "altitude_km": 558.6505522681537,
-  "altitude_miles": 347.1292523134149,
-  "velocity_km_s": 7.579795795220765,
-  "velocity_km_h": 27287.264862794753,
-  "velocity_mph": 16955.515055059637,
-  "velocity_mps": 4.709865293072122,
-  "heading_degrees": 336.6492162249819,
-  "timestamp": "2026-03-02T17:08:34.290400+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 25.653937734367698,
+  "longitude": -95.46715748444463,
+  "altitude_km": 564.1966467940329,
+  "altitude_miles": 350.575434615055,
+  "velocity_km_s": 7.580880924490197,
+  "velocity_km_h": 27291.17132816471,
+  "velocity_mph": 16957.942419353036,
+  "velocity_mps": 4.710539560931398,
+  "heading_degrees": 191.8694145658566,
+  "timestamp": "2026-03-02T17:30:51.031588+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Mexico"
 }
