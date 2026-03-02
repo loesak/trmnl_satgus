@@ -1,14 +1,14 @@
 {
-  "latitude": 50.31276867775101,
-  "longitude": 30.334080946894026,
-  "altitude_km": 561.8083592293415,
-  "altitude_miles": 349.0914219826951,
-  "velocity_km_s": 7.579293381295005,
-  "velocity_km_h": 27285.45617266202,
-  "velocity_mph": 16954.39118746317,
-  "velocity_mps": 4.7095531076286585,
-  "heading_degrees": 345.5794355585291,
-  "timestamp": "2026-03-02T20:15:28.137646+00:00",
-  "location_type": "country",
-  "location_name": "Ukraine"
+  "latitude": 54.1254191678672,
+  "longitude": -134.56009776411665,
+  "altitude_km": 559.1779713091137,
+  "altitude_miles": 347.45697521031525,
+  "velocity_km_s": 7.581492550754799,
+  "velocity_km_h": 27293.373182717278,
+  "velocity_mph": 16959.31058791822,
+  "velocity_mps": 4.71091960775506,
+  "heading_degrees": 195.32448980855486,
+  "timestamp": "2026-03-02T20:35:18.676793+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
