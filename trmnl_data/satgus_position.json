@@ -1,14 +1,14 @@
 {
-  "latitude": -28.377043258282086,
-  "longitude": 49.130314998858815,
-  "altitude_km": 576.7634788166861,
-  "altitude_miles": 358.38409959580304,
-  "velocity_km_s": 7.5667694413371365,
-  "velocity_km_h": 27240.36998881369,
-  "velocity_mph": 16926.37594031915,
-  "velocity_mps": 4.701771094533098,
-  "heading_degrees": 347.9883083559367,
-  "timestamp": "2026-03-02T19:54:18.920910+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 50.31276867775101,
+  "longitude": 30.334080946894026,
+  "altitude_km": 561.8083592293415,
+  "altitude_miles": 349.0914219826951,
+  "velocity_km_s": 7.579293381295005,
+  "velocity_km_h": 27285.45617266202,
+  "velocity_mph": 16954.39118746317,
+  "velocity_mps": 4.7095531076286585,
+  "heading_degrees": 345.5794355585291,
+  "timestamp": "2026-03-02T20:15:28.137646+00:00",
+  "location_type": "country",
+  "location_name": "Ukraine"
 }
