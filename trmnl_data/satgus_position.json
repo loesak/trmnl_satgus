@@ -1,14 +1,14 @@
 {
-  "latitude": -8.018140532614881,
-  "longitude": 44.385625895361805,
-  "altitude_km": 573.7785988421529,
-  "altitude_miles": 356.52938174114735,
-  "velocity_km_s": 7.572111506198432,
-  "velocity_km_h": 27259.601422314354,
-  "velocity_mph": 16938.32579538489,
-  "velocity_mps": 4.705090498718026,
-  "heading_degrees": 348.5616718845926,
-  "timestamp": "2026-03-03T20:00:58.573154+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 67.62915698332426,
+  "longitude": 19.08368499056543,
+  "altitude_km": 558.5819710131636,
+  "altitude_miles": 347.0866379104205,
+  "velocity_km_s": 7.580032515431602,
+  "velocity_km_h": 27288.11705555377,
+  "velocity_mph": 16956.0445829265,
+  "velocity_mps": 4.710012384146251,
+  "heading_degrees": 338.1280600064289,
+  "timestamp": "2026-03-03T20:21:27.651132+00:00",
+  "location_type": "country",
+  "location_name": "Sweden"
 }
