@@ -1,14 +1,14 @@
 {
-  "latitude": 45.434589096634355,
-  "longitude": 7.546442328780035,
-  "altitude_km": 562.2593703689645,
-  "altitude_miles": 349.3716672255338,
-  "velocity_km_s": 7.579609327456709,
-  "velocity_km_h": 27286.593578844153,
-  "velocity_mph": 16955.09793867997,
-  "velocity_mps": 4.709749427411103,
-  "heading_degrees": 346.437645291471,
-  "timestamp": "2026-03-04T21:52:34.772884+00:00",
-  "location_type": "country",
-  "location_name": "Italy"
+  "latitude": 55.415061094605434,
+  "longitude": -158.5396788474833,
+  "altitude_km": 558.8968592214942,
+  "altitude_miles": 347.2823003113191,
+  "velocity_km_s": 7.581506464349665,
+  "velocity_km_h": 27293.423271658794,
+  "velocity_mph": 16959.341711733898,
+  "velocity_mps": 4.710928253259415,
+  "heading_degrees": 195.68771107158412,
+  "timestamp": "2026-03-04T22:13:23.594267+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Alaska"
 }
