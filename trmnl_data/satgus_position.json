@@ -1,14 +1,14 @@
 {
-  "latitude": 50.16188669284473,
-  "longitude": 6.700513416287366,
-  "altitude_km": 559.5976800261469,
-  "altitude_miles": 347.71777003552694,
-  "velocity_km_s": 7.581592438771455,
-  "velocity_km_h": 27293.73277957724,
-  "velocity_mph": 16959.534030978688,
-  "velocity_mps": 4.710981675271858,
-  "heading_degrees": 194.39403888443852,
-  "timestamp": "2026-03-06T11:04:33.836764+00:00",
-  "location_type": "country",
-  "location_name": "Germany"
+  "latitude": -11.148601864412681,
+  "longitude": -8.22354633170455,
+  "altitude_km": 571.6633570617405,
+  "altitude_miles": 355.21503184081075,
+  "velocity_km_s": 7.574126387033964,
+  "velocity_km_h": 27266.854993322268,
+  "velocity_mph": 16942.83295405565,
+  "velocity_mps": 4.706342487237681,
+  "heading_degrees": 191.4732751819694,
+  "timestamp": "2026-03-06T11:21:01.984042+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
