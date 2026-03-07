@@ -1,14 +1,14 @@
 {
-  "latitude": -45.55391696024479,
-  "longitude": 28.582599077927178,
-  "altitude_km": 577.5397280069856,
-  "altitude_miles": 358.86643833142864,
-  "velocity_km_s": 7.562812119202551,
-  "velocity_km_h": 27226.123629129183,
-  "velocity_mph": 16917.52366555563,
-  "velocity_mps": 4.699312129321008,
-  "heading_degrees": 346.4023966605011,
-  "timestamp": "2026-03-07T21:31:28.563759+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 12.080355074081742,
+  "longitude": 15.166709916758336,
+  "altitude_km": 568.8201214099672,
+  "altitude_miles": 353.44832766063274,
+  "velocity_km_s": 7.577131274838795,
+  "velocity_km_h": 27277.67258941966,
+  "velocity_mph": 16949.554694560284,
+  "velocity_mps": 4.708209637377857,
+  "heading_degrees": 348.5154580091469,
+  "timestamp": "2026-03-07T21:46:58.621155+00:00",
+  "location_type": "country",
+  "location_name": "Chad"
 }
