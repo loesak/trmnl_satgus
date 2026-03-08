@@ -1,14 +1,14 @@
 {
-  "latitude": 50.73184173941362,
-  "longitude": 4.474005142973247,
-  "altitude_km": 560.1600834067649,
-  "altitude_miles": 348.0672311865449,
-  "velocity_km_s": 7.580780551101673,
-  "velocity_km_h": 27290.80998396602,
-  "velocity_mph": 16957.717890546952,
-  "velocity_mps": 4.7104771918185975,
-  "heading_degrees": 345.4933502358564,
-  "timestamp": "2026-03-08T21:58:27.603080+00:00",
-  "location_type": "country",
-  "location_name": "Belgium"
+  "latitude": 78.8402761385426,
+  "longitude": -126.13739604880047,
+  "altitude_km": 556.2218582667292,
+  "altitude_miles": 345.6201322930558,
+  "velocity_km_s": 7.581277785755951,
+  "velocity_km_h": 27292.600028721423,
+  "velocity_mph": 16958.83017244666,
+  "velocity_mps": 4.710786159012961,
+  "heading_degrees": 224.11853811662627,
+  "timestamp": "2026-03-08T22:10:57.747964+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
