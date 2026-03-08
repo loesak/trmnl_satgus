@@ -1,14 +1,14 @@
 {
-  "latitude": 65.00019730843643,
-  "longitude": 164.30843632952312,
-  "altitude_km": 557.9200792910642,
-  "altitude_miles": 346.67535758916785,
-  "velocity_km_s": 7.580926262853669,
-  "velocity_km_h": 27291.33454627321,
-  "velocity_mph": 16958.043838352332,
-  "velocity_mps": 4.7105677328756475,
-  "heading_degrees": 340.0785444695839,
-  "timestamp": "2026-03-08T10:49:54.086110+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": 72.27323908812295,
+  "longitude": 23.330038457159873,
+  "altitude_km": 556.6780577215741,
+  "altitude_miles": 345.9036014045122,
+  "velocity_km_s": 7.581380558522156,
+  "velocity_km_h": 27292.97001067976,
+  "velocity_mph": 16959.060068506093,
+  "velocity_mps": 4.71085001902947,
+  "heading_degrees": 207.0332405357351,
+  "timestamp": "2026-03-08T11:00:34.574889+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
