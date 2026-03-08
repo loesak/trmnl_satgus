@@ -1,14 +1,14 @@
 {
-  "latitude": 39.44425323320746,
-  "longitude": 26.523970489015475,
-  "altitude_km": 561.5742266156667,
-  "altitude_miles": 348.94593876640346,
-  "velocity_km_s": 7.581292214815706,
-  "velocity_km_h": 27292.651973336542,
-  "velocity_mph": 16958.8624493241,
-  "velocity_mps": 4.71079512481225,
-  "heading_degrees": 192.82197706704787,
-  "timestamp": "2026-03-08T09:33:36.036427+00:00",
-  "location_type": "country",
-  "location_name": "Turkey"
+  "latitude": -23.72155193347655,
+  "longitude": 12.538652337766864,
+  "altitude_km": 573.9570048049527,
+  "altitude_miles": 356.64023803265826,
+  "velocity_km_s": 7.57027104870473,
+  "velocity_km_h": 27252.97577533703,
+  "velocity_mph": 16934.208810496944,
+  "velocity_mps": 4.703946891804707,
+  "heading_degrees": 191.79577977838352,
+  "timestamp": "2026-03-08T09:50:32.339383+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
