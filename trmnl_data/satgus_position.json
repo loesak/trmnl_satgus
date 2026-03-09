@@ -1,14 +1,14 @@
 {
-  "latitude": 48.575635970973565,
-  "longitude": 5.0648873255644284,
-  "altitude_km": 560.3184535360788,
-  "altitude_miles": 348.1656377921668,
-  "velocity_km_s": 7.580947644651175,
-  "velocity_km_h": 27291.41152074423,
-  "velocity_mph": 16958.091668056364,
-  "velocity_mps": 4.710581018904546,
-  "heading_degrees": 345.91853574840223,
-  "timestamp": "2026-03-09T21:58:55.378601+00:00",
-  "location_type": "country",
-  "location_name": "France"
+  "latitude": 72.11571518386036,
+  "longitude": -145.31137715251847,
+  "altitude_km": 556.589010038927,
+  "altitude_miles": 345.8482697568981,
+  "velocity_km_s": 7.581427870585412,
+  "velocity_km_h": 27293.140334107484,
+  "velocity_mph": 16959.1659025447,
+  "velocity_mps": 4.710879417373528,
+  "heading_degrees": 206.80673354771204,
+  "timestamp": "2026-03-09T22:14:10.310311+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
