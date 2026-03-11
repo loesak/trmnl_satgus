@@ -1,14 +1,14 @@
 {
-  "latitude": 48.83054290219298,
-  "longitude": 100.53131863525547,
-  "altitude_km": 559.9148587598756,
-  "altitude_miles": 347.91485570248267,
-  "velocity_km_s": 7.5812873990902006,
-  "velocity_km_h": 27292.63463672472,
-  "velocity_mph": 16958.851676856277,
-  "velocity_mps": 4.710792132460077,
-  "heading_degrees": 345.87104321053056,
-  "timestamp": "2026-03-11T15:36:46.342389+00:00",
-  "location_type": "country",
-  "location_name": "Mongolia"
+  "latitude": 41.246191337999136,
+  "longitude": -69.76709353102822,
+  "altitude_km": 561.4054615256173,
+  "altitude_miles": 348.84107303363436,
+  "velocity_km_s": 7.581030636768718,
+  "velocity_km_h": 27291.710292367385,
+  "velocity_mph": 16958.277316078613,
+  "velocity_mps": 4.710632587799615,
+  "heading_degrees": 193.01819107197946,
+  "timestamp": "2026-03-11T16:00:30.820624+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
