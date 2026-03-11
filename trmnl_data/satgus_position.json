@@ -1,14 +1,14 @@
 {
-  "latitude": 36.79394519482189,
-  "longitude": 32.37384066516572,
-  "altitude_km": 562.287097815255,
-  "altitude_miles": 349.3888962565628,
-  "velocity_km_s": 7.580848133210166,
-  "velocity_km_h": 27291.053279556596,
-  "velocity_mph": 16957.86906737136,
-  "velocity_mps": 4.710519185380934,
-  "heading_degrees": 347.43268547039446,
-  "timestamp": "2026-03-11T20:21:42.875686+00:00",
-  "location_type": "country",
-  "location_name": "Turkey"
+  "latitude": 49.7621773590056,
+  "longitude": -138.86361155212674,
+  "altitude_km": 559.7575242329194,
+  "altitude_miles": 347.81709259013337,
+  "velocity_km_s": 7.581283858995397,
+  "velocity_km_h": 27292.621892383428,
+  "velocity_mph": 16958.843757892184,
+  "velocity_mps": 4.710789932747828,
+  "heading_degrees": 194.31449285617538,
+  "timestamp": "2026-03-11T20:46:24.255020+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
