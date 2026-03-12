@@ -1,14 +1,14 @@
 {
-  "latitude": -2.311727721676754,
-  "longitude": -78.99593837272909,
-  "altitude_km": 570.648435520854,
-  "altitude_miles": 354.5843890280286,
-  "velocity_km_s": 7.575388670599837,
-  "velocity_km_h": 27271.399214159414,
-  "velocity_mph": 16945.656601101447,
-  "velocity_mps": 4.7071268336392915,
-  "heading_degrees": 348.6020183409113,
-  "timestamp": "2026-03-12T04:11:33.957769+00:00",
-  "location_type": "country",
-  "location_name": "Ecuador"
+  "latitude": 10.904871725238007,
+  "longitude": 90.77061536745444,
+  "altitude_km": 568.0727505258046,
+  "altitude_miles": 352.98393306696977,
+  "velocity_km_s": 7.577849556497124,
+  "velocity_km_h": 27280.25840338965,
+  "velocity_mph": 16951.16144437263,
+  "velocity_mps": 4.7086559567701745,
+  "heading_degrees": 191.46791076882786,
+  "timestamp": "2026-03-12T04:57:12.004444+00:00",
+  "location_type": "ocean",
+  "location_name": "Bay of Bengal"
 }
