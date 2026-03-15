@@ -1,14 +1,14 @@
 {
-  "latitude": 20.668196130563786,
-  "longitude": 68.12110163642923,
-  "altitude_km": 566.2727507416967,
-  "altitude_miles": 351.8654654011188,
-  "velocity_km_s": 7.578797646069069,
-  "velocity_km_h": 27283.671525848647,
-  "velocity_mph": 16953.2822596881,
-  "velocity_mps": 4.709245072135584,
-  "heading_degrees": 191.68581559985216,
-  "timestamp": "2026-03-15T06:33:33.776039+00:00",
-  "location_type": "ocean",
-  "location_name": "Arabian Sea"
+  "latitude": -82.22145335708964,
+  "longitude": -41.957271855576494,
+  "altitude_km": 578.2875483191438,
+  "altitude_miles": 359.3311121866147,
+  "velocity_km_s": 7.556783285788335,
+  "velocity_km_h": 27204.419828838003,
+  "velocity_mph": 16904.0375534649,
+  "velocity_mps": 4.695565987073583,
+  "heading_degrees": 279.500891139557,
+  "timestamp": "2026-03-15T07:03:30.939050+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
