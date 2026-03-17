@@ -1,14 +1,14 @@
 {
-  "latitude": -4.5500022466421,
-  "longitude": -57.61943984416885,
-  "altitude_km": 571.9468538302017,
-  "altitude_miles": 355.3911885113263,
-  "velocity_km_s": 7.5737670577674825,
-  "velocity_km_h": 27265.561407962938,
-  "velocity_mph": 16942.029157627338,
-  "velocity_mps": 4.706119210452038,
-  "heading_degrees": 191.41082812203993,
-  "timestamp": "2026-03-17T14:42:28.366750+00:00",
-  "location_type": "country",
-  "location_name": "Brazil"
+  "latitude": -52.636105514190824,
+  "longitude": 124.97569500746067,
+  "altitude_km": 576.2671419260323,
+  "altitude_miles": 358.07569024572064,
+  "velocity_km_s": 7.562591837928962,
+  "velocity_km_h": 27225.330616544263,
+  "velocity_mph": 16917.030910532725,
+  "velocity_mps": 4.699175252925757,
+  "heading_degrees": 345.04025331725035,
+  "timestamp": "2026-03-17T15:15:11.175669+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
