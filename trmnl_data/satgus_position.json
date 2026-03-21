@@ -1,14 +1,14 @@
 {
-  "latitude": -36.167852765602476,
-  "longitude": 46.43781869512311,
-  "altitude_km": 573.605194173103,
-  "altitude_miles": 356.42163310853516,
-  "velocity_km_s": 7.568338971590538,
-  "velocity_km_h": 27246.020297725936,
-  "velocity_mph": 16929.886878418263,
-  "velocity_mps": 4.702746355116184,
-  "heading_degrees": 347.46852713502074,
-  "timestamp": "2026-03-21T20:11:23.430086+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 46.02243312659492,
+  "longitude": 27.24803929222732,
+  "altitude_km": 559.1257955496048,
+  "altitude_miles": 347.42455470645353,
+  "velocity_km_s": 7.582387851334076,
+  "velocity_km_h": 27296.596264802673,
+  "velocity_mph": 16961.313317656703,
+  "velocity_mps": 4.7114759215713065,
+  "heading_degrees": 346.3465555862982,
+  "timestamp": "2026-03-21T20:33:27.352681+00:00",
+  "location_type": "country",
+  "location_name": "Romania"
 }
