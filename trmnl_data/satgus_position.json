@@ -1,14 +1,14 @@
 {
-  "latitude": -37.144308341358325,
-  "longitude": 46.50584033953052,
-  "altitude_km": 573.4625187579786,
-  "altitude_miles": 356.33297874316395,
-  "velocity_km_s": 7.568276531970958,
-  "velocity_km_h": 27245.795515095448,
-  "velocity_mph": 16929.747205010375,
-  "velocity_mps": 4.702707556947326,
-  "heading_degrees": 347.38425168344787,
-  "timestamp": "2026-03-22T20:11:57.864026+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 43.54612935031978,
+  "longitude": 27.88114045750564,
+  "altitude_km": 559.4270082143585,
+  "altitude_miles": 347.61171952116416,
+  "velocity_km_s": 7.5824585948090935,
+  "velocity_km_h": 27296.850941312736,
+  "velocity_mph": 16961.471566254437,
+  "velocity_mps": 4.711519879515121,
+  "heading_degrees": 346.70185342350544,
+  "timestamp": "2026-03-22T20:33:37.303515+00:00",
+  "location_type": "country",
+  "location_name": "Bulgaria"
 }
