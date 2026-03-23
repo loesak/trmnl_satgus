@@ -1,14 +1,14 @@
 {
-  "latitude": -60.85547628077768,
-  "longitude": 56.05107145572938,
-  "altitude_km": 575.4891832355415,
-  "altitude_miles": 357.5922892762517,
-  "velocity_km_s": 7.56189095565924,
-  "velocity_km_h": 27222.807440373264,
-  "velocity_mph": 16915.463082032176,
-  "velocity_mps": 4.698739745008938,
-  "heading_degrees": 342.3059741000363,
-  "timestamp": "2026-03-23T20:06:17.372688+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 6.504843681775354,
+  "longitude": 36.64355794327929,
+  "altitude_km": 566.2976466301379,
+  "altitude_miles": 351.88093498421546,
+  "velocity_km_s": 7.5796839051911915,
+  "velocity_km_h": 27286.86205868829,
+  "velocity_mph": 16955.264764269203,
+  "velocity_mps": 4.7097957678525555,
+  "heading_degrees": 348.581871882428,
+  "timestamp": "2026-03-23T20:24:29.590647+00:00",
+  "location_type": "country",
+  "location_name": "Ethiopia"
 }
