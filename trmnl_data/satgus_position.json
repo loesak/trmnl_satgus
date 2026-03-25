@@ -1,14 +1,14 @@
 {
-  "latitude": 49.371937678641316,
-  "longitude": -166.68378863656602,
-  "altitude_km": 558.4810685275061,
-  "altitude_miles": 347.023940032005,
-  "velocity_km_s": 7.582359248413771,
-  "velocity_km_h": 27296.493294289576,
-  "velocity_mph": 16961.24933476601,
-  "velocity_mps": 4.7114581485461136,
-  "heading_degrees": 345.7658358743751,
-  "timestamp": "2026-03-25T09:25:13.963240+00:00",
-  "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "latitude": 36.809281685715575,
+  "longitude": 21.932831208802558,
+  "altitude_km": 564.1405870833314,
+  "altitude_miles": 350.5406007365567,
+  "velocity_km_s": 7.578433726178473,
+  "velocity_km_h": 27282.361414242503,
+  "velocity_mph": 16952.468194329278,
+  "velocity_mps": 4.709018942869244,
+  "heading_degrees": 192.57791332552964,
+  "timestamp": "2026-03-25T09:50:01.770049+00:00",
+  "location_type": "country",
+  "location_name": "Greece"
 }
