@@ -1,14 +1,14 @@
 {
-  "latitude": 24.389297041525513,
-  "longitude": -15.948559387148975,
-  "altitude_km": 562.5015924054942,
-  "altitude_miles": 349.52217697459434,
-  "velocity_km_s": 7.582100075105958,
-  "velocity_km_h": 27295.56027038145,
-  "velocity_mph": 16960.669580767193,
-  "velocity_mps": 4.711297105768664,
-  "heading_degrees": 348.18578234053683,
-  "timestamp": "2026-03-27T23:44:28.448569+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": 75.69436581482104,
+  "longitude": -47.876959001193555,
+  "altitude_km": 556.416209247388,
+  "altitude_miles": 345.74089635625876,
+  "velocity_km_s": 7.580747101928348,
+  "velocity_km_h": 27290.689566942052,
+  "velocity_mph": 16957.64306690035,
+  "velocity_mps": 4.71045640747232,
+  "heading_degrees": 326.5176581759916,
+  "timestamp": "2026-03-27T23:58:39.924885+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
