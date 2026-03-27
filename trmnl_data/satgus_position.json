@@ -1,14 +1,14 @@
 {
-  "latitude": 70.22712894011234,
-  "longitude": 112.11909985348792,
-  "altitude_km": 558.1280924482026,
-  "altitude_miles": 346.80461093263204,
-  "velocity_km_s": 7.57946037593778,
-  "velocity_km_h": 27286.057353376007,
-  "velocity_mph": 16954.7647437246,
-  "velocity_mps": 4.709656873256834,
-  "heading_degrees": 204.42294816197565,
-  "timestamp": "2026-03-27T04:54:12.070950+00:00",
+  "latitude": -80.00508049999068,
+  "longitude": -51.26590936926255,
+  "altitude_km": 575.9267982649317,
+  "altitude_miles": 357.86421056467884,
+  "velocity_km_s": 7.559155879238123,
+  "velocity_km_h": 27212.961165257242,
+  "velocity_mph": 16909.344892217057,
+  "velocity_mps": 4.697040247838071,
+  "heading_degrees": 309.3017861388902,
+  "timestamp": "2026-03-27T05:39:05.162125+00:00",
   "location_type": "country",
-  "location_name": "Russia"
+  "location_name": "Antarctica"
 }
