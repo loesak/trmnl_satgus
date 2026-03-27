@@ -1,14 +1,14 @@
 {
-  "latitude": -2.207572402362097,
-  "longitude": 13.640549127811353,
-  "altitude_km": 567.2197609802188,
-  "altitude_miles": 352.45391010003954,
-  "velocity_km_s": 7.578685409348185,
-  "velocity_km_h": 27283.267473653465,
-  "velocity_mph": 16953.031193371527,
-  "velocity_mps": 4.709175331492091,
-  "heading_degrees": 348.6032196262792,
-  "timestamp": "2026-03-27T22:01:18.573281+00:00",
-  "location_type": "country",
-  "location_name": "Gabon"
+  "latitude": 70.81024528759532,
+  "longitude": -14.38017260733599,
+  "altitude_km": 556.5617094501458,
+  "altitude_miles": 345.83130596274657,
+  "velocity_km_s": 7.581083790758703,
+  "velocity_km_h": 27291.901646731334,
+  "velocity_mph": 16958.396218131096,
+  "velocity_mps": 4.710665616147526,
+  "heading_degrees": 334.90490148246386,
+  "timestamp": "2026-03-27T22:21:08.179390+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
