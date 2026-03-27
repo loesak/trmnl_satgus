@@ -1,14 +1,14 @@
 {
-  "latitude": 0.2597588457220653,
-  "longitude": -82.68835920733196,
-  "altitude_km": 571.9920323057295,
-  "altitude_miles": 355.4192611058434,
-  "velocity_km_s": 7.573500735996825,
-  "velocity_km_h": 27264.60264958857,
-  "velocity_mph": 16941.4334129775,
-  "velocity_mps": 4.705953725827084,
-  "heading_degrees": 191.398796911059,
-  "timestamp": "2026-03-27T16:25:34.208330+00:00",
+  "latitude": -82.00415091630508,
+  "longitude": 164.5941599840667,
+  "altitude_km": 576.0361317288734,
+  "altitude_miles": 357.9321472085018,
+  "velocity_km_s": 7.558911525627984,
+  "velocity_km_h": 27212.081492260742,
+  "velocity_mph": 16908.798288927548,
+  "velocity_mps": 4.696888413590986,
+  "heading_degrees": 286.1906027357273,
+  "timestamp": "2026-03-27T16:50:18.960931+00:00",
   "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "location_name": "Ross Sea"
 }
