@@ -1,14 +1,14 @@
 {
-  "latitude": -52.28057322972808,
-  "longitude": 50.58148475774728,
-  "altitude_km": 573.4198677372833,
-  "altitude_miles": 356.3064766357835,
-  "velocity_km_s": 7.565440870762486,
-  "velocity_km_h": 27235.58713474495,
-  "velocity_mph": 16923.404013503605,
-  "velocity_mps": 4.7009455593065566,
-  "heading_degrees": 345.1258024068713,
-  "timestamp": "2026-03-28T20:12:29.709229+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 28.129937909196048,
+  "longitude": 31.01856357858625,
+  "altitude_km": 561.8215038523522,
+  "altitude_miles": 349.09958967023994,
+  "velocity_km_s": 7.582283534091469,
+  "velocity_km_h": 27296.22072272929,
+  "velocity_mph": 16961.079966703022,
+  "velocity_mps": 4.71141110186195,
+  "heading_degrees": 348.0152993373518,
+  "timestamp": "2026-03-28T20:34:06.774885+00:00",
+  "location_type": "country",
+  "location_name": "Egypt"
 }
