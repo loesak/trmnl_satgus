@@ -1,14 +1,14 @@
 {
-  "latitude": -1.4892832412736363,
-  "longitude": 12.827636098928387,
-  "altitude_km": 572.3000453520035,
-  "altitude_miles": 355.6106514804198,
-  "velocity_km_s": 7.5731361620153255,
-  "velocity_km_h": 27263.290183255172,
-  "velocity_mph": 16940.61788445945,
-  "velocity_mps": 4.705727190127625,
-  "heading_degrees": 191.4008271209671,
-  "timestamp": "2026-03-28T10:02:34.903584+00:00",
-  "location_type": "country",
-  "location_name": "Gabon"
+  "latitude": -71.9975407531046,
+  "longitude": -16.2762163920065,
+  "altitude_km": 576.5430718566831,
+  "altitude_miles": 358.24714510265903,
+  "velocity_km_s": 7.5591375907910505,
+  "velocity_km_h": 27212.89532684778,
+  "velocity_mph": 16909.303982138732,
+  "velocity_mps": 4.697028883927426,
+  "heading_degrees": 206.64989734980642,
+  "timestamp": "2026-03-28T10:21:51.150702+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
