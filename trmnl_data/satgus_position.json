@@ -1,14 +1,14 @@
 {
-  "latitude": 28.129937909196048,
-  "longitude": 31.01856357858625,
-  "altitude_km": 561.8215038523522,
-  "altitude_miles": 349.09958967023994,
-  "velocity_km_s": 7.582283534091469,
-  "velocity_km_h": 27296.22072272929,
-  "velocity_mph": 16961.079966703022,
-  "velocity_mps": 4.71141110186195,
-  "heading_degrees": 348.0152993373518,
-  "timestamp": "2026-03-28T20:34:06.774885+00:00",
-  "location_type": "country",
-  "location_name": "Egypt"
+  "latitude": 80.98685302747735,
+  "longitude": -91.15794901299135,
+  "altitude_km": 557.0232807393186,
+  "altitude_miles": 346.1181129762711,
+  "velocity_km_s": 7.579674519654392,
+  "velocity_km_h": 27286.828270755814,
+  "velocity_mph": 16955.243769427812,
+  "velocity_mps": 4.70978993595217,
+  "heading_degrees": 238.7534055004358,
+  "timestamp": "2026-03-28T20:51:48.820483+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
