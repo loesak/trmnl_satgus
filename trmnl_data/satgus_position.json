@@ -1,14 +1,14 @@
 {
-  "latitude": -43.33032262938421,
-  "longitude": 23.057415773508378,
-  "altitude_km": 572.2927301553718,
-  "altitude_miles": 355.60610602937356,
-  "velocity_km_s": 7.568239844652738,
-  "velocity_km_h": 27245.663440749857,
-  "velocity_mph": 16929.66513784218,
-  "velocity_mps": 4.702684760511716,
-  "heading_degrees": 346.71360029542853,
-  "timestamp": "2026-03-29T21:51:41.909095+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 36.28637243729814,
+  "longitude": 4.740445218807546,
+  "altitude_km": 560.4202307313262,
+  "altitude_miles": 348.22887918975493,
+  "velocity_km_s": 7.582452351334676,
+  "velocity_km_h": 27296.828464804832,
+  "velocity_mph": 16961.457600004243,
+  "velocity_mps": 4.711516000001179,
+  "heading_degrees": 347.47405895386896,
+  "timestamp": "2026-03-29T22:13:03.960795+00:00",
+  "location_type": "country",
+  "location_name": "Algeria"
 }
