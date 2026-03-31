@@ -1,14 +1,14 @@
 {
-  "latitude": -73.5285067362049,
-  "longitude": 92.66963677590856,
-  "altitude_km": 574.2040652912774,
-  "altitude_miles": 356.7937542541063,
-  "velocity_km_s": 7.56139290364924,
-  "velocity_km_h": 27221.014453137264,
-  "velocity_mph": 16914.348971760355,
-  "velocity_mps": 4.698430269933432,
-  "heading_degrees": 330.9538093097035,
-  "timestamp": "2026-03-31T18:32:30.112242+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 43.0832280216827,
+  "longitude": 50.415782345643734,
+  "altitude_km": 559.4398363285181,
+  "altitude_miles": 347.61969053928766,
+  "velocity_km_s": 7.58223396264298,
+  "velocity_km_h": 27296.042265514727,
+  "velocity_mph": 16960.96907856515,
+  "velocity_mps": 4.711380299601431,
+  "heading_degrees": 346.76084282528353,
+  "timestamp": "2026-03-31T19:04:09.729639+00:00",
+  "location_type": "ocean",
+  "location_name": "Caspian Sea"
 }
