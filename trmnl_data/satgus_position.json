@@ -1,14 +1,14 @@
 {
-  "latitude": -44.86152307155413,
-  "longitude": 23.083409772763044,
-  "altitude_km": 571.6536367257304,
-  "altitude_miles": 355.2089919059038,
-  "velocity_km_s": 7.568541816310822,
-  "velocity_km_h": 27246.75053871896,
-  "velocity_mph": 16930.340628994338,
-  "velocity_mps": 4.702872396942872,
-  "heading_degrees": 346.5031677044573,
-  "timestamp": "2026-04-01T21:53:16.883015+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 48.50685653883711,
+  "longitude": 0.3482509630310225,
+  "altitude_km": 558.834020749413,
+  "altitude_miles": 347.2432543070835,
+  "velocity_km_s": 7.581878102982965,
+  "velocity_km_h": 27294.761170738675,
+  "velocity_mph": 16960.173043423063,
+  "velocity_mps": 4.711159178728628,
+  "heading_degrees": 345.92621878011033,
+  "timestamp": "2026-04-01T22:18:22.157648+00:00",
+  "location_type": "country",
+  "location_name": "France"
 }
