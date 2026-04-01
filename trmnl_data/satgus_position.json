@@ -1,14 +1,14 @@
 {
-  "latitude": -52.880668726324515,
-  "longitude": -21.685182859111617,
-  "altitude_km": 572.5676788584178,
-  "altitude_miles": 355.7769511799339,
-  "velocity_km_s": 7.566136924613959,
-  "velocity_km_h": 27238.09292861025,
-  "velocity_mph": 16924.96104114348,
-  "velocity_mps": 4.7013780669843,
-  "heading_degrees": 344.9808806668703,
-  "timestamp": "2026-04-01T01:02:31.780094+00:00",
+  "latitude": 51.39555040420577,
+  "longitude": 145.68528721732807,
+  "altitude_km": 562.0542099504828,
+  "altitude_miles": 349.2441864911415,
+  "velocity_km_s": 7.577875032922191,
+  "velocity_km_h": 27280.350118519887,
+  "velocity_mph": 16951.21843349482,
+  "velocity_mps": 4.708671787081895,
+  "heading_degrees": 194.66479994925587,
+  "timestamp": "2026-04-01T01:50:53.435483+00:00",
   "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "location_name": "Sea of Okhotsk"
 }
