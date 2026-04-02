@@ -1,14 +1,14 @@
 {
-  "latitude": 46.0974358736004,
-  "longitude": -0.5610749833198655,
-  "altitude_km": 563.3098056867748,
-  "altitude_miles": 350.02437726939695,
-  "velocity_km_s": 7.5774215577259865,
-  "velocity_km_h": 27278.717607813553,
-  "velocity_mph": 16950.204038684715,
-  "velocity_mps": 4.708390010745754,
-  "heading_degrees": 193.67543519854127,
-  "timestamp": "2026-04-02T11:29:14.311890+00:00",
-  "location_type": "country",
-  "location_name": "France"
+  "latitude": -41.17996023381283,
+  "longitude": -21.240899615820645,
+  "altitude_km": 575.6163018832531,
+  "altitude_miles": 357.67127711749885,
+  "velocity_km_s": 7.5648806511516105,
+  "velocity_km_h": 27233.5703441458,
+  "velocity_mph": 16922.15083831222,
+  "velocity_mps": 4.7005974550867275,
+  "heading_degrees": 193.0210471107338,
+  "timestamp": "2026-04-02T11:52:42.503510+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
