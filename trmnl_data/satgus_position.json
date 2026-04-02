@@ -1,14 +1,14 @@
 {
-  "latitude": -40.43945098761802,
-  "longitude": 93.54798281319943,
-  "altitude_km": 571.0636307491686,
-  "altitude_miles": 354.8423793022417,
-  "velocity_km_s": 7.569968489200533,
-  "velocity_km_h": 27251.88656112192,
-  "velocity_mph": 16933.53200437089,
-  "velocity_mps": 4.703758890103025,
-  "heading_degrees": 347.0598771911525,
-  "timestamp": "2026-04-02T17:06:59.618977+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 48.134990645290436,
+  "longitude": 72.36517654692888,
+  "altitude_km": 559.0140886526497,
+  "altitude_miles": 347.3551432801856,
+  "velocity_km_s": 7.581734645452385,
+  "velocity_km_h": 27294.244723628584,
+  "velocity_mph": 16959.852138165817,
+  "velocity_mps": 4.711070038379394,
+  "heading_degrees": 345.99364993221303,
+  "timestamp": "2026-04-02T17:30:46.791216+00:00",
+  "location_type": "country",
+  "location_name": "Kazakhstan"
 }
