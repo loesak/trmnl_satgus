@@ -1,14 +1,14 @@
 {
-  "latitude": 43.75732216263225,
-  "longitude": 49.479604127785365,
-  "altitude_km": 559.6741097118738,
-  "altitude_miles": 347.7652612257768,
-  "velocity_km_s": 7.581621913202771,
-  "velocity_km_h": 27293.838887529975,
-  "velocity_mph": 16959.59996338339,
-  "velocity_mps": 4.71099998982872,
-  "heading_degrees": 346.6728684967435,
-  "timestamp": "2026-04-05T19:07:20.045472+00:00",
-  "location_type": "ocean",
-  "location_name": "Caspian Sea"
+  "latitude": 68.3198102441082,
+  "longitude": -107.72422062719716,
+  "altitude_km": 559.8058417642123,
+  "altitude_miles": 347.8471157028704,
+  "velocity_km_s": 7.577456011706766,
+  "velocity_km_h": 27278.841642144358,
+  "velocity_mph": 16950.281110020882,
+  "velocity_mps": 4.708411419450245,
+  "heading_degrees": 202.49345855888774,
+  "timestamp": "2026-04-05T19:25:00.157957+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
