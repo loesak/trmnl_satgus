@@ -1,14 +1,14 @@
 {
-  "latitude": 61.65073564683766,
-  "longitude": 16.949066235635602,
-  "altitude_km": 558.4199534493782,
-  "altitude_miles": 346.9859648947936,
-  "velocity_km_s": 7.57987107756274,
-  "velocity_km_h": 27287.535879225863,
-  "velocity_mph": 16955.683456810453,
-  "velocity_mps": 4.7099120713362375,
-  "heading_degrees": 341.9515095328775,
-  "timestamp": "2026-04-07T20:49:19.804682+00:00",
-  "location_type": "country",
-  "location_name": "Sweden"
+  "latitude": 39.112094681940086,
+  "longitude": -147.51475848484336,
+  "altitude_km": 565.0820334557584,
+  "altitude_miles": 351.125588210438,
+  "velocity_km_s": 7.576521680164,
+  "velocity_km_h": 27275.4780485904,
+  "velocity_mph": 16948.191070530665,
+  "velocity_mps": 4.707830852925185,
+  "heading_degrees": 192.79445798883617,
+  "timestamp": "2026-04-07T21:10:08.696306+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
