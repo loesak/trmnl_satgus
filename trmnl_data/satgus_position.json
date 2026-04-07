@@ -1,14 +1,14 @@
 {
-  "latitude": 29.189881144960747,
-  "longitude": 53.30258800085014,
-  "altitude_km": 561.816453294402,
-  "altitude_miles": 349.0964513999959,
-  "velocity_km_s": 7.581743901561418,
-  "velocity_km_h": 27294.278045621104,
-  "velocity_mph": 16959.87284348563,
-  "velocity_mps": 4.711075789857119,
-  "heading_degrees": 347.9602864803735,
-  "timestamp": "2026-04-07T19:04:28.242896+00:00",
-  "location_type": "country",
-  "location_name": "Iran"
+  "latitude": 33.69350461874727,
+  "longitude": -125.00657759307477,
+  "altitude_km": 566.0928325222758,
+  "altitude_miles": 351.75366943719905,
+  "velocity_km_s": 7.576354014943257,
+  "velocity_km_h": 27274.874453795725,
+  "velocity_mph": 16947.816014229502,
+  "velocity_mps": 4.707726670619307,
+  "heading_degrees": 192.3317688511356,
+  "timestamp": "2026-04-07T19:35:34.398422+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
