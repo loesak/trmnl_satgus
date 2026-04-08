@@ -1,14 +1,14 @@
 {
-  "latitude": -59.870475430822374,
-  "longitude": 28.898369550303105,
-  "altitude_km": 571.0605234813902,
-  "altitude_miles": 354.8404485361549,
-  "velocity_km_s": 7.566316579726054,
-  "velocity_km_h": 27238.739687013796,
-  "velocity_mph": 16925.36291805945,
-  "velocity_mps": 4.701489699460958,
-  "heading_degrees": 342.73564793533217,
-  "timestamp": "2026-04-08T21:53:02.800432+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 41.369855792598045,
+  "longitude": 1.851851128037201,
+  "altitude_km": 560.4390551797624,
+  "altitude_miles": 348.2405761561041,
+  "velocity_km_s": 7.581153108101398,
+  "velocity_km_h": 27292.15118916503,
+  "velocity_mph": 16958.551276562663,
+  "velocity_mps": 4.710708687934074,
+  "heading_degrees": 346.97105327864364,
+  "timestamp": "2026-04-08T22:20:18.989211+00:00",
+  "location_type": "country",
+  "location_name": "Spain"
 }
