@@ -1,14 +1,14 @@
 {
-  "latitude": -4.836794441682928,
-  "longitude": 12.294165560255653,
-  "altitude_km": 566.4346364199173,
-  "altitude_miles": 351.96605646688045,
-  "velocity_km_s": 7.579029156777214,
-  "velocity_km_h": 27284.50496439797,
-  "velocity_mph": 16953.80013423293,
-  "velocity_mps": 4.709388926175814,
-  "heading_degrees": 348.59296257133013,
-  "timestamp": "2026-04-09T22:08:25.739239+00:00",
-  "location_type": "country",
-  "location_name": "Angola"
+  "latitude": 65.98192577481437,
+  "longitude": -10.736101280514818,
+  "altitude_km": 558.6162837670981,
+  "altitude_miles": 347.10795886064557,
+  "velocity_km_s": 7.578986997071103,
+  "velocity_km_h": 27284.35318945597,
+  "velocity_mph": 16953.705825685447,
+  "velocity_mps": 4.709362729357069,
+  "heading_degrees": 339.4030679209579,
+  "timestamp": "2026-04-09T22:27:34.566506+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
