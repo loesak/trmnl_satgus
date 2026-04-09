@@ -1,14 +1,14 @@
 {
-  "latitude": -3.7515029004277007,
-  "longitude": 36.0823254172986,
-  "altitude_km": 566.3114567646971,
-  "altitude_miles": 351.8895162013366,
-  "velocity_km_s": 7.579194315063946,
-  "velocity_km_h": 27285.099534230205,
-  "velocity_mph": 16954.169582684157,
-  "velocity_mps": 4.709491550745599,
-  "heading_degrees": 348.5989617247286,
-  "timestamp": "2026-04-09T20:32:41.210732+00:00",
-  "location_type": "country",
-  "location_name": "United Republic of Tanzania"
+  "latitude": 76.302506863927,
+  "longitude": -117.88655956864568,
+  "altitude_km": 559.4718220850655,
+  "altitude_miles": 347.6395655608192,
+  "velocity_km_s": 7.576903945769515,
+  "velocity_km_h": 27276.854204770254,
+  "velocity_mph": 16949.046174072297,
+  "velocity_mps": 4.70806838168675,
+  "heading_degrees": 215.05467555909252,
+  "timestamp": "2026-04-09T21:00:42.284792+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
