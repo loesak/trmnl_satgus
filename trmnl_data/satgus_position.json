@@ -1,14 +1,14 @@
 {
-  "latitude": -46.02249198826103,
-  "longitude": 46.32695563295007,
-  "altitude_km": 569.8981683667998,
-  "altitude_miles": 354.1181947762468,
-  "velocity_km_s": 7.569958623839188,
-  "velocity_km_h": 27251.851045821077,
-  "velocity_mph": 16933.509936192888,
-  "velocity_mps": 4.70375276005358,
-  "heading_degrees": 346.3334450756172,
-  "timestamp": "2026-04-10T20:21:47.954473+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 52.87315692877598,
+  "longitude": 21.409334058028996,
+  "altitude_km": 559.7179269220123,
+  "altitude_miles": 347.79248796945774,
+  "velocity_km_s": 7.579846580076635,
+  "velocity_km_h": 27287.447688275886,
+  "velocity_mph": 16955.628657511676,
+  "velocity_mps": 4.709896849308799,
+  "heading_degrees": 345.00073732662383,
+  "timestamp": "2026-04-10T20:48:23.589776+00:00",
+  "location_type": "country",
+  "location_name": "Poland"
 }
