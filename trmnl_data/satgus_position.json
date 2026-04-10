@@ -1,14 +1,14 @@
 {
-  "latitude": -65.8293444825369,
-  "longitude": -86.79731826454554,
-  "altitude_km": 571.0804935734768,
-  "altitude_miles": 354.85285737224484,
-  "velocity_km_s": 7.565401271244132,
-  "velocity_km_h": 27235.444576478872,
-  "velocity_mph": 16923.315431931253,
-  "velocity_mps": 4.700920953314237,
-  "heading_degrees": 339.4986083925329,
-  "timestamp": "2026-04-10T05:52:02.254261+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 35.45794186134076,
+  "longitude": 67.17222563526202,
+  "altitude_km": 565.8494615424115,
+  "altitude_miles": 351.6024457680698,
+  "velocity_km_s": 7.576274648007649,
+  "velocity_km_h": 27274.588732827535,
+  "velocity_mph": 16947.638475505777,
+  "velocity_mps": 4.707677354307161,
+  "heading_degrees": 192.46564608592777,
+  "timestamp": "2026-04-10T06:48:19.760228+00:00",
+  "location_type": "country",
+  "location_name": "Afghanistan"
 }
