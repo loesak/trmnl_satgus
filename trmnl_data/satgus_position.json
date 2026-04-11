@@ -1,14 +1,14 @@
 {
-  "latitude": 19.114818093091937,
-  "longitude": 55.15520989690939,
-  "altitude_km": 563.6758785323782,
-  "altitude_miles": 350.2518443195424,
-  "velocity_km_s": 7.580974310210422,
-  "velocity_km_h": 27291.50751675752,
-  "velocity_mph": 16958.151317195137,
-  "velocity_mps": 4.71059758810976,
-  "heading_degrees": 348.3649356711816,
-  "timestamp": "2026-04-11T19:03:43.119343+00:00",
-  "location_type": "country",
-  "location_name": "Oman"
+  "latitude": 77.58793387689617,
+  "longitude": -89.81335783564492,
+  "altitude_km": 559.7040545683676,
+  "altitude_miles": 347.78386809120116,
+  "velocity_km_s": 7.576504504884315,
+  "velocity_km_h": 27275.416217583534,
+  "velocity_mph": 16948.1526505361,
+  "velocity_mps": 4.707820180704472,
+  "heading_degrees": 219.02861755467146,
+  "timestamp": "2026-04-11T19:25:11.871759+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
