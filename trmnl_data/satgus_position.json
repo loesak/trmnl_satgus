@@ -1,14 +1,14 @@
 {
-  "latitude": -0.5985986421001788,
-  "longitude": 35.11101169219873,
-  "altitude_km": 566.1066819175485,
-  "altitude_miles": 351.762275049789,
-  "velocity_km_s": 7.579410616995327,
-  "velocity_km_h": 27285.87822118318,
-  "velocity_mph": 16954.653436174813,
-  "velocity_mps": 4.709625954493004,
-  "heading_degrees": 348.608047992053,
-  "timestamp": "2026-04-12T20:34:56.624759+00:00",
-  "location_type": "country",
-  "location_name": "Kenya"
+  "latitude": 73.8246431205424,
+  "longitude": 2.2918722457823835,
+  "altitude_km": 559.0750498560074,
+  "altitude_miles": 347.39302280407713,
+  "velocity_km_s": 7.577512251410042,
+  "velocity_km_h": 27279.04410507615,
+  "velocity_mph": 16950.406914615272,
+  "velocity_mps": 4.708446365170909,
+  "heading_degrees": 330.449390872464,
+  "timestamp": "2026-04-12T20:55:14.827693+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
