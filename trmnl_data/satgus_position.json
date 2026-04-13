@@ -1,14 +1,14 @@
 {
-  "latitude": 42.56668797968556,
-  "longitude": 0.9153473562370014,
-  "altitude_km": 561.290693980327,
-  "altitude_miles": 348.76975980924976,
-  "velocity_km_s": 7.579938713247421,
-  "velocity_km_h": 27287.779367690717,
-  "velocity_mph": 16955.834753481347,
-  "velocity_mps": 4.709954098189264,
-  "heading_degrees": 346.82723414479545,
-  "timestamp": "2026-04-13T22:23:00.590047+00:00",
-  "location_type": "country",
-  "location_name": "Spain"
+  "latitude": 38.41058066153169,
+  "longitude": -172.40852168545172,
+  "altitude_km": 565.4452420358721,
+  "altitude_miles": 351.3512754890719,
+  "velocity_km_s": 7.576146553466918,
+  "velocity_km_h": 27274.127592480905,
+  "velocity_mph": 16947.351936267452,
+  "velocity_mps": 4.707597760074292,
+  "heading_degrees": 192.72526657268403,
+  "timestamp": "2026-04-13T22:49:14.574996+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
