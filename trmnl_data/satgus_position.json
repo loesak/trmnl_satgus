@@ -1,14 +1,14 @@
 {
-  "latitude": -82.30448446913623,
-  "longitude": 63.630997445721775,
-  "altitude_km": 571.3589565951388,
-  "altitude_miles": 355.025886218478,
-  "velocity_km_s": 7.5634685698747335,
-  "velocity_km_h": 27228.48685154904,
-  "velocity_mph": 16918.99210343388,
-  "velocity_mps": 4.699720028731633,
-  "heading_degrees": 265.35801306489395,
-  "timestamp": "2026-04-14T00:59:27.413529+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 72.4460711868211,
+  "longitude": -67.26652614880318,
+  "altitude_km": 559.2887671358512,
+  "altitude_miles": 347.525820523971,
+  "velocity_km_s": 7.577406720747223,
+  "velocity_km_h": 27278.66419469,
+  "velocity_mph": 16950.17084931872,
+  "velocity_mps": 4.708380791477422,
+  "heading_degrees": 332.71238164592415,
+  "timestamp": "2026-04-14T01:43:22.712609+00:00",
+  "location_type": "ocean",
+  "location_name": "Baffin Bay"
 }
