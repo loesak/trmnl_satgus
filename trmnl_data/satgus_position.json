@@ -1,14 +1,14 @@
 {
-  "latitude": 0.47186128261200516,
-  "longitude": 34.57570855247175,
-  "altitude_km": 566.3645275113058,
-  "altitude_miles": 351.9224928242276,
-  "velocity_km_s": 7.579104450468365,
-  "velocity_km_h": 27284.776021686113,
-  "velocity_mph": 16953.968561371123,
-  "velocity_mps": 4.709435711491978,
-  "heading_degrees": 348.6079206391805,
-  "timestamp": "2026-04-15T20:36:34.849477+00:00",
-  "location_type": "country",
-  "location_name": "Kenya"
+  "latitude": 78.92875412584586,
+  "longitude": -108.36939901270544,
+  "altitude_km": 560.2586906125152,
+  "altitude_miles": 348.1285028445892,
+  "velocity_km_s": 7.575766627712807,
+  "velocity_km_h": 27272.759859766105,
+  "velocity_mph": 16946.502066822726,
+  "velocity_mps": 4.707361685228535,
+  "heading_degrees": 224.55670742769178,
+  "timestamp": "2026-04-15T21:02:34.484887+00:00",
+  "location_type": "ocean",
+  "location_name": "Arctic Ocean"
 }
