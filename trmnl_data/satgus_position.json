@@ -1,14 +1,14 @@
 {
-  "latitude": 3.89284939924616,
-  "longitude": 105.90655156287463,
-  "altitude_km": 566.0046293247333,
-  "altitude_miles": 351.6988625281389,
-  "velocity_km_s": 7.579453020211827,
-  "velocity_km_h": 27286.030872762578,
-  "velocity_mph": 16954.748289439354,
-  "velocity_mps": 4.709652302622043,
-  "heading_degrees": 348.5993333694121,
-  "timestamp": "2026-04-15T15:49:24.407867+00:00",
-  "location_type": "ocean",
-  "location_name": "South China Sea"
+  "latitude": 74.29945995403529,
+  "longitude": -51.59736153330352,
+  "altitude_km": 560.6707066865583,
+  "altitude_miles": 348.3845176845334,
+  "velocity_km_s": 7.5757013673695415,
+  "velocity_km_h": 27272.52492253035,
+  "velocity_mph": 16946.356083637605,
+  "velocity_mps": 4.707321134343779,
+  "heading_degrees": 210.44936405251553,
+  "timestamp": "2026-04-15T16:16:01.317987+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
