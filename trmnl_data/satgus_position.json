@@ -1,14 +1,14 @@
 {
-  "latitude": 27.764174033794763,
-  "longitude": -7.353108307606634,
-  "altitude_km": 567.0820896870591,
-  "altitude_miles": 352.3683651509376,
-  "velocity_km_s": 7.576096095702989,
-  "velocity_km_h": 27273.945944530762,
-  "velocity_mph": 16947.239065499023,
-  "velocity_mps": 4.707566407083062,
-  "heading_degrees": 191.97355379525473,
-  "timestamp": "2026-04-15T11:40:48.162177+00:00",
-  "location_type": "country",
-  "location_name": "Algeria"
+  "latitude": -74.46093757390436,
+  "longitude": -47.345123291168925,
+  "altitude_km": 571.4732119202636,
+  "altitude_miles": 355.0968811641061,
+  "velocity_km_s": 7.563900576678202,
+  "velocity_km_h": 27230.04207604153,
+  "velocity_mph": 16919.958474832,
+  "velocity_mps": 4.699988465231112,
+  "heading_degrees": 210.76220255908564,
+  "timestamp": "2026-04-15T12:08:38.448922+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
