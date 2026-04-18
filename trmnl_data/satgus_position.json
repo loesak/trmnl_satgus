@@ -1,14 +1,14 @@
 {
-  "latitude": 35.416232952695445,
-  "longitude": 42.29480026708416,
-  "altitude_km": 565.7051739386734,
-  "altitude_miles": 351.5127896354474,
-  "velocity_km_s": 7.57633986046828,
-  "velocity_km_h": 27274.823497685808,
-  "velocity_mph": 16947.78435158053,
-  "velocity_mps": 4.707717875439036,
-  "heading_degrees": 192.46149273078046,
-  "timestamp": "2026-04-18T08:27:59.747547+00:00",
-  "location_type": "country",
-  "location_name": "Iraq"
+  "latitude": -56.46885759083482,
+  "longitude": 18.889465386239987,
+  "altitude_km": 571.3666798478553,
+  "altitude_miles": 355.03068522374167,
+  "velocity_km_s": 7.5664285795431505,
+  "velocity_km_h": 27239.14288635534,
+  "velocity_mph": 16925.613454437505,
+  "velocity_mps": 4.701559292899307,
+  "heading_degrees": 196.01447574916418,
+  "timestamp": "2026-04-18T08:52:44.472378+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
