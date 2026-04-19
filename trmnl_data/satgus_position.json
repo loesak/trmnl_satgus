@@ -1,14 +1,14 @@
 {
-  "latitude": -45.582961224378316,
-  "longitude": 165.2594727892404,
-  "altitude_km": 569.3955641221455,
-  "altitude_miles": 353.8058910741417,
-  "velocity_km_s": 7.570483756194657,
-  "velocity_km_h": 27253.741522300767,
-  "velocity_mph": 16934.68462345355,
-  "velocity_mps": 4.704079062070431,
-  "heading_degrees": 346.4027652100549,
-  "timestamp": "2026-04-19T12:25:46.720693+00:00",
-  "location_type": "ocean",
-  "location_name": "Tasman Sea"
+  "latitude": 47.06667816244737,
+  "longitude": 142.81497433555523,
+  "altitude_km": 562.205217149035,
+  "altitude_miles": 349.338017985113,
+  "velocity_km_s": 7.578065041324626,
+  "velocity_km_h": 27281.034148768653,
+  "velocity_mph": 16951.643470054525,
+  "velocity_mps": 4.708789852792925,
+  "heading_degrees": 346.1791854526761,
+  "timestamp": "2026-04-19T12:50:40.692132+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
