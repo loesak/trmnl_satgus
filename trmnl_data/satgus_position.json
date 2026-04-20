@@ -1,14 +1,14 @@
 {
-  "latitude": -60.63194319767364,
-  "longitude": 100.1227632121465,
-  "altitude_km": 569.6066091606008,
-  "altitude_miles": 353.9370283407317,
-  "velocity_km_s": 7.567629717720486,
-  "velocity_km_h": 27243.46698379375,
-  "velocity_mph": 16928.300323186908,
-  "velocity_mps": 4.702305645329696,
-  "heading_degrees": 342.4131769817078,
-  "timestamp": "2026-04-20T17:10:07.973046+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 41.87861128277594,
+  "longitude": 72.43991631654188,
+  "altitude_km": 562.9286490443683,
+  "altitude_miles": 349.78753758534816,
+  "velocity_km_s": 7.578189520692479,
+  "velocity_km_h": 27281.482274492926,
+  "velocity_mph": 16951.921922383943,
+  "velocity_mps": 4.7088672006622065,
+  "heading_degrees": 346.911647091463,
+  "timestamp": "2026-04-20T17:37:45.559586+00:00",
+  "location_type": "country",
+  "location_name": "Kyrgyzstan"
 }
