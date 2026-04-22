@@ -1,14 +1,14 @@
 {
-  "latitude": -69.87920171250322,
-  "longitude": -88.29521000427721,
-  "altitude_km": 569.9445257469433,
-  "altitude_miles": 354.14699990790393,
-  "velocity_km_s": 7.5659501383591135,
-  "velocity_km_h": 27237.420498092808,
-  "velocity_mph": 16924.543212320426,
-  "velocity_mps": 4.7012620034223405,
-  "heading_degrees": 204.0237569187269,
-  "timestamp": "2026-04-22T15:22:14.754308+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 19.425137299238678,
+  "longitude": 101.98379470169658,
+  "altitude_km": 565.8352668691741,
+  "altitude_miles": 351.5936256097656,
+  "velocity_km_s": 7.578445787603501,
+  "velocity_km_h": 27282.404835372603,
+  "velocity_mph": 16952.49517496031,
+  "velocity_mps": 4.709026437488975,
+  "heading_degrees": 348.3568458960652,
+  "timestamp": "2026-04-22T15:56:28.749673+00:00",
+  "location_type": "country",
+  "location_name": "Laos"
 }
