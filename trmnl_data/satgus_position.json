@@ -1,14 +1,14 @@
 {
-  "latitude": 19.425137299238678,
-  "longitude": 101.98379470169658,
-  "altitude_km": 565.8352668691741,
-  "altitude_miles": 351.5936256097656,
-  "velocity_km_s": 7.578445787603501,
-  "velocity_km_h": 27282.404835372603,
-  "velocity_mph": 16952.49517496031,
-  "velocity_mps": 4.709026437488975,
-  "heading_degrees": 348.3568458960652,
-  "timestamp": "2026-04-22T15:56:28.749673+00:00",
-  "location_type": "country",
-  "location_name": "Laos"
+  "latitude": 23.89187916165212,
+  "longitude": -80.97107188953595,
+  "altitude_km": 566.5985777303986,
+  "altitude_miles": 352.0679248429155,
+  "velocity_km_s": 7.577062571929537,
+  "velocity_km_h": 27277.425258946336,
+  "velocity_mph": 16949.401010576745,
+  "velocity_mps": 4.708166947382429,
+  "heading_degrees": 191.79799674407167,
+  "timestamp": "2026-04-22T16:32:51.442910+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
