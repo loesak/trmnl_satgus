@@ -1,14 +1,14 @@
 {
-  "latitude": -67.50238498321032,
-  "longitude": 130.2592952178384,
-  "altitude_km": 569.4256971472469,
-  "altitude_miles": 353.82461486208194,
-  "velocity_km_s": 7.566774096109781,
-  "velocity_km_h": 27240.386745995213,
-  "velocity_mph": 16926.38635274579,
-  "velocity_mps": 4.701773986873831,
-  "heading_degrees": 201.76541895988584,
-  "timestamp": "2026-04-25T00:58:27.360956+00:00",
-  "location_type": "country",
-  "location_name": "Antarctica"
+  "latitude": 54.11820235177268,
+  "longitude": -52.57238811773392,
+  "altitude_km": 562.7407541211342,
+  "altitude_miles": 349.67078512900326,
+  "velocity_km_s": 7.576131809046329,
+  "velocity_km_h": 27274.07451256678,
+  "velocity_mph": 16947.318953948135,
+  "velocity_mps": 4.707588598318926,
+  "heading_degrees": 344.68472287749876,
+  "timestamp": "2026-04-25T01:42:45.111942+00:00",
+  "location_type": "ocean",
+  "location_name": "Labrador Sea"
 }
