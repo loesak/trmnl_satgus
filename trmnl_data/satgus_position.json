@@ -1,14 +1,14 @@
 {
-  "latitude": 4.838990489668656,
-  "longitude": 128.6155139133687,
-  "altitude_km": 568.2441665499109,
-  "altitude_miles": 353.0904460132847,
-  "velocity_km_s": 7.576773555709496,
-  "velocity_km_h": 27276.384800554188,
-  "velocity_mph": 16948.754499905157,
-  "velocity_mps": 4.707987361084766,
-  "heading_degrees": 348.5954202383915,
-  "timestamp": "2026-04-27T14:18:20.480289+00:00",
-  "location_type": "ocean",
-  "location_name": "Philippine Sea"
+  "latitude": -12.554751019066682,
+  "longitude": -64.95909856573002,
+  "altitude_km": 568.3457082810446,
+  "altitude_miles": 353.15354110030097,
+  "velocity_km_s": 7.576248676885189,
+  "velocity_km_h": 27274.495236786683,
+  "velocity_mph": 16947.580379777377,
+  "velocity_mps": 4.707661216604827,
+  "heading_degrees": 191.49054018142084,
+  "timestamp": "2026-04-27T15:08:22.881663+00:00",
+  "location_type": "country",
+  "location_name": "Bolivia"
 }
