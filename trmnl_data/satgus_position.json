@@ -1,14 +1,14 @@
 {
-  "latitude": 58.10012927749342,
-  "longitude": 41.097130124181106,
-  "altitude_km": 562.7780336293263,
-  "altitude_miles": 349.6939495342881,
-  "velocity_km_s": 7.575323115667625,
-  "velocity_km_h": 27271.16321640345,
-  "velocity_mph": 16945.509958939827,
-  "velocity_mps": 4.707086099705508,
-  "heading_degrees": 343.4425644945431,
-  "timestamp": "2026-04-28T19:21:06.085178+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": -37.50947278573326,
+  "longitude": -142.93662625131188,
+  "altitude_km": 568.719317755108,
+  "altitude_miles": 353.38569119280925,
+  "velocity_km_s": 7.572477128073353,
+  "velocity_km_h": 27260.91766106407,
+  "velocity_mph": 16939.143667973043,
+  "velocity_mps": 4.705317685548067,
+  "heading_degrees": 192.633919718551,
+  "timestamp": "2026-04-28T20:03:28.185231+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
