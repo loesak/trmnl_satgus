@@ -1,14 +1,14 @@
 {
-  "latitude": 4.116119350058015,
-  "longitude": 34.37374549096009,
-  "altitude_km": 567.10341867652,
-  "altitude_miles": 352.3816183664479,
-  "velocity_km_s": 7.578022660664015,
-  "velocity_km_h": 27280.881578390454,
-  "velocity_mph": 16951.548667246054,
-  "velocity_mps": 4.70876351867946,
-  "heading_degrees": 191.3997988706584,
-  "timestamp": "2026-04-28T08:40:09.476067+00:00",
-  "location_type": "country",
-  "location_name": "Kenya"
+  "latitude": 16.98880005620168,
+  "longitude": -161.96091107375017,
+  "altitude_km": 567.3081867675119,
+  "altitude_miles": 352.5088553199156,
+  "velocity_km_s": 7.576975232817995,
+  "velocity_km_h": 27277.11083814478,
+  "velocity_mph": 16949.205638608863,
+  "velocity_mps": 4.708112677391351,
+  "heading_degrees": 348.4208398137848,
+  "timestamp": "2026-04-28T09:33:51.033097+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
