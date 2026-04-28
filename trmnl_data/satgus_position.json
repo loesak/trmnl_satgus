@@ -1,14 +1,14 @@
 {
-  "latitude": -37.50947278573326,
-  "longitude": -142.93662625131188,
-  "altitude_km": 568.719317755108,
-  "altitude_miles": 353.38569119280925,
-  "velocity_km_s": 7.572477128073353,
-  "velocity_km_h": 27260.91766106407,
-  "velocity_mph": 16939.143667973043,
-  "velocity_mps": 4.705317685548067,
-  "heading_degrees": 192.633919718551,
-  "timestamp": "2026-04-28T20:03:28.185231+00:00",
-  "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "latitude": 0.6243052455431938,
+  "longitude": 33.3729489827722,
+  "altitude_km": 568.7972631041266,
+  "altitude_miles": 353.43412417227427,
+  "velocity_km_s": 7.576213139003227,
+  "velocity_km_h": 27274.367300411617,
+  "velocity_mph": 16947.50088382407,
+  "velocity_mps": 4.707639134395574,
+  "heading_degrees": 348.6089355106953,
+  "timestamp": "2026-04-28T20:41:36.974081+00:00",
+  "location_type": "country",
+  "location_name": "Uganda"
 }
