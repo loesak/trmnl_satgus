@@ -1,14 +1,14 @@
 {
-  "latitude": 0.12189473005083006,
-  "longitude": 9.491346795762414,
-  "altitude_km": 567.098152895599,
-  "altitude_miles": 352.37834636289125,
-  "velocity_km_s": 7.578061771068547,
-  "velocity_km_h": 27281.02237584677,
-  "velocity_mph": 16951.636154702283,
-  "velocity_mps": 4.708787820750634,
-  "heading_degrees": 191.38868424089753,
-  "timestamp": "2026-04-29T10:17:33.456537+00:00",
-  "location_type": "country",
-  "location_name": "Gabon"
+  "latitude": -8.870167401878726,
+  "longitude": 179.25278809187563,
+  "altitude_km": 569.5114143375504,
+  "altitude_miles": 353.877877038338,
+  "velocity_km_s": 7.57518320691257,
+  "velocity_km_h": 27270.65954488525,
+  "velocity_mph": 16945.19699206489,
+  "velocity_mps": 4.70699916446247,
+  "heading_degrees": 348.5588244097091,
+  "timestamp": "2026-04-29T11:03:15.665165+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
