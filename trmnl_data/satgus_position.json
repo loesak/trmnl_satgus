@@ -1,14 +1,14 @@
 {
-  "latitude": -82.2811161768567,
-  "longitude": -165.4011852202224,
-  "altitude_km": 568.8486639118019,
-  "altitude_miles": 353.4660631435402,
-  "velocity_km_s": 7.565945395870465,
-  "velocity_km_h": 27237.403425133674,
-  "velocity_mph": 16924.532603678737,
-  "velocity_mps": 4.701259056577427,
-  "heading_degrees": 276.6633972156368,
-  "timestamp": "2026-04-29T15:29:54.781455+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": 66.12170629858747,
+  "longitude": 83.26356170691265,
+  "altitude_km": 562.1741985466624,
+  "altitude_miles": 349.31874392513816,
+  "velocity_km_s": 7.574760701120309,
+  "velocity_km_h": 27269.13852403311,
+  "velocity_mph": 16944.25187381698,
+  "velocity_mps": 4.7067366316158274,
+  "heading_degrees": 339.31233499185197,
+  "timestamp": "2026-04-29T16:11:36.564728+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
