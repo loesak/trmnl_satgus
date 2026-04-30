@@ -1,14 +1,14 @@
 {
-  "latitude": 23.93641073109562,
-  "longitude": -9.58028498462003,
-  "altitude_km": 564.7981745598654,
-  "altitude_miles": 350.9492065244381,
-  "velocity_km_s": 7.5788583844593065,
-  "velocity_km_h": 27283.890184053504,
-  "velocity_mph": 16953.41812755551,
-  "velocity_mps": 4.709282813209864,
-  "heading_degrees": 191.79611874310987,
-  "timestamp": "2026-04-30T11:47:30.109371+00:00",
-  "location_type": "country",
-  "location_name": "Mauritania"
+  "latitude": -79.8795537354233,
+  "longitude": -152.11799660078594,
+  "altitude_km": 568.931268457879,
+  "altitude_miles": 353.51739121294077,
+  "velocity_km_s": 7.565971460753688,
+  "velocity_km_h": 27237.497258713276,
+  "velocity_mph": 16924.590909143928,
+  "velocity_mps": 4.70127525253998,
+  "heading_degrees": 310.1770715178018,
+  "timestamp": "2026-04-30T12:19:42.322027+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
