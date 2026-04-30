@@ -1,14 +1,14 @@
 {
-  "latitude": 23.645405306349755,
-  "longitude": 52.40344952414515,
-  "altitude_km": 567.0897852274338,
-  "altitude_miles": 352.37314693655577,
-  "velocity_km_s": 7.576389360337911,
-  "velocity_km_h": 27275.00169721648,
-  "velocity_mph": 16947.8950796011,
-  "velocity_mps": 4.707748633222528,
-  "heading_degrees": 348.2162433547504,
-  "timestamp": "2026-04-30T19:12:21.682696+00:00",
-  "location_type": "country",
-  "location_name": "United Arab Emirates"
+  "latitude": 4.642579085778695,
+  "longitude": -133.69248766472185,
+  "altitude_km": 566.3729025040157,
+  "altitude_miles": 351.9276968018227,
+  "velocity_km_s": 7.578756419531803,
+  "velocity_km_h": 27283.52311031449,
+  "velocity_mph": 16953.190038579225,
+  "velocity_mps": 4.709219455160897,
+  "heading_degrees": 191.40125213420183,
+  "timestamp": "2026-04-30T19:52:45.778394+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
