@@ -1,14 +1,14 @@
 {
-  "latitude": 79.55059621134995,
-  "longitude": 13.705452467708854,
-  "altitude_km": 560.8572314994326,
-  "altitude_miles": 348.5004187940339,
-  "velocity_km_s": 7.5747814807172436,
-  "velocity_km_h": 27269.213330582075,
-  "velocity_mph": 16944.298356437113,
-  "velocity_mps": 4.706749543454754,
-  "heading_degrees": 227.81404589005638,
-  "timestamp": "2026-05-01T13:08:08.440276+00:00",
-  "location_type": "country",
-  "location_name": "Norway"
+  "latitude": -71.76451614504846,
+  "longitude": -67.67588530377259,
+  "altitude_km": 568.4059980522543,
+  "altitude_miles": 353.1910034157273,
+  "velocity_km_s": 7.567225400867989,
+  "velocity_km_h": 27242.01144312476,
+  "velocity_mph": 16927.395892425877,
+  "velocity_mps": 4.702054414562744,
+  "heading_degrees": 206.3037993435644,
+  "timestamp": "2026-05-01T13:49:46.194150+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
