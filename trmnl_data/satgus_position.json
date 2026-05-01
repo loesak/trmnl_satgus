@@ -1,14 +1,14 @@
 {
-  "latitude": 3.965200005848721,
-  "longitude": -135.47006484471336,
-  "altitude_km": 569.1196467633272,
-  "altitude_miles": 353.6344440289754,
-  "velocity_km_s": 7.575766429520591,
-  "velocity_km_h": 27272.75914627413,
-  "velocity_mph": 16946.501623479504,
-  "velocity_mps": 4.707361562077639,
-  "heading_degrees": 348.600141423177,
-  "timestamp": "2026-05-01T07:55:14.517657+00:00",
-  "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "latitude": -26.446156929011856,
+  "longitude": 27.726971525729265,
+  "altitude_km": 567.7914862308407,
+  "altitude_miles": 352.80916359074376,
+  "velocity_km_s": 7.5752222823537885,
+  "velocity_km_h": 27270.80021647364,
+  "velocity_mph": 16945.28440131044,
+  "velocity_mps": 4.707023444808456,
+  "heading_degrees": 191.90219780692863,
+  "timestamp": "2026-05-01T08:49:14.350420+00:00",
+  "location_type": "country",
+  "location_name": "South Africa"
 }
