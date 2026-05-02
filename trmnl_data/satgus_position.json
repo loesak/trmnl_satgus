@@ -1,14 +1,14 @@
 {
-  "latitude": 55.59956082444225,
-  "longitude": 24.349090884741056,
-  "altitude_km": 561.5996342720955,
-  "altitude_miles": 348.96172634728623,
-  "velocity_km_s": 7.5769412596371835,
-  "velocity_km_h": 27276.98853469386,
-  "velocity_mph": 16949.12964279126,
-  "velocity_mps": 4.7080915674420165,
-  "heading_degrees": 195.738625577107,
-  "timestamp": "2026-05-02T10:03:27.995257+00:00",
-  "location_type": "country",
-  "location_name": "Lithuania"
+  "latitude": -43.07516073419017,
+  "longitude": -0.8497170519347925,
+  "altitude_km": 567.805237179432,
+  "altitude_miles": 352.8177080314208,
+  "velocity_km_s": 7.572397253444047,
+  "velocity_km_h": 27260.63011239857,
+  "velocity_mph": 16938.96499357121,
+  "velocity_mps": 4.705268053769781,
+  "heading_degrees": 193.23547071340607,
+  "timestamp": "2026-05-02T10:30:00.624819+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
