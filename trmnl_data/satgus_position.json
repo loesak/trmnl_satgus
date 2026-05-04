@@ -1,14 +1,14 @@
 {
-  "latitude": 25.264933442246797,
-  "longitude": -105.52776700361255,
-  "altitude_km": 563.4242153956047,
-  "altitude_miles": 350.0954681445823,
-  "velocity_km_s": 7.580069264485221,
-  "velocity_km_h": 27288.249352146795,
-  "velocity_mph": 16956.126788192807,
-  "velocity_mps": 4.710035218942447,
-  "heading_degrees": 191.8481076954792,
-  "timestamp": "2026-05-04T18:12:15.166488+00:00",
-  "location_type": "country",
-  "location_name": "Mexico"
+  "latitude": -39.79557050337836,
+  "longitude": 66.24000798817555,
+  "altitude_km": 570.8608223556121,
+  "altitude_miles": 354.716360047929,
+  "velocity_km_s": 7.569599401315074,
+  "velocity_km_h": 27250.557844734267,
+  "velocity_mph": 16932.706378540377,
+  "velocity_mps": 4.703529549594549,
+  "heading_degrees": 347.13821212399495,
+  "timestamp": "2026-05-04T18:56:21.766145+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
