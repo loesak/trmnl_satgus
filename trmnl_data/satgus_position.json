@@ -1,14 +1,14 @@
 {
-  "latitude": 22.970009977617465,
-  "longitude": -10.09131612378726,
-  "altitude_km": 563.3988724394949,
-  "altitude_miles": 350.0797207666014,
-  "velocity_km_s": 7.580392476515407,
-  "velocity_km_h": 27289.412915455465,
-  "velocity_mph": 16956.849792689478,
-  "velocity_mps": 4.710236053524855,
-  "heading_degrees": 191.75630618634534,
-  "timestamp": "2026-05-05T11:49:02.180510+00:00",
-  "location_type": "country",
-  "location_name": "Mauritania"
+  "latitude": -72.5016831087446,
+  "longitude": -45.10465281475548,
+  "altitude_km": 568.0141801333893,
+  "altitude_miles": 352.9475391236643,
+  "velocity_km_s": 7.567475557659615,
+  "velocity_km_h": 27242.912007574614,
+  "velocity_mph": 16927.955477058647,
+  "velocity_mps": 4.702209854738513,
+  "heading_degrees": 207.35112553835782,
+  "timestamp": "2026-05-05T12:14:57.164369+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
