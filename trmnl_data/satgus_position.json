@@ -1,14 +1,14 @@
 {
-  "latitude": -51.26502955545867,
-  "longitude": 46.05120611911444,
-  "altitude_km": 571.2183905831935,
-  "altitude_miles": 354.9385425750695,
-  "velocity_km_s": 7.567072413226203,
-  "velocity_km_h": 27241.46068761433,
-  "velocity_mph": 16927.053668923603,
-  "velocity_mps": 4.701959352478779,
-  "heading_degrees": 345.3732506750004,
-  "timestamp": "2026-05-08T20:30:04.907169+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 48.13124035410818,
+  "longitude": 21.072631378257906,
+  "altitude_km": 564.90810520583,
+  "altitude_miles": 351.0175142398518,
+  "velocity_km_s": 7.5745211460994435,
+  "velocity_km_h": 27268.276125957997,
+  "velocity_mph": 16943.716004662645,
+  "velocity_mps": 4.706587779072957,
+  "heading_degrees": 346.00402304195507,
+  "timestamp": "2026-05-08T20:56:50.855046+00:00",
+  "location_type": "country",
+  "location_name": "Hungary"
 }
