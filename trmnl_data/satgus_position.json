@@ -1,14 +1,14 @@
 {
-  "latitude": 28.421404685187408,
-  "longitude": 26.782845078981737,
-  "altitude_km": 568.106933480426,
-  "altitude_miles": 353.00517336366585,
-  "velocity_km_s": 7.574402013647661,
-  "velocity_km_h": 27267.84724913158,
-  "velocity_mph": 16943.44951304014,
-  "velocity_mps": 4.706513753622261,
-  "heading_degrees": 348.0049811272921,
-  "timestamp": "2026-05-10T20:51:52.899788+00:00",
-  "location_type": "country",
-  "location_name": "Egypt"
+  "latitude": 33.263631632681246,
+  "longitude": -151.84028221081638,
+  "altitude_km": 560.9529974320758,
+  "altitude_miles": 348.5599249673664,
+  "velocity_km_s": 7.581442578639314,
+  "velocity_km_h": 27293.193283101533,
+  "velocity_mph": 16959.198803514082,
+  "velocity_mps": 4.71088855653169,
+  "heading_degrees": 192.28643002674133,
+  "timestamp": "2026-05-10T21:23:19.345159+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
