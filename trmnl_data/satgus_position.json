@@ -1,14 +1,14 @@
 {
-  "latitude": 65.18389528385644,
-  "longitude": 6.167386733780394,
-  "altitude_km": 559.1806993649507,
-  "altitude_miles": 347.45867034509877,
-  "velocity_km_s": 7.57792632612158,
-  "velocity_km_h": 27280.53477403769,
-  "velocity_mph": 16951.333173078572,
-  "velocity_mps": 4.708703659188492,
-  "heading_degrees": 200.03475636408865,
-  "timestamp": "2026-05-11T11:38:42.380640+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -19.289868205603995,
+  "longitude": 156.82826740290392,
+  "altitude_km": 572.5771016347317,
+  "altitude_miles": 355.78280621987483,
+  "velocity_km_s": 7.5707267706437005,
+  "velocity_km_h": 27254.61637431732,
+  "velocity_mph": 16935.228231125926,
+  "velocity_mps": 4.704230064201647,
+  "heading_degrees": 348.3567363692562,
+  "timestamp": "2026-05-11T12:39:12.486175+00:00",
+  "location_type": "ocean",
+  "location_name": "Coral Sea"
 }
