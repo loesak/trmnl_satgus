@@ -1,14 +1,14 @@
 {
-  "latitude": 16.70709047933493,
-  "longitude": -90.7232860375726,
-  "altitude_km": 570.2902729035868,
-  "altitude_miles": 354.36183716437466,
-  "velocity_km_s": 7.573456639496351,
-  "velocity_km_h": 27264.443902186864,
-  "velocity_mph": 16941.334771945752,
-  "velocity_mps": 4.705926325540487,
-  "heading_degrees": 348.4291895172588,
-  "timestamp": "2026-05-15T04:49:26.605225+00:00",
-  "location_type": "country",
-  "location_name": "Guatemala"
+  "latitude": -43.552532537513535,
+  "longitude": -101.0154832445697,
+  "altitude_km": 573.1326354877838,
+  "altitude_miles": 356.1279988456797,
+  "velocity_km_s": 7.566302892709043,
+  "velocity_km_h": 27238.690413752556,
+  "velocity_mph": 16925.33230108384,
+  "velocity_mps": 4.701481194745511,
+  "heading_degrees": 346.6972111140364,
+  "timestamp": "2026-05-15T06:09:15.489033+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
