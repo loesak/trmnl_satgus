@@ -1,14 +1,14 @@
 {
-  "latitude": 54.31306944404809,
-  "longitude": 143.17009429544933,
-  "altitude_km": 558.4591423841821,
-  "altitude_miles": 347.0103157624016,
-  "velocity_km_s": 7.5803937086379385,
-  "velocity_km_h": 27289.417351096577,
-  "velocity_mph": 16956.85254886823,
-  "velocity_mps": 4.710236819130064,
-  "heading_degrees": 195.36338081150788,
-  "timestamp": "2026-05-15T02:06:18.026855+00:00",
-  "location_type": "ocean",
-  "location_name": "Sea of Okhotsk"
+  "latitude": 53.70059185765853,
+  "longitude": -77.45811308578833,
+  "altitude_km": 563.981209545811,
+  "altitude_miles": 350.44156815669015,
+  "velocity_km_s": 7.574472259059177,
+  "velocity_km_h": 27268.100132613035,
+  "velocity_mph": 16943.606647501896,
+  "velocity_mps": 4.70655740208386,
+  "heading_degrees": 344.802979957699,
+  "timestamp": "2026-05-15T03:23:25.826778+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
