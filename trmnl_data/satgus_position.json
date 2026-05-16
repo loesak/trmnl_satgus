@@ -1,14 +1,14 @@
 {
-  "latitude": 16.72819814394442,
-  "longitude": -11.886734068204817,
-  "altitude_km": 560.9009072891922,
-  "altitude_miles": 348.5275576631927,
-  "velocity_km_s": 7.583697804548173,
-  "velocity_km_h": 27301.31209637342,
-  "velocity_mph": 16964.24359863565,
-  "velocity_mps": 4.712289888509903,
-  "heading_degrees": 191.56374091204253,
-  "timestamp": "2026-05-16T11:52:38.838567+00:00",
-  "location_type": "country",
-  "location_name": "Mauritania"
+  "latitude": -45.64827887538744,
+  "longitude": 163.6468810124922,
+  "altitude_km": 573.4013714199591,
+  "altitude_miles": 356.2949835605914,
+  "velocity_km_s": 7.565624391560133,
+  "velocity_km_h": 27236.24780961648,
+  "velocity_mph": 16923.814537709204,
+  "velocity_mps": 4.701059593808112,
+  "heading_degrees": 346.40081998439956,
+  "timestamp": "2026-05-16T12:32:52.743170+00:00",
+  "location_type": "ocean",
+  "location_name": "Tasman Sea"
 }
