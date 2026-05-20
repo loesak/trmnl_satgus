@@ -1,14 +1,14 @@
 {
-  "latitude": 20.593937799094356,
-  "longitude": 28.27696456708514,
-  "altitude_km": 569.9024080259933,
-  "altitude_miles": 354.12082917751945,
-  "velocity_km_s": 7.573394266034736,
-  "velocity_km_h": 27264.21935772505,
-  "velocity_mph": 16941.195246528972,
-  "velocity_mps": 4.70588756848027,
-  "heading_degrees": 348.3256118088906,
-  "timestamp": "2026-05-20T20:51:13.903747+00:00",
-  "location_type": "country",
-  "location_name": "Sudan"
+  "latitude": -24.481000408558184,
+  "longitude": -164.5805117288851,
+  "altitude_km": 564.5714641527538,
+  "altitude_miles": 350.80833525206083,
+  "velocity_km_s": 7.57871196696494,
+  "velocity_km_h": 27283.363081073785,
+  "velocity_mph": 16953.0906010499,
+  "velocity_mps": 4.709191833624972,
+  "heading_degrees": 191.8079672408711,
+  "timestamp": "2026-05-20T21:40:12.368293+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
