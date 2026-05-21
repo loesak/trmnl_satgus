@@ -1,14 +1,14 @@
 {
-  "latitude": -46.25190961059536,
-  "longitude": 19.721327775468314,
-  "altitude_km": 574.588382360821,
-  "altitude_miles": 357.0325577359257,
-  "velocity_km_s": 7.564144457214818,
-  "velocity_km_h": 27230.920045973344,
-  "velocity_mph": 16920.504019886503,
-  "velocity_mps": 4.7001400055240286,
-  "heading_degrees": 346.309985995602,
-  "timestamp": "2026-05-21T22:09:21.790501+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 81.14415763245722,
+  "longitude": -56.8304381455159,
+  "altitude_km": 557.9152928570202,
+  "altitude_miles": 346.6723834378595,
+  "velocity_km_s": 7.577584699641788,
+  "velocity_km_h": 27279.304918710437,
+  "velocity_mph": 16950.568976644023,
+  "velocity_mps": 4.708491382401117,
+  "heading_degrees": 299.7512063592405,
+  "timestamp": "2026-05-21T22:44:37.427287+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
