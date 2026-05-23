@@ -1,14 +1,14 @@
 {
-  "latitude": -21.813419059401436,
-  "longitude": 27.97928209919491,
-  "altitude_km": 564.1903214566046,
-  "altitude_miles": 350.5715042338118,
-  "velocity_km_s": 7.579432146650032,
-  "velocity_km_h": 27285.955727940116,
-  "velocity_mph": 16954.701596625877,
-  "velocity_mps": 4.709639332396077,
-  "heading_degrees": 191.70733043189037,
-  "timestamp": "2026-05-23T08:51:43.391714+00:00",
-  "location_type": "country",
-  "location_name": "Botswana"
+  "latitude": 27.129728758762848,
+  "longitude": -165.2632613423721,
+  "altitude_km": 568.5629142902189,
+  "altitude_miles": 353.28850661542765,
+  "velocity_km_s": 7.573945380210107,
+  "velocity_km_h": 27266.203368756385,
+  "velocity_mph": 16942.428053447526,
+  "velocity_mps": 4.706230014846534,
+  "heading_degrees": 348.07262232126874,
+  "timestamp": "2026-05-23T09:41:13.910940+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
