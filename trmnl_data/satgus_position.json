@@ -1,14 +1,14 @@
 {
-  "latitude": 21.723330493314965,
-  "longitude": 99.97501112270477,
-  "altitude_km": 569.5958657873689,
-  "altitude_miles": 353.9303527201632,
-  "velocity_km_s": 7.573545014771466,
-  "velocity_km_h": 27264.762053177277,
-  "velocity_mph": 16941.532461744817,
-  "velocity_mps": 4.7059812393735605,
-  "heading_degrees": 348.2904036672805,
-  "timestamp": "2026-05-23T16:03:48.143428+00:00",
-  "location_type": "country",
-  "location_name": "Myanmar"
+  "latitude": -64.89169153003662,
+  "longitude": -108.54879833409818,
+  "altitude_km": 568.9911341038296,
+  "altitude_miles": 353.5545899892307,
+  "velocity_km_s": 7.5671038907715,
+  "velocity_km_h": 27241.5740067774,
+  "velocity_mph": 16927.12408216528,
+  "velocity_mps": 4.701978911712578,
+  "heading_degrees": 199.8329223223295,
+  "timestamp": "2026-05-23T17:03:29.061063+00:00",
+  "location_type": "ocean",
+  "location_name": "SOUTHERN OCEAN"
 }
