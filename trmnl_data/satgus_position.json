@@ -1,14 +1,14 @@
 {
-  "latitude": 81.45607741320477,
-  "longitude": 149.7220081366021,
-  "altitude_km": 556.1942549230043,
-  "altitude_miles": 345.6029803757621,
-  "velocity_km_s": 7.579389776788738,
-  "velocity_km_h": 27285.803196439458,
-  "velocity_mph": 16954.60681797478,
-  "velocity_mps": 4.709613004992995,
-  "heading_degrees": 244.00326333813982,
-  "timestamp": "2026-05-25T05:11:06.435944+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": 71.75008260200963,
+  "longitude": 85.43063547881309,
+  "altitude_km": 555.4087459000621,
+  "altitude_miles": 345.1148878486675,
+  "velocity_km_s": 7.581045963939458,
+  "velocity_km_h": 27291.765470182047,
+  "velocity_mph": 16958.311601972488,
+  "velocity_mps": 4.710642111659025,
+  "heading_degrees": 206.26093802248238,
+  "timestamp": "2026-05-25T06:50:32.430898+00:00",
+  "location_type": "country",
+  "location_name": "Russia"
 }
