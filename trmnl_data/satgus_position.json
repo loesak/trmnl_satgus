@@ -1,14 +1,14 @@
 {
-  "latitude": 54.24173792022784,
-  "longitude": 66.04712786167484,
-  "altitude_km": 561.5437585076243,
-  "altitude_miles": 348.927006767641,
-  "velocity_km_s": 7.576803851633382,
-  "velocity_km_h": 27276.493865880177,
-  "velocity_mph": 16948.82226993583,
-  "velocity_mps": 4.708006186093287,
-  "heading_degrees": 344.6679632203237,
-  "timestamp": "2026-05-28T17:48:51.493610+00:00",
-  "location_type": "country",
-  "location_name": "Kazakhstan"
+  "latitude": -80.28934607976831,
+  "longitude": -168.89910199580822,
+  "altitude_km": 571.8419040239523,
+  "altitude_miles": 355.32597574526727,
+  "velocity_km_s": 7.562279721933301,
+  "velocity_km_h": 27224.206998959882,
+  "velocity_mph": 16916.3327271507,
+  "velocity_mps": 4.698981313097417,
+  "heading_degrees": 232.57115574999818,
+  "timestamp": "2026-05-28T18:44:33.976103+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
