@@ -1,14 +1,14 @@
 {
-  "latitude": -59.01152954097458,
-  "longitude": -176.42975858978107,
-  "altitude_km": 569.2725775424469,
-  "altitude_miles": 353.72947078012777,
-  "velocity_km_s": 7.56752312743506,
-  "velocity_km_h": 27243.083258766215,
-  "velocity_mph": 16928.061887582822,
-  "velocity_mps": 4.702239413217451,
-  "heading_degrees": 196.88503864875298,
-  "timestamp": "2026-05-29T21:50:05.299028+00:00",
-  "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "latitude": 16.82272648271417,
+  "longitude": 5.010474527010084,
+  "altitude_km": 569.9528548467997,
+  "altitude_miles": 354.15217536901076,
+  "velocity_km_s": 7.573539397903749,
+  "velocity_km_h": 27264.7418324535,
+  "velocity_mph": 16941.519897173464,
+  "velocity_mps": 4.705977749214851,
+  "heading_degrees": 348.4310941289406,
+  "timestamp": "2026-05-29T22:26:44.970971+00:00",
+  "location_type": "country",
+  "location_name": "Niger"
 }
