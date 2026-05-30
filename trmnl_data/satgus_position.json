@@ -1,14 +1,14 @@
 {
-  "latitude": 30.236785173710057,
-  "longitude": -104.99170940902253,
-  "altitude_km": 556.4869275892488,
-  "altitude_miles": 345.78483868305915,
-  "velocity_km_s": 7.58647031152886,
-  "velocity_km_h": 27311.293121503895,
-  "velocity_mph": 16970.445518201996,
-  "velocity_mps": 4.714012643944999,
-  "heading_degrees": 192.08314990753294,
-  "timestamp": "2026-05-30T18:14:04.156388+00:00",
-  "location_type": "country",
-  "location_name": "Mexico"
+  "latitude": -79.80824872941305,
+  "longitude": -165.45525350593803,
+  "altitude_km": 572.2186964806451,
+  "altitude_miles": 355.56010365087496,
+  "velocity_km_s": 7.5618369050814165,
+  "velocity_km_h": 27222.612858293098,
+  "velocity_mph": 16915.342174370442,
+  "velocity_mps": 4.698706159547345,
+  "heading_degrees": 229.29169846875652,
+  "timestamp": "2026-05-30T18:44:21.018963+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
