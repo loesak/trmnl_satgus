@@ -1,14 +1,14 @@
 {
-  "latitude": 28.107934884397032,
-  "longitude": -9.513736669334103,
-  "altitude_km": 556.8097424613725,
-  "altitude_miles": 345.98542648296547,
-  "velocity_km_s": 7.5864519871748755,
-  "velocity_km_h": 27311.22715382955,
-  "velocity_mph": 16970.40452780222,
-  "velocity_mps": 4.714001257722839,
-  "heading_degrees": 191.96709392684926,
-  "timestamp": "2026-05-30T11:50:38.761849+00:00",
-  "location_type": "country",
-  "location_name": "Morocco"
+  "latitude": -71.28174803303278,
+  "longitude": -43.73674849729918,
+  "altitude_km": 570.9610546233589,
+  "altitude_miles": 354.77864147237113,
+  "velocity_km_s": 7.563968037873516,
+  "velocity_km_h": 27230.28493634466,
+  "velocity_mph": 16920.109381181417,
+  "velocity_mps": 4.700030383661504,
+  "heading_degrees": 205.6400463722052,
+  "timestamp": "2026-05-30T12:17:33.868843+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
