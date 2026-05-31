@@ -1,14 +1,14 @@
 {
-  "latitude": 50.51860275854172,
-  "longitude": -122.71060578924836,
-  "altitude_km": 554.0530599788444,
-  "altitude_miles": 344.27250393211455,
-  "velocity_km_s": 7.585540626259104,
-  "velocity_km_h": 27307.946254532773,
-  "velocity_mph": 16968.365872125283,
-  "velocity_mps": 4.713434964479246,
-  "heading_degrees": 194.44625432906076,
-  "timestamp": "2026-05-31T19:44:33.216609+00:00",
-  "location_type": "country",
-  "location_name": "Canada"
+  "latitude": -71.98376737329521,
+  "longitude": -164.80877942580844,
+  "altitude_km": 571.3522878786616,
+  "altitude_miles": 355.02174247145183,
+  "velocity_km_s": 7.563419156689278,
+  "velocity_km_h": 27228.3089640814,
+  "velocity_mph": 16918.881569320223,
+  "velocity_mps": 4.699689324811174,
+  "heading_degrees": 206.57629731172796,
+  "timestamp": "2026-05-31T20:17:43.573874+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
