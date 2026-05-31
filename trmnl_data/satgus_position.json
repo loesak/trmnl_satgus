@@ -1,14 +1,14 @@
 {
-  "latitude": 59.12134868936725,
-  "longitude": 25.472013612234655,
-  "altitude_km": 553.6595512229978,
-  "altitude_miles": 344.0279890029854,
-  "velocity_km_s": 7.584510492987877,
-  "velocity_km_h": 27304.23777475636,
-  "velocity_mph": 16966.061530338135,
-  "velocity_mps": 4.71279486953837,
-  "heading_degrees": 196.92488600072372,
-  "timestamp": "2026-05-31T10:06:12.808665+00:00",
-  "location_type": "country",
-  "location_name": "Estonia"
+  "latitude": -67.61362624292566,
+  "longitude": -159.87108209754697,
+  "altitude_km": 575.0021074597116,
+  "altitude_miles": 357.28963451434845,
+  "velocity_km_s": 7.559973828645669,
+  "velocity_km_h": 27215.905783124406,
+  "velocity_mph": 16911.174592365795,
+  "velocity_mps": 4.697548497879388,
+  "heading_degrees": 338.1590176892317,
+  "timestamp": "2026-05-31T10:51:48.952540+00:00",
+  "location_type": "ocean",
+  "location_name": "SOUTHERN OCEAN"
 }
