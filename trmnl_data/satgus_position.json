@@ -1,14 +1,14 @@
 {
-  "latitude": -11.584598435848065,
-  "longitude": 34.8439786747347,
-  "altitude_km": 574.4833001884117,
-  "altitude_miles": 356.9672627213736,
-  "velocity_km_s": 7.568978598747012,
-  "velocity_km_h": 27248.322955489246,
-  "velocity_mph": 16931.317683175308,
-  "velocity_mps": 4.70314380088203,
-  "heading_degrees": 348.52641861362144,
-  "timestamp": "2026-05-31T20:43:05.209550+00:00",
-  "location_type": "country",
-  "location_name": "Mozambique"
+  "latitude": 74.11629268072508,
+  "longitude": -126.2496811198079,
+  "altitude_km": 553.463841809531,
+  "altitude_miles": 343.9063808490301,
+  "velocity_km_s": 7.582731871175817,
+  "velocity_km_h": 27297.83473623294,
+  "velocity_mph": 16962.0828678878,
+  "velocity_mps": 4.711689685524388,
+  "heading_degrees": 210.04081814856224,
+  "timestamp": "2026-05-31T21:13:54.553360+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
