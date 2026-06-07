@@ -1,14 +1,14 @@
 {
-  "latitude": -76.47525189834438,
-  "longitude": -174.49828804420338,
-  "altitude_km": 573.35546491274,
-  "altitude_miles": 356.26645858829414,
-  "velocity_km_s": 7.560607676497785,
-  "velocity_km_h": 27218.187635392027,
-  "velocity_mph": 16912.59246919118,
-  "velocity_mps": 4.697942352553105,
-  "heading_degrees": 215.4425455744828,
-  "timestamp": "2026-06-07T20:18:25.877056+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": 16.583381228985285,
+  "longitude": 29.29091425411885,
+  "altitude_km": 568.0418501700769,
+  "altitude_miles": 352.9647324820309,
+  "velocity_km_s": 7.575390343390836,
+  "velocity_km_h": 27271.40523620701,
+  "velocity_mph": 16945.660343027186,
+  "velocity_mps": 4.707127873063107,
+  "heading_degrees": 348.4423643005536,
+  "timestamp": "2026-06-07T20:49:56.992094+00:00",
+  "location_type": "country",
+  "location_name": "Sudan"
 }
