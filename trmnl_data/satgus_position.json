@@ -1,14 +1,14 @@
 {
-  "latitude": 43.04600641738448,
-  "longitude": 94.58566428178979,
-  "altitude_km": 561.3261066851419,
-  "altitude_miles": 348.7917642370533,
-  "velocity_km_s": 7.578756946094699,
-  "velocity_km_h": 27283.525005940915,
-  "velocity_mph": 16953.191216466512,
-  "velocity_mps": 4.709219782351809,
-  "heading_degrees": 346.78877652409057,
-  "timestamp": "2026-06-07T16:09:06.048693+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": -1.5398755974562182,
+  "longitude": -87.59841476658511,
+  "altitude_km": 561.7063264257677,
+  "altitude_miles": 349.02802175750566,
+  "velocity_km_s": 7.583139377649603,
+  "velocity_km_h": 27299.30175953857,
+  "velocity_mph": 16962.99443362624,
+  "velocity_mps": 4.711942898229512,
+  "heading_degrees": 191.3725754323859,
+  "timestamp": "2026-06-07T16:45:50.966531+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
