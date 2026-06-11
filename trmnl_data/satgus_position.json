@@ -1,14 +1,14 @@
 {
-  "latitude": 46.66364806231923,
-  "longitude": 21.555902235172056,
-  "altitude_km": 559.1656225485749,
-  "altitude_miles": 347.44930204863056,
-  "velocity_km_s": 7.580396592479211,
-  "velocity_km_h": 27289.42773292516,
-  "velocity_mph": 16956.85899983544,
-  "velocity_mps": 4.7102386110653995,
-  "heading_degrees": 346.2712175048611,
-  "timestamp": "2026-06-11T20:57:23.561432+00:00",
-  "location_type": "country",
-  "location_name": "Romania"
+  "latitude": -55.193517361242435,
+  "longitude": -173.95847764924008,
+  "altitude_km": 571.585793914307,
+  "altitude_miles": 355.1668363503269,
+  "velocity_km_s": 7.565315316946889,
+  "velocity_km_h": 27235.135141008803,
+  "velocity_mph": 16923.12315770378,
+  "velocity_mps": 4.700867543806606,
+  "heading_degrees": 195.59641677377311,
+  "timestamp": "2026-06-11T21:47:37.343186+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
