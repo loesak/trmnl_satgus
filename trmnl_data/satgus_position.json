@@ -1,14 +1,14 @@
 {
-  "latitude": 39.88560072925324,
-  "longitude": 119.84901091563857,
-  "altitude_km": 560.5323932514875,
-  "altitude_miles": 348.29857372707005,
-  "velocity_km_s": 7.580088948354416,
-  "velocity_km_h": 27288.3202140759,
-  "velocity_mph": 16956.170819740557,
-  "velocity_mps": 4.710047449927932,
-  "heading_degrees": 347.15792063237086,
-  "timestamp": "2026-06-13T14:31:12.606556+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -36.8335764884947,
+  "longitude": -71.24552493650573,
+  "altitude_km": 569.1489242469825,
+  "altitude_miles": 353.65263620827176,
+  "velocity_km_s": 7.571207119060598,
+  "velocity_km_h": 27256.345628618154,
+  "velocity_mph": 16936.30273960009,
+  "velocity_mps": 4.704528538777803,
+  "heading_degrees": 192.5573685871566,
+  "timestamp": "2026-06-13T15:18:16.398356+00:00",
+  "location_type": "country",
+  "location_name": "Chile"
 }
