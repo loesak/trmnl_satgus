@@ -1,14 +1,14 @@
 {
-  "latitude": 62.94725491163552,
-  "longitude": 52.59906652634033,
-  "altitude_km": 551.2280560478584,
-  "altitude_miles": 342.5171284145139,
-  "velocity_km_s": 7.586237458914752,
-  "velocity_km_h": 27310.454852093106,
-  "velocity_mph": 16969.924641899946,
-  "velocity_mps": 4.713867956083319,
-  "heading_degrees": 198.67286996493743,
-  "timestamp": "2026-06-15T08:27:02.341782+00:00",
-  "location_type": "country",
-  "location_name": "Russia"
+  "latitude": -73.79723949050438,
+  "longitude": -23.47518151661197,
+  "altitude_km": 574.2780572311603,
+  "altitude_miles": 356.83973069978333,
+  "velocity_km_s": 7.55971275456984,
+  "velocity_km_h": 27214.965916451423,
+  "velocity_mph": 16910.59058647134,
+  "velocity_mps": 4.697386274019816,
+  "heading_degrees": 209.43365406576174,
+  "timestamp": "2026-06-15T10:40:10.538621+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
