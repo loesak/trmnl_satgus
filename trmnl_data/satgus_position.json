@@ -1,14 +1,14 @@
 {
-  "latitude": 77.08529382817204,
-  "longitude": 74.31556739737891,
-  "altitude_km": 550.5184938772127,
-  "altitude_miles": 342.0762270589775,
-  "velocity_km_s": 7.585350353819065,
-  "velocity_km_h": 27307.261273748634,
-  "velocity_mph": 16967.94024493046,
-  "velocity_mps": 4.713316734702906,
-  "heading_degrees": 217.24946517512717,
-  "timestamp": "2026-06-16T08:22:38.533926+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 6.565619438718277,
+  "longitude": 10.495262035392477,
+  "altitude_km": 561.3539017323637,
+  "altitude_miles": 348.8090352733406,
+  "velocity_km_s": 7.583249780884034,
+  "velocity_km_h": 27299.699211182524,
+  "velocity_mph": 16963.241398551698,
+  "velocity_mps": 4.712011499597693,
+  "heading_degrees": 191.39642921931616,
+  "timestamp": "2026-06-16T10:18:00.602324+00:00",
+  "location_type": "country",
+  "location_name": "Cameroon"
 }
