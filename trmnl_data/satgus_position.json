@@ -1,14 +1,14 @@
 {
-  "latitude": 41.88753919008447,
-  "longitude": 71.94724880843656,
-  "altitude_km": 557.0542198050434,
-  "altitude_miles": 346.13733761447963,
-  "velocity_km_s": 7.583362379199545,
-  "velocity_km_h": 27300.104565118363,
-  "velocity_mph": 16963.49327373216,
-  "velocity_mps": 4.712081464925601,
-  "heading_degrees": 346.9406749981071,
-  "timestamp": "2026-06-23T17:41:07.242443+00:00",
-  "location_type": "country",
-  "location_name": "Kyrgyzstan"
+  "latitude": -41.19678773569026,
+  "longitude": -119.81289032216654,
+  "altitude_km": 572.1879818231655,
+  "altitude_miles": 355.5410184534422,
+  "velocity_km_s": 7.566953101343275,
+  "velocity_km_h": 27241.03116483579,
+  "velocity_mph": 16926.78677592518,
+  "velocity_mps": 4.701885215534772,
+  "heading_degrees": 192.99124249984956,
+  "timestamp": "2026-06-23T18:28:49.717401+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
