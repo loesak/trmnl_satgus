@@ -1,14 +1,14 @@
 {
-  "latitude": -48.596372556412,
-  "longitude": -26.268204205009795,
-  "altitude_km": 575.123746269066,
-  "altitude_miles": 357.3652173429558,
-  "velocity_km_s": 7.56241710204441,
-  "velocity_km_h": 27224.701567359876,
-  "velocity_mph": 16916.640037611975,
-  "velocity_mps": 4.699066677114438,
-  "heading_degrees": 345.92653705442785,
-  "timestamp": "2026-06-24T01:16:42.068343+00:00",
-  "location_type": "ocean",
-  "location_name": "South Atlantic Ocean"
+  "latitude": 36.1126842042901,
+  "longitude": 137.76910992235565,
+  "altitude_km": 556.0345459077134,
+  "altitude_miles": 345.5037418252218,
+  "velocity_km_s": 7.5854981010794935,
+  "velocity_km_h": 27307.793163886177,
+  "velocity_mph": 16968.270746037117,
+  "velocity_mps": 4.713408540565866,
+  "heading_degrees": 192.48520666499033,
+  "timestamp": "2026-06-24T02:07:59.996744+00:00",
+  "location_type": "country",
+  "location_name": "Japan"
 }
