@@ -1,14 +1,14 @@
 {
-  "latitude": 72.14259474374755,
-  "longitude": -128.5832727442186,
-  "altitude_km": 550.4392604998939,
-  "altitude_miles": 342.02699373607953,
-  "velocity_km_s": 7.585741916033225,
-  "velocity_km_h": 27308.67089771961,
-  "velocity_mph": 16968.816144386932,
-  "velocity_mps": 4.713560040107481,
-  "heading_degrees": 206.7730949525979,
-  "timestamp": "2026-06-25T21:09:28.960274+00:00",
-  "location_type": "ocean",
-  "location_name": "Beaufort Sea"
+  "latitude": -78.67281877582442,
+  "longitude": 154.33890528165057,
+  "altitude_km": 575.5695023787912,
+  "altitude_miles": 357.6421972626119,
+  "velocity_km_s": 7.557720466762197,
+  "velocity_km_h": 27207.793680343908,
+  "velocity_mph": 16906.133966948975,
+  "velocity_mps": 4.696148324152493,
+  "heading_degrees": 223.2047634845322,
+  "timestamp": "2026-06-25T21:50:52.849613+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
