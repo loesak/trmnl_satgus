@@ -1,14 +1,14 @@
 {
-  "latitude": 5.485041793363223,
-  "longitude": -36.858631181229896,
-  "altitude_km": 563.9295814214802,
-  "altitude_miles": 350.40948793744656,
-  "velocity_km_s": 7.580266922794913,
-  "velocity_km_h": 27288.960922061688,
-  "velocity_mph": 16956.568937102395,
-  "velocity_mps": 4.710158038083998,
-  "heading_degrees": 191.3877144581526,
-  "timestamp": "2026-06-27T13:27:02.316553+00:00",
-  "location_type": "ocean",
-  "location_name": "North Atlantic Ocean"
+  "latitude": -22.30022610639995,
+  "longitude": 134.66146618539318,
+  "altitude_km": 570.9707390911099,
+  "altitude_miles": 354.784659119782,
+  "velocity_km_s": 7.571188651009596,
+  "velocity_km_h": 27256.279143634543,
+  "velocity_mph": 16936.26142775934,
+  "velocity_mps": 4.704517063266484,
+  "heading_degrees": 348.2763046393844,
+  "timestamp": "2026-06-27T14:10:37.907873+00:00",
+  "location_type": "country",
+  "location_name": "Australia"
 }
