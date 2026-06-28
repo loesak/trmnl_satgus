@@ -1,14 +1,14 @@
 {
-  "latitude": -65.66071985433258,
-  "longitude": 127.8376662473141,
-  "altitude_km": 575.1107438490035,
-  "altitude_miles": 357.35713801619914,
-  "velocity_km_s": 7.559515334214918,
-  "velocity_km_h": 27214.255203173707,
-  "velocity_mph": 16910.14896985125,
-  "velocity_mps": 4.697263602736458,
-  "heading_degrees": 339.668925149251,
-  "timestamp": "2026-06-28T15:34:23.632122+00:00",
-  "location_type": "ocean",
-  "location_name": "SOUTHERN OCEAN"
+  "latitude": 49.00994938915613,
+  "longitude": 93.93548078757159,
+  "altitude_km": 554.6252582737088,
+  "altitude_miles": 344.62805135879273,
+  "velocity_km_s": 7.584604986787948,
+  "velocity_km_h": 27304.57795243661,
+  "velocity_mph": 16966.27290688349,
+  "velocity_mps": 4.712853585245414,
+  "heading_degrees": 345.87114343313016,
+  "timestamp": "2026-06-28T16:05:22.122601+00:00",
+  "location_type": "country",
+  "location_name": "Mongolia"
 }
