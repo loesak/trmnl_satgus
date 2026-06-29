@@ -1,14 +1,14 @@
 {
-  "latitude": 39.971003823002384,
-  "longitude": 49.08568223556376,
-  "altitude_km": 556.431727257037,
-  "altitude_miles": 345.75053879743234,
-  "velocity_km_s": 7.58424749532221,
-  "velocity_km_h": 27303.290983159957,
-  "velocity_mph": 16965.473221497086,
-  "velocity_mps": 4.7126314504158575,
-  "heading_degrees": 347.1574615918303,
-  "timestamp": "2026-06-29T19:14:29.653040+00:00",
-  "location_type": "country",
-  "location_name": "Azerbaijan"
+  "latitude": -44.13643763342131,
+  "longitude": -144.19601066949082,
+  "altitude_km": 573.0802764539121,
+  "altitude_miles": 356.09546446044385,
+  "velocity_km_s": 7.565310981779047,
+  "velocity_km_h": 27235.119534404566,
+  "velocity_mph": 16923.1134602125,
+  "velocity_mps": 4.700864850059028,
+  "heading_degrees": 193.35771858072872,
+  "timestamp": "2026-06-29T20:03:31.597283+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
