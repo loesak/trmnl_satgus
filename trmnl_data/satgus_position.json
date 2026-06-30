@@ -1,14 +1,14 @@
 {
-  "latitude": 50.365460349932405,
-  "longitude": 93.60384588723959,
-  "altitude_km": 554.0294493104511,
-  "altitude_miles": 344.2578329474843,
-  "velocity_km_s": 7.58497781521326,
-  "velocity_km_h": 27305.920134767737,
-  "velocity_mph": 16967.106900060764,
-  "velocity_mps": 4.713085250016879,
-  "heading_degrees": 345.604898840864,
-  "timestamp": "2026-06-30T16:04:58.204874+00:00",
-  "location_type": "country",
-  "location_name": "Mongolia"
+  "latitude": -59.515457256019275,
+  "longitude": -102.86166463308089,
+  "altitude_km": 574.4912798196765,
+  "altitude_miles": 356.9722210328322,
+  "velocity_km_s": 7.561069833703036,
+  "velocity_km_h": 27219.85140133093,
+  "velocity_mph": 16913.6262850964,
+  "velocity_mps": 4.698229523637889,
+  "heading_degrees": 197.06917872538546,
+  "timestamp": "2026-06-30T16:55:24.592603+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
