@@ -1,14 +1,14 @@
 {
-  "latitude": -9.555560540803128,
-  "longitude": 38.3453729569354,
-  "altitude_km": 563.81079801346,
-  "altitude_miles": 350.3356793724217,
-  "velocity_km_s": 7.57982598849049,
-  "velocity_km_h": 27287.373558565763,
-  "velocity_mph": 16955.582595459568,
-  "velocity_mps": 4.709884054294324,
-  "heading_degrees": 348.5764494558855,
-  "timestamp": "2026-07-16T20:28:46.948292+00:00",
-  "location_type": "country",
-  "location_name": "United Republic of Tanzania"
+  "latitude": -72.02664584042473,
+  "longitude": 175.08269938716055,
+  "altitude_km": 572.5194624126561,
+  "altitude_miles": 355.7469908788146,
+  "velocity_km_s": 7.561207681399222,
+  "velocity_km_h": 27220.3476530372,
+  "velocity_mph": 16913.934641515378,
+  "velocity_mps": 4.698315178198716,
+  "heading_degrees": 206.59720466300826,
+  "timestamp": "2026-07-16T21:38:53.367741+00:00",
+  "location_type": "ocean",
+  "location_name": "Ross Sea"
 }
