@@ -1,14 +1,14 @@
 {
-  "latitude": 6.649467050348643,
-  "longitude": 14.625533707463273,
-  "altitude_km": 567.2343903057126,
-  "altitude_miles": 352.46300033865094,
-  "velocity_km_s": 7.576150207603396,
-  "velocity_km_h": 27274.140747372225,
-  "velocity_mph": 16947.360110335427,
-  "velocity_mps": 4.70760003064873,
-  "heading_degrees": 191.3961978790264,
-  "timestamp": "2026-07-22T10:02:10.036939+00:00",
-  "location_type": "country",
-  "location_name": "Cameroon"
+  "latitude": -80.07583994622605,
+  "longitude": -66.3802247294497,
+  "altitude_km": 570.6906492455482,
+  "altitude_miles": 354.61061941235556,
+  "velocity_km_s": 7.562426060619267,
+  "velocity_km_h": 27224.73381822936,
+  "velocity_mph": 16916.660077366996,
+  "velocity_mps": 4.699072243713054,
+  "heading_degrees": 230.93058022687802,
+  "timestamp": "2026-07-22T12:02:14.305152+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
