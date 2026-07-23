@@ -1,14 +1,14 @@
 {
-  "latitude": -54.392028722041566,
-  "longitude": -116.12285401490193,
-  "altitude_km": 567.7826630923055,
-  "altitude_miles": 352.80368114832896,
-  "velocity_km_s": 7.568808675267797,
-  "velocity_km_h": 27247.71123096407,
-  "velocity_mph": 16930.937575295375,
-  "velocity_mps": 4.703038215359826,
-  "heading_degrees": 344.63841257985337,
-  "timestamp": "2026-07-23T07:24:47.787291+00:00",
-  "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "latitude": 7.210452279840009,
+  "longitude": 14.902744230466656,
+  "altitude_km": 567.1017922480478,
+  "altitude_miles": 352.3806077509617,
+  "velocity_km_s": 7.5762371219538505,
+  "velocity_km_h": 27274.45363903386,
+  "velocity_mph": 16947.55453214011,
+  "velocity_mps": 4.707654036705586,
+  "heading_degrees": 191.40107988913496,
+  "timestamp": "2026-07-23T10:01:22.885712+00:00",
+  "location_type": "country",
+  "location_name": "Cameroon"
 }
