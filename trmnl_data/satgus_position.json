@@ -1,14 +1,14 @@
 {
-  "latitude": -26.144122584306942,
-  "longitude": 116.26122102705538,
-  "altitude_km": 564.3577458039281,
-  "altitude_miles": 350.6755368679326,
-  "velocity_km_s": 7.5771846602653685,
-  "velocity_km_h": 27277.864776955328,
-  "velocity_mph": 16949.674114321508,
-  "velocity_mps": 4.708242809533752,
-  "heading_degrees": 348.1311544693028,
-  "timestamp": "2026-07-30T15:27:18.273500+00:00",
-  "location_type": "country",
-  "location_name": "Australia"
+  "latitude": -19.28137277621681,
+  "longitude": 90.72769402531996,
+  "altitude_km": 563.7537763564678,
+  "altitude_miles": 350.3002477683948,
+  "velocity_km_s": 7.578720511690069,
+  "velocity_km_h": 27283.393842084246,
+  "velocity_mph": 16953.10971504973,
+  "velocity_mps": 4.709197143069369,
+  "heading_degrees": 348.381075238018,
+  "timestamp": "2026-07-30T17:05:05.649097+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
