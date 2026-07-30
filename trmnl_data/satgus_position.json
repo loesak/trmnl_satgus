@@ -1,14 +1,14 @@
 {
-  "latitude": -39.41362181740538,
-  "longitude": -72.37984537862519,
-  "altitude_km": 565.417081497847,
-  "altitude_miles": 351.33377734739867,
-  "velocity_km_s": 7.573878435419828,
-  "velocity_km_h": 27265.96236751138,
-  "velocity_mph": 16942.278302262916,
-  "velocity_mps": 4.7061884172952535,
-  "heading_degrees": 347.2044859259955,
-  "timestamp": "2026-07-30T04:12:04.997140+00:00",
-  "location_type": "country",
-  "location_name": "Chile"
+  "latitude": 1.3366358973694614,
+  "longitude": 62.94660918858104,
+  "altitude_km": 567.3687880851803,
+  "altitude_miles": 352.5465112212766,
+  "velocity_km_s": 7.575903939809989,
+  "velocity_km_h": 27273.25418331596,
+  "velocity_mph": 16946.80922514122,
+  "velocity_mps": 4.7074470069836725,
+  "heading_degrees": 191.37211091396392,
+  "timestamp": "2026-07-30T06:46:09.658502+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
