@@ -1,14 +1,14 @@
 {
-  "latitude": 47.873140023645334,
-  "longitude": 3.4346464692446257,
-  "altitude_km": 556.4426587941598,
-  "altitude_miles": 345.75733133758587,
-  "velocity_km_s": 7.582098136534992,
-  "velocity_km_h": 27295.553291525972,
-  "velocity_mph": 16960.665244308784,
-  "velocity_mps": 4.711295901196885,
-  "heading_degrees": 346.07833285708494,
-  "timestamp": "2026-08-01T22:09:23.854663+00:00",
+  "latitude": -73.16868447770455,
+  "longitude": 22.532269616074906,
+  "altitude_km": 566.9017703570407,
+  "altitude_miles": 352.2563199485248,
+  "velocity_km_s": 7.566838761370993,
+  "velocity_km_h": 27240.619540935575,
+  "velocity_mph": 16926.53100477068,
+  "velocity_mps": 4.701814167991855,
+  "heading_degrees": 331.6598216166101,
+  "timestamp": "2026-08-01T23:12:32.129758+00:00",
   "location_type": "country",
-  "location_name": "France"
+  "location_name": "Antarctica"
 }
