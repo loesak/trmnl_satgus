@@ -1,14 +1,14 @@
 {
-  "latitude": 78.98824517371487,
-  "longitude": -57.262084145216136,
-  "altitude_km": 555.4141823481505,
-  "altitude_miles": 345.1182658998526,
-  "velocity_km_s": 7.578820727340597,
-  "velocity_km_h": 27283.75461842615,
-  "velocity_mph": 16953.333891006074,
-  "velocity_mps": 4.709259414168354,
-  "heading_degrees": 315.3291229682342,
-  "timestamp": "2026-08-04T23:51:54.105234+00:00",
-  "location_type": "country",
-  "location_name": "Greenland"
+  "latitude": 40.40654218572047,
+  "longitude": 121.13838062871953,
+  "altitude_km": 561.0401509350731,
+  "altitude_miles": 348.6140796266773,
+  "velocity_km_s": 7.578346159011331,
+  "velocity_km_h": 27282.04617244079,
+  "velocity_mph": 16952.272312215708,
+  "velocity_mps": 4.70896453117103,
+  "heading_degrees": 192.89660832283437,
+  "timestamp": "2026-08-05T03:19:02.554240+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
