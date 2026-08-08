@@ -1,14 +1,14 @@
 {
-  "latitude": 44.66166704323845,
-  "longitude": 3.2112630820736645,
-  "altitude_km": 560.1504779955694,
-  "altitude_miles": 348.06126266258497,
-  "velocity_km_s": 7.578500309333104,
-  "velocity_km_h": 27282.601113599176,
-  "velocity_mph": 16952.617136558234,
-  "velocity_mps": 4.70906031571062,
-  "heading_degrees": 193.42679928751377,
-  "timestamp": "2026-08-08T11:15:04.319094+00:00",
-  "location_type": "country",
-  "location_name": "France"
+  "latitude": -79.59124292546171,
+  "longitude": -59.90957585589832,
+  "altitude_km": 566.6725474017285,
+  "altitude_miles": 352.11388745155944,
+  "velocity_km_s": 7.566421438293461,
+  "velocity_km_h": 27239.11717785646,
+  "velocity_mph": 16925.597479921846,
+  "velocity_mps": 4.701554855533846,
+  "heading_degrees": 227.90536092788233,
+  "timestamp": "2026-08-08T11:49:10.494540+00:00",
+  "location_type": "ocean",
+  "location_name": "Weddell Sea"
 }
