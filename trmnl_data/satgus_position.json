@@ -1,14 +1,14 @@
 {
-  "latitude": -72.93479078499135,
-  "longitude": -24.591094858806198,
-  "altitude_km": 566.1017155264062,
-  "altitude_miles": 351.7591890783586,
-  "velocity_km_s": 7.5676124315001845,
-  "velocity_km_h": 27243.404753400664,
-  "velocity_mph": 16928.261655025322,
-  "velocity_mps": 4.702294904173701,
-  "heading_degrees": 332.03153621221975,
-  "timestamp": "2026-08-08T02:19:31.744944+00:00",
-  "location_type": "ocean",
-  "location_name": "Weddell Sea"
+  "latitude": -78.40141000584829,
+  "longitude": 66.2370321504458,
+  "altitude_km": 566.7704906799981,
+  "altitude_miles": 352.17474656432114,
+  "velocity_km_s": 7.566401603435119,
+  "velocity_km_h": 27239.045772366426,
+  "velocity_mph": 16925.5531106211,
+  "velocity_mps": 4.701542530728084,
+  "heading_degrees": 222.01757814213585,
+  "timestamp": "2026-08-08T03:49:00.874923+00:00",
+  "location_type": "country",
+  "location_name": "Antarctica"
 }
