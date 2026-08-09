@@ -1,14 +1,14 @@
 {
-  "latitude": -80.5118061039854,
-  "longitude": 173.79655254228044,
-  "altitude_km": 566.4735617966535,
-  "altitude_miles": 351.99024356714835,
-  "velocity_km_s": 7.566566566790613,
-  "velocity_km_h": 27239.639640446207,
-  "velocity_mph": 16925.9221230237,
-  "velocity_mps": 4.70164503417325,
-  "heading_degrees": 234.20434069770437,
-  "timestamp": "2026-08-09T19:48:24.778321+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": 12.524832839073882,
+  "longitude": 38.3328866985887,
+  "altitude_km": 561.6177585438754,
+  "altitude_miles": 348.9729882441664,
+  "velocity_km_s": 7.581505919878525,
+  "velocity_km_h": 27293.42131156269,
+  "velocity_mph": 16959.340493787022,
+  "velocity_mps": 4.710927914940839,
+  "heading_degrees": 348.5342254416275,
+  "timestamp": "2026-08-09T20:17:16.422102+00:00",
+  "location_type": "country",
+  "location_name": "Ethiopia"
 }
