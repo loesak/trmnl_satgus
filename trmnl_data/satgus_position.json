@@ -1,14 +1,14 @@
 {
-  "latitude": -15.560558378918971,
-  "longitude": 13.610384293612178,
-  "altitude_km": 566.8806524863467,
-  "altitude_miles": 352.2431979160937,
-  "velocity_km_s": 7.575505215996535,
-  "velocity_km_h": 27271.818777587527,
-  "velocity_mph": 16945.917305648338,
-  "velocity_mps": 4.707199251568983,
-  "heading_degrees": 191.52885722244594,
-  "timestamp": "2026-08-09T09:54:25.244316+00:00",
-  "location_type": "country",
-  "location_name": "Angola"
+  "latitude": 12.33308522427745,
+  "longitude": -177.7161352719667,
+  "altitude_km": 561.5891631167387,
+  "altitude_miles": 348.9552198750111,
+  "velocity_km_s": 7.581556975978403,
+  "velocity_km_h": 27293.60511352225,
+  "velocity_mph": 16959.454702994433,
+  "velocity_mps": 4.710959639720676,
+  "heading_degrees": 348.53740460668894,
+  "timestamp": "2026-08-09T10:41:34.174659+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
