@@ -1,14 +1,14 @@
 {
-  "latitude": 70.57068899522,
-  "longitude": -27.992189665123796,
-  "altitude_km": 556.9782851142227,
-  "altitude_miles": 346.0901539997097,
-  "velocity_km_s": 7.577818861425268,
-  "velocity_km_h": 27280.147901130964,
-  "velocity_mph": 16951.09278147365,
-  "velocity_mps": 4.70863688374268,
-  "heading_degrees": 204.7450956409635,
-  "timestamp": "2026-08-09T14:18:54.675362+00:00",
+  "latitude": -75.02488848407361,
+  "longitude": -90.43185114355607,
+  "altitude_km": 566.7006403465048,
+  "altitude_miles": 352.131343592748,
+  "velocity_km_s": 7.566738296335246,
+  "velocity_km_h": 27240.257866806885,
+  "velocity_mph": 16926.30627095566,
+  "velocity_mps": 4.701751741932128,
+  "heading_degrees": 211.8403212363845,
+  "timestamp": "2026-08-09T14:58:37.902608+00:00",
   "location_type": "country",
-  "location_name": "Greenland"
+  "location_name": "Antarctica"
 }
