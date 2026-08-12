@@ -1,14 +1,14 @@
 {
-  "latitude": 25.698543543499664,
-  "longitude": 12.15140745802972,
-  "altitude_km": 560.6822798928542,
-  "altitude_miles": 348.39170893930276,
-  "velocity_km_s": 7.581026819533288,
-  "velocity_km_h": 27291.696550319837,
-  "velocity_mph": 16958.26877716879,
-  "velocity_mps": 4.710630215880219,
-  "heading_degrees": 348.1541644303244,
-  "timestamp": "2026-08-12T21:54:04.853703+00:00",
-  "location_type": "country",
-  "location_name": "Libya"
+  "latitude": -55.40735126193997,
+  "longitude": 170.6305588680523,
+  "altitude_km": 566.6556823406727,
+  "altitude_miles": 352.10340799170615,
+  "velocity_km_s": 7.569413990116934,
+  "velocity_km_h": 27249.890364420964,
+  "velocity_mph": 16932.29162563062,
+  "velocity_mps": 4.70341434045295,
+  "heading_degrees": 195.6518610481509,
+  "timestamp": "2026-08-12T22:50:04.115887+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
