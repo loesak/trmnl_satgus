@@ -1,14 +1,14 @@
 {
-  "latitude": -14.690162415358712,
-  "longitude": 140.49866875370896,
-  "altitude_km": 564.449509252494,
-  "altitude_miles": 350.7325560137314,
-  "velocity_km_s": 7.5781884173548,
-  "velocity_km_h": 27281.47830247728,
-  "velocity_mph": 16951.91945428861,
-  "velocity_mps": 4.70886651508017,
-  "heading_degrees": 348.4878907435556,
-  "timestamp": "2026-08-12T13:43:34.752499+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": -42.81101303896599,
+  "longitude": -64.50377380891825,
+  "altitude_km": 566.8001097371125,
+  "altitude_miles": 352.1931509874593,
+  "velocity_km_s": 7.571510111785279,
+  "velocity_km_h": 27257.436402427003,
+  "velocity_mph": 16936.98051481247,
+  "velocity_mps": 4.70471680967013,
+  "heading_degrees": 193.18149329710428,
+  "timestamp": "2026-08-12T14:46:55.765989+00:00",
+  "location_type": "country",
+  "location_name": "Argentina"
 }
