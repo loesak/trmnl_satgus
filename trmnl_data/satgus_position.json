@@ -1,14 +1,14 @@
 {
-  "latitude": 39.361881537127076,
-  "longitude": 32.82767750501073,
-  "altitude_km": 559.2138280557547,
-  "altitude_miles": 347.47925555283234,
-  "velocity_km_s": 7.580405357841312,
-  "velocity_km_h": 27289.45928822872,
-  "velocity_mph": 16956.87860738597,
-  "velocity_mps": 4.7102440576072135,
-  "heading_degrees": 347.21546539957836,
-  "timestamp": "2026-08-13T20:20:55.090397+00:00",
+  "latitude": -80.45363509501144,
+  "longitude": 76.42353351195386,
+  "altitude_km": 565.9967299979544,
+  "altitude_miles": 351.69395411555894,
+  "velocity_km_s": 7.567031695382475,
+  "velocity_km_h": 27241.31410337691,
+  "velocity_mph": 16926.962585729412,
+  "velocity_mps": 4.701934051591504,
+  "heading_degrees": 306.23399356259074,
+  "timestamp": "2026-08-13T21:23:50.602672+00:00",
   "location_type": "country",
-  "location_name": "Turkey"
+  "location_name": "Antarctica"
 }
