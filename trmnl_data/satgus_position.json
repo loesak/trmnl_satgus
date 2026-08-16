@@ -1,14 +1,14 @@
 {
-  "latitude": -13.780483111587326,
-  "longitude": 39.57723877065799,
-  "altitude_km": 565.2210791934194,
-  "altitude_miles": 351.2119871994942,
-  "velocity_km_s": 7.5773699631116465,
-  "velocity_km_h": 27278.531867201928,
-  "velocity_mph": 16950.08862485513,
-  "velocity_mps": 4.708357951348647,
-  "heading_degrees": 191.49353691882692,
-  "timestamp": "2026-08-16T08:11:43.587824+00:00",
-  "location_type": "country",
-  "location_name": "Mozambique"
+  "latitude": -17.25645239611375,
+  "longitude": -146.0722161613605,
+  "altitude_km": 565.2279219786742,
+  "altitude_miles": 351.2162391078108,
+  "velocity_km_s": 7.57704011863556,
+  "velocity_km_h": 27277.344427088017,
+  "velocity_mph": 16949.35078400411,
+  "velocity_mps": 4.708152995556697,
+  "heading_degrees": 348.429450041965,
+  "timestamp": "2026-08-16T08:51:26.439123+00:00",
+  "location_type": "ocean",
+  "location_name": "South Pacific Ocean"
 }
