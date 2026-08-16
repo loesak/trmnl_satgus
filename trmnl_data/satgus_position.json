@@ -1,14 +1,14 @@
 {
-  "latitude": 82.23140799878885,
-  "longitude": 148.56009238205365,
-  "altitude_km": 555.9286191086112,
-  "altitude_miles": 345.43792198413684,
-  "velocity_km_s": 7.5778910171341,
-  "velocity_km_h": 27280.40766168276,
-  "velocity_mph": 16951.25418914748,
-  "velocity_mps": 4.7086817192076325,
-  "heading_degrees": 279.9166030652188,
-  "timestamp": "2026-08-16T07:43:42.941170+00:00",
-  "location_type": "ocean",
-  "location_name": "Arctic Ocean"
+  "latitude": -13.780483111587326,
+  "longitude": 39.57723877065799,
+  "altitude_km": 565.2210791934194,
+  "altitude_miles": 351.2119871994942,
+  "velocity_km_s": 7.5773699631116465,
+  "velocity_km_h": 27278.531867201928,
+  "velocity_mph": 16950.08862485513,
+  "velocity_mps": 4.708357951348647,
+  "heading_degrees": 191.49353691882692,
+  "timestamp": "2026-08-16T08:11:43.587824+00:00",
+  "location_type": "country",
+  "location_name": "Mozambique"
 }
