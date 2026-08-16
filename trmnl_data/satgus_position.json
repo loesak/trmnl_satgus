@@ -1,14 +1,14 @@
 {
-  "latitude": 23.153373448646242,
-  "longitude": 13.66878652691173,
-  "altitude_km": 561.5795815930369,
-  "altitude_miles": 348.9492661940469,
-  "velocity_km_s": 7.580333187078815,
-  "velocity_km_h": 27289.199473483735,
-  "velocity_mph": 16956.717166038063,
-  "velocity_mps": 4.710199212788351,
-  "heading_degrees": 348.2556731694488,
-  "timestamp": "2026-08-16T21:49:45.180498+00:00",
-  "location_type": "country",
-  "location_name": "Libya"
+  "latitude": 73.11432502362422,
+  "longitude": -142.22951323252826,
+  "altitude_km": 556.3083723201062,
+  "altitude_miles": 345.6738896169167,
+  "velocity_km_s": 7.578162862794307,
+  "velocity_km_h": 27281.386306059507,
+  "velocity_mph": 16951.8622903825,
+  "velocity_mps": 4.708850636217361,
+  "heading_degrees": 208.26182251523957,
+  "timestamp": "2026-08-16T22:11:33.902199+00:00",
+  "location_type": "ocean",
+  "location_name": "Beaufort Sea"
 }
