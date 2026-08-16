@@ -1,14 +1,14 @@
 {
-  "latitude": -37.66889444877479,
-  "longitude": 178.05102436749132,
-  "altitude_km": 566.0159902556716,
-  "altitude_miles": 351.7059218811569,
-  "velocity_km_s": 7.573220489829535,
-  "velocity_km_h": 27263.593763386325,
-  "velocity_mph": 16940.806520349124,
-  "velocity_mps": 4.705779588985868,
-  "heading_degrees": 192.6270475732014,
-  "timestamp": "2026-08-16T22:41:35.296500+00:00",
-  "location_type": "country",
-  "location_name": "New Zealand"
+  "latitude": -66.9508186748405,
+  "longitude": 17.465040761974812,
+  "altitude_km": 566.0745340565609,
+  "altitude_miles": 351.74229930125927,
+  "velocity_km_s": 7.568218859092023,
+  "velocity_km_h": 27245.587892731284,
+  "velocity_mph": 16929.61819449433,
+  "velocity_mps": 4.702671720692869,
+  "heading_degrees": 338.71796743069746,
+  "timestamp": "2026-08-16T23:01:20.717504+00:00",
+  "location_type": "ocean",
+  "location_name": "SOUTHERN OCEAN"
 }
