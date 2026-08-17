@@ -1,14 +1,14 @@
 {
-  "latitude": -54.50070431245098,
-  "longitude": 81.24116905839371,
-  "altitude_km": 566.1611207744445,
-  "altitude_miles": 351.7961017767374,
-  "velocity_km_s": 7.5700369457664385,
-  "velocity_km_h": 27252.13300475918,
-  "velocity_mph": 16933.685137300217,
-  "velocity_mps": 4.703801427027837,
-  "heading_degrees": 344.5995172165754,
-  "timestamp": "2026-08-17T18:16:04.117006+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": 57.69171677074345,
+  "longitude": -109.1167395829977,
+  "altitude_km": 557.435170160149,
+  "altitude_miles": 346.374049117582,
+  "velocity_km_s": 7.579030597096717,
+  "velocity_km_h": 27284.510149548183,
+  "velocity_mph": 16953.803356134904,
+  "velocity_mps": 4.7093898211485845,
+  "heading_degrees": 196.38626640373042,
+  "timestamp": "2026-08-17T19:03:08.153607+00:00",
+  "location_type": "country",
+  "location_name": "Canada"
 }
