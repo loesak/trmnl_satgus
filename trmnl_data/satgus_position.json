@@ -1,14 +1,14 @@
 {
-  "latitude": 37.34052041479736,
-  "longitude": 82.80256641787844,
-  "altitude_km": 560.0719547015415,
-  "altitude_miles": 348.0124705648515,
-  "velocity_km_s": 7.5797269614052,
-  "velocity_km_h": 27287.01706105872,
-  "velocity_mph": 16955.36107824712,
-  "velocity_mps": 4.709822521735311,
-  "heading_degrees": 347.40804995245674,
-  "timestamp": "2026-08-19T17:02:55.601511+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 9.594221270208617,
+  "longitude": -98.85370082031572,
+  "altitude_km": 562.6168688420366,
+  "altitude_miles": 349.59380640924513,
+  "velocity_km_s": 7.580457174673736,
+  "velocity_km_h": 27289.64582882545,
+  "velocity_mph": 16956.994518303098,
+  "velocity_mps": 4.710276255084194,
+  "heading_degrees": 191.42784491100826,
+  "timestamp": "2026-08-19T17:38:16.838443+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
