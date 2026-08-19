@@ -1,14 +1,14 @@
 {
-  "latitude": -73.24901380786108,
-  "longitude": 179.73681273901244,
-  "altitude_km": 565.8868443657439,
-  "altitude_miles": 351.6256743703866,
-  "velocity_km_s": 7.567636000202729,
-  "velocity_km_h": 27243.489600729823,
-  "velocity_mph": 16928.314376695093,
-  "velocity_mps": 4.70230954908197,
-  "heading_degrees": 208.4773445392253,
-  "timestamp": "2026-08-19T21:12:42.471342+00:00",
-  "location_type": "ocean",
-  "location_name": "Ross Sea"
+  "latitude": 17.529733921552822,
+  "longitude": 15.631110888770646,
+  "altitude_km": 562.5996530293851,
+  "altitude_miles": 349.58310900252206,
+  "velocity_km_s": 7.579826036524126,
+  "velocity_km_h": 27287.373731486852,
+  "velocity_mph": 16955.582702907715,
+  "velocity_mps": 4.7098840841410325,
+  "heading_degrees": 348.4279972324389,
+  "timestamp": "2026-08-19T21:45:24.953300+00:00",
+  "location_type": "country",
+  "location_name": "Chad"
 }
