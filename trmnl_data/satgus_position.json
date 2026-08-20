@@ -1,14 +1,14 @@
 {
-  "latitude": 19.582000993574177,
-  "longitude": 167.31712634476614,
-  "altitude_km": 561.4644217405666,
-  "altitude_miles": 348.8777092013576,
-  "velocity_km_s": 7.580842142159645,
-  "velocity_km_h": 27291.03171177472,
-  "velocity_mph": 16957.85566577717,
-  "velocity_mps": 4.710515462715881,
-  "heading_degrees": 191.62907086686704,
-  "timestamp": "2026-08-19T23:59:21.219501+00:00",
-  "location_type": "ocean",
-  "location_name": "North Pacific Ocean"
+  "latitude": -23.13251017413275,
+  "longitude": 134.45297322255172,
+  "altitude_km": 564.9695947722967,
+  "altitude_miles": 351.05572207325673,
+  "velocity_km_s": 7.576556580694789,
+  "velocity_km_h": 27275.60369050124,
+  "velocity_mph": 16948.269140770448,
+  "velocity_mps": 4.707852539102902,
+  "heading_degrees": 191.7468574534478,
+  "timestamp": "2026-08-20T01:46:42.062251+00:00",
+  "location_type": "country",
+  "location_name": "Australia"
 }
