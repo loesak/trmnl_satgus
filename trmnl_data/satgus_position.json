@@ -1,14 +1,14 @@
 {
-  "latitude": -54.86358100662982,
-  "longitude": -114.73422461802605,
-  "altitude_km": 565.5602117723047,
-  "altitude_miles": 351.42271434916876,
-  "velocity_km_s": 7.570508189321137,
-  "velocity_km_h": 27253.82948155609,
-  "velocity_mph": 16934.73927878399,
-  "velocity_mps": 4.704094244106664,
-  "heading_degrees": 195.4953483639376,
-  "timestamp": "2026-08-22T17:52:39.292273+00:00",
-  "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "latitude": 50.067749313194845,
+  "longitude": 55.3627984762454,
+  "altitude_km": 558.4792847060398,
+  "altitude_miles": 347.0228316170767,
+  "velocity_km_s": 7.5790890155136,
+  "velocity_km_h": 27284.72045584896,
+  "velocity_mph": 16953.934034371327,
+  "velocity_mps": 4.709426120658701,
+  "heading_degrees": 345.65852925934945,
+  "timestamp": "2026-08-22T18:39:20.699242+00:00",
+  "location_type": "country",
+  "location_name": "Kazakhstan"
 }
