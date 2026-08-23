@@ -1,14 +1,14 @@
 {
-  "latitude": -26.77742694763318,
-  "longitude": 25.93097851393404,
-  "altitude_km": 566.7225641239284,
-  "altitude_miles": 352.1449663922495,
-  "velocity_km_s": 7.574061260089108,
-  "velocity_km_h": 27266.62053632079,
-  "velocity_mph": 16942.687269274185,
-  "velocity_mps": 4.7063020192428295,
-  "heading_degrees": 348.0951963263253,
-  "timestamp": "2026-08-23T21:29:34.747931+00:00",
-  "location_type": "country",
-  "location_name": "South Africa"
+  "latitude": 58.0182779967587,
+  "longitude": 3.9215380912779607,
+  "altitude_km": 557.4477940534425,
+  "altitude_miles": 346.38189323878163,
+  "velocity_km_s": 7.578824932011746,
+  "velocity_km_h": 27283.769755242287,
+  "velocity_mph": 16953.343296584655,
+  "velocity_mps": 4.70926202682907,
+  "heading_degrees": 343.5043760600128,
+  "timestamp": "2026-08-23T21:52:23.008147+00:00",
+  "location_type": "unknown",
+  "location_name": null
 }
