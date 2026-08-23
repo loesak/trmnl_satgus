@@ -1,14 +1,14 @@
 {
-  "latitude": 55.734741766976306,
-  "longitude": 11.271225465253087,
-  "altitude_km": 556.4653796778975,
-  "altitude_miles": 345.7714494358349,
-  "velocity_km_s": 7.580289267072999,
-  "velocity_km_h": 27289.041361462798,
-  "velocity_mph": 16956.6189198135,
-  "velocity_mps": 4.710171922170416,
-  "heading_degrees": 195.75091594176993,
-  "timestamp": "2026-08-23T10:58:08.718747+00:00",
-  "location_type": "country",
-  "location_name": "Denmark"
+  "latitude": -59.45633209441686,
+  "longitude": -21.01779947049031,
+  "altitude_km": 565.6425390576587,
+  "altitude_miles": 351.47387013679645,
+  "velocity_km_s": 7.569646744722402,
+  "velocity_km_h": 27250.728281000647,
+  "velocity_mph": 16932.812282693652,
+  "velocity_mps": 4.703558967414904,
+  "heading_degrees": 197.0456201713253,
+  "timestamp": "2026-08-23T11:29:11.242260+00:00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
