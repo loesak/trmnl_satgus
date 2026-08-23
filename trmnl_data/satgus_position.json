@@ -1,14 +1,14 @@
 {
-  "latitude": 11.253786029030099,
-  "longitude": 22.41711193172663,
-  "altitude_km": 561.5032042454723,
-  "altitude_miles": 348.90180752521337,
-  "velocity_km_s": 7.58147410807541,
-  "velocity_km_h": 27293.306789071477,
-  "velocity_mph": 16959.269332832133,
-  "velocity_mps": 4.710908148008926,
-  "heading_degrees": 191.44975467155328,
-  "timestamp": "2026-08-23T09:34:12.166365+00:00",
+  "latitude": -77.67775813510076,
+  "longitude": -23.160612782051846,
+  "altitude_km": 565.9863972926041,
+  "altitude_miles": 351.68753367210275,
+  "velocity_km_s": 7.567040197607519,
+  "velocity_km_h": 27241.344711387068,
+  "velocity_mph": 16926.981604659293,
+  "velocity_mps": 4.701939334627582,
+  "heading_degrees": 219.22567819051721,
+  "timestamp": "2026-08-23T09:58:36.564122+00:00",
   "location_type": "country",
-  "location_name": "Chad"
+  "location_name": "Antarctica"
 }
