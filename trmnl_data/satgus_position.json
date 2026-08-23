@@ -1,14 +1,14 @@
 {
-  "latitude": 41.572637229131054,
-  "longitude": 82.56985482958564,
-  "altitude_km": 559.6361036180315,
-  "altitude_miles": 347.74164534123986,
-  "velocity_km_s": 7.579350486439992,
-  "velocity_km_h": 27285.661751183972,
-  "velocity_mph": 16954.518927994937,
-  "velocity_mps": 4.709588591109704,
-  "heading_degrees": 346.973632964598,
-  "timestamp": "2026-08-23T17:00:06.197397+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 24.43185423152097,
+  "longitude": -94.64826120086413,
+  "altitude_km": 559.9112007029635,
+  "altitude_miles": 347.91258269200114,
+  "velocity_km_s": 7.581837329629134,
+  "velocity_km_h": 27294.61438666488,
+  "velocity_mph": 16960.081836056346,
+  "velocity_mps": 4.711133843348985,
+  "heading_degrees": 191.79591911299235,
+  "timestamp": "2026-08-23T17:30:20.340450+00:00",
+  "location_type": "ocean",
+  "location_name": "Gulf of Mexico"
 }
