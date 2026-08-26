@@ -1,14 +1,14 @@
 {
-  "latitude": 23.286816454765194,
-  "longitude": 88.11932583678059,
-  "altitude_km": 562.3934983142226,
-  "altitude_miles": 349.45501044100683,
-  "velocity_km_s": 7.579213646757144,
-  "velocity_km_h": 27285.169128325717,
-  "velocity_mph": 16954.21282643688,
-  "velocity_mps": 4.709503562899133,
-  "heading_degrees": 348.24842348586435,
-  "timestamp": "2026-08-26T16:52:05.229511+00:00",
-  "location_type": "country",
-  "location_name": "India"
+  "latitude": 2.979438498616582,
+  "longitude": -122.36923842642318,
+  "altitude_km": 561.6814462291186,
+  "altitude_miles": 349.0125619248337,
+  "velocity_km_s": 7.581568899704402,
+  "velocity_km_h": 27293.648038935848,
+  "velocity_mph": 16959.48137560161,
+  "velocity_mps": 4.710967048778224,
+  "heading_degrees": 191.3756508644203,
+  "timestamp": "2026-08-26T19:08:54.252899+00:00",
+  "location_type": "ocean",
+  "location_name": "North Pacific Ocean"
 }
