@@ -1,14 +1,14 @@
 {
-  "latitude": -71.70234187890314,
-  "longitude": -55.8914156052303,
-  "altitude_km": 565.9886442995476,
-  "altitude_miles": 351.68892989705415,
-  "velocity_km_s": 7.56752709300488,
-  "velocity_km_h": 27243.09753481757,
-  "velocity_mph": 16928.070758307127,
-  "velocity_mps": 4.702241877307536,
-  "heading_degrees": 206.17134411709077,
-  "timestamp": "2026-08-26T13:05:30.325924+00:00",
-  "location_type": "ocean",
-  "location_name": "Weddell Sea"
+  "latitude": 70.10576278220559,
+  "longitude": -24.476764270801695,
+  "altitude_km": 554.7807339071087,
+  "altitude_miles": 344.72465940859405,
+  "velocity_km_s": 7.579951731026849,
+  "velocity_km_h": 27287.826231696657,
+  "velocity_mph": 16955.863873415583,
+  "velocity_mps": 4.709962187059884,
+  "heading_degrees": 204.22536440575476,
+  "timestamp": "2026-08-26T14:02:53.368044+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
