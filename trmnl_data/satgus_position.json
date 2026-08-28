@@ -1,14 +1,14 @@
 {
-  "latitude": 8.645549863197205,
-  "longitude": -0.7676554560665729,
-  "altitude_km": 560.7068065394087,
-  "altitude_miles": 348.40694908619895,
-  "velocity_km_s": 7.582389445621953,
-  "velocity_km_h": 27296.60200423903,
-  "velocity_mph": 16961.31688397601,
-  "velocity_mps": 4.711476912215558,
-  "heading_degrees": 191.41667769815328,
-  "timestamp": "2026-08-28T11:05:37.117043+00:00",
-  "location_type": "country",
-  "location_name": "Ghana"
+  "latitude": -38.64535016977531,
+  "longitude": 30.35015700756545,
+  "altitude_km": 567.796933421836,
+  "altitude_miles": 352.81254831725965,
+  "velocity_km_s": 7.57083780504028,
+  "velocity_km_h": 27255.016098145006,
+  "velocity_mph": 16935.47660792046,
+  "velocity_mps": 4.704299057755684,
+  "heading_degrees": 347.27196648202437,
+  "timestamp": "2026-08-28T21:21:08.525701+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
