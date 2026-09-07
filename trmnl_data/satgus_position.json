@@ -1,14 +1,14 @@
 {
-  "latitude": 33.28407528537096,
-  "longitude": 79.58673554650089,
-  "altitude_km": 555.6079668163247,
-  "altitude_miles": 345.2386779486265,
-  "velocity_km_s": 7.584926914786027,
-  "velocity_km_h": 27305.736893229696,
-  "velocity_mph": 16966.99303908303,
-  "velocity_mps": 4.713053621967508,
-  "heading_degrees": 192.27068067178672,
-  "timestamp": "2026-09-07T05:59:58.994355+00:00",
-  "location_type": "country",
-  "location_name": "China"
+  "latitude": 45.83269350215343,
+  "longitude": -12.598034045037995,
+  "altitude_km": 553.9197389304136,
+  "altitude_miles": 344.18966209893,
+  "velocity_km_s": 7.584552306559778,
+  "velocity_km_h": 27304.3883036152,
+  "velocity_mph": 16966.155064605682,
+  "velocity_mps": 4.712820851279356,
+  "heading_degrees": 193.5980359159706,
+  "timestamp": "2026-09-07T12:20:17.206493+00:00",
+  "location_type": "ocean",
+  "location_name": "North Atlantic Ocean"
 }
