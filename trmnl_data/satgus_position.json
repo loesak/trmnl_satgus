@@ -1,14 +1,14 @@
 {
-  "latitude": 80.96686177993985,
-  "longitude": -11.727245339873111,
-  "altitude_km": 550.1827276567346,
-  "altitude_miles": 341.86759166679286,
-  "velocity_km_s": 7.583629153651708,
-  "velocity_km_h": 27301.06495314615,
-  "velocity_mph": 16964.090031001375,
-  "velocity_mps": 4.712247230833715,
-  "heading_degrees": 301.72932854518996,
-  "timestamp": "2026-09-17T19:54:42.719845+00:00",
-  "location_type": "unknown",
-  "location_name": null
+  "latitude": 12.375246354290097,
+  "longitude": 1.1008498521466334,
+  "altitude_km": 563.0414317128452,
+  "altitude_miles": 349.85761746484235,
+  "velocity_km_s": 7.579253086287307,
+  "velocity_km_h": 27285.311110634302,
+  "velocity_mph": 16954.30105012595,
+  "velocity_mps": 4.70952806947943,
+  "heading_degrees": 348.5346742868813,
+  "timestamp": "2026-09-17T22:47:11.625448+00:00",
+  "location_type": "country",
+  "location_name": "Burkina Faso"
 }
