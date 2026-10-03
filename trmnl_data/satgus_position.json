@@ -1,14 +1,14 @@
 {
-  "latitude": -8.255775654385976,
-  "longitude": -133.50787919582825,
-  "altitude_km": 564.8730624602622,
-  "altitude_miles": 350.9957396939956,
-  "velocity_km_s": 7.577316163830849,
-  "velocity_km_h": 27278.338189791055,
-  "velocity_mph": 16949.96827932866,
-  "velocity_mps": 4.708324522035738,
-  "heading_degrees": 348.5907840989339,
-  "timestamp": "2026-10-03T07:57:11.587506+00:00",
-  "location_type": "ocean",
-  "location_name": "South Pacific Ocean"
+  "latitude": 65.60311417844568,
+  "longitude": -17.429342447856783,
+  "altitude_km": 549.9767082632216,
+  "altitude_miles": 341.73957719022627,
+  "velocity_km_s": 7.585194309933308,
+  "velocity_km_h": 27306.69951575991,
+  "velocity_mph": 16967.59118480725,
+  "velocity_mps": 4.71321977355757,
+  "heading_degrees": 200.2694056766942,
+  "timestamp": "2026-10-03T13:17:15.835300+00:00",
+  "location_type": "country",
+  "location_name": "Iceland"
 }
