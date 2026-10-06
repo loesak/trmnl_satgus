@@ -1,14 +1,14 @@
 {
-  "latitude": -29.21808745977281,
-  "longitude": 27.66063098663214,
-  "altitude_km": 566.4833488914537,
-  "altitude_miles": 351.9963249840315,
-  "velocity_km_s": 7.57326691569805,
-  "velocity_km_h": 27263.76089651298,
-  "velocity_mph": 16940.910372027167,
-  "velocity_mps": 4.7058084366742134,
-  "heading_degrees": 192.01619411885278,
-  "timestamp": "2026-10-06T08:50:54.255642+00:00",
-  "location_type": "country",
-  "location_name": "Lesotho"
+  "latitude": -20.26174738830993,
+  "longitude": 110.19972244412985,
+  "altitude_km": 566.1320726966824,
+  "altitude_miles": 351.77805214361024,
+  "velocity_km_s": 7.574868414916375,
+  "velocity_km_h": 27269.526293698953,
+  "velocity_mph": 16944.492822642012,
+  "velocity_mps": 4.706803561845003,
+  "heading_degrees": 348.3527328374436,
+  "timestamp": "2026-10-06T15:49:19.679342+00:00",
+  "location_type": "ocean",
+  "location_name": "INDIAN OCEAN"
 }
