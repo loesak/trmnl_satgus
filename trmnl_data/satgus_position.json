@@ -1,14 +1,14 @@
 {
-  "latitude": -21.671918279195616,
-  "longitude": 55.955083423303996,
-  "altitude_km": 565.8349321321066,
-  "altitude_miles": 351.59341761385923,
-  "velocity_km_s": 7.57488388969599,
-  "velocity_km_h": 27269.58200290556,
-  "velocity_mph": 16944.527438727433,
-  "velocity_mps": 4.706813177424287,
-  "heading_degrees": 191.68808173251222,
-  "timestamp": "2026-10-13T07:02:52.057200+00:00",
-  "location_type": "ocean",
-  "location_name": "INDIAN OCEAN"
+  "latitude": -17.365877761255703,
+  "longitude": -62.97873684589523,
+  "altitude_km": 565.318693389765,
+  "altitude_miles": 351.2726418302917,
+  "velocity_km_s": 7.575928418467959,
+  "velocity_km_h": 27273.342306484654,
+  "velocity_mph": 16946.863982322677,
+  "velocity_mps": 4.707462217311854,
+  "heading_degrees": 191.56295370455092,
+  "timestamp": "2026-10-13T15:01:12.961094+00:00",
+  "location_type": "country",
+  "location_name": "Bolivia"
 }
