@@ -1,14 +1,14 @@
 {
-  "latitude": 26.576121849295536,
-  "longitude": 7.435255108213779,
-  "altitude_km": 556.6779521504968,
-  "altitude_miles": 345.9035358057064,
-  "velocity_km_s": 7.584206583315658,
-  "velocity_km_h": 27303.14369993637,
-  "velocity_mph": 16965.381703973162,
-  "velocity_mps": 4.712606028881434,
-  "heading_degrees": 348.127234848961,
-  "timestamp": "2026-10-14T22:13:48.734596+00:00",
-  "location_type": "country",
-  "location_name": "Algeria"
+  "latitude": -22.255290218710027,
+  "longitude": 152.48328665741911,
+  "altitude_km": 566.0115426178945,
+  "altitude_miles": 351.7031582480237,
+  "velocity_km_s": 7.574584841059442,
+  "velocity_km_h": 27268.50542781399,
+  "velocity_mph": 16943.858486186207,
+  "velocity_mps": 4.7066273572739465,
+  "heading_degrees": 191.70787992849543,
+  "timestamp": "2026-10-15T00:36:25.567054+00:00",
+  "location_type": "ocean",
+  "location_name": "Coral Sea"
 }
