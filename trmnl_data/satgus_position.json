@@ -1,14 +1,14 @@
 {
-  "latitude": 60.93728523001475,
-  "longitude": -85.3206103599159,
-  "altitude_km": 551.9799295172488,
-  "altitude_miles": 342.98432078406245,
-  "velocity_km_s": 7.583243433382118,
-  "velocity_km_h": 27299.676360175625,
-  "velocity_mph": 16963.22719959869,
-  "velocity_mps": 4.71200755544408,
-  "heading_degrees": 197.66148391290514,
-  "timestamp": "2026-10-23T17:36:18.634690+00:00",
-  "location_type": "ocean",
-  "location_name": "Hudson Bay"
+  "latitude": 80.45326818384969,
+  "longitude": -17.901135517993904,
+  "altitude_km": 549.4991302551625,
+  "altitude_miles": 341.4428240657806,
+  "velocity_km_s": 7.583758461795096,
+  "velocity_km_h": 27301.530462462346,
+  "velocity_mph": 16964.37928499069,
+  "velocity_mps": 4.71232757916408,
+  "heading_degrees": 306.31889599101083,
+  "timestamp": "2026-10-23T20:39:02.698818+00:00",
+  "location_type": "country",
+  "location_name": "Greenland"
 }
