@@ -1,4 +1,6 @@
-FROM ubuntu:noble
+# Debian trixie (like trmnlp's own image) ships ImageMagick 7 and a non-snap Firefox,
+# both of which trmnlp needs to render PNGs
+FROM debian:trixie
 
 SHELL ["/bin/bash", "-c"]
 
@@ -8,8 +10,17 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update \
     && apt install -y \
       build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev curl git \
-      libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev libyaml-dev \
-      zip unzip vim wget lsb-release less sudo jq openssh-client
+      libncurses-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev libyaml-dev \
+      zip unzip vim wget lsb-release less sudo jq openssh-client ca-certificates procps \
+      firefox-esr imagemagick
+
+# geckodriver for trmnlp's Selenium/Firefox renderer; named via SE_GECKODRIVER so Selenium
+# doesn't look up the latest release from GitHub on every render
+RUN latest="$(curl -fsSLI -o /dev/null -w '%{url_effective}' https://github.com/mozilla/geckodriver/releases/latest)" \
+    && version="${latest##*/}" \
+    && curl -fsSL "https://github.com/mozilla/geckodriver/releases/download/${version}/geckodriver-${version}-linux64.tar.gz" \
+      | tar -xz -C /usr/local/bin geckodriver
+ENV SE_GECKODRIVER=/usr/local/bin/geckodriver
 
 # ~/.ssh is mounted read-only from the host, so trust GitHub's published host keys
 # system-wide, and push to GitHub over SSH (fetches stay on anonymous HTTPS)
@@ -33,7 +44,17 @@ RUN if id -u ubuntu >/dev/null 2>&1; then userdel -r ubuntu; fi \
     && echo "$USERNAME ALL=(root) NOPASSWD:ALL" > "/etc/sudoers.d/$USERNAME" \
     && chmod 0440 "/etc/sudoers.d/$USERNAME"
 
+# Debian's /etc/profile resets PATH for login shells, dropping the ENV PATH entries
+# below; restore them for login shells (e.g. IDE terminals)
+RUN printf 'export PATH="%s:$PATH"\n' \
+      "${USER_HOME}/.rbenv/shims:${USER_HOME}/.rbenv/bin:${USER_HOME}/.pyenv/shims:${USER_HOME}/.pyenv/bin:${USER_HOME}/.local/bin" \
+      > /etc/profile.d/devenv-path.sh
+
 USER ${USERNAME}
+
+# Create these as the user: bind-mounting ~/.config/trmnlp would otherwise make Docker
+# create ~/.config as root, and Firefox (trmnlp's PNG renderer) hangs when it can't write it
+RUN mkdir -p ${USER_HOME}/.config ${USER_HOME}/.cache
 
 # install python things
 ARG PYTHON_VERSION=3.13
@@ -48,8 +69,8 @@ RUN curl https://pyenv.run | bash \
     && pip install poetry==${POETRY_VERSION}
 
 # install ruby things
-ARG RUBY_VERSION=3.4.1
-ARG TRMNLP_VERSION=0.5.6
+ARG RUBY_VERSION=4.0.6
+ARG TRMNLP_VERSION=0.32.3
 
 ENV RBENV_ROOT="${USER_HOME}/.rbenv"
 ENV PATH="${RBENV_ROOT}/shims:${RBENV_ROOT}/bin:$PATH"
