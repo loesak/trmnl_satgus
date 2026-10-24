@@ -8,7 +8,7 @@ A TRMNL e-ink display plugin that tracks the SAT GUS satellite (NORAD 62713). Th
 
 ## Data flow
 
-1. `.github/workflows/fetch-tle.yml` (daily) runs `satgus/fetch_tle.py`, which pulls the TLE from Celestrak and commits `trmnl_data/satgus_tle.json` (`[skip ci]`).
+1. `.github/workflows/fetch-tle.yml` (twice daily, at :41 past 03 and 15 UTC) runs `satgus/fetch_tle.py`, which pulls the TLE from Celestrak and commits `trmnl_data/satgus_tle.json` (`[skip ci]`).
 2. `.github/workflows/publish-plugin.yml` runs hourly at :17, on pushes touching the plugin/Python/map data, and on dispatch. It has two jobs.
    - `map`: compares `render_map.map_version()` (a hash of the renderer and its GeoJSON) with the published `version.txt`. Only when they differ does it render `world.png` with `satgus/render_map.py` and deploy it to GitHub Pages (`https://loesak.github.io/trmnl_satgus/`).
    - `publish` (after `map`): `satgus/track.py` builds 24h of positions, one per minute, and writes them into `trmnl_plugin/src/settings.yml` as `static_data`. That happens only in CI and is never committed. Then it runs `trmnlp lint` and `trmnlp push --force` with the `TRMNL_API_KEY` secret.

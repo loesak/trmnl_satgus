@@ -2,8 +2,10 @@ name: Fetch TLE Data
 
 on:
   schedule:
-    # Run daily at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Twice a day, off the top of the hour (GitHub delays and drops more scheduled
+    # runs there), so one skipped run doesn't cost a day. Publish Plugin picks up the
+    # committed TLE on its next run; a day-old TLE is still far below map precision.
+    - cron: '41 3,15 * * *'
   workflow_dispatch:  # Allow manual triggering
 
 permissions:
@@ -12,18 +14,18 @@ permissions:
 jobs:
   fetch-tle:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-      
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.13'
-        
+
     - name: Install Poetry
       run: |
         python -m pip install --user pipx
@@ -36,11 +38,11 @@ jobs:
     - name: Fetch TLE data
       run: poetry run python satgus/fetch_tle.py
       working-directory: trmnl_satgus
-        
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add trmnl_data/satgus_tle.json
         git diff --quiet && git diff --staged --quiet || git commit -m "Update TLE data [skip ci]"
-        git push origin HEAD:${{ github.ref }} 
+        git push origin HEAD:${{ github.ref }}
