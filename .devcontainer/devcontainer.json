@@ -16,10 +16,11 @@
   "workspaceMount": "source=${localWorkspaceFolder},target=${localWorkspaceFolder},type=bind",
   "workspaceFolder": "${localWorkspaceFolder}",
 
-  "initializeCommand": "mkdir -p \"$HOME/.claude\" && touch \"$HOME/.claude.json\"",
+  "initializeCommand": "mkdir -p \"$HOME/.claude\" \"$HOME/.config/trmnlp\" && touch \"$HOME/.claude.json\"",
   "mounts": [
     "source=${localEnv:HOME}/.claude,target=${localEnv:HOME}/.claude,type=bind",
     "source=${localEnv:HOME}/.claude.json,target=${localEnv:HOME}/.claude.json,type=bind",
+    "source=${localEnv:HOME}/.config/trmnlp,target=${localEnv:HOME}/.config/trmnlp,type=bind",
     "source=${localEnv:HOME}/.gitconfig,target=${localEnv:HOME}/.gitconfig,type=bind,readonly",
     "source=${localEnv:HOME}/.ssh,target=${localEnv:HOME}/.ssh,type=bind,readonly"
   ],

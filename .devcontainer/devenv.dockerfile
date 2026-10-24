@@ -9,7 +9,15 @@ RUN apt-get update \
     && apt install -y \
       build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev curl git \
       libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev libyaml-dev \
-      zip unzip vim wget lsb-release less sudo
+      zip unzip vim wget lsb-release less sudo jq openssh-client
+
+# ~/.ssh is mounted read-only from the host, so trust GitHub's published host keys
+# system-wide, and push to GitHub over SSH (fetches stay on anonymous HTTPS)
+RUN mkdir -p /etc/ssh \
+    && curl -fsSL https://api.github.com/meta \
+      | jq -r '.ssh_keys[] | "github.com " + .' > /etc/ssh/ssh_known_hosts \
+    && test -s /etc/ssh/ssh_known_hosts \
+    && git config --system url."git@github.com:".pushInsteadOf "https://github.com/"
 
 ARG USERNAME=dev
 ARG USER_UID=1000
