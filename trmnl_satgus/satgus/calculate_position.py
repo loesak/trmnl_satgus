@@ -24,16 +24,19 @@ def calculate_initial_bearing(lat1, lon1, lat2, lon2):
         Initial bearing in degrees (0° = North, 90° = East)
     """
     import math
-    
+
     phi1 = math.radians(lat1)
     phi2 = math.radians(lat2)
     delta_lambda = math.radians(lon2 - lon1)
-    
+
     x = math.sin(delta_lambda) * math.cos(phi2)
-    y = math.cos(phi1) * math.sin(phi2) - math.sin(phi1) * math.cos(phi2) * math.cos(delta_lambda)
+    y = math.cos(phi1) * math.sin(phi2) - math.sin(phi1) * math.cos(phi2) * math.cos(
+        delta_lambda
+    )
     bearing = math.atan2(x, y)
     bearing_degrees = (math.degrees(bearing) + 360) % 360
     return bearing_degrees
+
 
 class SatelliteTracker:
     """Track satellite positions and provide location data."""
@@ -99,6 +102,7 @@ class SatelliteTracker:
         # Calculate heading (compass direction of ground track)
         # Use a small time delta (e.g., 1 second)
         from datetime import timedelta
+
         next_time = time + timedelta(seconds=1)
         t_next = self.ts.from_datetime(next_time)
         geocentric_next = satellite.at(t_next)
@@ -122,7 +126,9 @@ class SatelliteTracker:
             "heading_degrees": heading_degrees,
             "timestamp": time.isoformat(),
             # Add location info
-            **get_location_info(float(subpoint.latitude.degrees), float(subpoint.longitude.degrees)),
+            **get_location_info(
+                float(subpoint.latitude.degrees), float(subpoint.longitude.degrees)
+            ),
         }
 
     def get_satellite_pass(
@@ -188,7 +194,9 @@ class SatelliteTracker:
 
 
 TLE_CACHE_FILE = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "trmnl_data", "satgus_tle.json"
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
+    "trmnl_data",
+    "satgus_tle.json",
 )
 
 
@@ -263,10 +271,11 @@ if __name__ == "__main__":
         print(f"  Velocity: {position['velocity_mph']:.2f} mph")
         print(f"  Heading: {position['heading_degrees']:.1f}° (compass)")
         print(f"  Timestamp: {position['timestamp']}")
-        location_type = position.get('location_type', 'unknown')
+        location_type = position.get("location_type", "unknown")
         if not isinstance(location_type, str):
             location_type = str(location_type)
-        print(f"  Location: {location_type.capitalize()} - {position.get('location_name', 'N/A')}")
+        location_name = position.get("location_name", "N/A")
+        print(f"  Location: {location_type.capitalize()} - {location_name}")
         print("Saved to satgus_position.json")
     except Exception as e:
         print(f"Error fetching satellite position: {e}")

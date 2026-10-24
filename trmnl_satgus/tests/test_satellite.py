@@ -4,7 +4,7 @@ Tests for the satellite tracking module.
 
 from unittest.mock import Mock, patch
 
-from trmnl_satgus.calculate_position import SatelliteTracker, get_satgus_position
+from satgus.calculate_position import SatelliteTracker, get_satgus_position
 
 
 def test_satellite_tracker_initialization():
@@ -61,7 +61,9 @@ def test_get_satellite_position_structure():
     assert isinstance(position["timestamp"], str)
     assert isinstance(position["location_type"], str)
     # location_name can be str or None
-    assert (position["location_name"] is None) or isinstance(position["location_name"], str)
+    assert (position["location_name"] is None) or isinstance(
+        position["location_name"], str
+    )
 
 
 def test_get_distance_to_satellite():
@@ -82,7 +84,7 @@ def test_get_distance_to_satellite():
     assert distance > 0  # Distance should be positive
 
 
-@patch("trmnl_satgus.calculate_position.SatelliteTracker")
+@patch("satgus.calculate_position.SatelliteTracker")
 def test_get_satgus_position(mock_tracker_class):
     """Test get_satgus_position function."""
     # Mock the tracker and its methods
