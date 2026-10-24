@@ -1,0 +1,123 @@
+name: Publish Plugin
+
+# Pushes the plugin to TRMNL with a fresh day of SATGUS positions as its static data.
+# TRMNL regenerates a static plugin every refresh and the template picks the entry
+# for its render time, so the screen stays current even though GitHub often skips
+# scheduled runs for hours. The world map is only redeployed when it changes.
+on:
+  schedule:
+    # Hourly, off the top of the hour (GitHub drops more runs there); one success a
+    # day is enough to keep the 24 hour track current
+    - cron: '17 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'trmnl_plugin/**'
+      - 'trmnl_satgus/**'
+      - 'trmnl_data/ne_*'
+      - '.github/workflows/publish-plugin.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-plugin
+  cancel-in-progress: false
+
+jobs:
+  map:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy-pages.outputs.page_url }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13'
+
+    - name: Install Poetry
+      run: |
+        python -m pip install --user pipx
+        pipx install poetry
+
+    - name: Install dependencies
+      run: poetry install
+      working-directory: trmnl_satgus
+
+    - name: Check whether the published map is current
+      id: version
+      run: |
+        version=$(poetry run python -c "from satgus.render_map import map_version; print(map_version())")
+        published=$(curl -fsS https://loesak.github.io/trmnl_satgus/version.txt || true)
+        echo "version=$version published=$published"
+        if [ "$version" = "$published" ]; then echo "current=true" >> "$GITHUB_OUTPUT"; fi
+      working-directory: trmnl_satgus
+
+    - name: Render world map
+      if: steps.version.outputs.current != 'true'
+      run: poetry run python satgus/render_map.py ../_site
+      working-directory: trmnl_satgus
+
+    - name: Upload map for GitHub Pages
+      if: steps.version.outputs.current != 'true'
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: _site
+
+    - name: Deploy map to GitHub Pages
+      if: steps.version.outputs.current != 'true'
+      id: deploy-pages
+      uses: actions/deploy-pages@v4
+
+  publish:
+    # After the map, so the plugin never points at a map version that isn't live yet
+    needs: map
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13'
+
+    - name: Install Poetry
+      run: |
+        python -m pip install --user pipx
+        pipx install poetry
+
+    - name: Install dependencies
+      run: poetry install
+      working-directory: trmnl_satgus
+
+    - name: Build the day's track into the plugin's static data
+      run: poetry run python satgus/track.py ../trmnl_plugin/src/settings.yml
+      working-directory: trmnl_satgus
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '4.0'
+
+    - name: Install trmnlp
+      run: gem install trmnl_preview -v 0.32.3
+
+    - name: Lint plugin
+      run: trmnlp lint
+      working-directory: trmnl_plugin
+
+    - name: Push plugin to TRMNL
+      run: trmnlp push --force
+      working-directory: trmnl_plugin
+      env:
+        TRMNL_API_KEY: ${{ secrets.TRMNL_API_KEY }}

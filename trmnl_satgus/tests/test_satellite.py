@@ -47,7 +47,6 @@ def test_get_satellite_position_structure():
         "altitude_km",
         "velocity_km_s",
         "timestamp",
-        "map_url",
         "location_type",
         "location_name",
     ]
@@ -60,7 +59,6 @@ def test_get_satellite_position_structure():
     assert isinstance(position["altitude_km"], float)
     assert isinstance(position["velocity_km_s"], float)
     assert isinstance(position["timestamp"], str)
-    assert position["map_url"].startswith("https://")
     assert isinstance(position["location_type"], str)
     # location_name can be str or None
     assert (position["location_name"] is None) or isinstance(

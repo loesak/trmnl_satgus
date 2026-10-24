@@ -1,12 +1,13 @@
 """
-Render the basemap image shown behind the rocket in the TRMNL plugin.
+Render the world map shown behind the rocket in the TRMNL plugin.
 
-The map is drawn in Web Mercator at Leaflet zoom level 3 and centered on the
-satellite. It is larger than any TRMNL screen so every layout can center it under
-the rocket and crop the rest. TRMNL converts it to each device's bit depth.
+The whole world is drawn once in Web Mercator at Leaflet zoom level 3 (2048x2048
+CSS px). The plugin shifts it so the satellite's position (see world_px) sits
+under the rocket, so the map only changes when its style or data does. TRMNL
+converts it to each device's bit depth.
 """
 
-import json
+import hashlib
 import math
 import os
 import sys
@@ -27,25 +28,22 @@ from PIL import Image  # noqa: E402
 DATA_DIR = os.path.join(
     os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "trmnl_data"
 )
-POSITION_FILE = os.path.join(DATA_DIR, "satgus_position.json")
 LAND_GEOJSON = os.path.join(DATA_DIR, "ne_50m_land.geojson")
 COUNTRY_GEOJSON = os.path.join(DATA_DIR, "ne_50m_admin_0_countries.geojson")
 MARINE_POLYS_GEOJSON = os.path.join(DATA_DIR, "ne_110m_geography_marine_polys.geojson")
 
-# Image size in CSS pixels; templates display it at this size, centered on the rocket.
-# Big enough that the rocket's off-center spots in each layout still cover the
-# largest TRMNL-supported screens (1371x1028 CSS px, either orientation). 2048 is
-# the whole world at zoom 3. Keep in sync with .satgus .map in
-# trmnl_plugin/src/shared.liquid.
-MAP_WIDTH = 2048
-MAP_HEIGHT = 1792
+# Inputs that change how the map looks; their hash versions the published image
+MAP_INPUTS = [__file__, LAND_GEOJSON, COUNTRY_GEOJSON, MARINE_POLYS_GEOJSON]
 # Rendered at 2x so high density screens (TRMNL X is 1.8x) stay sharp
 PIXEL_RATIO = 2
 ZOOM = 3
 
 EARTH_RADIUS_M = 6378137.0
 WORLD_WIDTH_M = 2 * math.pi * EARTH_RADIUS_M
-METERS_PER_CSS_PX = WORLD_WIDTH_M / (256 * 2**ZOOM)
+# The world is square in Web Mercator: 2048x2048 CSS px at zoom 3. Keep in sync
+# with .satgus .world in trmnl_plugin/src/shared.liquid.
+WORLD_SIZE = 256 * 2**ZOOM
+METERS_PER_CSS_PX = WORLD_WIDTH_M / WORLD_SIZE
 MAX_MERCATOR_LAT = 85.05112878
 
 OCEAN_COLOR = "#c8c8c8"
@@ -58,8 +56,6 @@ COAST_WIDTH = 1.2
 LABEL_SIZE = 8
 MAX_COUNTRY_LABELRANK = 4
 MAX_MARINE_SCALERANK = 1
-# Keep labels out from under the rocket (CSS px radius around the center)
-ROCKET_CLEARANCE = 45
 
 
 def lonlat_to_mercator(lat: float, lon: float) -> Tuple[float, float]:
@@ -68,6 +64,24 @@ def lonlat_to_mercator(lat: float, lon: float) -> Tuple[float, float]:
     x = math.radians(lon) * EARTH_RADIUS_M
     y = math.log(math.tan(math.pi / 4 + math.radians(lat) / 2)) * EARTH_RADIUS_M
     return x, y
+
+
+def world_px(lat: float, lon: float) -> Tuple[int, int]:
+    """Position of latitude/longitude on the world map, in CSS px from top-left."""
+    x, y = lonlat_to_mercator(lat, lon)
+    return (
+        round((x + WORLD_WIDTH_M / 2) / METERS_PER_CSS_PX) % WORLD_SIZE,
+        round((WORLD_WIDTH_M / 2 - y) / METERS_PER_CSS_PX),
+    )
+
+
+def map_version() -> str:
+    """Short hash of everything that affects the map, to bust caches when it changes."""
+    digest = hashlib.sha256()
+    for path in MAP_INPUTS:
+        with open(path, "rb") as f:
+            digest.update(f.read())
+    return digest.hexdigest()[:12]
 
 
 @lru_cache(maxsize=1)
@@ -109,91 +123,63 @@ def _load_layers() -> Dict[str, gpd.GeoDataFrame]:
     }
 
 
-def _world_offsets(center_x: float, half_width: float) -> List[float]:
-    """X offsets needed to draw the world copies visible around the antimeridian."""
-    offsets = [0.0]
-    if center_x - half_width < -WORLD_WIDTH_M / 2:
-        offsets.append(-WORLD_WIDTH_M)
-    if center_x + half_width > WORLD_WIDTH_M / 2:
-        offsets.append(WORLD_WIDTH_M)
-    return offsets
-
-
-def _place_labels(ax, labels: gpd.GeoDataFrame, offsets: List[float]) -> None:
-    """Draw labels in priority order, skipping any that collide or cover the rocket."""
+def _place_labels(ax, labels: gpd.GeoDataFrame) -> None:
+    """Draw labels in priority order, skipping any that collide or leave the map."""
     fig = ax.figure
     renderer = fig.canvas.get_renderer()
-    clearance = ROCKET_CLEARANCE * PIXEL_RATIO
-    center_px = (fig.bbox.width / 2, fig.bbox.height / 2)
     halo = [patheffects.withStroke(linewidth=3, foreground="white")]
     placed: List[Bbox] = []
 
-    for offset in offsets:
-        for row in labels.itertuples():
-            text: Text = ax.text(
-                row.geometry.x + offset,
-                row.geometry.y,
-                row.text,
-                ha="center",
-                va="center",
-                fontsize=LABEL_SIZE,
-                color=LABEL_COLOR,
-                fontweight="normal" if row.italic else "bold",
-                style="italic" if row.italic else "normal",
-                path_effects=halo,
-            )
-            box = text.get_window_extent(renderer).expanded(1.1, 1.2)
-            near_rocket = (
-                box.x0 - clearance < center_px[0] < box.x1 + clearance
-                and box.y0 - clearance < center_px[1] < box.y1 + clearance
-            )
-            if (
-                near_rocket
-                or not fig.bbox.contains(box.x0, box.y0)
-                or not fig.bbox.contains(box.x1, box.y1)
-                or any(box.overlaps(other) for other in placed)
-            ):
-                text.remove()
-                continue
-            placed.append(box)
+    for row in labels.itertuples():
+        text: Text = ax.text(
+            row.geometry.x,
+            row.geometry.y,
+            row.text,
+            ha="center",
+            va="center",
+            fontsize=LABEL_SIZE,
+            color=LABEL_COLOR,
+            fontweight="normal" if row.italic else "bold",
+            style="italic" if row.italic else "normal",
+            path_effects=halo,
+        )
+        box = text.get_window_extent(renderer).expanded(1.1, 1.2)
+        if (
+            not fig.bbox.contains(box.x0, box.y0)
+            or not fig.bbox.contains(box.x1, box.y1)
+            or any(box.overlaps(other) for other in placed)
+        ):
+            text.remove()
+            continue
+        placed.append(box)
 
 
-def render_map(latitude: float, longitude: float, file_path: str) -> None:
+def render_world_map(file_path: str) -> None:
     """
-    Render the basemap centered on the given position and save it as a PNG.
+    Render the whole world map and save it as a grayscale PNG.
 
     Args:
-        latitude: Center latitude in degrees
-        longitude: Center longitude in degrees
         file_path: Where to write the PNG
     """
     layers = _load_layers()
-    center_x, center_y = lonlat_to_mercator(latitude, longitude)
-    half_w = MAP_WIDTH / 2 * METERS_PER_CSS_PX
-    half_h = MAP_HEIGHT / 2 * METERS_PER_CSS_PX
-    offsets = _world_offsets(center_x, half_w)
+    half = WORLD_WIDTH_M / 2
 
     dpi = 100 * PIXEL_RATIO
-    fig = plt.figure(figsize=(MAP_WIDTH / 100, MAP_HEIGHT / 100), dpi=dpi)
+    fig = plt.figure(figsize=(WORLD_SIZE / 100, WORLD_SIZE / 100), dpi=dpi)
     fig.patch.set_facecolor(OCEAN_COLOR)
     ax = fig.add_axes((0, 0, 1, 1))
     ax.set_facecolor(OCEAN_COLOR)
-    ax.set_xlim(center_x - half_w, center_x + half_w)
-    ax.set_ylim(center_y - half_h, center_y + half_h)
     ax.axis("off")
 
-    for offset in offsets:
-        countries = layers["countries"].translate(xoff=offset)
-        land = layers["land"].translate(xoff=offset)
-        countries.plot(
-            ax=ax, color=LAND_COLOR, edgecolor=BORDER_COLOR, linewidth=BORDER_WIDTH
-        )
-        land.boundary.plot(ax=ax, color=COAST_COLOR, linewidth=COAST_WIDTH)
-    # plot() resets limits to the data; restore the view
-    ax.set_xlim(center_x - half_w, center_x + half_w)
-    ax.set_ylim(center_y - half_h, center_y + half_h)
+    layers["countries"].plot(
+        ax=ax, color=LAND_COLOR, edgecolor=BORDER_COLOR, linewidth=BORDER_WIDTH
+    )
+    layers["land"].boundary.plot(ax=ax, color=COAST_COLOR, linewidth=COAST_WIDTH)
+    # plot() fits limits to the data; pin the view to the exact world square
+    ax.set_xlim(-half, half)
+    ax.set_ylim(-half, half)
 
-    _place_labels(ax, layers["labels"], offsets)
+    _place_labels(ax, layers["labels"])
 
     tmp_path = file_path + ".rgba.png"
     fig.savefig(tmp_path, dpi=dpi, facecolor=OCEAN_COLOR)
@@ -203,30 +189,15 @@ def render_map(latitude: float, longitude: float, file_path: str) -> None:
     os.remove(tmp_path)
 
 
-def render_satgus_map(output_dir: str) -> str:
-    """
-    Render the map for the latest saved SATGUS position.
-
-    Args:
-        output_dir: Directory to write map.png into (created if missing)
-
-    Returns:
-        Path to the written PNG
-    """
-    with open(POSITION_FILE, "r") as f:
-        position = json.load(f)
-    os.makedirs(output_dir, exist_ok=True)
-    file_path = os.path.join(output_dir, "map.png")
-    render_map(float(position["latitude"]), float(position["longitude"]), file_path)
-    return file_path
-
-
 if __name__ == "__main__":
-    """Render map.png for the saved position into the given directory."""
+    """Render world.png and version.txt (the map's hash) into the given directory."""
     out_dir = sys.argv[1] if len(sys.argv) > 1 else "_site"
     try:
-        path = render_satgus_map(out_dir)
-        print(f"Rendered map to {path}")
+        os.makedirs(out_dir, exist_ok=True)
+        render_world_map(os.path.join(out_dir, "world.png"))
+        with open(os.path.join(out_dir, "version.txt"), "w") as f:
+            f.write(map_version() + "\n")
+        print(f"Rendered world map {map_version()} to {out_dir}")
     except Exception as e:
         print(f"Error rendering map: {e}")
         exit(1)

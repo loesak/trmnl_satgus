@@ -1,18 +1,17 @@
 """
-Tests for the basemap renderer.
+Tests for the world map renderer.
 """
 
 import pytest
 from PIL import Image
 
 from satgus.render_map import (
-    MAP_HEIGHT,
-    MAP_WIDTH,
     PIXEL_RATIO,
-    WORLD_WIDTH_M,
-    _world_offsets,
+    WORLD_SIZE,
     lonlat_to_mercator,
-    render_map,
+    map_version,
+    render_world_map,
+    world_px,
 )
 
 
@@ -30,26 +29,33 @@ def test_lonlat_to_mercator_clamps_poles():
     assert y_pole == pytest.approx(y_limit)
 
 
-def test_world_offsets_only_when_view_crosses_antimeridian():
-    """Test that extra world copies are drawn only near the antimeridian."""
-    half_width = WORLD_WIDTH_M / 8
-    assert _world_offsets(0, half_width) == [0.0]
-    assert _world_offsets(WORLD_WIDTH_M / 2 - 1, half_width) == [0.0, WORLD_WIDTH_M]
-    assert _world_offsets(-WORLD_WIDTH_M / 2 + 1, half_width) == [0.0, -WORLD_WIDTH_M]
+def test_world_px_center_and_edges():
+    """Test world pixel positions at the center, antimeridian and Mercator limits."""
+    assert world_px(0, 0) == (WORLD_SIZE // 2, WORLD_SIZE // 2)
+    # Both sides of the antimeridian land on the same (wrapped) column
+    assert world_px(0, 180)[0] == world_px(0, -180)[0] == 0
+    assert world_px(90, 0)[1] == 0
+    assert world_px(-90, 0)[1] == WORLD_SIZE
 
 
-@pytest.mark.parametrize(
-    "latitude,longitude",
-    [(52, -65), (-15, 179.5), (81, 20)],
-    ids=["canada", "antimeridian", "arctic"],
-)
-def test_render_map_writes_grayscale_png(tmp_path, latitude, longitude):
-    """Test that the rendered map has the expected size and mode."""
-    path = tmp_path / "map.png"
-    render_map(latitude, longitude, str(path))
+def test_world_px_matches_known_city():
+    """Test a known position (London) against its zoom 3 pixel coordinates."""
+    assert world_px(51.507, -0.128) == (1023, 681)
+
+
+def test_map_version_is_stable():
+    """Test that the map version is a short, repeatable hash."""
+    assert map_version() == map_version()
+    assert len(map_version()) == 12
+
+
+def test_render_world_map_writes_grayscale_png(tmp_path):
+    """Test that the world map has the expected size and mode."""
+    path = tmp_path / "world.png"
+    render_world_map(str(path))
 
     with Image.open(path) as image:
-        assert image.size == (MAP_WIDTH * PIXEL_RATIO, MAP_HEIGHT * PIXEL_RATIO)
+        assert image.size == (WORLD_SIZE * PIXEL_RATIO, WORLD_SIZE * PIXEL_RATIO)
         assert image.mode == "L"
-        # Center is the satellite; make sure something was actually drawn
+        # Black coastlines and white label halos were both drawn
         assert image.getextrema() == (0, 255)

@@ -6,16 +6,12 @@ import json
 import os
 from datetime import datetime, timezone
 from typing import Dict, List
-from urllib.parse import quote
 
 import numpy as np
 from skyfield.api import EarthSatellite, load, wgs84
 
 from satgus.fetch_tle import fetch_and_save_tle
 from satgus.location_utils import get_location_info
-
-# Rendered by satgus/render_map.py and deployed to GitHub Pages by the workflow
-MAP_URL = "https://loesak.github.io/trmnl_satgus/map.png"
 
 
 def calculate_initial_bearing(lat1, lon1, lat2, lon2):
@@ -129,8 +125,6 @@ class SatelliteTracker:
             "velocity_mps": velocity_mps,
             "heading_degrees": heading_degrees,
             "timestamp": time.isoformat(),
-            # Query string busts CDN caches so the map always matches this position
-            "map_url": f"{MAP_URL}?t={quote(time.isoformat())}",
             # Add location info
             **get_location_info(
                 float(subpoint.latitude.degrees), float(subpoint.longitude.degrees)
@@ -229,44 +223,11 @@ def get_satgus_position() -> Dict[str, float | str]:
     return tracker.get_satellite_position(satgus)
 
 
-def save_satellite_position(
-    position: Dict[str, float | str], file_path: str | None = None
-) -> None:
-    """
-    Save satellite position data to a JSON file.
-
-    Args:
-        position: Dictionary containing satellite position data
-        file_path: Path to save the file (defaults to satgus_position.json)
-    """
-    if file_path is None:
-        file_path = os.path.join(
-            os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
-            "trmnl_data",
-            "satgus_position.json",
-        )
-
-    with open(file_path, "w") as f:
-        json.dump(position, f, indent=2)
-
-
-def fetch_and_save_satgus_position() -> Dict[str, float | str]:
-    """
-    Fetch current SATGUS satellite position and save it to file.
-
-    Returns:
-        Dictionary with SATGUS position data
-    """
-    position = get_satgus_position()
-    save_satellite_position(position)
-    return position
-
-
 if __name__ == "__main__":
-    """Main entry point for running the satellite position fetcher."""
+    """Print the current position (the plugin itself uses satgus/track.py)."""
     try:
-        position = fetch_and_save_satgus_position()
-        print("Successfully fetched SATGUS position:")
+        position = get_satgus_position()
+        print("Current SATGUS position:")
         print(f"  Latitude: {position['latitude']:.4f}°")
         print(f"  Longitude: {position['longitude']:.4f}°")
         print(f"  Altitude: {position['altitude_km']:.1f} km")
@@ -282,7 +243,6 @@ if __name__ == "__main__":
             location_type = str(location_type)
         location_name = position.get("location_name", "N/A")
         print(f"  Location: {location_type.capitalize()} - {location_name}")
-        print("Saved to satgus_position.json")
     except Exception as e:
-        print(f"Error fetching satellite position: {e}")
+        print(f"Error calculating satellite position: {e}")
         exit(1)
