@@ -6,12 +6,16 @@ import json
 import os
 from datetime import datetime, timezone
 from typing import Dict, List
+from urllib.parse import quote
 
 import numpy as np
 from skyfield.api import EarthSatellite, load, wgs84
 
 from satgus.fetch_tle import fetch_and_save_tle
 from satgus.location_utils import get_location_info
+
+# Rendered by satgus/render_map.py and deployed to GitHub Pages by the workflow
+MAP_URL = "https://loesak.github.io/trmnl_satgus/map.png"
 
 
 def calculate_initial_bearing(lat1, lon1, lat2, lon2):
@@ -125,6 +129,8 @@ class SatelliteTracker:
             "velocity_mps": velocity_mps,
             "heading_degrees": heading_degrees,
             "timestamp": time.isoformat(),
+            # Query string busts CDN caches so the map always matches this position
+            "map_url": f"{MAP_URL}?t={quote(time.isoformat())}",
             # Add location info
             **get_location_info(
                 float(subpoint.latitude.degrees), float(subpoint.longitude.degrees)

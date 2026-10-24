@@ -170,4 +170,7 @@ cython_debug/
 .history/
 
 # Built Visual Studio Code Extensions
-*.vsix 
+*.vsix
+
+# Rendered map (deployed to GitHub Pages by fetch-position.yml)
+_site/
