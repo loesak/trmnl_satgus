@@ -32,9 +32,13 @@ LAND_GEOJSON = os.path.join(DATA_DIR, "ne_50m_land.geojson")
 COUNTRY_GEOJSON = os.path.join(DATA_DIR, "ne_50m_admin_0_countries.geojson")
 MARINE_POLYS_GEOJSON = os.path.join(DATA_DIR, "ne_110m_geography_marine_polys.geojson")
 
-# Image size in CSS pixels; templates display it at this size, centered on the rocket
-MAP_WIDTH = 1600
-MAP_HEIGHT = 1200
+# Image size in CSS pixels; templates display it at this size, centered on the rocket.
+# Big enough that the rocket's off-center spots in each layout still cover the
+# largest TRMNL-supported screens (1371x1028 CSS px, either orientation). 2048 is
+# the whole world at zoom 3. Keep in sync with .satgus .map in
+# trmnl_plugin/src/shared.liquid.
+MAP_WIDTH = 2048
+MAP_HEIGHT = 1792
 # Rendered at 2x so high density screens (TRMNL X is 1.8x) stay sharp
 PIXEL_RATIO = 2
 ZOOM = 3
