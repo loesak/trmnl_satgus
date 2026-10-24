@@ -1,14 +1,15 @@
 {
-  "latitude": -23.008543771002213,
-  "longitude": 131.9336241056425,
-  "altitude_km": 566.1441148743424,
-  "altitude_miles": 351.78553480358505,
-  "velocity_km_s": 7.574107889072422,
-  "velocity_km_h": 27266.788400660716,
-  "velocity_mph": 16942.79157530695,
-  "velocity_mps": 4.70633099314082,
-  "heading_degrees": 191.7362956776224,
-  "timestamp": "2026-10-24T01:58:20.811238+00:00",
-  "location_type": "country",
-  "location_name": "Australia"
+  "latitude": -37.01899228858655,
+  "longitude": -46.978668194615246,
+  "altitude_km": 565.0350834852079,
+  "altitude_miles": 351.0964148602871,
+  "velocity_km_s": 7.573147166445237,
+  "velocity_km_h": 27263.329799202853,
+  "velocity_mph": 16940.642500660477,
+  "velocity_mps": 4.705734027961244,
+  "heading_degrees": 347.43568386217834,
+  "timestamp": "2026-10-24T02:30:17.541212+00:00",
+  "map_url": "https://loesak.github.io/trmnl_satgus/map.png?t=2026-10-24T02%3A30%3A17.541212%2B00%3A00",
+  "location_type": "ocean",
+  "location_name": "South Atlantic Ocean"
 }
