@@ -1,7 +1,33 @@
 {
-	"name": "satgus-trmnl",
-	"dockerComposeFile": "docker-compose.yml",
-	"service": "devenv",
-	"workspaceFolder": "/workspace",
-	"remoteUser": "ubuntu"
+  "name": "satgus-trmnl",
+  "build": {
+    "dockerfile": "devenv.dockerfile",
+    "args": {
+      "USERNAME": "${localEnv:USER}",
+      "USER_HOME": "${localEnv:HOME}"
+    }
+  },
+  "remoteUser": "${localEnv:USER}",
+  "containerUser": "${localEnv:USER}",
+  "updateRemoteUserUID": true,
+
+  // Mount the repo at the same absolute path as on the host so Claude Code's
+  // per-project session/memory directory (keyed by path) is shared.
+  "workspaceMount": "source=${localWorkspaceFolder},target=${localWorkspaceFolder},type=bind",
+  "workspaceFolder": "${localWorkspaceFolder}",
+
+  "initializeCommand": "mkdir -p \"$HOME/.claude\" && touch \"$HOME/.claude.json\"",
+  "mounts": [
+    "source=${localEnv:HOME}/.claude,target=${localEnv:HOME}/.claude,type=bind",
+    "source=${localEnv:HOME}/.claude.json,target=${localEnv:HOME}/.claude.json,type=bind",
+    "source=${localEnv:HOME}/.gitconfig,target=${localEnv:HOME}/.gitconfig,type=bind,readonly",
+    "source=${localEnv:HOME}/.ssh,target=${localEnv:HOME}/.ssh,type=bind,readonly"
+  ],
+
+  "postCreateCommand": "bash .devcontainer/postCreate.sh",
+
+  "forwardPorts": [4567],
+  "portsAttributes": {
+    "4567": { "label": "trmnlp preview" }
+  }
 }

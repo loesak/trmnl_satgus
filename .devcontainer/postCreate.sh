@@ -2,10 +2,13 @@
 
 set -ex
 
+WORKSPACE_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )/.." && pwd )"
+
 echo "Installing Poetry Project Dependencies"
-find /workspaces/satgus-trmnl -type f -name "pyproject.toml" -execdir poetry install \;
+find "${WORKSPACE_DIR}" -type f -name "pyproject.toml" -not -path "*/.venv/*" -execdir poetry install \;
 
 echo "Configuring Pre-commit to run on Git Commit"
-pre-commit install
+cd "${WORKSPACE_DIR}"
+pre-commit install -c pre-commit-config.yaml
 
 echo "Post Create Script Executed Successfully!"
